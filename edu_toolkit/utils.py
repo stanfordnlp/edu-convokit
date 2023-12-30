@@ -4,6 +4,7 @@ import json
 import re
 import nltk
 import string
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from edu_toolkit.constants import VALID_FILE_EXTENSIONS
 import numpy as np
