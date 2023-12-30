@@ -26,6 +26,16 @@ pip install git+https://github.com/rosewang2008/edu-toolkit.git
 
 ```
 
+## Overview of the `edu-toolkit` Pipeline
+
+The **edu-toolkit** pipeline consists of three key modules: `preprocess`, `annotate`, and `analyze`.
+The pipeline is designed to be modular, so you can use any combination of these modules to suit your needs.
+
+<!-- Image -->
+<p align="center">
+  <img src="assets/main_figure.png"/>
+</p>
+
 ## Tutorials
 
 We have provided a series of tutorials to help you get started with the **edu-toolkit**.
