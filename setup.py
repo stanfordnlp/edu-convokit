@@ -15,12 +15,16 @@ extras_require = {
     "latex": ("bibtexparser",),
 }
 
+with open('README.md') as f:
+    readme = f.read()
+
 setuptools.setup(
     name="edu-toolkit",
     packages=setuptools.find_packages(exclude=["tests"]),
     version=version,
     license="MIT",
     description="edu-toolkit: An Open-Source Framework for Education Language Data",
+    long_description=readme,
     author="Rose E. Wang",
     author_email="rewang@cs.stanford.edu",
     url="https://github.com/rosewang2008/edu-toolkit",
@@ -44,9 +48,16 @@ setuptools.setup(
         "clean-text",
     ],
     extras_require=extras_require,
-    python_requires="~=3.7",
+    tests_require=["pytest"],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apache Software License",
+        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Typing :: Typed",
     ],
+    python_requires="~=3.7",
 )

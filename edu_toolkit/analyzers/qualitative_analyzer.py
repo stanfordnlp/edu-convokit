@@ -22,12 +22,13 @@ class QualitativeAnalyzer(analyzer.Analyzer):
         """
         Get text examples for a feature value.
 
-        Output = [(
+        Output = 
+            [(
             [(speaker, text), ...)], # previous text
             (speaker, current_text), # current text
             [(speaker, text), ...], # next text
             feature_value)
-        ), ...]
+            ), ...]
 
         Arguments:
             speaker_column (str): name of column containing speaker names
@@ -72,12 +73,13 @@ class QualitativeAnalyzer(analyzer.Analyzer):
         """
         Get text examples for a feature value.
 
-        Output = [(
+        Output = 
+            [(
             [(speaker, text), ...)], # previous text
             (speaker, current_text), # current text
             [(speaker, text), ...], # next text
             feature_value)
-        ), ...]
+            ), ...]
 
         Arguments:
             speaker_column (str): name of column containing speaker names

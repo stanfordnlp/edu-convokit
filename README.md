@@ -1,9 +1,13 @@
+
 # 🛠️ edu-toolkit: An Open-Source Framework for Education Language Data
 
 The **edu-toolkit** is an open-source framework designed to facilitate the study of language data in educational settings. 
 It provides a practical and efficient pipeline for essential tasks such as text pre-processing, annotation, and analysis, tailored to meet the needs of researchers and developers.
 This toolkit aims to enhance the accessibility and reproducibility of educational language data analysis, as well as advance both natural language processing (NLP) and education research.
 By simplifying these key operations, the edu-toolkit supports the efficient exploration and interpretation of text data in education.
+
+## 📖 Table of Contents
+[**Installation**](#installation) | [**Tutorials**](#tutorials) | [**Documentation**](https://edu-toolkit.readthedocs.io/en/latest/) | [**Citation**](#citation)
 
 ## Installation
 
@@ -22,7 +26,37 @@ pip install git+https://github.com/rosewang2008/edu-toolkit.git
 
 ```
 
+## Tutorials
 
-## 📖 Table of Contents
+We have provided a series of tutorials to help you get started with the **edu-toolkit**.
 
-More information to come ...
+### Basics of `edu-toolkit`
+
+There are three key modules of the **edu-toolkit** pipeline: `preprocess`, `annotate`, and `analyze`.
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][textcolab] [Tutorial: Text Pre-processing][textcolab]
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][annotationcolab] [Tutorial: Annotation][annotationcolab]
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][analyzecolab] [Tutorial: Analysis][analyzecolab]
+...
+
+### Datasets with `edu-toolkit`
+
+We've applied the **edu-toolkit** to a variety of datasets. Here are some examples:
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][ambercolab] [Tutorial: Amber Dataset][ambercolab]
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][talkmovescolab] [Tutorial: Talk Moves Dataset][talkmovescolab]
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][nctecolab] [Tutorial: NCTE Dataset][nctecolab]
+
+## Citation
+
+If you use the **edu-toolkit** in your research, please cite the following paper:
+
+```
+Coming soon...
+```
+
+[textcolab]: https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK
+[annotationcolab]: https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw 
+[analyzecolab]: https://colab.research.google.com/drive/1xfrq5Ka3FZH7t9l87u4sa_oMlmMvuTfe 
+[ambercolab]: https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9 
+[talkmovescolab]: https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd 
+[nctecolab]: https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg 
