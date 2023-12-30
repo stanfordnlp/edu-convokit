@@ -1,0 +1,218 @@
+[
+    {
+        "start": "00:00.00",
+        "stop": "00:07.72",
+        "speaker": "Tutor",
+        "dialogue": "Okay, so on the left-hand side of your screen, do you see the blue bar that has tools in it?"
+    },
+    {
+        "start": "00:07.72",
+        "stop": "00:08.72",
+        "speaker": "Student",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "00:08.72",
+        "stop": "00:11.68",
+        "speaker": "Tutor",
+        "dialogue": "Cool, so we're going to practice using a few of those."
+    },
+    {
+        "start": "00:11.68",
+        "stop": "00:14.76",
+        "speaker": "Tutor",
+        "dialogue": "The third one down is a pencil."
+    },
+    {
+        "start": "00:14.76",
+        "stop": "00:19.68",
+        "speaker": "Tutor",
+        "dialogue": "If you click it, then a box will pop up here that you can change the color and size."
+    },
+    {
+        "start": "00:19.68",
+        "stop": "00:23.16",
+        "speaker": "Tutor",
+        "dialogue": "Yep, if you want to change anything there."
+    },
+    {
+        "start": "00:23.16",
+        "stop": "00:28.96",
+        "speaker": "Tutor",
+        "dialogue": "Then there is a square with a T in the middle."
+    },
+    {
+        "start": "00:28.96",
+        "stop": "00:34.40",
+        "speaker": "Tutor",
+        "dialogue": "That's the text box."
+    },
+    {
+        "start": "00:34.40",
+        "stop": "00:39.96",
+        "speaker": "Tutor",
+        "dialogue": "It's a square with a T. Yep, you see how I added a text box?"
+    },
+    {
+        "start": "00:39.96",
+        "stop": "00:45.00",
+        "speaker": "Student",
+        "dialogue": "Wait, like the square with a T?"
+    },
+    {
+        "start": "00:45.00",
+        "stop": "00:46.00",
+        "speaker": "Tutor",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "00:46.00",
+        "stop": "00:47.00",
+        "speaker": "Student",
+        "dialogue": "Oh, yeah."
+    },
+    {
+        "start": "00:47.00",
+        "stop": "00:50.00",
+        "speaker": "Tutor",
+        "dialogue": "Exactly, that's if you want to type anything."
+    },
+    {
+        "start": "00:50.00",
+        "stop": "00:54.46",
+        "speaker": "Tutor",
+        "dialogue": "And then we're going to practice erasing."
+    },
+    {
+        "start": "00:54.46",
+        "stop": "00:58.36",
+        "speaker": "Tutor",
+        "dialogue": "So the trash can button, do not touch it."
+    },
+    {
+        "start": "00:58.36",
+        "stop": "00:59.36",
+        "speaker": "Student",
+        "dialogue": "Oh, oh my god."
+    },
+    {
+        "start": "00:59.36",
+        "stop": "01:00.36",
+        "speaker": "Student",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "01:00.36",
+        "stop": "01:01.36",
+        "speaker": "Tutor",
+        "dialogue": "That's okay, that's why we're practicing now."
+    },
+    {
+        "start": "01:01.36",
+        "stop": "01:02.36",
+        "speaker": "Tutor",
+        "dialogue": "That's what happens."
+    },
+    {
+        "start": "01:02.36",
+        "stop": "01:09.28",
+        "speaker": "Tutor",
+        "dialogue": "It takes away everything and we don't have a way to get your work back."
+    },
+    {
+        "start": "01:09.28",
+        "stop": "01:15.52",
+        "speaker": "Tutor",
+        "dialogue": "So if you want to change your mind and erase something though, you need to..."
+    },
+    {
+        "start": "01:15.52",
+        "stop": "01:16.52",
+        "speaker": "Tutor",
+        "dialogue": "I hear back feet."
+    },
+    {
+        "start": "01:16.52",
+        "stop": "01:20.08",
+        "speaker": "Tutor",
+        "dialogue": "Do you hear me twice?"
+    },
+    {
+        "start": "01:20.08",
+        "stop": "01:22.36",
+        "speaker": "Student",
+        "dialogue": "I can hear you, like only once."
+    },
+    {
+        "start": "01:22.36",
+        "stop": "01:23.36",
+        "speaker": "Tutor",
+        "dialogue": "Only once, that's weird."
+    },
+    {
+        "start": "01:23.36",
+        "stop": "01:24.36",
+        "speaker": "Tutor",
+        "dialogue": "I hear an echo."
+    },
+    {
+        "start": "01:24.36",
+        "stop": "01:25.36",
+        "speaker": "Student",
+        "dialogue": "Oh, I think it's from my mic."
+    },
+    {
+        "start": "01:25.36",
+        "stop": "01:26.36",
+        "speaker": "Student",
+        "dialogue": "I'll wear headphones."
+    },
+    {
+        "start": "01:26.36",
+        "stop": "01:28.36",
+        "speaker": "Tutor",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "01:28.36",
+        "stop": "01:30.36",
+        "speaker": "Student",
+        "dialogue": "Hello?"
+    },
+    {
+        "start": "01:30.36",
+        "stop": "01:40.36",
+        "speaker": "None",
+        "dialogue": "Yes, can you still hear me?"
+    },
+    {
+        "start": "01:40.36",
+        "stop": "01:41.36",
+        "speaker": "Student",
+        "dialogue": "Yes."
+    },
+    {
+        "start": "01:41.36",
+        "stop": "01:44.36",
+        "speaker": "Tutor",
+        "dialogue": "Nice, that's much better."
+    },
+    {
+        "start": "01:44.36",
+        "stop": "01:45.36",
+        "speaker": "Tutor",
+        "dialogue": "Thank you so much."
+    },
+    {
+        "start": "01:45.36",
+        "stop": "01:46.36",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "01:46.36",
+        "stop": "01:58.28",
+        "speaker": "Tutor",
+        "dialogue": "All right, so if you want to erase just part of your work, then you use the top arrow, that's your select arrow to select what you want to erase."
+    }
+]

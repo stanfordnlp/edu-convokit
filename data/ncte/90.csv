@@ -1,0 +1,940 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"Okay.  Today we’re going to start off with a little bit of data work, all right, that we started – data.",teacher,21,2,,,0.0
+[Inaudible] the data.,student,3,1,,,
+"About computers.  Yes, Student D had the idea that maybe we should talk about computers today.  And so, I wrote a little question up here.  Not really a question, just some information that we have.  So Wal-Mart had computers for sale.  I want -- we’re going to make a graph to show this data.",teacher,54,2,,,0.0
+They’re cheaper than that.,student,4,0,,,
+"No, that’s not the price.  That’s the amount –",teacher,9,0,,,0.0
+"Oh, I was about to say.",student,6,0,,,
+"Oh, that’s a good point.  So it’s the amount of computers they have in stock.  Maybe I should just label it stock.  Okay? All right.  Student D, what can you tell me about this table, about this information that you know?  What does this table tell you before we start a graph.",teacher,52,1,0.0,,1.0
+What?  What?,student,2,0,,,
+What does this table tell you?,teacher,6,0,,,1.0
+What?,student,1,0,,,
+What does the information in this table tell you?  What is this table about?,teacher,14,0,,,1.0
+"Oh, I know. [Inaudible] is 12.",student,6,0,,,
+Is 12 what?  Has 12?,teacher,5,0,1.0,,0.0
+Computers.,student,1,0,,,
+Computers in stock.,teacher,3,0,,,0.0
+Votes.,student,1,0,,,
+"Not votes.  This is how many are in stock, like how many are at the store, okay?",teacher,17,0,,,0.0
+All together?,student,2,0,,,
+"So if you go into Wal-Mart, all right?",teacher,8,0,,,0.0
+Yeah.,student,1,0,,,
+"And you walk in and you know like sometimes you see – or Wal- Mart or even like Best Buy, you know, you see the computers?  Right?  All different kinds.  They have them lined up and you can normally play with them and try them out, yeah?  So, sometimes in stock – sometimes computers or things could either be in stock or out of stock.  What does it mean to be in stock?",teacher,73,1,,,1.0
+Like they’re restocking. [Inaudible] not to touch my eye.,student,9,0,,0.0,
+"Okay, what does that mean?",teacher,5,0,0.0,,1.0
+Like –,student,2,0,,,
+If someone.,teacher,2,0,,,0.0
+Like when you ran out of them and you pack them back up.,student,13,0,,0.0,
+"Okay, good.  So if it’s in stock, do they have them or not have them?",teacher,15,0,1.0,,0.0
+Have them.,student,2,0,,,
+"They have them, okay?   So how many Apple computers did they have, Student D? Twelve. Good.      Student B, what can you tell me about this?  Tell me some information just by looking at the table.",teacher,35,0,,,1.0
+[Inaudible] number.,student,2,0,,,
+"Okay, they have an even amount of each computer.  Okay.",teacher,10,0,,,0.0
+[Inaudible],student,1,0,,,
+Any more information you can tell me?,teacher,7,0,,,1.0
+"Ooh, ooh, I know.",student,4,0,,,
+Yep.,teacher,1,0,,,0.0
+Apple is highest.,student,3,0,,,
+"Okay, they have the most amount of Apple computers in stock. Good.  What do they have the least of?",teacher,19,0,,,0.0
+[Inaudible] I mean – Compaq.,student,5,0,,,
+"Compaq.  Yep, we don’t really know if we spelled that right.",teacher,11,0,1.0,,0.0
+Compaq is not – A computer. -- [Inaudible],student,8,0,,0.0,
+No?  It’s not a well-known one.  Are you asking or telling?,teacher,11,0,0.0,,1.0
+Asking.,student,1,0,,,
+"It’s just based on people’s preference.  So, some people might like Compaq’s more than they like Apples.",teacher,17,0,,,0.0
+People more like Macs than PCs.,student,6,0,,,
+What do they have kind of in the middle?,teacher,9,0,0.0,,0.0
+The Sony.  Sony. Sony.  Sony.,student,5,0,,,
+"Sony.  Yep, and what else?",teacher,5,0,1.0,,0.0
+The Sony computers are good. And HP.,student,7,0,,,
+"And HP, right?  Kind of the middle amount.  One thing I noticed is they have the same amount of HPs and Compaq’s as they do IBMs.  What do I mean when I say that?",teacher,34,0,1.0,,1.0
+"No, I don’t know what you mean.",student,7,0,,,
+"You don’t know?  So, if I – Both HP and Compaq, right? HP and Compaq.  When you hear and, what do you know to do? Add. Add.  As the same as what?",teacher,32,2,1.0,,0.0
+Can I add it? IBM.,student,5,1,,,
+"Right, ‘cause eight plus two is –",teacher,7,0,0.0,,0.0
+Now I get it.,student,4,0,,,
+-- ten.  Good.,teacher,3,0,,,0.0
+Thirty-eight.,student,1,0,,,
+Thirty-eight what?,teacher,2,0,,,0.0
+Computers.,student,1,0,,,
+"In all?  Good.  All right.  So, if you look back in your notebook, you’ve already – you good?",teacher,18,0,,,0.0
+Uh-huh.,student,1,0,,,
+"If you look back in your notebook, you’ve already made a graph. Remember?  We did these the other day.  I’ll hang them up so you can – you did two  --",teacher,31,1,,,0.0
+"But we have to change the date, right?",student,8,0,,0.0,
+"Well, yeah, you’ll put a new date.  You did these the other day, right?  We did food and we also did favorite game, okay?  So you’re going to make a graph today showing this information.  Would you like me to hang this up or do you want to just flip back in your notebook?",teacher,54,1,1.0,,0.0
+I don’t know.  You can hang it up.,student,8,0,,0.0,
+"Hang up?  Okay.  All right, so why don’t you open your notebook to a new page.  Thanks Student R.",teacher,19,0,1.0,,0.0
+[Inaudible],student,1,0,,,
+"Student E, you’re good?   Okay, put the date, please.  Today’s date.  Put today’s date.  You can write data at the top.",teacher,21,1,,,0.0
+Today’s date is?,student,3,0,,,
+The 11th.  1/11/11. You recorded it? Yeah.  You can copy down –,teacher,12,0,,,0.0
+-- pencil.,student,2,0,,,
+"Yep, you can copy down the table.  If you need to come closer, that’s fine.  Copy the table down and then you’re going to make a graph to go with it.",teacher,31,1,,,0.0
+Okay.,student,1,0,,,
+So we were recording when they were eating jalapenos? No.  When Student E was talking about something I started.  I wish I got Student D on recording for eating jalapenos.,teacher,30,0,,,0.0
+Yeah [Inaudible],student,2,0,,,
+All right.,teacher,2,0,,,0.0
+[Inaudible],student,1,0,,,
+"[Inaudible] I think you did one [Inaudible] the bar graphs – Student D, can you see that? So you got to figure out what numbers you’re going to put on the side, right? Can you see it, sweetie?",teacher,38,2,,,0.0
+Yeah.,student,1,0,,,
+"Okay. Can you see this?  Yes.  Okay, so if you need an example.  So what I’m asking you to do is copy down the table and then make a graph, which I’ve done back there.",teacher,35,1,,,0.0
+[Inaudible],student,1,0,,,
+Shhh.,teacher,1,0,,,0.0
+Cry baby!,student,2,0,,,
+Do you need help with the writing?,teacher,7,0,,,0.0
+[Inaudible],student,1,0,,,
+"All right, here, I’ll make you the table.",teacher,8,0,,,0.0
+That was loud though.,student,4,0,,,
+It was loud.  Computers.,teacher,4,0,,,0.0
+It say do not come in.,student,6,0,,,
+"Honey, she just needs her keys.  Here –",teacher,8,0,0.0,,0.0
+Why does she keep hanging them and keep putting them back?,student,11,0,,0.0,
+"‘Cause she goes to meetings.  Here, fill in the numbers yourself.  Okay.",teacher,12,0,1.0,,0.0
+This doesn’t make sense.,student,4,0,,,
+"So you’re getting the table down and then you’re making your own graph.  Remember, Student D, what does a graph need? We need what?",teacher,24,2,,,0.0
+We’re making our own graph?,student,5,1,,,
+"Yes.  Okay.  You have the table of information, right?  It says make a graph to show this data, like we did the other day.",teacher,24,2,1.0,,0.0
+"Oh, it’s the same numbers though?",student,6,0,,,
+"Same numbers.  Remember, that’s why I put this example – can we look back to the back of the classroom?  That’s why I put this example up here.  Remember, we did pizza.  We did food.",teacher,35,0,1.0,,0.0
+So we could choose one?,student,5,0,,,
+"No, you’re using that information to make it into a graph.",teacher,11,1,0.0,,0.0
+"Like any graph you want – I’m confused.  I don’t know. Can I explain that.  It’s like any graph you want, like if you could – a card game –",student,30,2,,0.0,
+No.,teacher,1,0,0.0,,0.0
+All right.,student,2,0,,,
+You’re using this information and making it into a graph.,teacher,10,1,,,0.0
+"Now I’m confused.  Oh, do you mean like that?",student,9,0,,0.0,
+Yes.,teacher,1,0,0.0,,0.0
+"Oh, I see what you’re talking about.",student,7,0,,,
+"If you look back, remember how you made graphs showing games?",teacher,11,1,0.0,,0.0
+Uh-huh.,student,1,0,,,
+"Look.  That’s why I’m saying, Student D, look back.  You had games up here and you made it into a graph.  So if you need to come look, come look.  Or for –",teacher,33,1,,,0.0
+[Inaudible] that graph?,student,3,1,,,
+You’re making whatever graph you want.,teacher,6,1,,,0.0
+[Inaudible],student,1,0,,,
+"So, yep.",teacher,2,0,,,0.0
+You’re still confusing me.  You said –,student,7,0,,,
+"Okay.  Copy down the information first, please.  The table, okay?   One step at a time.  Copy the table down –",teacher,20,0,0.0,,0.0
+Can I go to the bathroom real quick?,student,8,0,,0.0,
+Sure.  Copy the table down with information –,teacher,8,0,1.0,,0.0
+[Inaudible] touch my eyes. Hey Student.,student,6,0,,,
+"Okay.  You’re fine.  You’re going to survive.  Can you copy the table down,  please.",teacher,14,0,0.0,,0.0
+Mrs. T?,student,2,0,,,
+What?,teacher,1,0,,,0.0
+[Inaudible],student,1,0,,,
+"Okay.  Can you copy the information in the table down, please?",teacher,11,0,,,0.0
+Huh?,student,1,0,,,
+"Can you copy the information in the table down, please.  So where it says computers –",teacher,16,0,,,0.0
+The back?,student,2,0,,,
+Student D.  What am I saying that’s not clear right now?,teacher,11,0,,,0.0
+Oh.,student,1,0,,,
+Okay.  Can you show me that you heard me?  Thank you.,teacher,11,0,,,0.0
+Have you seen a blue marker anywhere?,student,7,0,,,
+"We’re in the middle of recording right now, so can you please, leave?  Thanks.",teacher,14,0,0.0,,0.0
+"Oh, he’s looking for his book.",student,6,0,,,
+You find it?  Got it.  How’s it going out there?  That one must be it.  All right.,teacher,17,0,0.0,,0.0
+Thank you.,student,2,0,,,
+"You’re welcome.  Okay, Student E, you’re getting there.  What does the side of your graph need to go up to?",teacher,20,1,,,0.0
+Twelve.,student,1,0,,,
+"Good.  Good, Student D.  Thank you for copying the stuff down.",teacher,11,0,,,0.0
+Why do we have to copy everything [Inaudible]?,student,8,0,,0.0,
+"Because if you look back in your notebook, I want you to have it for notes.",teacher,16,0,1.0,,0.0
+[Inaudible] [Inaudible] they can’t be quiet [Inaudible],student,7,0,,,
+Hmm?,teacher,1,0,0.0,,0.0
+"I said you know they can’t be quiet, right?",student,9,0,,0.0,
+"I think it’s just a tough day for them.  You know, sometimes they have good days –",teacher,17,0,0.0,,0.0
+Where’s Student D?,student,3,0,,,
+Went to the bathroom.  Sometimes –,teacher,6,0,,,0.0
+"Oh, yeah, I forgot.",student,4,0,,,
+"-- they have good days, sometimes they have bad days.  Good. I’m glad that you’re looking back to see your notes.  I think it was – where’s today.  I think what you need is like back two.  That’s todays.  This is what you wanted to look back to, okay?",teacher,49,0,,,0.0
+Uh-huh.,student,1,0,,,
+"So you want to make a graph that looks like this, showing this information.  When you’ve copied them down nicely, why don’t you make your graph here.",teacher,27,2,,,0.0
+This graph?  The one right here?,student,6,1,,,
+But this graph is about games and kits.,teacher,8,1,1.0,,0.0
+"I know, but not the same exact thing.",student,8,0,,0.0,
+But this type of graph?,teacher,5,1,0.0,,0.0
+Yeah.,student,1,0,,,
+Yes.,teacher,1,0,,,0.0
+"Yeah, that type.",student,3,0,,,
+Yes.  But yours is going to be about what?,teacher,9,0,,,0.0
+Computers.,student,1,0,,,
+Computers and ones in stock.   You can do it right here on the back of this page.,teacher,17,0,,,0.0
+Okay.,student,1,0,,,
+"Okay?  Very nice, Student E.",teacher,5,0,,,0.0
+So now I just have to do hip-hop and Apple.,student,10,0,,0.0,
+"Okay, HP and Apple.   Okay.",teacher,5,0,1.0,,0.0
+Mrs. T?,student,2,0,,,
+Yeah.,teacher,1,0,,,0.0
+So it goes up to 12?,student,6,0,,,
+I would – yeah.  Why?  You’re right.  Why?  Because that’s the most amount.  Yep.,teacher,14,0,0.0,,1.0
+Okay.   I’m done.,student,3,0,,,
+Okay.,teacher,1,0,,,0.0
+See.,student,1,0,,,
+Uh-huh.  Okay.  So this first one.,teacher,6,0,,,0.0
+Yeah.,student,1,0,,,
+HP goes up to eight.  Is it – what one is this?,teacher,12,0,,,0.0
+"No, that’s the ten one.",student,5,0,,,
+"Okay.  IBM.  Okay, but you got to label them underneath in the right way, so you got to fix this.  Okay, what letter is this?  IBM. This is the ten one, right?",teacher,32,0,1.0,,0.0
+Uh-huh.,student,1,0,,,
+So you need to write IBM.  This looks like it’s the two one. So what would you write under it?  You can just write a C for Compaq.  Here you go.,teacher,31,0,,,0.0
+C?,student,1,0,,,
+"Yeah, ‘cause – for the first letter.  Compaq.  What’s this one? The six.",teacher,13,0,,,0.0
+That’s Sony.,student,2,0,,,
+Sony.  So you can write an S.  What’s this?  Eight?,teacher,10,0,,,0.0
+"[Inaudible] no, wait.  That’s hip-hop.",student,5,0,,,
+HP?  I like how you call it hip-hop.  What’s this?,teacher,10,0,1.0,,0.0
+Apple.,student,1,0,,,
+"Okay.  All right.  Now you’re just missing a couple of things. Notice in ours we labeled the vertices, so you need to label this.  What is the – what label goes down here.",teacher,33,0,,,0.0
+"Oh, the stars?",student,3,0,,,
+No.  What label goes down here?  This is what?  These are versions of –,teacher,14,0,,,0.0
+[Inaudible],student,1,0,,,
+"Well, what’s the top say, sweetie?",teacher,6,0,,,0.0
+"Oh, computer [Inaudible]",student,3,0,,,
+Yeah.  And what’s this?,teacher,4,0,,,0.0
+I’m done. Graphs.,student,3,1,,,
+Not graphs.  Good.  You need to just label this.  What are these?  These are all what?,teacher,16,1,,,0.0
+Computers.,student,1,0,,,
+Yep.  And what would you label this side?,teacher,8,0,,,1.0
+Hmm?,student,1,0,,,
+"The top – you use the tops.  The top of the table.  The first one on the table is what you use.  So, these are always your labels for your vertices.  Okay?  These are how you label your vertices.  So, Student E, you have one labeled computers; the other one should be labeled what?  Amount in –",teacher,57,0,,,0.0
+Amount in –,student,3,0,,,
+In stock.  Or you can just label it stock.  So what are you going to label up this side?,teacher,19,0,,,0.0
+Stock.,student,1,0,,,
+Stock.  Okay?,teacher,2,0,,,0.0
+S-T-O-C-K.  I did it.,student,4,0,,,
+I’m going to have you each tell me a different part of computers.  Okay.,teacher,14,0,,,0.0
+Is this over?,student,3,0,,,
+Uh-huh.,teacher,1,0,,,0.0
+Yay.,student,1,0,,,
+"Yeah, we’re going to be able to do some measuring soon.",teacher,11,1,,,0.0
+No.,student,1,0,,,
+[Inaudible],teacher,1,0,,,0.0
+Huh?,student,1,0,,,
+I said you guys are excited about it.  Measuring.,teacher,9,1,,,0.0
+"No, we’re not. [Inaudible] writing.",student,5,0,,,
+We can use the thing for the writing –,teacher,9,0,1.0,,0.0
+"Yeah, how many times [Inaudible] How much gym do we get for writing? After I walk –",student,17,0,,0.0,
+I know. [Inaudible] that one’s going to be – The green one?,teacher,12,0,1.0,,0.0
+How much gym –,student,4,0,,,
+Yeah.,teacher,1,0,,,0.0
+-- do we get for writing?,student,6,0,,,
+"I know. ‘Cause it’s not exactly – Oh, you know what?  I’ll use this.  How many gems for writing? How about –",teacher,22,0,1.0,,0.0
+Eight.,student,1,0,,,
+"Four.  It’s kind of good, right? Yeah, measure the top and then the height. Yeah.  All right.  Okay, let’s back the graph.  Tell me what I should do first, Student D.  What’s the first thing I should do when making this graph?  What’s the first step that you did?",teacher,49,3,,,0.0
+Draw it.,student,2,0,,,
+"So, you went like this?",teacher,5,0,,,1.0
+Yes.,student,1,0,,,
+Okay.  What’s the next step that you did?,teacher,8,0,,,0.0
+Put the numbers.,student,3,0,,,
+"On the side, on the left side?  Okay, what did you go up to?",teacher,14,0,,,1.0
+I went up to –,student,5,0,,,
+What did you go up to?,teacher,6,0,1.0,,1.0
+"Oh, 12.",student,2,0,,,
+Why did you go up to 12?,teacher,7,0,,,1.0
+‘Cause it’s the highest number.  ‘Cause Apple is 12 and it’s the highest number.,student,14,0,,1.0,
+Okay.  Did you go by ones or what did you count by?,teacher,12,0,0.0,,1.0
+Ones.,student,1,0,,,
+You counted by ones.  Can I count by twos?,teacher,9,0,,,0.0
+Yes.,student,1,0,,,
+"If  I choose to.  Okay, I chose to count by twos.  Student B, what –",teacher,15,0,,,0.0
+Because all the numbers are even.,student,6,0,,,
+"Yep.  Or even if you didn’t – you could still know that, like if it was eleven it’s between 10 and 12, right?  What did you do next, Student B?",teacher,30,0,1.0,,0.0
+I labeled the bottom.,student,4,0,,,
+The bottom.   So you labeled the computer names?,teacher,8,0,,,1.0
+Uh-huh.,student,1,0,,,
+"Okay, so –",teacher,3,0,,,0.0
+HP.,student,1,0,,,
+HP.  Then what else?,teacher,4,0,,,0.0
+"Sony, Compaq, IB – IBM. IBM. IBM. IB?",student,8,0,,0.0,
+Yep.  All right.  And then what?  Student E?,teacher,8,0,0.0,,0.0
+Then put eight.,student,3,0,,,
+"For HP, draw the bar up to eight.",teacher,8,0,,,0.0
+[Inaudible],student,1,0,,,
+Okay.  Then 12.,teacher,3,0,,,0.0
+And then six.,student,3,0,,,
+Six.,teacher,1,0,,,0.0
+And then two.,student,3,0,,,
+Two.,teacher,1,0,,,0.0
+[Inaudible],student,1,0,,,
+Mine’s not perfect.  Am I done?,teacher,6,0,,,0.0
+No. Yes.,student,2,0,,,
+No.  Why not?,teacher,3,0,,,1.0
+‘Cause you forgot the name on the sides.,student,8,0,,1.0,
+Okay.  What do I need to label?,teacher,7,0,0.0,,0.0
+Amount of stocks.,student,3,0,,,
+Yep.   So –,teacher,3,0,,,0.0
+What – amount of stocks?,student,5,0,,,
+Amount in stock.,teacher,3,0,1.0,,0.0
+Oh.,student,1,0,,,
+"So, when you don’t know what to label the sides, look at the titles of the table, okay?  Look at your titles on your table.  And then what else do I need to label, Student B?",teacher,36,0,,,0.0
+The [Inaudible],student,2,0,,,
+Which is what?,teacher,3,0,,,0.0
+Computers.,student,1,0,,,
+Good.  Am I done?,teacher,4,0,,,0.0
+Yes.,student,1,0,,,
+Are you sure?,teacher,3,0,,,0.0
+I’m positive.,student,2,0,,,
+"Oh, who can figure out what I’m missing?  I’m missing one more label.",teacher,13,0,,,0.0
+Oh. You have to put stock.,student,6,0,,,
+I did that.,teacher,3,0,0.0,,0.0
+The title.,student,2,0,,,
+"The title.  What should the title be, Student D.",teacher,9,0,,,0.0
+"Ooh, ooh. Computers.",student,3,0,,,
+Computers where?,teacher,2,0,,,0.0
+Computers in stock.,student,3,0,,,
+Where?,teacher,1,0,,,0.0
+In stock.,student,2,0,,,
+Well you have a piece of information up here.  Where?  At Target?,teacher,12,0,,,0.0
+"Oh, Wal-Mart.",student,2,0,,,
+"So, computers –",teacher,3,0,,,0.0
+[Inaudible] computers in stock.,student,4,0,,,
+It is.  In stock.  I said where though.,teacher,8,0,,,0.0
+"Oh, in stock at –",student,5,0,,,
+At –,teacher,2,0,1.0,,0.0
+Target. Wal-Mart. Wal-Mart.  Not Target.,student,5,0,,,
+Wal-Mart was ours.,teacher,3,0,1.0,,0.0
+Wal-Mart’s better than Target.,student,4,0,,,
+It’s a matter – is that a fact or an opinion?,teacher,11,0,,,0.0
+Fact.,student,1,0,,,
+"Well, what is it really?",teacher,5,0,,,0.0
+An opinion.,student,2,0,,,
+It’s an opinion.,teacher,3,0,,,0.0
+Fact.,student,1,0,,,
+"It’s what you think, silly.",teacher,5,0,,,0.0
+"No, it’s a fact.",student,4,0,,,
+Okay.  All right.  Today we’re going to be finding the measurements of volume.  We’re going to be finding volume.,teacher,19,3,,,0.0
+Macy’s is better than [Inaudible] Who?,student,6,0,,,
+Today we’re going to be finding –,teacher,7,0,0.0,,0.0
+Macy’s is better than Wal-Mart. Whatever.,student,6,0,,,
+"Okay.  Student D?  Student D?  We’re going to be finding – are you listening, or no?  Okay.  We’re going to be finding volume of things in the classroom, okay?  So you’re going to find the volume of this box.  Student D, do you need to go take five?",teacher,48,2,0.0,,0.0
+"Yes, yes, I do [Inaudible]",student,5,0,,,
+"We’re going to find the volume of this box – little box, big box, and then you’re going to find the volume of the classroom.  Can anyone tell me how long this is?  Okay, go take five.",teacher,37,2,0.0,,0.0
+Yes.,student,1,0,,,
+If you can’t keep yourself together in the seat then you need to go take five and you can come back. [Inaudible] five. Can anybody tell me how long this is?,teacher,31,0,,,1.0
+I can’t see it.,student,4,0,,,
+A yard.,teacher,2,1,,,0.0
+"No, can –",student,3,0,,,
+"Very close to a yard, but it’s not a yard.  It’s actually",teacher,12,2,,,0.0
+[Inaudible] Thirty-six centimeters?,student,3,1,,,
+"Oh, it says – oh, I’m sorry.  It was upside down.",teacher,11,0,,,0.0
+Thirty-nine.,student,1,0,,,
+"It’s 39, but it’s actually a  -- A meter. A meter.  But it is very similar to a yard, okay?  So, you’re going to solve today volume – please be writing these in your notebook.  Volume of classroom, blank to volume of small box, blank – blanks are for your answers.  Volume of --",teacher,54,7,,,0.0
+Bigger.,student,1,0,,,
+"Large box, blank.",teacher,3,0,,,0.0
+Ohhhh.,student,1,0,,,
+Sorry.,teacher,1,0,,,0.0
+"Yay, we don’t have to do the classroom now.",student,9,0,,0.0,
+"Yeah, you do.  I’m just rewriting it.",teacher,7,0,0.0,,0.0
+But that’s what I wrote.,student,5,0,,,
+"I know.  I just wanted to make room for an example, okay?  So that I could show you an example. All right.  So, I’m going to show you an example so no one’s confused.  And then you may go find the volumes of all the others on your own. Volume of – okay.  This is pretty good.  We’ll do the overhead projector for right now.",teacher,65,2,0.0,,0.0
+I can’t see [Inaudible],student,4,0,,,
+Would you like me to move it this way?,teacher,9,0,,,1.0
+"Yeah, if you could.",student,4,0,,,
+Sure.,teacher,1,0,,,0.0
+"Well, you could ask to move, for you to move. [Inaudible]",student,11,0,,0.0,
+"Okay.  Wait, first, before you get started.  Can you wait a minute?  I’m going to do an example so everyone’s clear.",teacher,21,0,0.0,,0.0
+[Inaudible],student,1,0,,,
+"So, Student B, up here.  My example is going to be finding the volume of the projector. What am I going to measure first?",teacher,24,2,,,0.0
+The volume. Classroom.,student,3,1,,,
+How am I going to find the volume?,teacher,8,1,,,0.0
+Like this.,student,2,0,,,
+"No, what do I measure to find it?",teacher,8,1,,,0.0
+Inside.  I mean the outside.,student,5,0,,,
+"Okay, what dimensions?",teacher,3,1,0.0,,1.0
+Multiply.,student,1,1,,,
+I multiply what?,teacher,3,1,,,0.0
+"Length times width times height. Length, width and height.",student,9,2,,0.0,
+"Okay, length, width, and height, okay.  So, Student B, come find the length of this, please.",teacher,16,2,1.0,,0.0
+Ahh.,student,1,0,,,
+"You’ll find some, too.  Student  B, come find the length of this.  Ooh, it’s upside down.  Is that going to be hard for you?  When you start with that you probably want to start with the number one.  Good.",teacher,39,1,,,0.0
+[Inaudible],student,1,0,,,
+"Nope corner to corner, edge to edge.  Yep.  So it’s what?",teacher,11,0,,,0.0
+Fourteen.,student,1,0,,,
+Okay.  So the length is what?,teacher,6,1,,,0.0
+Is fourteen.,student,2,0,,,
+"Okay, so length.  Under length I would write fourteen times what?  Next.  Student E, what do I find next?",teacher,19,2,,,0.0
+[Inaudible],student,1,0,,,
+Sure.,teacher,1,0,,,0.0
+Width.,student,1,0,,,
+Width?,teacher,1,0,,,0.0
+Uh-huh.,student,1,0,,,
+"Okay, come find width for me, please, of this.",teacher,9,0,,,0.0
+Oops.,student,1,0,,,
+"Oh, we’re doing the inches side, sweetie.  Okay.  Okay, he did length from here to here, so where is width going to be?",teacher,23,1,,,0.0
+"Oh, here to here.",student,4,0,,,
+Yep.  So what is it?,teacher,5,0,,,0.0
+Twelve [Inaudible],student,2,0,,,
+"Twelve?  Yeah.  So we can round.  We can say it’s closer to twelve.  So we’ll just say twelve, okay?",teacher,19,0,,,0.0
+Yay.,student,1,0,,,
+Twelve.  And what am I missing?,teacher,6,0,,,0.0
+Height.,student,1,0,,,
+Height.  How would I find height?,teacher,6,0,,,1.0
+Right here like this.,student,4,0,,,
+So my height is about what?  Eight?,teacher,7,0,,,0.0
+Height’s about eight and a half.,student,6,0,,,
+Okay.,teacher,1,0,0.0,,0.0
+"Okay, it’s eight.",student,3,0,,,
+So we’re round to eight.,teacher,5,0,,,0.0
+"Oh, God, this is going to be hard.",student,8,0,,0.0,
+"All right.  So, we would put eight.",teacher,7,0,0.0,,0.0
+[Inaudible] answer.,student,2,0,,,
+"No, this is my example, ‘cause I’m doing this one.  So, twelve times eight is what?",teacher,16,0,,,0.0
+Twelve times eight – Ninety-six. Ninety-six.,student,6,0,,,
+"Great.  Fourteen times – and then I have to bring the fourteen down, right?  Fourteen times this.  What am I measuring all these in?  What are these?  These are –",teacher,30,1,0.0,,0.0
+[Inaudible],student,1,0,,,
+Please leave it.  Please leave it.  What are these?  These are?,teacher,11,0,,,0.0
+"You are not – oh, I know a good way you could do it.  You could put 96 at the bottom and – the one then the nine above four near the six.",student,33,0,,0.0,
+Okay.  I’m asking what these are though.  Are these like centimeters?,teacher,11,1,0.0,,0.0
+Inches.,student,1,0,,,
+"Inches.  Thank you.  Okay.  So fourteen times 96, I would need to solve that somehow, right?",teacher,16,0,,,0.0
+[Inaudible],student,1,0,,,
+I like to do it this way.  So I would do –,teacher,12,0,,,0.0
+One thousand two hundred and forty?,student,6,2,,,
+"I don’t know.  I would do ten, four, nine, six, ninety, and then I know four times nine is what?",teacher,20,0,0.0,,0.0
+Thirty-six.,student,1,0,,,
+Yep.  Sixty.  And then six times four is twenty-four.  I take all these numbers and I do what with them?,teacher,20,0,,,0.0
+Times them.,student,2,0,,,
+"No, we don’t –",teacher,4,0,,,0.0
+Add ‘em.,student,2,1,,,
+"Add ‘em.  Ninety, thirty-six, sixty, twenty-four.  Ten, twelve, fifteen, nineteen.  So, a hundred and ninety what?  What’s my label have to be for volume?",teacher,24,3,,,0.0
+"Well, I was close.",student,4,0,,,
+You were?,teacher,2,0,,,0.0
+[Inaudible] hundred and ninety [Inaudible] ninety-six.,student,6,1,,,
+"Oh, no, you’re right.  This is ninety.  You’re so right. Sorry.  This is ninety.  That’s 360.  Oops.",teacher,17,0,1.0,,0.0
+Equals a thousand and something.,student,5,1,,,
+Yeah.,teacher,1,0,0.0,,0.0
+Then I was way off.,student,5,0,,,
+Four – whoops.  Six times – six and six is?,teacher,10,0,0.0,,0.0
+Does that say 900? I know how to do it Does that say 900?,student,14,0,,0.0,
+"It’s 1,444.",teacher,2,0,1.0,,0.0
+Excuse me. Can I see that? That’s a lot of [Inaudible],student,11,0,,0.0,
+One thousand four hundred forty-four what?,teacher,6,2,0.0,,0.0
+Inches.,student,1,0,,,
+Inches what?,teacher,2,0,,,0.0
+That breaks the ruler.,student,4,1,,,
+Inches what?,teacher,2,0,,,0.0
+That breaks the ruler.,student,4,1,,,
+Inches what?  What’s the label that I need for volume?,teacher,10,1,,,0.0
+Three.,student,1,0,,,
+Three or cubed.  Okay?,teacher,4,1,,,0.0
+[Inaudible],student,1,0,,,
+If you’re measuring the classroom –,teacher,6,1,,,0.0
+Uh-huh. Do we have to measure the class?,student,8,1,,0.0,
+"Yes.  You have three measurements to find.  Volume of classroom, small box, and large box.  You can do it whatever –",teacher,21,2,1.0,,0.0
+How are we going to volume the classroom?,student,8,1,,0.0,
+I don’t know.  How would you do that?  Well you would –,teacher,12,0,0.0,,1.0
+Rulers.,student,1,1,,,
+"No, you’re each going to get a meter stick, Student B.  You’re each going to get a meter stick.  How will we find the length of the classroom?  Where would we start, Student E?",teacher,34,3,,,0.0
+Wall.,student,1,0,,,
+Which wall?,teacher,2,0,,,0.0
+That wall.,student,2,0,,,
+"Okay, like maybe a corner?",teacher,5,0,,,0.0
+I don’t know.,student,3,0,,,
+"Okay, well, why don’t you take this –",teacher,8,0,,,0.0
+[Inaudible],student,1,0,,,
+"Student B, you can take this.  You could try to find the volume of the three of these up here and then we’ll do them altogether.",teacher,26,1,,,0.0
+I thought we were going [Inaudible],student,6,0,,,
+"What’s our formula?   What’s our formula?  How do we find it? Student E, how do we find the volume?",teacher,19,1,0.0,,0.0
+[Inaudible] length times width.,student,4,1,,,
+You need to find the what?,teacher,6,0,,,0.0
+Length.,student,1,1,,,
+Good.,teacher,1,0,,,0.0
+And then the width. [Inaudible],student,5,0,,,
+Yep.,teacher,1,0,0.0,,0.0
+And height.,student,2,0,,,
+"Good.  So, this unit’s already measured, right?",teacher,7,2,,,0.0
+[Inaudible] [Inaudible] one thousand –,student,5,1,,,
+"[Inaudible] start with something – so, Student J, you can start figuring out what you’re going to do to measure the three things you need to measure. Okay, so let’s start with the classroom.  How do we find volume?  Hello?   How do we find volume in general?",teacher,47,4,1.0,,0.0
+Just like this.,student,3,0,,,
+"Okay.  So when we find volume, Student B, what do we do. Student D, sit up, please. What are you going to start with –",teacher,25,1,,,0.0
+[Inaudible],student,1,0,,,
+-- classroom first? Right.  But we want to do the volume of the classroom.  This room itself.,teacher,17,1,,,0.0
+[Inaudible],student,1,0,,,
+Where would you start?   Okay.  So that’s going to be the what? The L —,teacher,15,0,,,1.0
+The width.,student,2,0,,,
+"Okay, good.  So we want to do it in meters?",teacher,10,1,,,0.0
+Yeah.,student,1,0,,,
+"Okay, so this is – I’ll put my finger and you can start. That’s one meter.  Keep going.  You got to go all the way down, right?",teacher,27,1,,,0.0
+Thirty-nine.,student,1,0,,,
+Okay.  How many meters are we at now?,teacher,8,1,,,0.0
+[Inaudible],student,1,0,,,
+"No.  Yeah, the end result, though.  How many meters are we at now?",teacher,13,1,,,0.0
+Thirty-nine.,student,1,0,,,
+No.  One meter –,teacher,4,1,,,0.0
+Two meter.,student,2,1,,,
+Okay.  Keep going. What three things do you have to figure out.,teacher,12,0,,,1.0
+Two meters.,student,2,1,,,
+Keep going.  Now how many –,teacher,6,0,,,0.0
+Three meters.,student,2,1,,,
+Yep.  Here we go.  You can slide it under this thing.,teacher,11,0,,,0.0
+Four meters.,student,2,1,,,
+"Four meters.  Hold on, let me put my finger.",teacher,9,1,,,0.0
+Oh.,student,1,0,,,
+"Okay, go ahead.",teacher,3,0,,,0.0
+Five meters.,student,2,1,,,
+Well that was four.  Now this is?,teacher,7,0,,,0.0
+Five meters.,student,2,1,,,
+Five meters. We’re trying to find the volume.  How much space is inside our classroom.  We need to figure out the what? There you go.  Six –,teacher,27,2,,,0.0
+Six meters.,student,2,1,,,
+"Let me come put my finger down.  Hold on. Nope.  Could you just – look at me.  Look at me right now. Your standing there moving around – Six meters, yep.",teacher,31,1,,,0.0
+Six meters.,student,2,1,,,
+"There you go. So what three things do you need to do find – All right, move it over here.  We’ll scoot this way a little bit.  So, then, here you go.  Six meters, yep.",teacher,35,1,,,0.0
+Seven meters.,student,2,1,,,
+"Make sure it’s straight.  Seven meters, yep.  What could we round that to?",teacher,13,1,,,0.0
+Eight.,student,1,0,,,
+"Yeah, I would round that to about eight.",teacher,8,0,,,0.0
+"Yeah, eight meters.",student,3,1,,,
+"Eight meters.  So, the length is what?    So I would write that – so So, Student B, for classroom I would write length, width, height.  Length, width, height, remember? That’s what? And what was the – yep, width, height.  Good.  And what was the length?  Label the length underneath.  You just did it.",teacher,53,6,,,0.0
+One meter.,student,2,1,,,
+"No, we just did it all the way down.",teacher,9,0,,,0.0
+"Thirty-nine.   No, eight inches.",student,4,0,,,
+Eight mm –,teacher,3,0,,,0.0
+Eight meters.,student,2,1,,,
+"So, with the label A-M.",teacher,5,0,,,0.0
+A-M.,student,1,0,,,
+Great.  Now we need to do width.  So where do we find width? From where to where?,teacher,17,0,,,1.0
+I don’t know.,student,3,0,,,
+Did you move your finger?  You can’t move your finger though.,teacher,11,0,,,0.0
+So how do I find –,student,6,0,,,
+"Well, length went this way.  What way do you think width would go?",teacher,13,1,0.0,,1.0
+This way.,student,2,0,,,
+"No, this was length.",teacher,4,1,,,0.0
+This way.,student,2,0,,,
+Ah.   So where do you want to start?  Over there?,teacher,10,0,,,0.0
+One.,student,1,0,,,
+"Make sure you put your finger – here, I’ll put my foot.  One.",teacher,13,0,,,0.0
+One?,student,1,0,,,
+Yep.,teacher,1,0,,,0.0
+Two.,student,1,0,,,
+Uh-huh.  Hold on.  Yep.,teacher,4,0,,,0.0
+Three.,student,1,0,,,
+Yep. Hang on just one second.  Let me give something to help you. Hold up.  When you measure –,teacher,19,1,,,0.0
+Four.,student,1,0,,,
+"Yep. -- you can put a marker.  And then move it as you go up,",teacher,15,0,,,0.0
+Five.,student,1,0,,,
+"So there’s – I don’t know.  You better check.  Yeah, you’re right.",teacher,12,0,,,0.0
+Five.,student,1,0,,,
+"Yep, five.  So make sure you get that down. There’s one.  Okay.  One what?",teacher,14,0,,,0.0
+[Inaudible],student,1,0,,,
+"No, we’re doing the whole thing.  The whole thing",teacher,9,2,,,0.0
+Can I get the marker?,student,5,0,,,
+"Sure.  Why do you need a marker, Student E?",teacher,9,0,1.0,,1.0
+[Inaudible],student,1,0,,,
+"Yeah, I said sure, but why do you need one?",teacher,10,0,,,1.0
+I need to mark it.,student,5,0,,,
+"On, like the ground?",teacher,4,0,0.0,,0.0
+"No, just like –",student,4,0,,,
+You’re not going to be able to reach it –,teacher,10,0,,,0.0
+[Inaudible],student,1,0,,,
+"How about I give you a sticky to mark it. So, look, so – Okay?  I just don’t know where you’re putting your mark. Student B, do you may need a chair to stand on to see the height?  So grab a chair.",teacher,43,0,,,0.0
+I can’t.  I’m marking this.,student,5,0,,,
+"Oh, you – okay.  Okay, here you go.  Here, I’ll put my finger there.  Got it.",teacher,16,0,1.0,,0.0
+One.,student,1,0,,,
+Stand up.,teacher,2,0,,,0.0
+"No, this is one.",student,4,0,,,
+"That was one.  Good, re-measuring. Okay, so what you do is, look, where’s your marker?",teacher,15,1,,,0.0
+Two.,student,1,0,,,
+"Okay, so are we there? Okay, yep.",teacher,7,0,,,0.0
+And three.,student,2,0,,,
+"Right.  So if we round up.  It’d be two and a half, but we can say that’s three, okay?",teacher,19,0,,,0.0
+Yeah.,student,1,0,,,
+[Inaudible] to the greatest number.  Okay?   So get that down.,teacher,10,0,,,0.0
+"So, three?",student,2,0,,,
+"Yep.  And then find the volume. Now,  look, is it straight or is it sideways?",teacher,15,1,,,0.0
+Eight times five –,student,4,0,,,
+Is it straight or is it sideways?,teacher,7,0,,,0.0
+Forty.,student,1,0,,,
+Good.,teacher,1,0,,,0.0
+"Time three, 120.",student,3,0,,,
+"Okay, good.  So, label it.  One twenty what?",teacher,8,0,,,0.0
+One hundred twenty meters.,student,4,2,,,
+Meters what?  What’s that little number that you put up?,teacher,10,1,,,0.0
+Three.,student,1,0,,,
+Which mean cu –,teacher,4,0,,,0.0
+Cubed.,student,1,1,,,
+Cubed.  Good.,teacher,2,1,,,0.0
+[Inaudible] do now?,student,3,0,,,
+What is the next one?,teacher,5,0,,,0.0
+Volume of the small box.  Where’s the --,student,8,1,,0.0,
+It’s right here behind you.,teacher,5,0,1.0,,0.0
+Oh.,student,1,0,,,
+"Now, where – what are we going to do?  How are we going to continue to go? So this side – do you know what this side is?  This is centimeters.",teacher,31,1,,,0.0
+Centimeters.,student,1,1,,,
+"Or that you could do inches.  Okay? So, how many is that now?",teacher,13,0,,,0.0
+[Inaudible],student,1,0,,,
+"How many did we just do?  How many full sticks. Good, Eric?",teacher,12,0,,,0.0
+Huh?,student,1,0,,,
+You good or you need help?,teacher,6,0,,,0.0
+"No, I’m fine.",student,3,0,,,
+We did how many – Check the time. And then we did another what?,teacher,14,0,,,0.0
+What time is it?,student,4,0,,,
+"9:50. Now, are we going to have  [Inaudible] Good, so that’s about eight –",teacher,14,0,,,0.0
+Eight.,student,1,0,,,
+So the length is what?,teacher,5,1,,,0.0
+Eight.,student,1,0,,,
+"Good, so same as before.  You want me to hold my finger somewhere so you can know where to measure? Okay.  You’re going to start on the ground.  Okay, so that’s – you’re getting the height of the classroom?",teacher,39,2,,,0.0
+Yeah.,student,1,0,,,
+"Okay, so we’ll do it against the –",teacher,8,0,,,0.0
+Wall?,student,1,0,,,
+"-- door, or the wall, yeah.  Good idea.  Okay, here, want to grab a chair?",teacher,15,0,,,0.0
+"Whee, I like doing this with my vacuum.",student,8,0,,0.0,
+"Okay, here.  Hold this here.  Okay, so this is one meter.",teacher,11,1,0.0,,0.0
+Uh-huh.,student,1,0,,,
+"Now take this and you start from my finger.  That’s one meter. Now put – no, the bottom has to match up to my finger.  No, the bottom.  The bottom.  So pull it up until the bottom hits my finger. What number are we at? Keep going.  Hold it.  I can’t reach it.  Okay.  Now that’s two meters tall, okay?  Now keep going up to the top.",teacher,67,2,,,0.0
+What’s that?,student,2,0,,,
+We are going to round up and say that’s about how many full of these?,teacher,15,0,,,0.0
+Three.,student,1,0,,,
+"About three.  So, go down – go and write your dimension down. The height of the classroom is what?",teacher,19,2,,,0.0
+Three.,student,1,0,,,
+Three what?,teacher,2,0,,,0.0
+Centimeters?,student,1,1,,,
+Not centimeters.  Three mm – How many meters is –,teacher,10,2,,,0.0
+Meters.,student,1,1,,,
+Meters. How many centimeters is in one of these?,teacher,9,2,,,0.0
+Where did my pencil go?,student,5,0,,,
+How many centimeters is in one –,teacher,7,1,0.0,,0.0
+"Oh, come on.",student,3,0,,,
+Those things are crazy.,teacher,4,0,,,0.0
+[Inaudible],student,1,0,,,
+"They are, and I keep falling all over the place.",teacher,10,0,,,0.0
+[Inaudible],student,1,0,,,
+Here.  Here’s a pencil.,teacher,4,0,,,0.0
+Thank you.,student,2,0,,,
+You’re welcome. It starts at one.  What’s the end number?,teacher,10,0,,,0.0
+[Inaudible] There.  Now I just have to write – get one more.  That’s the width.,student,15,0,,0.0,
+"That’s the end? Oh, the width.  Okay.  Start here.  You can do it.  I’ll be your marker. What do you think this last part is?",teacher,25,0,1.0,,0.0
+I don’t know.,student,3,0,,,
+"Well if this is 90, it goes all the way to 99.",teacher,12,0,,,0.0
+"Here, Student E, it’s pretty open alleyway from here to here.",student,11,0,,0.0,
+"If you have 99 and you do one more, what’s it going to be? Okay.  Put it down.  Start all the way at the end.  Then I’ll mark my foot like I did for Student B for you, okay?",teacher,39,0,0.0,,0.0
+I need help.,student,3,0,,,
+"It counts all the way up to 99 – Start at that wall – -- and then goes [Inaudible] Okay, one second. How much is it going to be? What do you need help with?  Push it all the way to the wall.",teacher,43,0,,,0.0
+[Inaudible],student,1,0,,,
+What?,teacher,1,0,,,0.0
+Six times 56.,student,3,0,,,
+"Well, you might have to do some multiplying.",teacher,8,1,,,0.0
+I’m trying to do it but –,student,7,0,,,
+"Well what could you break 56 into?  You could break it into 50 and then six.  You could do six times 50, Student B.",teacher,24,0,0.0,,0.0
+Yeah. Six times 56 times six?,student,6,0,,,
+"Yeah. Look here though.  If you had two – Here.  And then you add those together.  Okay, one meter –",teacher,20,2,0.0,,0.0
+Uh-huh.,student,1,0,,,
+"Now, move it all the way so the end’s at m foot.  Okay.",teacher,13,0,,,0.0
+Two.,student,1,0,,,
+"You got to make it go straight, sweetie.  That’s crooked.",teacher,10,0,,,0.0
+Oh.,student,1,0,,,
+Look at what you doin’.,teacher,5,0,,,0.0
+Is that good? Oh [Inaudible],student,5,0,,,
+"Sorta.  Okay, now, that’s –",teacher,5,0,1.0,,0.0
+Two.,student,1,0,,,
+"Two.  Okay, keep going. You said each one’s a hundred, and we have 21 centimeters, so what’s our total going to be?",teacher,22,3,,,0.0
+[Inaudible],student,1,0,,,
+You said –,teacher,3,0,,,0.0
+Three.,student,1,0,,,
+"Three. How much is one whole one? Okay, keep going. Okay, so with two of them you have?",teacher,18,1,,,0.0
+Two hundred.,student,2,1,,,
+Two hundred.  And we have our –,teacher,7,1,,,0.0
+Four.,student,1,0,,,
+"-- 21.  So – No, you – start at this side of my foot.   Four. Now what’s – we have – what’s the rest of the formula.",teacher,27,0,,,0.0
+Uh-huh.,student,1,0,,,
+Okay.  Go ahead. We have height.  What else do we need.,teacher,11,0,,,0.0
+Where’s the large box?,student,4,0,,,
+Right there.,teacher,2,0,,,0.0
+Five.,student,1,0,,,
+Five.  So how long is the classroom?  What’s the width? Not the length.  The width is – yep.  So come label it. [Inaudible] length or width.,teacher,26,2,,,0.0
+[Inaudible],student,1,0,,,
+"Okay, so which way is width?  Is it this – Not funny.",teacher,12,0,,,0.0
+I’m tired.,student,2,0,,,
+Not funny. I don’t know.,teacher,5,0,,,0.0
+[Inaudible],student,1,0,,,
+Like the belt in wrestling.  That is funny.  Okay.,teacher,9,0,,,0.0
+"Look, I have the champion ruler. [Inaudible]",student,7,1,,,
+"Student D, can we use nice words with people?",teacher,9,0,0.0,,0.0
+Width.,student,1,0,,,
+"Good. I’m trying really hard, but it’s really hard.  You’re so negative right now. Okay, finish your labels –",teacher,19,0,,,0.0
+"Oh, will you stop falling.",student,5,0,,,
+I know.  You got to put it exactly in the middle.  Finish your label. You’re measuring from here --,teacher,19,1,0.0,,0.0
+[Inaudible],student,1,0,,,
+-- to there.,teacher,3,0,,,0.0
+I know.,student,2,0,,,
+"Okay, so you just told me that.  Now, how do you not know what to do?",teacher,16,0,,,1.0
+"All right, now what I’m supposed to do?",student,8,0,,0.0,
+Okay.  Five.  Was it 17 long?,teacher,6,0,0.0,,0.0
+No.,student,1,0,,,
+"Okay, you want to double check that measurement with me?  Okay, let’s take this – ‘cause you have all the other ones right. So it would be silly to get it wrong.  We know that was 17 long.  Take this.",teacher,40,1,,,0.0
+Yeah.,student,1,0,,,
+"Okay, come on.  We’ll double check.",teacher,6,0,,,0.0
+"Ohhhh, all right.",student,3,0,,,
+I know.,teacher,2,0,,,0.0
+Can you just tell me the answer?,student,7,0,,,
+No.  Come on.  You’re almost done.  You have one more measurement.  Then the other ones are easy peasy.  They’re small. [Inaudible],teacher,21,1,1.0,,0.0
+Move.,student,1,0,,,
+Now every time you do one of these I want you to make –,teacher,14,0,,,0.0
+Student E –,student,3,0,,,
+-- a tally [Inaudible],teacher,4,0,,,0.0
+[Inaudible],student,1,0,,,
+All right? Start over here.,teacher,5,0,,,0.0
+Yeah.,student,1,0,,,
+"And we can go all the way to this wall.  So we start at this wall.  Where is the length, actually, before I – from which wall to which wall?",teacher,30,1,,,0.0
+That –,student,2,0,,,
+The width you said was from here to here.,teacher,9,0,,,0.0
+Uh-huh.,student,1,0,,,
+So which way is the length? -- for the tally.  I want to see if you can do it –,teacher,20,1,,,0.0
+I don’t know.,student,3,0,,,
+"Okay.   Think about the dimensions of the room, sweetie.  If this is the width of the room, which way is the length?",teacher,22,2,,,0.0
+That way?,student,2,0,,,
+From this wall to –,teacher,5,0,,,0.0
+That wall?,student,2,0,,,
+"Yeah.  Okay, so put it against that wall. Okay, so what did you get, 77?",teacher,15,0,,,1.0
+[Inaudible],student,1,0,,,
+"Oh, how did you get 77. Okay, that’s one.  All right, now move – scoot it. Oh, is that this way.  What are you doing?  Inches or centimeters for that one?",teacher,31,1,,,0.0
+Two.,student,1,0,,,
+"Okay, it’s got to be straight.  Remember I said that.  That’s no way that’s straight.  Follow it on this line.  Put it on this line.  Thank you.  Two.  Yeah.  Have it go along this line, Student R.  Two.  Keep going.",teacher,40,3,,,0.0
+It’s [Inaudible] inches.,student,3,0,,,
+We’re measuring in inches or centimeters? All the way down.,teacher,10,2,,,0.0
+Eleven –,student,2,0,,,
+"Double check.  Double check ‘cause I feel like you measure in inches that time ‘cause this looks like seven by elven, which actually looks like a lot more now. Keep going.  Keep going.  Keep going.",teacher,35,1,,,0.0
+That’s good.,student,2,0,,,
+Okay.  So how many is that – meters are we at now?,teacher,12,1,,,0.0
+Three.,student,1,0,,,
+"Three. They’re small meters [Inaudible] Who said that? Teacher G.  She says she has extra ones.  She said they’re 5th grade level [Inaudible] 5th grade levels, but yeah.  I don’t know. Teacher G has extra [bucks].",teacher,36,1,,,0.0
+Four.,student,1,0,,,
+Four.  Nice. I think she wants you to hold them for her [Inaudible] hers and [Inaudible] and you stole it from her.,teacher,22,0,,,0.0
+Six.,student,1,0,,,
+"No.  What comes after four, sweetie?",teacher,6,0,,,0.0
+I did five.,student,3,0,,,
+"That was four.  This is five.  This one’s five. Good job. Okay?   Now, the next one’s going to be –",teacher,20,0,,,0.0
+Seven.,student,1,0,,,
+No.  Turkey.,teacher,2,0,,,0.0
+Hit me.  I dare you to.,student,6,0,,,
+Did you tally that one? Six.  Here you go. Good. You got like two more maybe.,teacher,16,0,0.0,,0.0
+I’m done.,student,2,0,,,
+I [Inaudible],teacher,2,0,,,0.0
+Nine.,student,1,0,,,
+"No, keep going.  We’re almost there.  It’s not nine so please keep going.",teacher,13,0,,,0.0
+"I’m done. It is, too.",student,5,0,,,
+"Okay. Wait, where was that other one, buddy? Student E.",teacher,10,0,0.0,,0.0
+Your foot is in the way.,student,6,0,,,
+So how far?  How far would it be?,teacher,8,0,0.0,,0.0
+[Inaudible] there.,student,2,0,,,
+Seven.,teacher,1,0,,,0.0
+"That was seven.  That was – oh, okay.  It’s eight.",student,10,0,,0.0,
+"Okay.  So come label it, please.  [Inaudible] you can do the work that goes along with it –",teacher,18,0,0.0,,0.0
+Uh-huh.,student,1,0,,,
+Which way?,teacher,2,0,,,0.0
+[Inaudible]  So I could just go up.,student,7,0,,,
+This way?   You are correct.  Do you need another sticky or is that one still working for you.,teacher,18,0,0.0,,0.0
+"No, it’s dusty.",student,3,0,,,
+It’s dusty.  You need another one?  All right.  I’ll get you another one.,teacher,13,0,,,0.0
+If you want me to use it I can use it.,student,11,0,,0.0,
+"It’s up to you.  Is it working for you or – Take this to your seat, please.",teacher,17,0,0.0,,0.0
+I’ll just use it.  It’s okay.,student,6,0,,,
+Huh?,teacher,1,0,0.0,,0.0
+It’s okay.,student,2,0,,,
+All right.,teacher,2,0,,,0.0
+[Inaudible],student,1,0,,,
+"So, maybe you try to find the – So they’re giving you – [Inaudible] the space where you have the most space for it. Yeah, Student E, you need to measure this and that. Right.  [Inaudible] So, volume of original box.  They’ve given you dimensions.  How are you going to find volume? [Inaudible] right down the middle.",teacher,57,4,,,0.0
+[Inaudible],student,1,0,,,
+Okay.  So that’s what it’s asking you to do.  Volume of the original box [Inaudible].  Go ahead.  What is the volume of – two by eight by ten.  What’s the volume?,teacher,31,3,,,0.0
+One sixty.,student,2,0,,,
+Okay.,teacher,1,0,,,0.0
+Oops.,student,1,0,,,
+"And now, it wants one that’s half that.  Half that. Get you started.",teacher,13,0,,,0.0
+[Inaudible],student,1,0,,,
+So what are we measuring right now?,teacher,7,1,,,0.0
+"No, half of 160.",student,4,0,,,
+"We’re going to measure this height, right?  So we’re doing L, right?",teacher,12,1,,,0.0
+Thirty.,student,1,0,,,
+You split 160 in half it’s 30?  Think of 60.,teacher,10,0,,,0.0
+Eighty.,student,1,0,,,
+"Okay.  So, now, this goes back to – you know when we double a box, what do we do?  We double one of the what?",teacher,25,0,,,0.0
+Numbers.,student,1,0,,,
+So if we want to cut it in half what do you think we do? [Inaudible] is it still sticking or is not sticking for,teacher,25,0,,,0.0
+Cut it in half.  Forty.  That’s forty.,student,7,0,,,
+"No, no, no.  It’s [Inaudible] your dimensions, Student B.   So if we were to do new dimensions for doubling it, we would double one of the dimensions.  If you’re going to cut it in half, what do you think you do?",teacher,41,3,1.0,,0.0
+I add a number to it.,student,6,1,,,
+You add to it if you’re cutting it in half?,teacher,10,1,1.0,,0.0
+"No, you – I don’t know.",student,6,0,,,
+"Okay.  Well, you need to find three numbers – three dimensions that get you what?",teacher,15,1,0.0,,0.0
+One eighty.,student,2,0,,,
+"No, just –",teacher,3,0,,,0.0
+Eighty.,student,1,0,,,
+"Okay, so find three numbers that when you multiply you get 80.",teacher,12,1,,,0.0
+Oh man.,student,2,0,,,
+What?,teacher,1,0,,,0.0
+I just moved the –,student,5,0,,,
+Does this –,teacher,3,0,0.0,,0.0
+Four times 20.,student,3,0,,,
+You have three numbers. It doesn’t have to be exact.  You know what I mean?  You’re trying to get as close as possible.,teacher,23,0,,,0.0
+I don’t know.,student,3,0,,,
+"Okay.  Well think about it. If you wanted exact, exact, we probably would need a tape measure, right, one that can stretch from one side to the other. You seem like you’re getting a little agitated right now.  I’m trying to help you is that when you make a box is double what do you do?  You pick one of the dimensions and you double it, right?",teacher,67,2,,,0.0
+Yeah.,student,1,0,,,
+"So if you’re cutting it in half, what do you think you need to do to one of the dimensions?",teacher,20,1,,,0.0
+Take one away.,student,3,0,,,
+Not take one away but cut one of them –,teacher,10,0,,,0.0
+Cut it in half.,student,4,0,,,
+Okay.   So why don’t you try that.,teacher,7,0,,,1.0
+I don’t know.  Two by four by four by ten?,student,10,0,,0.0,
+"No, you only cut one of them in half.  So two by –",teacher,13,0,1.0,,0.0
+Four.,student,1,0,,,
+-- four by –,teacher,4,0,,,0.0
+Ten.,student,1,0,,,
+"Okay, see if that works.  Write it.  Two –",teacher,9,0,,,0.0
+Right here?,student,2,0,,,
+Yeah.  That’s the dimensions of the new box. It’s okay.  It’s close enough.,teacher,13,1,,,0.0
+Huh?,student,1,0,,,
+Does that get you 80?  Two times four times ten?,teacher,10,0,,,0.0
+Yes.,student,1,0,,,
+Okay.  Then that works.  So instead – when you’re halving it you’re cutting one in –,teacher,16,0,,,0.0
+Half.,student,1,0,,,
+-- half.  Good.  Now this – let me see.  It’s the same thing for the next two.  Okay?  Except this one says whose volume is double. Are you re-measuring.,teacher,29,2,,,0.0
+Yeah [Inaudible],student,2,0,,,
+[Inaudible] on the top.,teacher,4,0,,,0.0
+[Inaudible]  I would say it’s about 15 [Inaudible],student,8,0,,1.0,
+Okay.,teacher,1,0,0.0,,0.0
+[Inaudible],student,1,0,,,
+It says –,teacher,3,0,,,0.0
+Fourteen?,student,1,0,,,
+What did you get the first time?  Fifteen or sixteen?,teacher,10,0,,,0.0
+I got sixteen.,student,3,0,,,
+[Inaudible]  I see about [Inaudible],teacher,5,0,,,0.0
+Yes.,student,1,0,,,
+"Yeah, I would say fifteen’s safe [Inaudible] Fifteen what, Student E?  Inches?",teacher,12,0,,,0.0
+Inches.,student,1,0,,,
+"Is it.  Are you sure? No, the little ones are what? Is it centimeters, sweetie?  Yeah?  Okay.",teacher,17,1,,,0.0
+Six times.,student,2,0,,,
+"All right, we have about four or five more minutes.  Even if you’re not done, it’s okay, we’re going to go over them. Now, you see what you have left, right?  So it’s [Inaudible]",teacher,34,0,,,0.0
+Uh-huh.,student,1,0,,,
+Okay.  [Inaudible] and then figure out –,teacher,7,0,,,0.0
+[Inaudible],student,1,0,,,
+So we have [Inaudible],teacher,4,0,,,0.0
+[Inaudible],student,1,0,,,
+So [Inaudible],teacher,2,0,,,0.0
+[Inaudible],student,1,0,,,
+"Oh, they just want you to tell what strategies if you want to double the volume.",teacher,16,1,,,0.0
+Double this.,student,2,0,,,
+Double what?,teacher,2,0,,,0.0
+[Inaudible],student,1,0,,,
+If you want to double the volume you want to double one of the – what do they call them?,teacher,20,1,,,0.0
+[Inaudible],student,1,0,,,
+"I think they’re looking for you to say like one of the dimensions, not like all [Inaudible] – Student D, your goal today is to draw?",teacher,26,1,,,0.0
+"Here, I could draw for him.",student,6,0,,,
+"Okay, did you do the classroom at least? Okay, so now we have to do this.  Now we have to multiply it out, right?",teacher,24,1,0.0,,0.0
+[Inaudible]  I got money in my pocket.,student,7,0,,,
+"Yeah, you got to do measurements, right?",teacher,7,1,0.0,,0.0
+"Mrs. T, I got money in my pocket.",student,8,0,,0.0,
+Very nice.,teacher,2,0,0.0,,0.0
+I have money in my pocket.,student,6,0,,,
+Great.,teacher,1,0,0.0,,0.0
+[Inaudible],student,1,0,,,
+"Okay.   You can put that away.  You know what? We’re going to go over it, so if you didn’t get to this one, that’s fine. Can you put your ruler with the other rulers, please. [Inaudible] numbers so it might take a little bit of time – Okay. -- to do the multiplication.",teacher,53,3,,,0.0
+Put it away?,student,3,0,,,
+We’re just going to review it and see what everyone go and then we’ll put it away in a minute.  Student E?,teacher,22,0,,,0.0
+Yeah.,student,1,0,,,
+Can you do me a favor and pick up this big pad of paper so I can put this back.,teacher,20,0,,,0.0
+Yeah.,student,1,0,,,
+Thank you.,teacher,2,0,,,0.0
+No problem-o.,student,2,0,,,
+Got it?,teacher,2,0,,,0.0
+"Yeah, I’m all right.",student,4,0,,,
+"Thank you.  All right, I’ll take this.  Thanks.  All right. Have a seat and we’ll go over them.",teacher,18,0,,,0.0
+And I just hope it doesn’t fall.,student,7,0,,,
+"All right.  We’re going to review the volume of the classroom ‘cause I know that everyone got that done.  And then we’ll go over the other ones and see how far people got, okay? What was the length of the classroom?  Student B, how did you measure it?  Where was the length?  Where did you measure?  From which wall to which wall?",teacher,62,5,0.0,,0.0
+From that wall to that one.,student,6,0,,,
+For the length you did from here to here.,teacher,9,1,1.0,,0.0
+"Oh, from here to here.",student,5,0,,,
+"Okay, what did you get for the length?  You want to look back in your notebook?",teacher,16,1,0.0,,0.0
+I got eight.,student,3,0,,,
+Eight what?,teacher,2,0,,,0.0
+Meters.,student,1,1,,,
+Eight meters.  Did anyone else get eight meters?  Did anyone get something different?,teacher,13,2,,,1.0
+Nope.,student,1,0,,,
+"What did you get? Student D, what did you get?  How many meters did you get for the length?",teacher,19,2,,,0.0
+"[Inaudible]  No, two inches – 540 –",student,7,0,,,
+Length.  No.,teacher,2,1,1.0,,0.0
+"Oh, length you’re talking about?  Two hundred fifty.",student,8,2,,0.0,
+Seven hundred fifty – Inches? No.,teacher,6,1,1.0,,0.0
+"No, centimeters.",student,2,1,,,
+"Centimeters.  Oh, okay.  So you did it by centimeters.  So –",teacher,11,2,,,0.0
+What’s so funny? Centimeters.  You’re supposed to do it by meters.,student,11,2,,0.0,
+"No. Well, it’s hard to describe.  That would be 7.5 -- Yeah. -- meters.  But I don’t – you guys haven’t really started doing decimals. We haven't done much conversions.  So it’s close.  What we just did, we rounded, right?  So it kind of was seven and a half, but we said we’ll round to the closest number.  So what was the width?  We can do it – this is good.  So we can do it in centimeters and in meters.",teacher,81,4,1.0,,0.0
+[Inaudible] five meters.,student,3,1,,,
+Five meters.,teacher,2,1,,,0.0
+Five hundred forty.,student,3,1,,,
+"Five hundred and forty.  Okay, 540 centimeters.",teacher,7,2,,,0.0
+But it’s five meters.,student,4,1,,,
+"Yep.  And what was the height, Student E, in meters?",teacher,10,1,,,0.0
+Height? [Three meters].,student,3,1,,,
+Eric?,teacher,1,0,,,0.0
+Three.,student,1,0,,,
+Three meters. What did you [Inaudible],teacher,6,1,,,1.0
+[Inaudible],student,1,0,,,
+Which one?,teacher,2,0,,,0.0
+Two hundred and twenty-one.,student,4,1,,,
+Two hundred and twenty-one?,teacher,4,1,,,0.0
+Twenty-one.,student,1,0,,,
+"Okay.  So the only one that didn’t really match up that much was this one, but might have been ‘cause we didn’t really stand up that well.",teacher,27,0,,,0.0
+[Inaudible],student,1,0,,,
+"It was kind of hard – no, it was kind of hard – yeah, yours and Student B matched up, but it was kind of hard to get all the way to the top of the ceiling.  So, if we did it in meters, what would the volume be?  What’s eight times five?",teacher,53,2,,,0.0
+Forty.,student,1,0,,,
+Times three.,teacher,2,0,,,0.0
+One twenty.,student,2,0,,,
+A hundred and twenty what?,teacher,5,1,,,0.0
+Meters.,student,1,1,,,
+Meters cu –,teacher,3,1,,,0.0
+Cubed.,student,1,1,,,
+Cubed.  Thanks.,teacher,2,1,,,0.0
+[Inaudible],student,1,0,,,
+"And Student D, were you able to – did you multiply all these out yet or were you working on it?  How many centimeters are in this classroom?   You were working on it? We were working on it. All right.  We didn’t get that far yet.  That might be a lot. Something centimeters cubed. It’d be a lot.  Like, a lot of those little centimeters would fit all in this classroom, right?  Yeah?  Okay.  What’s the length of the small box?",teacher,81,6,,,0.0
+Can I go to the bathroom now?,student,7,0,,,
+When we’re done with this.  In about a minute.,teacher,9,0,1.0,,0.0
+Ohhh.,student,1,0,,,
+The length of the small box.  Anyone who did it.,teacher,10,1,,,0.0
+"Oh, the length of the small box – I did.  I did. -- eight --",student,15,1,,0.0,
+Eight.,teacher,1,0,1.0,,0.0
+-- meters.,student,2,1,,,
+Eight meters?,teacher,2,1,,,0.0
+Eight [Inaudible] The small box?,student,5,0,,,
+Is it meters on – eight of these sticks?,teacher,9,1,1.0,,0.0
+"Oh, no.  It’s eight, just eight.",student,6,0,,,
+Eight what?   Did you use this side or the really small side? Probably –,teacher,14,0,1.0,,0.0
+[Inaudible],student,1,0,,,
+Did you use this side?,teacher,5,0,,,0.0
+I don’t know.  I just used it.,student,7,0,,,
+"You used this – this is called the inches side.  It’s important to have your label, okay?   So you did inches.  So it’s eight inches by what?",teacher,27,0,1.0,,0.0
+By seven.  The width is seven.,student,6,0,,,
+Seven inches.  Yep.  And –,teacher,5,0,1.0,,0.0
+And the height is six.,student,5,0,,,
+By six inches.  And when we multiply those what do we get?,teacher,12,1,1.0,,0.0
+We get –,student,3,0,,,
+What’s our volume?,teacher,3,1,,,0.0
+[Inaudible] no.  No. we get 336.,student,6,0,,,
+"Okay.  Three hundred and thirty-six inches cubed.  So, 56 times six.  So 50 times six is 300.  Yep, great.  Did anyone get to the large box?",teacher,26,2,1.0,,1.0
+Me.  And I’m on this page [Inaudible] I know what it is.,student,12,0,,0.0,
+What?  What were the dimensions of the large box?  Did you get to it?,teacher,14,1,0.0,,0.0
+The length is seven. I came close.,student,7,1,,,
+Of the large box?,teacher,4,0,0.0,,0.0
+Uh-huh.,student,1,0,,,
+Seven inches by what?,teacher,4,0,,,0.0
+"Eleven. Oh, no way.",student,4,0,,,
+Okay.,teacher,1,0,,,0.0
+"Seven.  No.  Yeah, no.",student,4,0,,,
+"Okay, and what’s the –",teacher,5,0,,,0.0
+"Yes, no, maybe so.",student,4,0,,,
+And what’s the volume?,teacher,4,1,,,0.0
+What did you say? The volume – I know. -- is 615. And that is?,student,15,1,,0.0,
+It can’t be 615.  Seventy-seven times seven.,teacher,7,0,1.0,,0.0
+Six.,student,1,0,,,
+You told me the dimensions were seven by eleven by seven. Right?,teacher,12,1,,,0.0
+Yeah.,student,1,0,,,
+Okay.  So it can’t be –,teacher,6,0,,,0.0
+Six times eleven.,student,3,0,,,
+"Well, we would do seven times 77, ‘cause seven times eleven is 77.  You have seven left.  So seven times 70 is what?",teacher,23,0,,,0.0
+Seven hundred forty-nine. One hundred forty.,student,6,2,,,
+What’s seven times seven?,teacher,4,0,0.0,,0.0
+Forty-nine.,student,1,0,,,
+Okay.  So what’s seven times 70?,teacher,6,0,,,0.0
+Forty-nine.,student,1,0,,,
+"Yeah, 490 plus, and then seven times seven plus 49.",teacher,10,0,,,0.0
+Fifty.  No wait. Five hundred – five hundred thirty-nine.,student,9,2,,0.0,
+"Five hundred and thirty-nine inches cubed, right?  There’s three inch labels.  That’s why we put the three.  All right.  Clean up your math things.",teacher,24,2,1.0,,0.0
+[Inaudible],student,1,0,,,
+[Inaudible],teacher,1,0,,,0.0

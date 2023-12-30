@@ -1,0 +1,290 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"All right, I think everything’s go for the cameras.  We’re going to start off today just by doing our daily word problems.  I’m going to pass these out real quick, and what I want you to do, if you would, is try to solve these problems.  Remember just to try to use everyday kind of logic. Don’t try to think about it too much, just try your best on these, Okay?  What I want you to do is probably just – why don’t we just stick with the second one where it says “Thursday Week Seven.”  You don’t have to do the first one right now; we’ll come back to that. Let me just read this real quick while you’re kind of working on it. It says, “Miss W’s class read for a total of 450 hours this month.  Mr. G’s class read two-thirds the number of hours read by Miss W’s class.  Miss R’s class read twice the number of hours read by Mr. G’s class.  If there were a total of 90 students in these three classrooms, what was the average number of hours read per student?” What was the average?  Remember we were doing a little bit of averaging yesterday?  So what you need to do is find the total of hours and divide that by the number of students. That will give you the average that each student read. So we have 450 hours this month that these 90 students read, right? So what is the average?  They’re asking you, what is the average amount?  Maybe they had one super student that read all 450 hours, right?  And then the 89 other students didn't read at all.  But they’re looking for the average. Go ahead.",teacher,289,10,,,0.0
+The answer?,student,2,0,,,
+"Go ahead, what do you think?",teacher,6,0,,,1.0
+I think the answer is five hours per student.,student,9,0,,0.0,
+Five hours per student.  And how did you figure that out?,teacher,11,0,1.0,,1.0
+"Because I just thought about it without the zeroes at the end, I thought about 9 times 5 equals 45, so that means 90 times 5 must be 450.",student,29,0,,1.0,
+"Okay, so you see, you figured it out just kind of by thinking about it.  Right?  You said 9 times 5 is 45, so you knew – what was the next comment you said?  You knew…",teacher,36,0,1.0,,0.0
+That helped me figure out 90 times 5.,student,8,0,,0.0,
+"90 times 5 equals 450.  So getting back to the question, what’s the average?  What is the average?",teacher,18,2,1.0,,0.0
+450?,student,1,0,,,
+Is it 450?  Is it 90?  Or is it 5?,teacher,10,0,,,0.0
+5.,student,1,0,,,
+5 hours.   So you’re saying each student read 5.,teacher,9,0,,,0.0
+Right.,student,1,0,,,
+"Okay?  So if we did that in this classroom, we have 14 students in this classroom, and if each student read for 5 hours a night. 14 students in our class.  5 hours.  5 hours for the month.",teacher,38,0,,,0.0
+5 times 14.,student,3,0,,,
+5 times 14 is how much?,teacher,6,0,,,0.0
+"There’s 14 students so, if five times 10 is… 70. If 5 times 10 is 50 then you have five times 4, and 70.",student,24,0,,0.0,
+"4 times 5. common, the 7 equals the 14, and then the 14 minuses the 7, and that makes it 7. All right, and so what’s 4 times 5?",teacher,29,0,1.0,,0.0
+4 times 5 is 20.,student,5,0,,,
+And then we can add the 50 and the 20 together and what do we get?,teacher,16,1,0.0,,0.0
+Then we get 70.,student,4,0,,,
+"Excellent job.  Did anybody else get that or kind of understood that?  Because we haven’t done a whole lot of averaging. That’s good.  We just kind of did it yesterday, we started with it, so I’m glad to see that you guys picked it up a little bit. So here’s our table of contents.  Take out your math notebooks please.   And today we’re going to be talking about symmetry, fractions on a number line.  So we’re going to continue our fractions.  We’re going to talk a little bit about symmetry.  Symmetry.  Symmetry, what is symmetry? Hold on, hold on.  Did I spell that wrong?  I did spell that wrong.  You guys.  S-Y-M-M-E-T-R-Y.  Symmetry.  My bad. And does anybody know what symmetry is?  It’s one of those math terms, it’s one of those words that is real, real specific to math.  Well, not really I guess.  What do you think, Student L?",teacher,151,11,,,1.0
+"I think it’s like if you cut the class in half, and then like put a mirror in front, and put the class together on the other side.",student,28,0,,0.0,
+"You’re saying, so if you put the whole class over on one side and you put a mirror, it would show you the other side. Good, that’s a pretty good definition.",teacher,31,1,1.0,,0.0
+If you fold the paper in half it would be the same size as the other side.,student,17,0,,1.0,
+"Okay, so if you fold something in half.  So if I took a piece of paper like this, how would you do that, Student K? So Student K said if he took something and folded it in half like a piece of paper, this paper’s pretty close.  It’s not 100 percent perfect.  But one side mirrors the other side. That means one side’s the same.  And you can do that with objects, you can do that with a lot of different things. Lines of symmetry.  Some objects have lines of symmetry and some objects don’t. Take a look at these objects on the sheet right here.  We’ll pass these out.  Did everybody write down the table of contents?",teacher,118,5,1.0,,0.0
+Yes.,multiple students,1,0,,,
+"Okay, I’ll turn that off real soon.",teacher,7,0,,,0.0
+I think I did this before.,student,6,0,,,
+"Yeah, I’m sure you guys have kind of done this before.  It’s one of those things that keeps on coming back.  On the top of your sheet that I just gave you are shapes like this. I did my best to trace’m. And they’re asking you in the first problem, it says: “Which of the above polygons have exactly one line of symmetry?” And one line of symmetry, there’s only one way to cut that in half so both sides look the same.  You can’t do it.  Like on this shape, on the shape Letter D, there’s a lot of different ways you can cut that in half, right?  And they will look the same.  And that’s lines of symmetry.",teacher,120,7,1.0,,0.0
+"Mr. D, do you need the answer for that one?",student,10,0,,0.0,
+"Just hold on to it for a second.  I’m just going to explain it then we’ll let everybody work on it a little bit, then we’ll come back, okay? So take a quick look, I’ll give you just a minute to see if you can find that one.  If you’re done with that problem, you can keep on going.  Go to B. “Which of the above polygons have at least four lines of symmetry?” Whoa.  Does this have more lines of symmetry here?",teacher,83,5,0.0,,1.0
+"Yeah, it has more lines.",student,5,1,,,
+"Okay, you can draw all the lines of symmetry.",teacher,9,2,1.0,,0.0
+"Mr. B?  There’s two of them that only have one line of symmetry, so let them both there?",student,18,2,,0.0,
+You can answer the questions and write down your answers on that sheet too.,teacher,14,0,0.0,,0.0
+I didn’t get [inaudible].,student,4,0,,,
+What’s that?,teacher,2,0,,,0.0
+I didn’t get [inaudible].,student,4,0,,,
+"No, you just need that one.  Oh, you didn't get this side.  Oh. Is there one with a backside here? So we’re doing on page 5, just so you’re not confused, and we’re going to do all the A through G.  I don’t mind if you work together a little bit.  If you have any questions you can ask your partners.  Good, Student K. How are you guys doing back here?  Good?  You guys had all this last year and all the other years.",teacher,84,0,,,1.0
+I forgot what congruent means.,student,5,0,,,
+Don’t worry about that one.,teacher,5,0,0.0,,0.0
+The same?,student,2,0,,,
+"Yeah, they’re the same, they just shifted.  None of them.  You don’t have to worry about Letter number E, we’re not going to go over congruency today.  So you’re going to do A, B, C, D and F.  Even G you don’t have to do. Okay just about another minute.  Did you do these, Student L?  Okay. Okay, so let’s look at the first one.  “Which of the above polygons have exactly one line of symmetry?” Okay?  Student T?",teacher,79,3,,,0.0
+A and B.,student,3,0,,,
+A and B.  Come up here and you can draw the – just draw it right on there.,teacher,18,0,,,0.0
+Draw what?,student,2,0,,,
+"Draw where the lines of symmetry are for A and B.  All right, very good.  Does everyone agree?",teacher,18,2,,,1.0
+Yes.,multiple students,1,0,,,
+Why can’t I do this?  Why can’t I cut this one like this?,teacher,13,0,,,0.0
+Because it won’t be symmetry because like the point.,student,9,1,,1.0,
+"You’re saying because there’s a point, if I folded that in half, it wouldn't be the same, right?",teacher,18,0,1.0,,0.0
+The point will be sticking out.,student,6,0,,,
+"You see that?  Go ahead, Student L. How about this way?  How about if I do it that way?  What do you think?",teacher,23,0,0.0,,1.0
+"No, that’s not equal.",student,4,0,,,
+"How about this one, Student O?  Do you think that’s… No?  How come?",teacher,13,0,,,1.0
+There’s two ways…,student,3,0,,,
+"[Whispers:] Let her answer. If you fold it right along this line, would this side and that side be the same?",teacher,21,1,,,0.0
+No.,student,1,0,,,
+"No, they would definitely look different.  Okay?  Student A just saw something that.  He said, how about if we draw a line like this?  Will that be equal?  Will both sides be equal that way?  What do you think, Student A?  No, because this side looks a little bit smaller, doesn’t it, over here, than this one.  So if you fold it, it’s not exact. It’s close, but I don’t think it’s exact. So let’s go down to the next question, B: “Which of the above polygons have at least four lines of symmetry?” That’s four different places where you can fold them.  Student L, what do you think?",teacher,109,4,,,0.0
+C and D.,student,3,0,,,
+"C and D.  Do you want to come up here and show us where, please? Good.  Does everyone kind of agree with that?  They kind of look like that.",teacher,29,0,,,1.0
+It looks like a pizza.,student,5,0,,,
+"It does.  They should make pizzas like that shape, huh?",teacher,10,0,1.0,,0.0
+Next question?,student,2,0,,,
+"All right, let me just make sure everyone…  Everyone understand this and how the different lines of symmetry are used here? Okay.  Next one. Which polygons above have the most lines of symmetry?  How many lines of symmetry does it have?  Go ahead, Student J.",teacher,45,7,,,0.0
+D.,student,1,0,,,
+"D, which is this one, yeah.  And how many lines? This one has four.",teacher,14,1,,,0.0
+Eight.,student,1,0,,,
+"How about this one, does this one have eight?",teacher,9,0,,,0.0
+That one has four.,student,4,0,,,
+Let’s take a look at it.,teacher,6,0,,,0.0
+"That one has six. When it’s going like that way, they just flipped it over that way.",student,17,0,,0.0,
+Let’s take a look at the [inaudible].  This is pretty good but it’s not exactly. On this one we have …  Are there any more lines of symmetry on either of these can we have?,teacher,35,2,0.0,,1.0
+No.,student,1,0,,,
+But one of these shapes has six sides and the other shape has eight sides.  This one has six.  This one has eight.  So which one has the most lines of symmetry?,teacher,32,2,,,1.0
+D.,student,1,0,,,
+"D.  But I’m still saying this one has the same, we showed you the way Student L did it.  Is there any other ways of symmetry we can do that?  Where?",teacher,31,1,,,1.0
+Right there.,student,2,0,,,
+"Yeah, come on up here and you can add some more lines if you like. Yeah.  Any more?",teacher,18,2,,,1.0
+The other way.,student,3,0,,,
+"Yeah, how about the other corners too?  Can we shoot’m in the other corners?",teacher,14,0,,,0.0
+Yeah. That?,student,2,0,,,
+"Or the other one?  How about down here?   Well, up to the corner.  I’ll do it down here so it’s a little bit…  So we have this one, are those two sides the same?",teacher,34,0,,,0.0
+Yes.,multiple students,1,0,,,
+This one?,teacher,2,0,,,0.0
+Yes.,multiple students,1,0,,,
+This one?,teacher,2,0,,,0.0
+Yep.,multiple students,1,0,,,
+This one?,teacher,2,0,,,0.0
+Yes.,multiple students,1,0,,,
+Then how about if we cut these in half?,teacher,9,0,,,0.0
+Yes.  That’s good.,student,3,0,,,
+Cut this in half again.,teacher,5,0,,,0.0
+It’s like cutting the pizza twice.,student,6,0,,,
+"Right, cutting it twice. Okay.  And then on this side, if we do it with this one, Student A, should I go from this corner?",teacher,25,0,1.0,,0.0
+Yes.,student,1,0,,,
+Straight down.  This corner?   This corner?  Okay.  And should we cut these in half again?  They look like they’re symmetric.  Okay?  So which one has the most lines?,teacher,28,2,,,0.0
+D.,multiple students,1,0,,,
+"D, yes.  And that shows it a little bit clearer doing it that way.  Okay?  Now, we actually just did D.  It says: “Draw all the lines of symmetry in the polygons above.” We’re not going to do E.  And for F it says: “Which polygon has more lines of symmetry—polygon A or polygon C?”",teacher,55,8,,,0.0
+C.,multiple students,1,0,,,
+A or C?,teacher,3,0,,,0.0
+C.,multiple students,1,0,,,
+"C.  And I think this really shows it, because this one really only has the one.  Exactly.",teacher,17,0,,,0.0
+It cuts it in half.,student,5,0,,,
+And how many lines of symmetry does C have?,teacher,9,2,0.0,,0.0
+"Four or five. Now, it has more than five.",student,9,0,,1.0,
+"Let’s count’m.   One, two, three, four, five, six … seven? Just six, I just counted them.  Start from the top 12 o'clock and then count across. That’s one, two, three, four, five, six.  Yeah, six, and you don’t count the other one, because we already counted it. Okay?",teacher,48,0,0.0,,0.0
+Ohhh! That makes sense.,student,4,0,,,
+"Okay, very good.  Let’s put that away please.",teacher,8,0,,,0.0
+Are we going to do the back?,student,7,0,,,
+What’s that?,teacher,2,0,0.0,,0.0
+The back.,student,2,0,,,
+We’re not going to do the back.,teacher,7,0,,,0.0
+What about G?,student,3,0,,,
+"No, we’re not going to talk about congruency today.  We’ll talk about that next time.  What we’re going to do now…",teacher,21,0,,,0.0
+Should I put that in [inaudible]?,student,6,0,,,
+"Yes. Okay, the next thing we’re going to do, we’ve been talking about fractions kind of on a pie, pie charts or clocks, like this, right?  Now we’re going to talk about fractions a little bit on a number line.  And in your book, look on page 51 in your student book.",teacher,52,3,0.0,,0.0
+What page? 51.,student,3,0,,,
+Page 51.  Is it 52 or 51?,teacher,7,0,,,0.0
+51.,student,1,0,,,
+"I think they’re both, I think there’s two of them, but we’re going to look at 51 right now.",teacher,19,0,,,0.0
+Is it unit one?,student,4,1,,,
+"No, it’s unit four.",teacher,4,1,,,0.0
+I don’t have it.,student,4,0,,,
+I might have it.  Here we go.,teacher,7,0,,,0.0
+I think I ripped it out.,student,6,0,,,
+"Here you go.  Which page did I say, 51?  Yeah, page 51.  What’s this?  Okay.  So you can see, these number lines, or these lines, start at what number?",teacher,29,2,0.0,,0.0
+Zero.,student,1,0,,,
+"Start at zero.  And if we have a fraction that looks like this, okay? What are those all equal to?",teacher,20,1,,,0.0
+Zero.,student,1,0,,,
+"Zero, right?  They are equal to zero.  It’s like if we put… So if we have these three, how much is 5 over 5 worth or equal to?",teacher,28,0,,,0.0
+One.,student,1,0,,,
+One whole.  10 over 10?,teacher,5,1,,,0.0
+One whole.,multiple students,2,1,,,
+15 over 15?,teacher,3,0,,,1.0
+One whole.,multiple students,2,1,,,
+"Okay. This means, if you’re looking at this, this means your whole could be broken up into five spots, but none of them are being taken up, so it’s worth zero.",teacher,31,1,,,0.0
+So it’s zero percent.,student,4,1,,,
+"Zero percent too, that’s exactly right. So let’s take a look at these number lines.  If I take…where’d I put that?   If you look at your number line, and we cut it right in half, okay?  Just like this.  If you have a pencil you can do it on your desk, or you can even draw a line down the middle, right down the middle, from the half up here all the way down to the star.",teacher,77,4,,,0.0
+I see it.,student,3,0,,,
+"You see it, all right.  Everyone see that?",teacher,8,0,,,0.0
+My line is crooked.,student,4,1,,,
+My line’s crooked too.,teacher,4,1,,,0.0
+The symmetry.,student,2,1,,,
+What’s that?,teacher,2,0,,,0.0
+The symmetry.,student,2,1,,,
+They are symmetric.,teacher,3,1,,,0.0
+"Yeah, but they don’t have the same numbers.",student,8,0,,1.0,
+"They don’t have the same numbers, that’s a great observation. So we’re looking down at that bottom dot, let me check it out.",teacher,23,0,1.0,,0.0
+[Inaudible],student,1,0,,,
+"You guys are so smart, before I even ask, you’re already answering it.  I don’t know what to do with some of you guys.  So we’re trying to figure out what could that dot be?",teacher,35,0,,,0.0
+Four-tenths. Five-tenths.,student,2,2,,,
+"Okay, five-tenths?",teacher,2,1,,,0.0
+"I was going to say four-tenths but… See how the top, if you go right down and you go to the zero tenths, then you count, then you get to that line and you know that’s half because you’re connected with half.",student,42,3,,0.0,
+"Exactly.  So Student J actually said something that was pretty good too.  I’m sure he’s not the only one who kind of got caught with that because I kind of did when I first looked at that.  I went, okay, I see four dots. I know this is tenths, so I’m going to go one, two, three, four, right?",teacher,59,1,1.0,,0.0
+It’s four-tenths.,student,2,1,,,
+It’s four-tenths.  Why isn’t it four-tenths?,teacher,6,2,,,1.0
+Because if it was four-tenths then there would be another dot right there between that one and that one.,student,19,1,,1.0,
+"Okay, so you’re saying if it was four-tenths it would have to be in between right here.  Everyone agree?",teacher,19,1,1.0,,1.0
+Yes.,multiple students,1,0,,,
+"Thumbs up if you guys agree?   Student A, you got that?",teacher,11,0,,,0.0
+I got it.,student,3,0,,,
+"Good, Student L.   Okay.  Now, so everyone label that, and we should label that five…",teacher,15,0,,,0.0
+Tenths.,student,1,1,,,
+"Tenths, right, Student A?  Five-tenths, right down the bottom. So I’m going to try to see…",teacher,16,2,,,0.0
+[Inaudible],student,1,0,,,
+"No, right down here.",teacher,4,0,,,0.0
+That’s five-sixteenths.,student,2,0,,,
+"Ooops, you’re right. Five-tenths.  Now, let’s look around.",teacher,8,1,,,0.0
+I thought it was four-tenths.,student,5,1,,,
+No.  We said it wasn’t four-tenths because…,teacher,7,1,1.0,,0.0
+[Inaudible],student,1,0,,,
+"Yeah, it’s one, two, three.  But how about this cap from here to there?  Is that more than …",teacher,19,0,,,0.0
+That’s like [inaudible] in the middle.,student,6,0,,,
+"Yeah, so if we had another one, if we had another dot right here, if I put this other dot.  And that’s in between. One, two, three-tenths.  Three-tenths and five, so what would that be if that dot was a…",teacher,40,2,0.0,,0.0
+Four-tenths.,student,1,1,,,
+"Four-tenths.  So if this is three-tenths, Mister Student D, what would that be?",teacher,13,2,,,0.0
+Two-tenths.,student,1,1,,,
+"Two-tenths, exactly. But we’re kind of jumping ahead a little bit.  So now what I want you to do is take your pencil or something else, and let’s go halfway between a half and zero.  Somewhere about halfway. It won’t be exactly, but I want to put something up.  Okay?",teacher,50,1,,,0.0
+One-fourth.,student,1,0,,,
+"Just line it up, okay?",teacher,5,1,,,0.0
+It would be like one-fourth.,student,5,0,,,
+Okay?,teacher,1,0,0.0,,0.0
+Where are we putting the lines?,student,6,1,,,
+We’re going between one-half and zero.,teacher,6,0,1.0,,0.0
+I don’t get it. I think it’s one-fourth because…,student,9,0,,0.0,
+"Sssshhhhhhh. Okay?  So what did I ask you to do?  Put a pencil, put a straight line right down from halfway between zero and a half.  And Student A noticed that it’s going to land on something, and what did it land on?  What’s directly below it?  One- fourth.  Okay?  And that makes sense, doesn’t it, with all the work we’ve done.",teacher,62,1,1.0,,0.0
+"Yes, one fourth, because a half would [inaudible].",student,8,0,,1.0,
+"Right.  Okay.  Now let’s look over here.  If we go the other way, one-half to one.",teacher,16,0,1.0,,0.0
+That’s another half.,student,3,0,,,
+"Okay.  Let’s draw our straight line down there. I’m sorry, it’s this way.",teacher,13,1,,,0.0
+Three-fourths.,student,1,0,,,
+What’s that?,teacher,2,0,,,0.0
+It’s three-fourths.,multiple students,2,0,,,
+"It’s three-fourths.  This is kind of a little bit off. So this one down below it, so this one’s going to be…",teacher,22,0,,,0.0
+Three-fourths.,multiple students,1,0,,,
+"Three-Fourths. So this dot right here is going to be three-fourths.  Okay?  And if we wanted to add the halfway points for the fourths, we could do that too.  So it would be right around there.",teacher,36,1,,,0.0
+Two-fourths.,student,1,0,,,
+"That would be two-fourths, right. So if we know this one – when we look on your sheet or you look up here, this distance between here and here looks similar to that distance between here and here.  Okay?  So if I did that…",teacher,44,2,,,0.0
+That’s one-fifth.,student,2,0,,,
+"So one-fifth.  Oops, I’m sorry.  So if you say that’s one- fifth, this dot right here, is one-fifth, it must be equivalent to what?",teacher,24,1,,,0.0
+Two-tenths.,multiple students,1,1,,,
+"Two-tenths, okay, good.",teacher,3,1,,,0.0
+So one-fifth is equivalent to two-tenths?,student,6,2,,,
+"Yeah.  Now let’s go up to the thirds, okay?  And if I look at this dot right here, and this dot, they look like they’re about the equivalent…",teacher,28,1,1.0,,0.0
+To two-thirds. That’s four-sixths.,student,4,0,,,
+"So this is the sixths down here, so what would that be?",teacher,12,0,,,1.0
+Four-sixths.,student,1,0,,,
+Okay.  So you say it’s four-sixths.,teacher,6,0,,,0.0
+Because it’s equivalent to two-thirds.,student,5,1,,,
+It’s equivalent to two-thirds.,teacher,4,1,1.0,,0.0
+Two-sixths is equivalent to one-third and four-sixths is equivalent to two-thirds.,student,11,2,,0.0,
+"Okay, very good.   Go ahead, Student L.",teacher,7,0,0.0,,0.0
+"So then the middle is three-sixths… Excuse me, Mr. D.",student,10,0,,0.0,
+"One second, let me just go back to Student L and then I’ll come to you.",teacher,16,0,0.0,,0.0
+"Student L said, “If this is two-sixths, and that’s four-sixths, and what’s in between that? Three-sixths.",student,16,0,,0.0,
+Three-sixths.  And what’s three-sixths equivalent to?,teacher,6,1,1.0,,0.0
+Two-fourths.,student,1,0,,,
+And it’s equal to…,teacher,4,0,,,0.0
+Half.,multiple students,1,0,,,
+A half too.,teacher,3,0,,,0.0
+It’s equal to five-tenths.,student,4,1,,,
+"And it’s equal to five-tenths, too.  You guys are getting this down.  So if we put this down here too…",teacher,20,1,,,0.0
+Four-eighths.,student,1,0,,,
+And that’s equal to what? If this is the eighths?,teacher,10,0,,,0.0
+Four-eighths.,student,1,0,,,
+"And what would this dot be?  Student L, what do you think?",teacher,12,0,,,1.0
+Four-eighths.,student,1,0,,,
+Four-eighths.,teacher,1,0,,,0.0
+Mr. D?,student,2,0,,,
+Yeah?,teacher,1,0,,,0.0
+"Before we finished with the tenths, I knew that this is three- tenths here and that’s five-tenths here, that would be four- tenths, and then five-tenths, and then six-tenths, and then seven, and all the way to one.",student,38,6,,1.0,
+"Okay, and if we did tenths all the way down to one, what would this last one be?",teacher,18,1,1.0,,0.0
+Ten over ten.,student,3,0,,,
+"Ten over ten, excellent.  You guys got this.  Six over ten, four over ten, okay?  Here.",teacher,16,0,,,0.0
+Is a half when the numerator can divide into the denominator equally by two?,student,14,3,,0.0,
+"Yes.  Student A just said, he just noticed, and we might have taught that, halves, you can divide the numerator into the denominator and it comes out to be two. Right?  So how many times does four go into eight?",teacher,40,3,1.0,,0.0
+Two.,student,1,0,,,
+"Two times.   And that means you divide it into two equal sides so it’s a half and a half.  Right?  And it’s okay if you’re not a hundred percent good with that.  Student T, how about this one?  We still have another dot over here.",teacher,45,3,,,0.0
+That’s one-sixth.,student,2,0,,,
+"One-sixth, okay.   How do you know it’s one-sixth?",teacher,8,0,,,1.0
+Because after zero is one-sixth.,student,5,0,,,
+"So this is one-sixth, two-sixths, three-sixths, four-sixths…",teacher,7,0,1.0,,0.0
+Five-sixths.,student,1,0,,,
+"Okay, and if we had other things over on the other side, that would be…",teacher,15,0,,,0.0
+Five-sixths.,student,1,0,,,
+Five-sixths.,teacher,1,0,,,0.0
+How come we don’t [inaudible] all the way to seven percent?,student,11,1,,0.0,
+"You could, but just for this example, the major thing we’re trying to get out of this is to look at this and start to think about fractions on a number line, okay?  And just remember that fractions are part of a whole, and the whole could be something like this, it could be part of the number line.",teacher,59,6,0.0,,0.0
+"Ohhh! I get this, Mr. D.  If that’s four-sixths, it’s zero- sixths, one-sixth, two-sixths, three-sixths, four-sixths, five-sixths, and then six-sixths is the number one.  Number one would probably be six-sixths.",student,30,0,,0.0,
+"Yes, six over six is number one.  It’s just like we said over here.  It’s like when you start it’s zero over six.",teacher,23,0,1.0,,0.0
+That’s four-tenths.,student,2,1,,,
+"Four-tenths?   Oh!  My bad.  You guys are passing all my tests. You guys are paying attention.  All right.  Do you want to put in some of these other ones?  Because these ones, how can we figure out, shall I put the dot right over here, or should I put a dot over there?",teacher,53,1,,,0.0
+How many sixes do we have? We’ll be right there between two-eighths and zero-eighths.,student,14,0,,0.0,
+"Okay, so if I do that I’m going to put my dot right here, is that okay?",teacher,17,0,0.0,,0.0
+No!,multiple students,1,0,,,
+Why not?,teacher,2,0,,,1.0
+"Because it has to be perfectly evenly inside of it. The eighths have to be all the same, they all have to be the same.",student,25,0,,1.0,
+The same what?  I know what you mean but I want you to say it.,teacher,15,0,1.0,,0.0
+The equivalent.,student,2,1,,,
+"Student M, what is she trying to say?  I know you understand this too?",teacher,14,0,,,1.0
+"Mr. D, it’s 9:33.",student,4,0,,,
+"I know, we’ve got two more minutes, I want to see if some people can get this.",teacher,17,0,,,0.0
+The equivalent fractions.,student,3,1,,,
+"They are equivalent, but what’s equivalent on the number line?",teacher,10,3,,,0.0
+They have to be equal.,student,5,0,,,
+Equal what?,teacher,2,0,1.0,,0.0
+Size.,student,1,0,,,
+"Size, or distance.  Yes, you were there, I knew exactly what you meant but I wanted you to say it.  So each of these little spots have to be the same distance.  It’s just like slices on the cake or the pizza.  I would rather have this big slice right here than that.",teacher,53,2,,,0.0
+Than have that small slice.,student,5,0,,,
+"I probably shouldn't but I like that, I like pizza like that. So let’s put it right in the middle, one-eighth.",teacher,21,0,1.0,,0.0
+Smack in the middle.,student,4,0,,,
+Right in the middle.  One-eighth.  How about between four and six?,teacher,11,0,,,0.0
+Five.,student,1,0,,,
+Five.  Right in the middle again?,teacher,6,0,,,0.0
+Yes.,multiple students,1,0,,,
+Okay.  Five-eighths.  And one more.  How about with this one?,teacher,10,0,,,0.0
+Seven-eighths.,student,1,0,,,
+"Seven-eighths.  And this is going to be…  If we want it, we can put it eight over eight, okay?",teacher,19,0,,,0.0
+[Inaudible],student,1,0,,,
+"We don’t have time, I know you guys want to keep on going on this and you like the fractions and all…",teacher,22,1,,,0.0
+It’s quite easy.,student,3,0,,,
+"You enjoy it when you understand it, right?  And you guys are starting to understand this stuff.",teacher,17,0,,,0.0
+"Mr. D, on the next page they did it for us.",student,11,0,,0.0,
+"On the next page – what we’re going to do tomorrow, not tomorrow unless you guys want to come in on Saturday.",teacher,22,0,1.0,,0.0
+"Yeah, I’ll come Saturday.",student,4,0,,,
+"No, you sure?  Okay, but on Monday we’re going to do different fractions, it’s on the back of that, and we’re going to do whole numbers with fractions, they call them mixed numbers. Okay?  Give yourselves a round of applause.  You guys did a good job! [Applause!]",teacher,47,4,,,0.0

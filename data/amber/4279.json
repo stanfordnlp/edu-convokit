@@ -1,0 +1,38 @@
+[
+    {
+        "start": "00:00.00",
+        "stop": "00:06.00",
+        "speaker": "Tutor",
+        "dialogue": "All right. Do you see the tools on the left-hand side of the screen?"
+    },
+    {
+        "start": "00:06.00",
+        "stop": "00:07.00",
+        "speaker": "Student",
+        "dialogue": "Yes."
+    },
+    {
+        "start": "00:07.00",
+        "stop": "00:19.00",
+        "speaker": "Tutor",
+        "dialogue": "All right. We're going to take a look at those for a minute and practice with a few of them because the erase button gets a little bit tricky, so we want to make sure that we can see all of your work, okay?"
+    },
+    {
+        "start": "00:19.00",
+        "stop": "00:31.00",
+        "speaker": "Tutor",
+        "dialogue": "So the third button down is a pencil. If you click on that, up above, they'll pop up a color and size box if you want to change the color or size of anything."
+    },
+    {
+        "start": "00:31.00",
+        "stop": "00:37.00",
+        "speaker": "Tutor",
+        "dialogue": "If you want to type anything, you can use the square with a T."
+    },
+    {
+        "start": "00:37.00",
+        "stop": "01:06.00",
+        "speaker": "Tutor",
+        "dialogue": "In the middle"
+    }
+]

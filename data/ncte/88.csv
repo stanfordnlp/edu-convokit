@@ -1,0 +1,399 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+We're going to start off by taking some notes.,teacher,9,0,,,0.0
+"Ms. H, I can't find my notebook.",student,7,0,,,
+"Well then could you find a piece of paper that you can take notes on, and when you do find your notebook we'll be able to staple it in there.",teacher,30,0,1.0,,0.0
+Never mind.  I found it.,student,5,0,,,
+Great.  Today is January 6th.,teacher,5,0,0.0,,0.0
+"I can't find that paper, Ms. H.",student,7,0,,,
+"You need no paper sweetheart.  We're just taking notes.  The project from yesterday is done.  We're still on the same topic, but the project is done.  It's a new day.  What have we been talking about in math the last couple of classes? And you've all been talking about it with Ms. T.  Student S?",teacher,55,0,1.0,,0.0
+Volume.,student,1,1,,,
+"Volume.  We're going to continue talking about volume, so the title today is going to be volume, which is what?  Length—",teacher,21,4,,,0.0
+"Times width, times height.",multiple students,4,0,,,
+"Can I go to the bathroom, Ms. H?",student,8,0,,0.0,
+"Yes.  So volume is telling me what?  What is volume?  When I'm finding the answer for volume, what is the answer telling me?",teacher,23,3,0.0,,0.0
+How much is in all.,student,5,0,,,
+"How much is in all?  What's another way?  If I'm thinking about boxes, right, start thinking about how many boxes I have all together or—",teacher,25,0,1.0,,0.0
+Square units.,student,2,2,,,
+"Okay, so I've been hearing square units, but is it square units we're thinking about?",teacher,15,4,,,0.0
+Cubit units.,multiple students,2,1,,,
+Cubic units.  What else?  What is the volume of something telling me?  How much it can – what?,teacher,18,3,,,1.0
+Hold.,multiple students,1,0,,,
+"How much it can hold.  So volume tells how many cubic units a box can hold.  So for example, if we had a box that was – let's see.  I'm going to draw a box, and you can do your best to draw it in to your notebook, okay?  I remember yesterday we talked about a trick how to do it.  Do you remember the trick how to draw the boxes?",teacher,71,3,,,0.0
+Yes.,multiple students,1,0,,,
+Should I show you again?,teacher,5,0,,,1.0
+Yes.,multiple students,1,0,,,
+"So what I do is I make a square, or a rectangle, then I make another square that's kind of going in to that first square, then I just connect all my bottoms, and my top corners, and then I have a box.  That's one way of drawing it.  So I have my box here, and I am going to give it a length.  So the length is going to be 6.  The width is going to be 3, and the height is going to be 2, and the unit here is just – we're going to use unit centimeters, okay?  These are centimeters.",teacher,104,10,,,0.0
+6 times 3 times 2?,student,5,0,,,
+"If I'm finding volume, you're right.  I would multiply 6 times 3 times 2.  Student L, if I was just thinking about the bottom layer—",teacher,25,2,1.0,,0.0
+It's equal sign.,student,3,0,,,
+Remember our project from yesterday?,teacher,5,0,,,0.0
+Yes.,multiple students,1,0,,,
+Just think about my bottom layer.  Which of these numbers is telling me the bottom layer of this cube?,teacher,19,1,,,0.0
+6.,student,1,0,,,
+The 6 and the—,teacher,4,0,,,0.0
+3.,multiple students,1,0,,,
+3.   So the length and the width is telling me how many are in the bottom layer.,teacher,17,1,,,0.0
+[Inaudible].,student,1,0,,,
+Ms. T taught you that too?  It's great we're all working on the same math concept.,teacher,16,0,,,0.0
+18.,student,1,0,,,
+So you got 18 for that.  So the bottom layer is made out of 18 cubes.  How many layers do I have?,teacher,22,1,,,0.0
+2.,student,1,0,,,
+"I have 2 layers.  That means I have 2 times 18 which is giving me – 18 times 18, so—",teacher,20,0,,,0.0
+36.,student,1,0,,,
+"If you just know it, you can write 36.  If you didn't just know it, you could add two 18s, right?  8 plus 8 is 6, carry the 1, 1 plus 1 is 2 plus 1 is 3.  So am I done if I just write 36?",teacher,47,1,,,0.0
+No.,multiple students,1,0,,,
+"I need to do 36 cubic – then I need to go look at my label, right?  In this case, CS stands for—",teacher,23,0,,,0.0
+Centimeters.,student,1,1,,,
+"Centimeters, but instead if I had inches there, then I would write inches, right?  If I had feet I would write feet.  If I had yards, I would write yards, but the one thing that stays the same is this right here, cubic.  Then I'm not sure if Ms. T talked to you about this or not, but another way you can write it, cubic centimeters, is by going like that.  Because the 3 stands for how many dimensions?  1, 2, 3 dimensions.  To see this, you would read it as 36 cubic centimeters.  Same way you would read it if you had written a word, but this 3 stands for cubic, okay?",teacher,113,7,,,0.0
+Yes.,multiple students,1,0,,,
+"So it's a choice that you have.  Now if I find the volume to be 36 cubic centimeters, how many cubes could I fit in there?",teacher,26,3,,,0.0
+[Inaudible].,student,1,0,,,
+Could you say it again?,teacher,5,0,,,0.0
+"To find out you can do the length, times width, times height.",student,12,1,,0.0,
+"Yeah, and I just did that, and I found out what?",teacher,11,0,1.0,,0.0
+36.,multiple students,1,0,,,
+"36, so the volume is 36.  How many cubes are going to fit in there?",teacher,15,2,,,0.0
+36.,student,1,0,,,
+"36 of them, right.  So if I had cubes that were equal to one centimeter, each of them, then I would be able to fit 36 of them in here, and yesterday, and the day before when we did our project, we found that, right?  If we were to take the cubes here, and I was to build this box, you guys think that it would be 36 cubes that would fill it up?  So what is the bottom layer going to be again?  Can you guys do the bottom layer for me?  I'm going to have you guys build the bottom layer for me.  Then how many bottom layers do I need – how many layers do I need all together?  What's the height?",teacher,125,4,,,0.0
+18. 2.,student,2,0,,,
+"2.  I need 2 layers, so would you guys be able to build another 6 by 3 for me?  Build a 6 by 3.  In the back, if you were to build – if they were building 2 layers for me – each of them is going to have 6 cubes, 3 times.  That's how many cubes?  What's your guess?  What's 6, Student P, 3 times?",teacher,66,2,,,0.0
+18.,student,1,0,,,
+18.  So they're going to have 18.  How many are they going to have?,teacher,14,0,,,0.0
+18.,student,1,0,,,
+"18.  So then how many cubes is that all together?  36.  So the volume is telling you how many cubes are going to fit in there, okay?",teacher,27,3,,,0.0
+"Ms. H, [inaudible].",student,3,0,,,
+"I think it's okay, but thank you.  I'll twist it.  Thanks.  So did you build it?  So how many cubes are in there?  Student A had a guess, because it's a 6 by 3, and she guessed there'd be 18.  Is she right?",teacher,43,1,,,0.0
+Yes.,multiple students,1,0,,,
+"So your layer has 18, and you guys are still building.  They had to guess about how many would be in yours.  They said [inaudible].  You're perfect.  How many cubes are there?",teacher,32,1,,,0.0
+18.,student,1,0,,,
+"18.  So we had 18, and we had 18.  This is the bottom layer, and it's telling me there's two of these layers, right?  So I have 18 and 18, and that gives me what?",teacher,35,0,,,0.0
+36.,multiple students,1,0,,,
+So how many cubes are in here?,teacher,7,1,,,0.0
+36.,multiple students,1,0,,,
+"36, and that's the same as the volume, 36 cubic centimeters. So do you remember this morning when we had our morning problem?",teacher,23,2,,,0.0
+Yes.,multiple students,1,0,,,
+"And it asked you could a – could 50 centimeters fit in to a certain box?  If I asked you about this box, could 50 cubes fit in to that box?",teacher,31,2,,,1.0
+No.,multiple students,1,0,,,
+No.  Why not?  Why could 50 cubes not fit in to this box?,teacher,13,1,,,1.0
+Because it's more than 36.,student,5,0,,,
+More than 36.  The max number of cubes that could fit in to this box is—,teacher,16,1,1.0,,0.0
+36.,student,1,0,,,
+"36, yeah.  You said it.  You were right.  36.  What is it?",teacher,12,0,,,0.0
+[Inaudible].,student,1,0,,,
+"Exactly.  So Student M is saying that in this box I can only put up to 36.  The most I can put in is 36, but I can put in any number of cubes that is smaller than 36.  Can you give me an example of how many cubes can fit in here?",teacher,53,2,,,1.0
+24.,student,1,0,,,
+"24 cubes could fit in here, because that's smaller than 36, or less than 36?",teacher,15,1,,,0.0
+Uh-huh.,student,1,0,,,
+11 cubes could fit in here because that's less than 36.,teacher,11,1,,,0.0
+"The bigger number that we have, like, you can't fit 50, 60 in there.  How can you fit like 11, 12 cubes in there?",student,24,1,,1.0,
+"Okay sweetheart.  We're imagining that this is a box, so if you have a regular box, like a shoe box, it's empty on the inside, right?",teacher,26,0,1.0,,0.0
+Mm-hmm.,student,1,0,,,
+It's just the outside.,teacher,4,0,,,0.0
+Oh.,student,1,0,,,
+"But because this is made out of actual cubes, you can't see, but if I had another box – maybe I can remember to bring in a box tomorrow so we can see it.  Maybe we can measure that and see how many cubes would fit in to there.  So we're imagining this is a box.  Student A, if this was empty in the middle, and it was just like the outside, then we would be able to fit 11 cubes in here.",teacher,83,4,,,0.0
+Oh.,student,1,0,,,
+"The most we would be able to fit in here if we lined them up perfectly, would be 36.",teacher,19,1,,,0.0
+Oh.,student,1,0,,,
+"Okay.  Student M, that was a good point.  Thank you.  So today because I know you've been practicing volume with Ms. T, and we've been practicing it here, I'm going to give you an opportunity to do some independent work, and we're going to go over it to see what you know how to do.  We're going to start off together, then I'm going to give you a chance to do a little bit by yourself.",teacher,76,1,,,0.0
+"What is it, like a sheet?",student,6,0,,,
+"Yeah you're going to do a packet.  We have a new packet, so I'd like you to leave your notebooks on your desk in case you have to go back and look back in to your notes if you're getting confused, and I have a new packet for you.  I put it somewhere.",teacher,53,0,1.0,,0.0
+Is it hard?,student,3,0,,,
+"Very smart a minute ago.  Oh here I go.  I put it right on my chair.  I already put your name on it, so you don't even need to put your name.  Just put today's date.  Student M, Student A, Student A, Student L, Student C, Student J is not here, so I will leave his packet [inaudible].  So I have this – I photocopied all of these so we could do it up front too, so it wouldn't be a guessing game.  Student M, I copied your packet, so your name is on it.  Can you see that?  Can you turn off one of the lights for us, Student A so that everyone can see this better?",teacher,118,0,,,0.0
+"You mean both of the lights, because—",student,7,0,,,
+"Well, okay.  We can do both the lights.  There's no way of regulating anymore.  Okay.  So it says Harvey is filling a carton with small boxes.  How many boxes will fit in the carton?  That's exactly what we were just talking about, right?",teacher,43,0,1.0,,0.0
+Yes.,multiple students,1,0,,,
+"So he has a box, and the box's length is – what is the length?",teacher,15,2,,,0.0
+5.,multiple students,1,0,,,
+"5, and what is the width?",teacher,6,0,,,0.0
+2.,multiple students,1,0,,,
+"2, and what is the height?",teacher,6,0,,,0.0
+3.,multiple students,1,0,,,
+"So to find out how many cubes will fit in to this box, I need to find the volume, right?",teacher,20,2,,,0.0
+Yes.,multiple students,1,0,,,
+"Because the volume tells me how many cubes will fit.  So to find volume – you guys already told me its volume, its length times width times height.  You could do this with us.  It's already done on the paper, but if you could do it with us again, just as a practice, that would be good.  So that means I'm going to multiply 5 times 2 times 3.  First I'm going to add my bottom layer.",teacher,77,7,,,0.0
+"30.  Oh, sorry.",student,3,0,,,
+"What's 5 times 2, Student A?",teacher,6,0,,,0.0
+10.,student,1,0,,,
+10.  How many layers of 10 do I have in this picture?,teacher,12,0,,,0.0
+3.,multiple students,1,0,,,
+"3 of them, which equals 30, so if I was writing volume I would write 30 cubic—",teacher,17,1,,,0.0
+Units.,multiple students,1,1,,,
+And then how did you know it was units and not yards?,teacher,12,2,,,1.0
+Because it said where the numbers are—,student,7,0,,,
+"Guys, how about we raise our hands?  Because it's going to get very confusing.  Student S.",teacher,16,0,0.0,,0.0
+Because it says it right next to the numbers-,student,9,0,,1.0,
+Right in the picture up here it tells you?,teacher,9,0,1.0,,0.0
+Yeah.,student,1,0,,,
+"It says units, so you know it's 30 cubic, then you go back and you're going to write units.  Student A, this information is telling me how many cubes are going to fit in to this box?",teacher,37,3,,,0.0
+30.,student,1,0,,,
+"30.  So because the question was how many boxes will fit in the carton, you would write 30.  The answer is 30 boxes will fit in the carton.  They wrote a nice sentence.",teacher,33,0,,,0.0
+"Why do they write it like that?  The way they write it, they [inaudible].",student,14,0,,0.0,
+You mean the handwriting?,teacher,4,0,1.0,,0.0
+Mm-hmm.,student,1,0,,,
+"They just used a different font on the computer when they did it, just to make it look like a different writing.  So you guys are going to be doing the same thing.  It says, ""Tim wants to collect sand from the beach.  He will use the box with the greater volume.""  What's another word for greater?",teacher,57,1,,,0.0
+Greatest.,student,1,0,,,
+Big.,teacher,1,0,,,0.0
+Huge. Large.,student,2,0,,,
+"But if I'm talking about like – if he's going to use the one with the greater, he's going to use the one with the—",teacher,25,0,,,0.0
+Most.,multiple students,1,0,,,
+"Most, right?  So the biggest, or the largest.  These are all words that means the same thing as greatest, right?  He wants to use the box with the greatest volume.  Draw a ring around the box with the greatest volume.  What we need to do is we need to figure out of these two boxes, which one is going to hold the most sand?",teacher,64,2,,,0.0
+So that means we're going to have to do the same thing we did up there?,student,16,0,,0.0,
+Exactly.  We're going to have to find the volume.  The volume is going to tell us which one is going to be able to hold more sand.  So to do that what would I do?,teacher,35,2,1.0,,0.0
+Length times width times height.,student,5,1,,,
+"Length times width times height for each of these, right?  So this first one, what is the length for the first one?",teacher,22,2,1.0,,0.0
+6 times 2 times 3.,student,5,0,,,
+"The width is 2, and how many layers?  3 layers.  Okay.  So I'm going to multiply.  Student A, I would like you to try to control your shouting out, okay?  Student A, if I was doing the bottom layer, I would be multiplying 6 times what?",teacher,46,2,1.0,,0.0
+2.,student,1,0,,,
+"Student A, what's that going to give me?",teacher,8,0,,,0.0
+12.,student,1,0,,,
+"Then how many layers of 12 is this picture telling me I have, Student M?  How many layers of 12 do I have?",teacher,23,0,,,0.0
+3.,student,1,0,,,
+"3 of them.  You're right.  So the height tells me how many layers.  Now 12 times 3.  If you just know it, you can write it.  If you don't just know it, you can break apart the number, or do the algorithm.  Student C, you just know it?  What is it?",teacher,51,1,,,1.0
+18.,student,1,0,,,
+12 times 3?,teacher,3,0,,,0.0
+"Oh, I'm sorry.",student,3,0,,,
+That's okay.,teacher,2,0,,,0.0
+12 times 3 is—,student,4,0,,,
+You skip counting?,teacher,3,0,,,0.0
+Yes.,student,1,0,,,
+"So you're saying 12, then 24, plus another—",teacher,8,0,,,0.0
+36.,student,1,0,,,
+36.  So the answer is what?,teacher,6,0,,,0.0
+36.,student,1,0,,,
+36—,teacher,1,0,,,0.0
+Cubic units.,multiple students,2,2,,,
+"So this box could hold 36 cubic units of sand, right?  So do I just now know which one is bigger, or do I have to do the volume on the next one?",teacher,33,3,,,0.0
+I already did it.,student,4,0,,,
+"If you already did it, then you can circle on your paper which one is bigger.  If you didn't already do it, could you please by yourselves find the volume of this box?  I'm going to walk around and see how you're doing it.  So Student S, you solved it.  Which one of these is going to be bigger?  You circled the box that is going to hold more sand.  Excellent job.  Perfect.  Okay.  So now that you have figured out how much each one of them can hold, can you circle the one that can hold more?  Circle the whole box.  How's it going, Student A?",teacher,107,6,,,0.0
+It's going okay.,student,3,0,,,
+It's going okay?,teacher,3,0,,,0.0
+[Inaudible]/,student,1,0,,,
+"Oh great.  So you found the answer, right?  You found this one is 36, and you found this one was 40.  Which of these boxes can hold one?  The one with 40, so circle that one. Perfect Student A.  Good job.  Okay.  So all of you guys, you found the right answer.  Student A, sit down and stop moving around.  Thank you very much.  So you guys multiplied 4 times 2 times 5.  4 times 2 gave you 8.  8 times 5 gives me—",teacher,84,2,,,0.0
+40 cubic meters.,multiple students,3,1,,,
+Cubic units.  So I'm comparing now the number 36 and the number 40.  Which of those is bigger?,teacher,18,2,,,0.0
+40.,student,1,0,,,
+"40 is a bigger number, Student S.  You're right.  So which one of these is going to hold more sand?",teacher,20,0,,,0.0
+40.,student,1,0,,,
+"The box that can hold 40 cubic units, so that's the one I needed to circle.  You all did it.  Very good.",teacher,22,3,,,0.0
+I know why [inaudible].,student,4,0,,,
+"So if Tim wanted to figure out which of these boxes down here would hold the most sand, Student L, what would you have to do?",teacher,26,0,,,1.0
+Can I use a piece of paper?,student,7,0,,,
+"Sure.  If Tim – now he went to the beach.  He collected his sand, and now he wants to go back and get more, and these are the choices he has for his box, and he wants to get the most sand again.",teacher,43,0,0.0,,0.0
+He'd have to add the volume.,student,6,2,,,
+He has to figure out the volume.,teacher,7,1,1.0,,0.0
+Yeah.,student,1,0,,,
+Okay.  So can you guys please try to figure out the volume for these two?  Did you do both of them already?,teacher,22,1,,,0.0
+Mm-hmm.,student,1,0,,,
+"You're really fast at this.  Okay.  So now, which one is bigger?",teacher,12,0,,,0.0
+This one.,student,2,0,,,
+"Okay.  Perfect.  Which one is bigger?  Great.  Do you need so help, Student S?  You've got it?  Okay.  Okay.  So it looks to me like most of us have found an answer.  I think we can start going over which box is bigger.  So for the first box, the 2 by 6 by 4, what was the volume that you found, Student S?",teacher,63,1,,,0.0
+2 times 6 times 4.,student,5,0,,,
+So you're saying you did 2 times 6 which gave you—,teacher,11,0,1.0,,0.0
+12.,student,1,0,,,
+"12, and that by 4 is what?",teacher,7,0,,,0.0
+48.,student,1,0,,,
+"48 cubic units.  Okay.  Student M, do you want to do the next one?  Okay.",teacher,15,2,,,0.0
+[Inaudible] 6 times 7.,student,4,0,,,
+Okay.  What's 6 times 7?,teacher,5,0,,,0.0
+42.,student,1,0,,,
+42 times 1 which is—,teacher,5,0,,,0.0
+42.,student,1,0,,,
+42 cubic units.  So now that I found both volumes I need to compare the two.,teacher,16,3,,,0.0
+Wait – 42?,student,3,0,,,
+What's 6 times 7?,teacher,4,0,,,0.0
+42.,student,1,0,,,
+What did you have?,teacher,4,0,,,1.0
+I had 36.,student,3,0,,,
+"6 times 6 is 36.  You skipped that.  One more.  So 42.  So which number is bigger, 48 or 42?",teacher,20,0,,,0.0
+48.,multiple students,1,0,,,
+"48 is the bigger number.  So if he wanted to pick the box that would hold the most sand, he would pick 48.  Okay.  So— So Student S, can you turn the lights on for us again?  So there's one thing that we've been doing.  We've been really sticking to which one's the length, which one's the width, and which one's the height.  Do you guys remember when we were just doing regular multiplying, like when we were doing 2 times 6?",teacher,82,2,,,0.0
+Yeah.,student,1,0,,,
+Is that going to give me the same answer as 6 times 2?,teacher,13,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Yeah, so 2 times 6 is going to give me 12, and 6 times 2 is going to give me 12.  So it doesn't really matter which order the numbers are in, right?  It's still going to give me the same answer.  It's just – what is the order telling me?",teacher,51,0,,,0.0
+That they're both the same.,student,5,0,,,
+"Well, no.  The order – when I multiply them, I'm going to get the same answer, but what is the order telling me?  If I were to draw a picture of 2 times 6—",teacher,34,1,0.0,,0.0
+Both would be the same option.,student,6,0,,,
+"If 2 is telling me how many groups I have, right, and 6 is telling me how many things are in each group, so that would be the picture for 2 times 6, and the picture for 6 times 2 would be how many groups?",teacher,45,0,0.0,,0.0
+6 groups.,student,2,0,,,
+6 groups with how many things in it?,teacher,8,0,,,0.0
+2.,multiple students,1,0,,,
+"So the picture looks different, but the answer is—",teacher,9,0,,,0.0
+The same.  They're going to have the same numbers.,student,9,0,,0.0,
+"Exactly.  So with volume, it's the same thing.  It doesn't matter which numbers you multiply first.  You're going to get the same answer.  It's just that the numbers are telling you what the pictures look like, okay?  So if I had the numbers 1 times 3 times 6, this is length times width times height, right?",teacher,56,3,1.0,,0.0
+Mm-hmm.,student,1,0,,,
+So how long would this box be?,teacher,7,0,,,0.0
+1 line.,student,2,1,,,
+How wide would it be?,teacher,5,0,,,0.0
+3.,multiple students,1,0,,,
+"So it would be – I'm going to try my best to do the lines for you.  1, 2, 3.  How tall is it going to be?",teacher,27,1,,,0.0
+6.,multiple students,1,0,,,
+"So I'm going to have to now build up 1, 2 – it's 4, 5, 6, right?  And all of these are now going to come up.",teacher,27,0,,,0.0
+It's just like the one they made.,student,7,0,,,
+"So if I have it like this, this is what a 1 by 3 by 6 looks like, right?  What's that equal to?  What's 1 times 3?",teacher,27,0,0.0,,0.0
+3.,multiple students,1,0,,,
+"3, and then 3 times 6 is—",teacher,7,0,,,0.0
+18.,multiple students,1,0,,,
+"18 cubic units.  Now if have a 3 by 6 by 1, what's that going to equal to?",teacher,18,2,,,0.0
+18.,multiple students,1,0,,,
+But is the picture going to look the same?,teacher,9,0,,,0.0
+No.,student,1,0,,,
+No.  The picture is now going to be how long?,teacher,10,0,,,0.0
+3.,student,1,0,,,
+"3 long, how wide?",teacher,4,0,,,0.0
+6.,student,1,0,,,
+"6 wide.  So it's going to be 1, 2, 3, 4, 5, 6, then how tall?",teacher,16,0,,,0.0
+1.,multiple students,1,0,,,
+"1 tall.  So it's like it got turned on its side, right?",teacher,12,0,,,0.0
+Mm-hmm. Flipped over.,student,3,0,,,
+"Got flipped over.  So it doesn't matter what order I multiply it in.  It's always going to give me the same answer.  The difference is what the picture is going to look like, okay? So what I'm going to do is I'm going to give you guys – I want you in your notebook to try this, okay?  I'm going to give you 2 different boxes, but they're going to have the same numbers that you're multiplying, but the picture is going to be different, okay?  I want you to try to draw the picture.",teacher,95,2,,,0.0
+"Do we have to do in circles, in boxes?",student,9,1,,0.0,
+"Well we're doing volume, so you're going to be doing a box.",teacher,12,1,1.0,,0.0
+Ah man.,student,2,0,,,
+"So I want you to find the volume.  Draw a picture of each box, and find the volume.  That's the directions.  You don't need to copy the directions.  Box number 1, box number 1 that I want you to draw is going to be a 4 by 2 by 3 boxes. So remember, what's the 4 telling me?",teacher,58,2,,,0.0
+How long.,student,2,0,,,
+How long.  The 2 is telling me how—,teacher,8,0,,,0.0
+Wide.,multiple students,1,0,,,
+And the 3 is telling me how tall.  Now box number 2 that I would like you to try is going to be a 2 by 3 by 4.  So how long is this box?,teacher,35,0,,,0.0
+2.,student,1,0,,,
+How wide?,teacher,2,0,,,0.0
+3.,student,1,0,,,
+And how tall?,teacher,3,0,,,0.0
+4.,multiple students,1,0,,,
+"All right.  If you're having trouble drawing it in your notebook, I can give you the cubes instead.  Who would like cubes instead?  Who else would rather have cubes?  You guys over here.  So we're building two boxes.  The first box I want to build is a 4 by 2 by 3.  There's a label inside. So now when you want to [inaudible] over.  So which one's that?",teacher,68,3,,,0.0
+The first one.,student,3,0,,,
+"Okay.  Can you put it down so it's like the first box?  When you're looking at it you have 4 by 3 and 2 high.  So it's like that.  4 by 2 by 3.  Okay.  Now build the next box, and label your sides.  Find the volume.  You drew the pictures, now find the volume.  The pictures don't look the same, right?",teacher,62,2,,,0.0
+No.,student,1,0,,,
+What do you think about the volume?  Why would it be the same?,teacher,13,1,,,1.0
+"Because it has the same numbers, but they're just switched around.",student,11,0,,1.0,
+"This is our first one, right?  4 by 3 by 2?  So this one, put it down like this, 4 by 3 by 2, then how would I do the second one?  2 facing this way, 2.  These are backwards. How's it going?",teacher,43,0,0.0,,0.0
+Good.,student,1,0,,,
+"Did you fill up your two boxes?  Would you have to build two? So you built one.  Do you have to build another one, or do you just turn it?  You build another one?  Okay.  You know what you can do, you can [inaudible].  So that's one box, so how about—",teacher,51,0,,,0.0
+I can just turn it.,student,5,0,,,
+Why?  Why can you just turn it?,teacher,7,0,1.0,,1.0
+Because it's the same thing.,student,5,0,,,
+"So show me how you would put the box down if it was a 4 by 2 by 3.  So 4 would be facing – I think your box is 1, 2, 3, 4, 5.  So 4 – so this is the first box if you're looking at it this way.  4, 3, 2 high.  Okay.  And what's the volume of this box?  4 times 3 is—",teacher,67,1,0.0,,0.0
+"Wait, 4 times 3 is 12—",student,6,0,,,
+Times 2 is—,teacher,3,0,0.0,,0.0
+24.,student,1,0,,,
+"24, good.  So the first box is 24.  Now if I were to turn it – how would I have to turn it to make it box number two?  So the 2 has to face forward right?  I'll be right there, Student S.  4 by 3 by 2, or is it 2 by 3 by 4?",teacher,56,0,,,0.0
+2 by 3 by 4.,student,5,0,,,
+"So it has to be like this, 2 by 3 by 4.  So now I have 2 times 3 is—",teacher,20,0,1.0,,0.0
+Oh.  2 times 3 is 6.,student,6,0,,,
+Times 4?  6 times 4.,teacher,5,0,1.0,,0.0
+24.,student,1,0,,,
+"You're right.  So it's the same thing, right?  So does this prove to me that no matter how you do the numbers, they'll always equal the same thing?",teacher,28,0,,,0.0
+Yes.,student,1,0,,,
+"Because really it's the same box, just turned in different directions, right?  Can you think of one more way to turn this?  What's one more way I can have the same numbers but have it turned a different way?  So what would you start with?  We did 4 times 3 times 2 already.  We did 2 times 3 times 4.  What are you going to do?  So this is what?  3 by 2 by 4.  Good job.  Good for you.  Do you want to work with Student S and show her our trick?",teacher,93,0,,,0.0
+Yes.,student,1,0,,,
+The trick we wound up with?,teacher,6,0,,,0.0
+I'm done.,student,2,0,,,
+You're done?  So you built one box?,teacher,7,0,,,0.0
+Ms. H.,student,2,0,,,
+"Yes, sweetheart?",teacher,2,0,,,0.0
+"On box 2, you have [inaudible] pieces in it.",student,9,0,,0.0,
+"Oh, I didn't put an H?  Do you want to go fix it so it looks like an H in case anyone gets confused?  So the both of you are done, so let's talk about it.  What's happening?  If you're waiting for me to come talk to you, you could go on to page 2 in your packet.  You're still working on building your box?",teacher,65,0,0.0,,0.0
+Yes.,student,1,0,,,
+"Just keep trying.  You'll get it.  Great.  So you built the two boxes, and you built one box?",teacher,18,0,,,1.0
+2.,student,1,0,,,
+You drew them.,teacher,3,0,,,0.0
+Yes.,student,1,0,,,
+"Great.  So let's look at your drawings and his, and see what you're doing so you don't get confused.  So the first box – put the extra cubes to the side so we don't get confused. The first box is a 4 by 3 by 2.  So which one of your boxes is the 4 by 3 by 2?  This is one is it?  So 4 by 3, and then 2 high?  That's the first box is like what you have? What's the volume here?  So the bottom layer is 4 times 3 which is—",teacher,95,2,,,0.0
+12.,student,1,0,,,
+"12, and how many of those layers do I have?",teacher,10,0,,,0.0
+2.,student,1,0,,,
+"2 of them, right?  So that would give you what?",teacher,10,0,,,0.0
+24.,student,1,0,,,
+"24 cubic units.  Okay.  Now the second box that you drew and that you built, what were the dimensions of the second box?",teacher,23,3,,,1.0
+2 by 3 by—,student,4,0,,,
+"So the 2 is looking [inaudible], the 2 by 3 by 4.  So the bottom layer is 2 times 3 which is—",teacher,22,0,,,0.0
+6.,student,1,0,,,
+"6, and how many of those layers do I have?  4 of them right? So what's 6 times 4?  24.  So it's the same thing.  If I took this box and I just knocked it over, is it the same thing?  So basically the number of it is telling me how to draw it or build it, but if the numbers are all the same, it doesn't matter what order they're in.  You're still getting 24, right?  Now say there was a third box I wanted to be a 3 by 4 by 2.  That's different than what's up there, right?  3 times 4 gives me – no, 3 times 4 gives me—",teacher,113,0,,,0.0
+12.,student,1,0,,,
+"12, and I already have 2 12s, 2 layers, 24.  So really I didn't need to build two boxes.  I could just build one box and twist it around.  So it doesn't matter how you multiply it or what order you multiply it in.  The number that are [inaudible] try to draw a picture of it, okay?  So sometimes, like if I was trying to multiply this, but I was multiplying 5 times 9 times 2, [inaudible].  I could find the 10.  5 times 2 times 9 is 90.  You can multiply it any way that makes it easier for you.  If you know 9 times 5 is 45, right, times 2 is – you know 9 times 2 is 18.  If I multiply that by 5, what would I get?  It would be 90.  So it doesn't matter what order you do it in.  The order is only important if you're trying to [inaudible].  Would you go on and try 3 from page 2?  So you were calling me.  Do you need me?",teacher,174,6,,,0.0
+Yes.,student,1,0,,,
+"Okay.  Are you trying to explain it to her?  Are you having a hard time?  Okay.  She's done?  Student A, why don't you come join us up here?  Come.  You can sit in this chair. We'll just talk about it really quick, okay?  So Student S, if you're finished with it, you can actually start collecting cubes from all the kids, and start helping us pack up, okay?  Thank you.  When you're done with that, I have a challenge [inaudible] for you.  So look.  You're just starting to build nonsense.  I don’t appreciate that. So we're going to keep these cubes up here for a little bit.  We don't need your box.  We have two of her boxes. So you built two boxes.  Student L said he didn't need to build two boxes.  You just needed to build one box, and he's right.  So, but you're right too.  You built two boxes.  You built one box, and you're both right.  How can that be?",teacher,164,2,,,1.0
+They're the same thing.,student,4,0,,,
+"What do you mean?  This looks different.  This one's different than this one.  That's the trick with the multiplying.  The trick is the numbers, the order of the numbers, like 4 times 2 times 3, it only matters if you're trying to build or draw it.  So if I try to build a 4 by 2 by 3, the 4 will be looking at me, the 3 will be the width, and the height would be the 2, right?  Then if I was trying to build a 2 – Student A, over here please.  If I was doing the 2 times 3 times 4, this is the 2 by 3 by 4, the box would look like this if I had to build it, but if all I was worried about was just finding the volume, and not drawing it or building it, it wouldn't matter how multiplied it, because when you did 4 times 3, what did you get?  4 times 3 is—",teacher,164,3,,,1.0
+8.  I mean—,student,3,0,,,
+"4 times 3.  It's 4 plus 4 is 8, plus another 4 is—",teacher,13,0,,,0.0
+12.,student,1,0,,,
+12.  So 4 times 3 is 12.  Two 12s gives me what?  24.  That gave me 24.  Instead if I did 2 times 3 which is what?,teacher,27,0,,,0.0
+6.,student,1,0,,,
+"And I had 4 of those, what would that give me?  What is 6 times 4?",teacher,16,0,,,0.0
+24.,student,1,0,,,
+"It would still give me 24.  It's 24 and 24, right?  The next time – Student A, stop.  You need to pay attention here, not back there.  No.  You've been all over the place, and it's not appropriate.  What is it that I'm trying to tell you?  Does it matter what order the numbers are in if I'm trying to just find volume?",teacher,63,1,,,0.0
+No.,student,1,0,,,
+"Student A, does it matter what order the numbers are in?  Is this going to give me 24?  Is this going to give me 24 if I look at it this way?  If I look at it upside down, is it going to give me 24?  Yes.  It doesn't matter what order the numbers are in.  All I'm trying to do is find volume. If what I'm trying to do is build it, then does the order matter?  Yes, because it's going to look different this way versus this way, but the volume will be the same.  So please go and try page number 2.",teacher,105,2,,,0.0
+Ms. H.,student,2,0,,,
+Yes dear?,teacher,2,0,,,0.0
+I'm finished.,student,2,0,,,
+You finished it?,teacher,3,0,,,0.0
+Yes I did.,student,3,0,,,
+What?,teacher,1,0,,,0.0
+I have a [inaudible] on my knee.,student,7,0,,,
+"Sorry.  So when I'm looking around I see 1, 2, 3, 4, 5 kids are done with page 2, and some kids are just starting it, which is A okay, so what I'm going to do for those kids that are finished, I'm going to put a challenge problem up for you, okay?  I would like you to find all boxes that have a volume of 36 cubic units.  Think about – yesterday, what was the trick that I told you to start with?",teacher,84,3,0.0,,0.0
+6 times 1 [inaudible].,student,4,0,,,
+"So first think about all two digit numbers that can give you 36, and then turn them in to three digits.  So if I were doing – say I started off with – what are all the different ways I know how to make 36?  Let's go in order.  What's the first way?",teacher,53,2,,,0.0
+1 times 36.,student,3,0,,,
+What's the second way?  2 times what?,teacher,7,0,,,0.0
+2 times 18.,student,3,0,,,
+What's the next way?,teacher,4,0,,,0.0
+12 times 3.,student,3,0,,,
+There's no 3 times anything?,teacher,5,0,,,0.0
+"Oh, 3 times 12.",student,4,0,,,
+"4 times anything?  4 times 8 is 32, but it's 4 times 9?  4 times 9, and then what?  Anything else?",teacher,21,0,,,1.0
+Now 5.,student,2,0,,,
+There's nothing else?  Isn't 36 a square number?,teacher,8,1,,,1.0
+Yeah.  Oh.  6 times 6.,student,5,0,,,
+"6 times 6.  So now these are just the bottom layers, right?  So if I wanted to have – these are all equal to 36, so what would the height be of these boxes?  This is my bottom layer.  If my bottom layer is already equal to 36, how tall can it be?  What can I multiply by 36 to just get 36?  36 times what is going to give me 36?",teacher,72,1,1.0,,0.0
+2 times 18.,student,3,0,,,
+"No.  If my bottom layer already has 36 cubes in it, and I want to multiply that by a number, by a number of layers, how many layers can I have?",teacher,31,2,,,0.0
+3.,student,1,0,,,
+"So if I did 36 times 3, it's going to give me 36?",teacher,13,0,,,1.0
+No.,student,1,0,,,
+How many layers of 36 can I have?,teacher,8,0,,,0.0
+1.,student,1,0,,,
+"1, right?  So 1 times 36 gives me 36, so the height would have to be 1.  2 times 18 is 36, so the height would have to be 1, right?  3 times 12 is 36, so the height would have to be 1, 1, and 1.  Now if I wanted to start finding other ways to make 36, how can I make 18?",teacher,64,0,,,1.0
+3 times 6.,student,3,0,,,
+"So I can have 3 times 6 is going to give me 18, and then times 2 is going to give me?",teacher,22,0,,,1.0
+36.,student,1,0,,,
+"So 2 times 3 is 6 times 6 is 36.  That's one way of doing it. You don't have to do it this way.  You can just keep experimenting until you think you've exhausted all your – so I would like you to find all the boxes that equal 36. Are you having trouble with this one?  So you count it. Let's count.  1, 2, 3, 4.  How many is that?",teacher,71,0,,,0.0
+4.,student,1,0,,,
+"You wrote the number.  1, 2, 3, 4.  How about over here?  1, 2, 3, 4, 5.  Figure out how many cubic centimeters are going to fit in here.  So the length, the width, the height.  How are you going to figure out how many are going to fit in there?",teacher,51,2,,,0.0
+That's going to be all 4s.,student,6,0,,,
+"So it's asking you to find volume, right?",teacher,8,1,0.0,,0.0
+4.,student,1,0,,,
+This is one box.  This box is 4 by 5 by 5.,teacher,12,0,,,0.0
+Oh.,student,1,0,,,
+"5 times 5 is 25 [inaudible].  Can I see this page?  Perfect. Can I see page 2?  That's great.  Good job.  Sweetheart, look at this here.  1, 2, 3, 4, 5.  You just counted this one here, but they're talking about all of these over here. So fix that.  Let me see your page.  Student S, when you come back, I want to talk to you.  So you found the answer. Perfect.  So can you try the challenge problem?  Can you try to find as many boxes that you know are equal to 36 units?  Try it.  You can try it in your notebook.  Your answer is correct, but if it was on the test, I would have to mark it wrong.  Why would I have to mark it wrong?  What did you forget?",teacher,134,1,,,0.0
+"Oh, I forgot the names.",student,5,0,,,
+"Yeah.  You forgot to name it.  Good job.  So you found all the boxes with 36 already?  I want you to try to find all the boxes for 36.  We're going to start out tomorrow with this, okay, so if you want to keep challenging your brain tonight, you can keep going with it, okay?  So today we talked about volume.  You already know a lot about volume right?  Does it matter what order I multiply the numbers in?",teacher,79,3,1.0,,0.0
+No.,multiple students,1,0,,,
+What is the importance of the order?  What is it actually really telling you?,teacher,14,0,,,0.0
+That they're both the same? Different?,student,6,0,,,
+"I'm going to ask my question again.  I'm going to turn this off so you don't get distracted.  My question to you is if I have a box, a 2 times 3 times 1, and I have a 1 times 2 times 3, they're both going to give me the same volume, right?",teacher,53,1,1.0,,0.0
+Yes.,multiple students,1,0,,,
+2 times 3 is 6 times 1 is—,teacher,8,0,,,0.0
+6.,student,1,0,,,
+1 times 2 is 2 times 3 is—,teacher,8,0,,,0.0
+6.,student,1,0,,,
+"So it doesn't matter what order I multiply the numbers in, right?  It's going to give me the same answer, so why would someone write it down in a certain way?  What are they trying to tell me, Student L?",teacher,40,1,,,1.0
+To confuse you.,student,3,0,,,
+No.  They're not trying to confuse me.,teacher,7,0,,,0.0
+To do it in an easier way?,student,7,0,,,
+Not to do in an easy way.,teacher,7,0,1.0,,0.0
+To help me.,student,3,0,,,
+To help me do what?  What am I going to do with these numbers?,teacher,14,0,,,0.0
+Times them together.,student,3,0,,,
+What did you have to do in your notebook with your cubes?,teacher,12,1,,,1.0
+Draw a box and see if they—,student,7,0,,,
+You had to draw a box or build a box.,teacher,10,0,1.0,,0.0
+To find out how many you can put in—,student,9,0,,0.0,
+"So these numbers are telling you the length, the width, the height.  It's telling you how to build it, right?  Student S, it's telling you how to build it.  This is giving you the information you need to draw or build it.",teacher,42,1,0.0,,0.0
+I found how we can use it with—,student,8,0,,0.0,
+"Wait one minute please.  The numbers in this order – the reason they're in this order is because they're telling you what the box looks like, but it doesn't matter what the box looks like if all you want to find out is volume, right? Because then I can multiply 3 times 1, and then multiply that by 2.  Doesn't matter, right?  But if someone wanted to tell you to build a box, you'd have to know what order the numbers were in, right?",teacher,84,3,0.0,,0.0
+Yes.,student,1,0,,,
+So to build it you need to know the order.  To find the volume you need the order?,teacher,18,1,,,0.0
+Yes.,student,1,0,,,
+"No.  You just need the numbers, okay?  Okay.",teacher,8,0,,,0.0

@@ -1,0 +1,38 @@
+[
+    {
+        "start": "00:00.00",
+        "stop": "00:06.36",
+        "speaker": "Tutor",
+        "dialogue": "Okay, on the left-hand side of your screen, do you see the toolbar that's in blue?"
+    },
+    {
+        "start": "00:06.36",
+        "stop": "00:07.36",
+        "speaker": "Student",
+        "dialogue": "Yes, I do."
+    },
+    {
+        "start": "00:07.36",
+        "stop": "00:10.72",
+        "speaker": "Tutor",
+        "dialogue": "All right, we're going to practice using a few of those things."
+    },
+    {
+        "start": "00:10.72",
+        "stop": "00:13.58",
+        "speaker": "Tutor",
+        "dialogue": "So the third button down is a pencil."
+    },
+    {
+        "start": "00:13.58",
+        "stop": "00:17.36",
+        "speaker": "Tutor",
+        "dialogue": "If you click on it, a color and size box pops up."
+    },
+    {
+        "start": "00:17.36",
+        "stop": "00:42.36",
+        "speaker": "Tutor",
+        "dialogue": "If you want to change"
+    }
+]

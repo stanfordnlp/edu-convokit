@@ -1,0 +1,32 @@
+[
+    {
+        "start": "00:00.00",
+        "stop": "00:02.68",
+        "speaker": "Tutor",
+        "dialogue": "All right."
+    },
+    {
+        "start": "00:02.68",
+        "stop": "00:06.28",
+        "speaker": "Tutor",
+        "dialogue": "On the left-hand side of your screen, there is a blue toolbar."
+    },
+    {
+        "start": "00:06.28",
+        "stop": "00:11.08",
+        "speaker": "Tutor",
+        "dialogue": "We're going to practice using some of those tools so you know how to use them as we're thinking together."
+    },
+    {
+        "start": "00:11.08",
+        "stop": "00:23.08",
+        "speaker": "Tutor",
+        "dialogue": "If you click on the pencil button, which is the third one down, there'll be a box that pops up with a color and size box if you want to change the color or size of anything that you're drawing."
+    },
+    {
+        "start": "00:23.08",
+        "stop": "00:45.62",
+        "speaker": "Tutor",
+        "dialogue": "Then there is a..."
+    }
+]

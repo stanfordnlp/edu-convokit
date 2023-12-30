@@ -1,0 +1,382 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"Okay, today’s activity is comparing fractions.  This is a revisit.  Ladies and gentlemen, next week you will be having your math unit exam, okay?  So today is the day. Speak now or forever hold your peace.  If there’s something that you do not understand, we need to work that out today, because on Monday you will be having an exam, okay? Now today’s activity, if you notice on the sheet, it says, you may know how to compare fractions, which I know you do, but what we normally do is we find a common denominator when we compare fractions.  Well, I’m going to ask you today not to do that.  We need to figure out another strategy that we can use to compare fractions.  And we need to determine in that comparison, which fraction is larger and which fraction is smaller. So on your activity sheet, it says here, I want you to compare fractions using diagrams.  Well, I’m going to give you a hint.  Normally when we use diagrams, we have been using circles, and what have we been calling these circles that we use?",teacher,186,11,,,0.0
+Pie.,student,1,0,,,
+Slices of pie.  What if I do something like this?  What would this be called?  What is that box named?  What do we call that box?,teacher,26,0,,,1.0
+An array.,student,2,1,,,
+"An array.  I’m going to ask you to compare fractions using an array, okay?  And the reason why I’m asking you to use an array is because it’s a lot easier to determine the size of the piece using this type of array than it is using this. Okay?  This becomes a little bit more tricky to eyeball and judge the size.  But I can make two arrays that are basically the same shape or the same size.  I have a hard time making two circles that are the same size, okay? So I’m going to ask you, ladies and gentlemen, to not do the common denominators for this activity, okay?  It says here, using diagrams determine which fraction in each pair is larger. For the first one, we have five-ninths or seven-ninths, the second one we have two-fifths or two-sevenths, the third one, three-fourths or five-sixths, and the fourth one, five- eighths or four-ninths. Ladies and gentlemen, after you compare all of these fractions, I want you to determine for each set what rule you can use to determine when you have fractions that are similar.  What rule can you use for every single fraction that’s similar to the two that you’re comparing?  Okay?  So you’re going to look at this first set and then determine a rule that you could use for the first set.  Then the second set, you’re going to look at those, and when you find which one is larger, think of a rule you can use if you have other fraction sets that are similar, okay? You have math paper in front of you.  I want you guys to do some collaborative learning, so you’re going to be talking at your tables as you do this, okay?  Are there any questions so far?  No questions?  Okay, well have at it, have fun. I’m going to come around and listen to some of your discussion as you talk, okay? So the first one is five-ninths or seven-ninths.  So you’re comparing.  And you’re going to determine in the box which one is larger.  Is it this one, or is it this one?  Okay? And then you’re going to determine a rule.  What rule can I come up with for a set of fractions that I might have that are similar?  And this rule should work for every single fraction that’s similar that you have to do comparisons for.   Yeah, talk in your groups. I see you circled one.  Why is that one larger?  Talk to your tablemates.  Why?  Why do you believe that’s larger?",teacher,428,16,,,0.0
+Because 7…,student,2,0,,,
+"I notice that your table make here, Student N, drew an array, and she colored in some pieces of that array.  Why does that work?",teacher,25,2,,,1.0
+"Because when the denominators are the same, you can look at the denominator and determine which one’s larger.",student,18,2,,1.0,
+So when the denominators are the same you can look at the denominators to determine?,teacher,15,2,1.0,,1.0
+The numerators.,student,2,1,,,
+"So when the denominators are the same, what do I do?",teacher,11,1,,,0.0
+You look at the numerator and you can compare the numbers to get which one is larger.,student,17,1,,1.0,
+"Oh, I love that.  Because these denominators are the same you’re saying I can look at the numerator to determine the larger fraction.",teacher,23,3,1.0,,0.0
+Yeah.,student,1,0,,,
+"And because this numerator is larger, this fraction is larger, because they have the same denominator, is that what you’re telling me?",teacher,22,3,,,0.0
+Yes.,student,1,0,,,
+Do you guys agree with that?,teacher,6,0,,,0.0
+Yes.,student,1,0,,,
+"So can you use this, and do you think it will work for every single fraction whose denominators are the same, do you think that rule would work for every set of fractions? Let’s say I’m dealing with four-fifths and three-fifths. Could you use that rule that you just told me to determine which one of these is the larger?",teacher,60,3,,,0.0
+Uh-huh.,student,1,0,,,
+So that rule will hold true.  And why does this work again?,teacher,12,0,,,1.0
+"Because when the denominators are the same, you can look at the numerators and you can tell which one is larger.",student,21,2,,1.0,
+Do you agree with her or disagree?,teacher,7,0,0.0,,1.0
+"Yes, I agree.",student,3,0,,,
+"Did you draw a diagram?  Where’s your diagram?  See, I see hers.  She used a diagram.  Ladies and gentlemen, are we drawing diagrams here?",teacher,24,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Okay, so now look at B and talk amongst yourself about B.  What can you tell me about B?  I wanted to know which one of these is larger.",teacher,29,0,,,1.0
+Seven-ninths?,student,1,0,,,
+Why?,teacher,1,0,,,1.0
+"When the denominators are the same, the numerator is bigger.",student,10,2,,1.0,
+"When the denominators are the same, the…",teacher,7,1,1.0,,0.0
+The one which is larger in the numerator is the one that [inaudible].,student,13,1,,1.0,
+"Okay, so I’m looking at two fractions here, five-ninths and seven-ninths, and they have the same denominator.  So you’re saying because they have the same denominator don’t even worry about the denominators, then look to the numerator?",teacher,37,5,1.0,,0.0
+Yeah.,student,1,0,,,
+"And I’m looking at the numerators, and what am I looking for?",teacher,12,1,,,0.0
+The one with the larger numerator.,student,6,1,,,
+"The fraction with the largest numerator, and that’s the larger fraction.  And you’re saying it’s larger because the denominators are the same?",teacher,22,4,1.0,,0.0
+Yes.,student,1,0,,,
+Why is that?  Why does that work?,teacher,7,0,,,1.0
+"Because when the denominators are the same, it’s like you cut it into the same pieces.",student,16,1,,1.0,
+"Well, can you show that to me in a diagram?  Can you show me? Can you prove that in a picture?  Because I hear your words, but maybe I need to see it to believe it. Okay, so I notice Student K has two arrays that are the same size.",teacher,50,1,0.0,,1.0
+Can we do number lines?,student,5,1,,,
+"Are you asking me?  Baby, you can do whatever your little heart desires.  If you can prove to me why that works, go on ahead. So I’m looking at Student K’s arrays.  She’s got two arrays of the same size, and I see seven-ninths has a larger shaded portion than five-ninths.  And I see in each of her arrays she’s divided them into nine pieces.  Why are there nine pieces here and why are their nine pieces here?",teacher,78,4,0.0,,1.0
+Because the denominator is [nine].,student,5,1,,,
+And what does the denominator tell us?,teacher,7,1,1.0,,0.0
+How many pieces you have in total.,student,7,1,,,
+How many pieces are in total?  And how many slices in total are taken from the total?  How many slices are used here?,teacher,23,3,1.0,,0.0
+Five.,student,1,0,,,
+Five out of the nine.  And here we’ve used how many?,teacher,11,0,,,0.0
+Seven.,student,1,0,,,
+"Seven out of the nine.  Okay, so that’s why it would be bigger, or larger.  Okay, so seven-ninths is greater than five- ninths.",teacher,23,0,,,0.0
+Yes.,student,1,0,,,
+"Look at B and have a discussion with B.  And Student M asked if she could use a number line, and I’m anxious to see what you’re going to do with B on a number line, Student M, so I’m going to come back to you, okay? Okay, what can you guys tell me?",teacher,54,2,,,1.0
+[Inaudible],student,1,0,,,
+What was that?,teacher,3,0,,,0.0
+Seven-ninths is bigger than five-ninths.,student,5,0,,,
+"Seven-ninths is larger than five-ninths; it’s greater than, mm- hmm.",teacher,10,0,1.0,,0.0
+"When the denominator is the same, you can use the top, the numerator, you can see which one is bigger.",student,20,2,,1.0,
+"Okay, when the denominators are the same you can look at the numerator, and whichever numerator is larger, than that is the larger fraction?",teacher,24,4,1.0,,0.0
+Yeah.,student,1,0,,,
+"And I see you drew a diagram that shows that.  My question is, what’s the rule that goes along with fraction set A?",teacher,23,1,,,0.0
+"Every time the denominator is the same, you look at the numerator to see which one is bigger.",student,18,2,,1.0,
+"Oh, I love you, Student I.  Okay so here’s what I want you guys to do.  And do you agree with him?",teacher,22,0,0.0,,0.0
+Yeah.,student,1,0,,,
+"Okay, so look at fraction set B.  Two-fifths or two-sevenths. Come up with a rule for that after you look at that and draw a diagram for that and tell me what rule you’re going to come up with for set B, and I’ll be back. Okay, oh wow, you guys are like rolling, huh?  Set A, I see that you guys said seven-ninths is the larger fraction.  And I see through Lynn’s diagram, she drew two arrays that are the exact same size and she shaded in five out of nine on the first array, and seven out of nine on the second array. And I can really see that seven-ninths is larger than five- ninths.  And her rule, she says the same denominator but different numerator, look to the bigger numerator.  Seven is bigger than five, therefore seven-ninths is larger.  Do you guys agree or disagree?",teacher,148,8,,,0.0
+Agree.,student,1,0,,,
+"Okay, look at Set B.  Two-fifths or two-sevenths?  Let me see your diagram?  Where’s your diagram for B?  Remember what I said, any time I give you something I am challenging you to turn on that think box in your head.",teacher,41,0,,,0.0
+My think box is full.,student,5,0,,,
+"Well, you just fed your think box.  Did anybody draw a diagram for Set B?  I’m anxious to see.  I was just talking to Student V’s table.  What did you guys come up with?",teacher,34,0,1.0,,1.0
+"[Inaudible] figure out, but I know that seven-ninths is bigger.",student,10,0,,1.0,
+You know that seven-ninths is bigger.  And why do you know that seven-ninths is bigger?,teacher,15,0,1.0,,1.0
+"The denominator is the same, so that means the whole amount is the same.",student,14,2,,1.0,
+"So they’re each dealing with nine of whatever, okay.",teacher,9,0,0.0,,0.0
+And seven is greater than five.,student,6,0,,,
+"Okay, can you show me that in an array?",teacher,9,1,0.0,,1.0
+I did an array.,student,4,1,,,
+What did you do?,teacher,4,0,,,1.0
+"I put all the ninths that equal seven-ninths, and then all the ninths that equals five-ninths.  And then seven-ninths had more one-ninths.  So obviously this one is greater.",student,28,0,,1.0,
+"But why were you able to do one-ninth, one-ninth, one-ninth, one-ninth, one-ninth to both of them?",teacher,16,0,1.0,,1.0
+Because it says nine right here.,student,6,0,,,
+What’s that number right there?  What is that number called?,teacher,10,0,1.0,,0.0
+The denominator.,student,2,1,,,
+"The denominator, yes, yes.  So because the denominators are the same you are able to just break this into ninths and that into ninths.  How many ninths did you use for this one?",teacher,33,2,,,0.0
+Seven.,student,1,0,,,
+How many ninths did you use for this one?,teacher,9,0,,,0.0
+Five.,student,1,0,,,
+"Five.  Now, I want to know, Student E, can you draw a picture? Let me try.  Do they look about the same?",teacher,22,0,,,1.0
+Mm-hmm.,student,1,0,,,
+"Now, what if I split this into nine equal portions?  One, two, three, four, five, six, seven, eight, nine.  So I don’t need this.  Let’s do this again.  One, two, three, four, five, six, seven, eight, nine.  So this was seven-ninths and this was five-ninths.  Can we see which one is bigger here?",teacher,53,0,,,0.0
+Yes.,student,1,0,,,
+"A lot of times too it might seem a little more complicated than it is, so you already proved to me here that you understood the importance of the denominator, and I think just thinking about ways you can represent that in a diagram.  I drew two equal sized diagrams because they’re both dealing with ninths.  So I have ninths in both diagrams.  And on this diagram I chose to shade in five of the ninths, and on this diagram I chose to shade in seven of the ninths.  So can you see here which one is larger?",teacher,98,1,,,0.0
+"This one, seven-ninths.",student,3,0,,,
+"Okay, so what rule can I come up with for this?  What rule?",teacher,13,0,,,0.0
+"If the denominator is the same for both fractions, then either one numerator is greater, the numerator that’s bigger than the other numerator, the one that’s bigger is the biggest.",student,30,5,,1.0,
+"So the bigger numerator is a larger fraction because both of the denominators are the same.  Okay.  So the rule is, when both denominators are the same, the fraction with the largest numerator is the larger fraction.  That’s what you’re saying, right?",teacher,42,7,1.0,,0.0
+Yes.,student,1,0,,,
+"Gotcha.  Now, look at Set B.  Gentlemen, look at Set B and tell me what diagram do you come up with for Set B, and what rule can you come up with for Set B?  What rule? Which one’s larger for A?",teacher,42,0,,,0.0
+Seven-ninths.,student,1,0,,,
+Why?,teacher,1,0,,,1.0
+"Because the denominators are the same, so you have to look at the numerator.",student,14,2,,1.0,
+"Do you disagree?  I see by your diagram you’ve got that too. So write that rule.  He has it written down.  Where’s your rule? And now I want you guys to look at Set B.  Draw a diagram for Set B and then come up for a rule for Set B. Your tablemates need that.  You guys should be tracking amongst each other. Yes, ma’am?",teacher,65,0,0.0,,0.0
+I did it.,student,3,0,,,
+"Oh, awesome.  Wow! I know, right? Yes, I’m going to ask if you can come to fifth grade.  Who needs 2nd, 3rd and 4th grade, huh?  That’s beautiful.  Can you draw me a picture for that?  Can you draw a picture for me?",teacher,43,0,,,0.0
+Mm-hmm.,student,1,0,,,
+"Thank you.  Question.  I visited all the tables, and every single table was able to come up with the rules for A.  How many of you are working through B?  Has anybody made their way to C yet?  Any table?",teacher,40,0,,,0.0
+I’m going to.,student,3,0,,,
+"So I’m coming around to see what you’ve done with B, and ladies and gentlemen, you have to have a diagram.  You have to, have to, have to, have to, have to have a diagram for B. Yes?",teacher,38,0,,,0.0
+[Inaudible] says that five-sixths is larger but I disagree.  I think it’s three-fourths.,student,13,0,,1.0,
+"Okay, so did you hear his argument as to why five-sixths would be larger?",teacher,14,0,1.0,,1.0
+Yes.,student,1,0,,,
+And did he use logos in trying to persuade you?,teacher,10,0,,,1.0
+Yeah.,student,1,0,,,
+"He did?  What was the logic he used?  What did he explain to you?  And see, this is the key.  You need to understand the words that were coming out of his mouth so that you can tell me what he said to you.  So explain it to me, because I don’t know which one it is.",teacher,57,0,,,1.0
+"I said that three-fourths was larger, but he said five-sixths is larger.  He said that…",student,15,0,,0.0,
+"Okay, we’re trying to determine what?  What are we trying to determine here?  Which fraction is…",teacher,16,1,0.0,,0.0
+Larger.,student,1,0,,,
+"Which fraction is larger, okay.  And Student K said which one was larger?",teacher,13,1,,,0.0
+Five-sixths.,student,1,0,,,
+"Five-sixth was larger.  You’re saying three-fourths is larger. Now I’m asking you, why does Student K believe five-sixths is larger?  Tell me why he believes five-sixths is larger, and then I’ll let you tell me why you believe three-fourths is larger.",teacher,41,0,,,1.0
+Because I think because…,student,4,0,,,
+"No, no, tell me what Student K thinks.  What did Student K say he thought?  He says, “Five-sixths is larger because…” and what did he tell you?",teacher,27,0,,,1.0
+"Well, he didn't really explain it that well because then we got confused. He made me confused. No, he [inaudible] but I didn't really understand what he said. Then I made him confused.",student,33,0,,0.0,
+"Okay, so do you want to use your argument of logos with me?  I promise you won’t confuse me.",teacher,19,0,1.0,,0.0
+I can try to figure it out.,student,7,0,,,
+"Hold on, I want to hear what Student K thinks and I’ll ask you.",teacher,14,0,0.0,,0.0
+"I think that five-sixths is larger because one-fourth is larger than one-sixth, and that it’s only one away from one whole. This has a smaller number to get towards one whole, and this is bigger.",student,35,2,,1.0,
+"Okay, so my question is, can you show me this in a different type of diagram?  Can you show me this on a diagram that could represent both fractions so I can actually see how far away from one one-sixth is, and how far away from one one-fourth is.  What else can you use besides the array and besides the pizza pie?",teacher,62,2,1.0,,1.0
+The line.,student,2,1,,,
+"What’s that line called?  You make me so happy right now, Student K, I’m about to cry.",teacher,17,1,,,0.0
+A number line?,student,3,1,,,
+"Yes, a number line.  Show it to me on the number line.  And then you can show it to Student T on the number line, and you can show it to Student D on the number line, you can show it to Student L on the number line, and you can argue your point.  And that was wonderful logos you used.  I am persuaded, sweetie.",teacher,65,5,,,0.0
+Technical difficulties would be…,student,4,0,,,
+"Technical difficulties would be, yes?",teacher,5,0,,,0.0
+I know that we take two pieces out of both of the array.  How can I tell which one is the greater?,student,22,1,,1.0,
+"Right.  Because this one, how many pieces?  There’s only five pieces in this array, and there are seven pieces in that array, and they’re both using two pieces, so which one is larger?",teacher,33,2,1.0,,0.0
+I’m not sure.,student,3,0,,,
+"You’re not sure?  Student D what are your opinions?  What do you think?  You have to be thinking something now.  I want to hear what you think.  I’ve heard Student T, I’ve heard Student N, I’ve heard Student K, but I haven’t heard from you.  Tell me what are you thinking?  I see you drew a diagram, and you drew basically the same one that Student N drew, but can you explain that? What music do I hear?  Hmmm, why did we even touch it? So I’m going to come back.  Use this, sweetie.  You have all this space, use that.  I’m going to come back.  I think Student K is on to something here and I want him to talk to you about what he believes is larger and why.  So he’s drawing a number line, okay?  And Student K basically said we’re dealing with…",teacher,146,1,,,1.0
+Two-fifths and two-sevenths.,student,3,0,,,
+"Two-fifths and two-sevenths.   Oh, Student K, you were talking about C.  We’re talking about B.",teacher,15,0,,,0.0
+Oh! But he was talking about this.,student,7,0,,,
+"Oh, right.  So you guys were on C.  Three-fourths or five- sixths.  I thought you were on this one, two-fifths or two- sevenths.",teacher,23,0,0.0,,0.0
+I could explain that because it’s much more easier.,student,9,0,,1.0,
+"What, B?  But how did you get to C without your tablemates?",teacher,12,0,0.0,,1.0
+"Because I was explaining to them, and then they said yes.",student,11,0,,0.0,
+"Remember we said not to steal the thinking, but do they really understand it, or is that just what you came up with and you just told them?",teacher,28,0,1.0,,1.0
+I don’t understand at all.,student,5,0,,,
+"See, they don’t understand.",teacher,4,0,1.0,,0.0
+"Well, Student T…",student,3,0,,,
+"Student T explained it, did you show it?  Did you explain it beyond a shadow of a doubt?",teacher,18,0,,,1.0
+Mm-hmm.,student,1,0,,,
+I think maybe we need to explain it again.  I don’t know that everybody’s getting it.,teacher,16,0,,,1.0
+Maybe she didn’t hear it.,student,5,0,,,
+"Yeah.  Maybe.  I hear lots of math talk around here, and we are still on B over here.  And so I have something to ask about B.",teacher,27,0,1.0,,0.0
+"I drew like a number line, but I’m getting confused because it’s all over the place.",student,16,1,,0.0,
+Can I see your B?,teacher,5,0,0.0,,0.0
+This is my rule.,student,4,0,,,
+"Oh, now who came up with this rule?",teacher,8,0,,,0.0
+Student C.,student,2,0,,,
+Student C?,teacher,2,0,,,0.0
+Which rule?,student,2,0,,,
+"Student C, for B.  You guys are saying two-fifths is larger, and you’re saying two-fifths is larger because you look at the denominator.  When you look at the denominator and it’s bigger, the smaller the piece.",teacher,36,2,,,0.0
+"Yes, the smaller the denominator, the bigger the piece.",student,9,1,,0.0,
+"So you’re looking at two-fifths and two-sevenths, you’re comparing those two fractions, and you’re saying when you’re looking at the denominator and it’s bigger, that means the smaller the piece.  So sevenths are going to be a smaller piece, a smaller size, than fifths.  Also, the smaller the denominator, the bigger the piece.",teacher,53,3,1.0,,0.0
+Just how we know that one-fifth is bigger than one-seventh.,student,10,0,,1.0,
+"One-fifth is bigger than one-seventh.  Why is one-fifth bigger than one-seventh, explain that to me.  You’re absolutely right, but why?",teacher,20,0,1.0,,1.0
+Because five is smaller than seven.,student,6,0,,,
+"Would you rather share with five people one cookie?  Let’s say our cookie is this big, say it’s a square cookie.  Would you rather share this with five people or seven people?",teacher,32,1,1.0,,1.0
+Five people.,multiple students,2,0,,,
+Why five people?,teacher,3,0,,,1.0
+Because there’s a lot less people.,student,6,0,,,
+A lot less people means…,teacher,5,0,1.0,,0.0
+More for each person.,student,4,0,,,
+"More cookie for me, yes.  Okay, smarty pantses.  Let’s look at C, okay?   Okay, I’m coming around, and I’m looking at B and I am totally happy.",teacher,27,0,,,0.0
+I tried to do a number line.,student,7,1,,,
+"You tried to do a number line?  Try it?  Okay, so, for B.  Some people I’ve noticed on B, they do a comparison in the denominators.  So look at your denominators on B and raise your hand if you can tell me what comparisons you can make between the denominators, because we’re talking about two- fifths and two-sevenths, right?   We’re talking about two- fifths and two-sevenths, right?",teacher,67,4,1.0,,0.0
+Yes.,multiple students,1,0,,,
+"So what do you know about fifths and sevenths?  Oh, hold on. Wait a minute, wait a minute.  What do you know about fifths and sevenths?  And just let me remind you, remember Grandma’s cookies?  And they made a batch of cookies and there were 24 cookies in the batch?  And it was just them and Grandma?  So each of them would have gotten how many cookies out of that batch of 24 with just the two of them? They would have each gotten how many cookies?",teacher,87,0,,,0.0
+12.,student,1,0,,,
+"12 cookies.  And then the doorbell rang, and two people came in.  So now there’s 24 cookies and there are 4 people.  Uh oh.  What happened to the portion size?",teacher,30,0,,,1.0
+It got smaller.,multiple students,3,0,,,
+Why is it smaller?,teacher,4,0,,,1.0
+Because there’s more people.,student,4,0,,,
+"Because you’re sharing with more people.  Now take a look at B. Student I, can you tell me something about B?  Hold on one second, I don’t think your classmates mean to be rude and disrespectful.  What can you tell me about B?",teacher,43,0,,,1.0
+"I know two-fifths is bigger because the denominator is smaller and you get a bigger piece.  And I know that one-fifth is bigger than one-seventh, because if you want to share a cookie with five people than seven, because five is less than seven.",student,44,1,,1.0,
+"Here, Student I is saying five people will be sharing in this. And he’s saying here, this would be seven people sharing. So, would you rather have to share out of fifths or share out of sevenths?",teacher,37,0,1.0,,1.0
+Fifths.,multiple students,1,0,,,
+"Because, what do we know about fifths like Student I just said?",teacher,12,0,,,0.0
+Fifths are larger than sevenths.,student,5,0,,,
+"Fifths are larger than sevenths.  Because if I have an array, same sizes, here are my two arrays.  Well, not quite the same size but you get the idea, right, guys?   I’m breaking this one into fifths.  What am I going to break this one into?",teacher,46,2,1.0,,0.0
+Sevenths.,multiple students,1,0,,,
+"Same size.  Now, one-fifth, two-fifths.  One-seventh, two- sevenths.  Which would you rather have a slice of?",teacher,16,0,,,1.0
+The fifths.,student,2,0,,,
+"The fifths.  What rule did we say for B?  What rule would apply for fractions that have the same numerator but different denominators?  Student I, can you state that rule again for me please?",teacher,34,3,,,0.0
+"When the denominator is smaller, you get bigger pieces.",student,9,1,,1.0,
+"The smaller denominator, the larger the slice.  But what about the numerators?  The numerators are what in this case?  The numerators are the same.  So when the numerators are the same, and the denominators are different, the fraction with the smaller denominator will have the largest sized pieces, as you can see here.  This is a fraction with the smaller denominator so the pieces are larger.  This is the fraction with the larger denominator, so the pieces are smaller. Smaller denominator, larger piece; larger denominator, smaller piece. Look at C, please.  C is a little bit challenging: three-fourths or five-sixths.  Student K, how is it going back there at your table?",teacher,111,14,1.0,,0.0
+[Inaudible],student,1,0,,,
+Really?,teacher,1,0,,,0.0
+I did a number line to figure it out.,student,9,1,,0.0,
+You did a number line for which one?  C?,teacher,9,1,1.0,,0.0
+Yeah.,student,1,0,,,
+"Student K and Student V, do me a favor, move to the rug. Student K and Student V, and I want you guys to show each other what you came up with.  Just Student K and Student V. I’m coming back there.  Yep, take your paper with you. What I want you guys to do is because you said you used a number line, he said he was going to, and I want to see if you came up with the exact same thing.  You know why? Because he tried to explain it to people at his table and they didn't understand, and I want to see if he can make sense with you.  So just go on ahead and tell her, or show her, and let her explain her reasoning to you.  Logos, guys, logos.",teacher,136,1,,,0.0
+Can we still [inaudible]?,student,4,0,,,
+That’s okay.  That’s more than okay. This was A.,teacher,9,0,,,0.0
+"How do you explain these?  I get it all, but I don’t know how to explain it in words.",student,19,0,,0.0,
+"Okay, when the numerators are the same, right, what did you do with the denominators?  When the numerators are the same and the denominators are different, which one was larger?",teacher,30,4,0.0,,0.0
+Two-fifths.,student,1,0,,,
+Why was it larger?,teacher,4,0,,,1.0
+"Because one-fifth is bigger than one-seventh, so if you color two of…",student,12,0,,1.0,
+Because fifths are larger than sevenths?,teacher,6,0,1.0,,1.0
+Yes.  So you color two-fifths.,student,5,0,,,
+Why are fifths larger than sevenths?,teacher,6,0,0.0,,1.0
+Because you share with less people so you have more.,student,10,0,,1.0,
+So you did two-fifths and two-sevenths.  When the numerators are the same…,teacher,12,1,0.0,,0.0
+I disagree with my table.,student,5,0,,,
+You disagree with your table for C?,teacher,7,0,1.0,,0.0
+"I’ll just explain.  Three is just like [inaudible].  They both have different denominators, and four is less than six, and if you want to share the cookie with four people, then six would be bigger.",student,35,1,,1.0,
+"Yeah, but I see a little slight difference between B and C.  In B, something is the same.  We’ve got the numerators are the same.  In C, neither the numerator nor the denominator is the same.  So are you sure you want to use that reasoning? Okay, so C, ladies and gentlemen.  We’re going to discuss this.  I’m coming around on C, and I’m seeing the same thing.  I’m seeing kind of a stagnation.  What’s a stagnation at tables?  What does that mean, stagnant?  If water is stagnant it’s not what?",teacher,91,3,0.0,,1.0
+Moving.,student,1,0,,,
+"It’s not moving, yeah.  And we want to push our learning, and right now our learning is kind of stalled, it’s not moving. So we’re going to have a discussion together about C. With the exception of Student K and Student V, who actually were back there using logos.  What’s logos again?",teacher,52,0,,,0.0
+Reasoning.,student,1,0,,,
+"Reasoning and logic to explain one fraction being larger than the other, why it was the way that was.  So I’m going to ask you to help me out.  What are the two fractions for C?",teacher,36,2,,,0.0
+Three-fourths and five-sixths.,student,3,0,,,
+"Three-fourths we’re comparing, and what?",teacher,5,0,,,0.0
+Five-sixths.,multiple students,1,0,,,
+"Five-sixths, okay.  Let me just draw your attention here.  I’ll wait.  With the exception of Student K and Student V, let me just draw your attention here.  I’m just going to wait till I see all eyes.  I notice here that we had something that was similar.  The denominators were similar.  I noticed here we had something that was similar, the numerators were similar. Do I need to make a phone call gentlemen?  Do I need to make a phone call?  Then what should be happening at that table right now?",teacher,91,2,,,0.0
+Working.,student,1,0,,,
+"No, no, no, where should your attention be focused right now?",teacher,11,0,,,0.0
+At the board.,student,3,0,,,
+Mm-hmm.  And why do you think your attention should be focused here?,teacher,12,0,,,1.0
+Because you’re trying to help us.,student,6,0,,,
+"Thank you.  Evidently some of you don’t want that help.  As I was saying.  I noticed that something was similar here. The denominators.  I notice that something is similar here. The numerators.  In C, do I have anything that’s similar?",teacher,40,2,0.0,,0.0
+No.,multiple students,1,0,,,
+"There is something that’s similar, but it’s not something that’s stated.",teacher,11,0,,,0.0
+They’re one away from the whole.,student,6,1,,,
+"They’re both one portion away from the whole.  Oh my goodness, so you did notice that.  It’s just something that you can’t readily see because it’s not written.  So three-fourths is how many fourths away from one?",teacher,37,1,1.0,,0.0
+One-fourth.,multiple students,1,0,,,
+Five-sixths is how many sixths away from one?,teacher,8,0,,,0.0
+One.,student,1,0,,,
+"One-sixth, yes.  So they do have something similar.  However, it’s not the numerator and it’s not the denominator.  So the numerator is not similar and the denominator is not similar, but they are similar in that they’re both one portion away from one.  This one being a fourth away, this one being a sixth away. Now, I’m going to ask you…  Remember when I said you need to draw a diagram?  I’m going to ask you to diagram this, and I’m going to tell you, draw a number line.  Draw two number lines that are the same exact size.  Or, use one number line and use a different colored pencil to represent fourths than sixths.",teacher,115,7,,,0.0
+Fourths and sixths.,student,3,0,,,
+"Mm-hmm.  And then, I’m going to give you a couple of minutes and then I’m going to come back and I’m going to ask you what you noticed. Student T, should you be in conversation with him?  Didn’t your tablemate have a discussion with you about this?  So why aren’t you paying attention so that you can understand the argument the next time he brings it up. Go on ahead and draw that number line.  I want you to see with your own two eyes what one-fourth looks like and what one-sixth looks like, because that’s how short they are from reaching a complete whole.  Guys?  Is this how you draw a number line?",teacher,114,3,,,0.0
+No.,student,1,0,,,
+"So why aren’t we drawing a number line?  Come on, Student C, put your necklace down for me.  You can take it off.  And let’s draw the number line.",teacher,29,2,,,0.0
+I did all of mine.,student,5,0,,,
+"You did them all?  Oh, you make me so happy.  Aw.  Yeah.  Can you draw a picture for this?  Any picture showing me 11 or 15 or 7 or 16. Mm-hmm?  What have you got?",teacher,35,0,1.0,,0.0
+I’m trying to do my work and she keeps dancing around.,student,11,0,,0.0,
+"Excuse me, you, my friend, are able to concentrate.  You’re trying to tell me she keeps coming over here and calling your name?",teacher,23,0,1.0,,0.0
+"She’s right here doing it. No she’s not, she’s over there.",student,11,0,,0.0,
+"But you can choose to ignore that, you’re a big boy.",teacher,11,0,0.0,,0.0
+[Inaudible].,student,1,0,,,
+"You know why she’s doing that?  Because she’s happy, she understands something, that’s why.  It’s not meant to be distracting, okay?",teacher,21,0,,,0.0
+[Inaudible],student,1,0,,,
+"Really, you did this one?  Where is it, show it to me.",teacher,12,0,,,0.0
+Right here.,student,2,0,,,
+"But I said to do a number line.  I just said, draw a number line for C.  I’m sorry sweetie pie.  Draw a number line.  I want you to draw a number line for C because I want you to see the missing component, the missing piece.  Okay.  I’m going to use it to help me to draw a number line on the board.  Yes ma’am?",teacher,66,5,,,0.0
+I don’t know how to draw sixths.,student,7,0,,,
+"Okay, so I see here you have one-half. If you’re using sixths, what would be a half?",teacher,17,0,1.0,,0.0
+Half would be here.,student,4,0,,,
+How many pieces do you have to split this into?,teacher,10,0,,,1.0
+[Inaudible].,student,1,0,,,
+"[Inaudible]. Okay, I’m coming around to look at what you’ve done.",teacher,11,0,,,0.0
+Sssshhhhhh!,student,1,0,,,
+"You can’t tell him to shush when you were just making noise. It doesn’t work like that.   Don’t disappoint me. So ladies and gentlemen, I’m drawing my number line here.  You know what I think I’m going to make you guys do?  I don’t know what is going on.  Are we falling asleep?  Are we in food coma mode?",teacher,59,1,,,0.0
+No.,multiple students,1,0,,,
+"You guys act like you’re so tired, like you’re old.  Yeah. You’re acting like you’re older than I am.  I’m the oldest person in the world and I have more energy than you guys. What’s going on?  What’d you guys do, take sleeping pills at lunch or something?  I got up at four today.  I’m up at four every morning.  I’m here by six every morning.  And then I’m here late in the afternoon here.  So how many hours is that that I’m here at work at your disposal?  From six o'clock in the morning until at least six o'clock at night.  How many hours is that?",teacher,107,0,,,0.0
+12 hours.,student,2,0,,,
+"12 hours.   That’s half the day, yes.  So I’m going to ask you guys, please, please, I don’t know what’s going on, shake it up! We need to wake up our brains, and we need to figure out C.  Because, ladies and gentlemen, we only have 15 more minutes, and I would like to wrap this lesson up in the last 5 minutes.  We’ve got 10 minutes to look at this, 5 minutes to have a discussion abut what we’ve learned.  So here, ladies and gentlemen, is my number line for C. Here’s my number line for C.  Halfway point is about what, here?",teacher,104,2,,,0.0
+Yes.,student,1,0,,,
+"So this would be one half.  This would be my zero, and what am I putting on this side?",teacher,19,0,,,0.0
+One.,multiple students,1,0,,,
+"One.  Now, I’m going to do three-fourths at the top and five- sixths at the bottom of the same number line, okay?  So what do I need to do to show fourths on this number line? I need to do halfway between 0 and one half, and what does this represent?",teacher,51,2,,,0.0
+One-fourth.,student,1,0,,,
+"One-fourth.  And then what do I need to do?  The same thing between one-half and one, and what does that represent? Student D, put it away please.  So I’ve got one-fourth, what is this?",teacher,34,0,,,0.0
+Two-fourths.,student,1,0,,,
+Two-fourths.  Three-fourths.  And what would one be?,teacher,7,0,,,0.0
+Four-fourths.,multiple students,1,0,,,
+"Okay, so ladies and gentlemen, you can see the missing piece here, three-fourths, to four-fourths, one.  So right now, if we were looking at this fraction in a linear way, it would be from zero all the way to three-fourths, okay?  So we’re talking from here, all the way to here.  Now, let’s break this into sixths so we can look at five-sixths on the same number line.  How do I need to break this into sixths? What do I need to do?  What do I need to do, Student N?",teacher,91,3,,,0.0
+Break each half into thirds.,student,5,0,,,
+"Break each half into thirds, I love your terminology.  So this half needs to have three slices, and then this half needs to have three slices, and all those slices need to be equal.  So from here to here, three equal slices.  That’s about it, right?  So this would be one-sixth, two-sixths, and this would be what?",teacher,57,0,1.0,,0.0
+Three-sixths.,student,1,0,,,
+"And then I need to do the same thing here, three equal slices. Four-sixths, five-sixths.  Ladies and gentlemen.  Oh wait, what do you notice about five-sixths, which on this number line would go to zero all the way to here?  Student T. Look at that and tell me what you see.  These are fourths, three-fourths.  This is five-sixths.  What do you see? Tell me what you see?",teacher,67,1,,,0.0
+I see five-sixths is longer than three-fourths.,student,7,0,,,
+"You see five-sixths is longer than three-fourths.  What about this missing piece?  What is missing here between five, six, and the one?  What does this space represent?  One what, Student M?  One-sixth.  What about this space between three-fourths and four-fourths?",teacher,40,0,1.0,,1.0
+One-fourth.,student,1,0,,,
+One-fourth.  So what do we see here?  This missing piece as opposed to this missing piece?  Five-sixths is definitely what?,teacher,20,0,,,0.0
+Larger.,multiple students,1,0,,,
+Larger than…,teacher,2,0,,,0.0
+Three-fourths.,multiple students,1,0,,,
+What rule can we come up with?  Can we come up with a rule? What rule?,teacher,16,0,,,0.0
+"You know how like five-sixths, one more sixth…",student,8,0,,1.0,
+"Freeze.  Let’s not disrespect him.  Unfreeze.  Do I know how, you were saying?",teacher,13,0,0.0,,0.0
+"So three-fourths, you need one more fourth to get to four- fourths.  Five-sixths, you need one more sixth to get to six-sixths.  If you take away one-sixth it’s not going to be this much.  If you take away a fourth it’s going to be like this much.  So if it’s bigger, you know if one-fourth is bigger than one-sixth, so it takes away more.",student,64,0,,1.0,
+"It takes away more.  Okay, so, Student E, and correct me if I’m wrong.  Student E is looking at the point of view from if I’m standing at one, if I’m standing at one and I take away a fourth, because fourths are larger, it’s going to take away more.  If I’m standing at one and I take away a sixth, it’s not going to take away as much.  So looking at it from this perspective, because fourths are larger than sixths, if you’re missing a fourth, you’re missing a lot more than if you’re missing a sixth.  So what rule?  Somebody tell me a rule! What rule can we come up with that will fit every single fraction that is missing one portion to be one whole?  What rule can you tell me?  Student B?",teacher,136,2,1.0,,0.0
+"That five-sixths, if you do one-sixth…",student,6,0,,,
+"But, sweetie, this is what I want.  I want you to tell me a rule that would work for every single fraction that we compare that’s missing one.  So I want you to do the same with something like this, nine-tenths and let’s say eight- ninths.  How far away from one I this?",teacher,53,2,0.0,,0.0
+One-ninth.,student,1,0,,,
+How far away from one is this?,teacher,7,0,,,0.0
+[One-tenth.],student,1,1,,,
+"This is one-tenth, this is one-ninth away.  If I have something like this, 55/56, and let’s say 33/34ths.  You should be able to tell me which one is larger and why.  Tell me, how can I take a rule and apply that rule to every single comparison of fractions that I’m doing that’s missing one portion to be a whole.  What rule can I come up with?  What rule?  Student V?  Student K?  Have you guys come up with a rule?",teacher,81,3,,,0.0
+For every one of those?,student,5,0,,,
+"For any fractions that I’m comparing that’s one portion away from one.  So I’m comparing here ninths and tenths.  This is one-tenth away from one.  This is one-ninth away from one.  What rule can I come up with that will fit this and this and this and any other fraction.  Let’s say I was doing 15/16th and let’s say I was doing 14/15ths.  Or let’s say 12/13ths and 13/14th.  Or let’s say I was doing… Understand what I’m saying?  I need a rule that’s going to fit every single comparison of fractions that I do that each one is only one portion away from being a full hole. So this is missing a 13th.  This is missing a 14th.  What rule can I apply to this, and this, and this that’s the same rule?  A rule I can come up with that will match every single one of these fractions that fit this rule?  Student M?",teacher,156,6,1.0,,0.0
+"When the denominator is bigger that means the piece is smaller, and the one piece that’s smaller is the bigger one.",student,21,1,,1.0,
+"Okay, so she is so on the right track, I’m getting chills over here.  But guess what, we have to use clearer and …",teacher,24,0,0.0,,0.0
+Concise.,multiple students,1,0,,,
+More concise language.  She’s on the right track.  So how can we help Student M out?  What can we say?   Student E?,teacher,22,0,,,0.0
+"If both fractions are missing a portion, whatever denominator is bigger is going to take more space, subtract more space.",student,20,3,,1.0,
+"The rule is, whenever both fractions…  So, when both fractions… Hold on a second, I’m going to ask you one more time.  But that away please, put it all away, thank you. When both fractions are missing one – and I’m saying portion.  Do we know what we mean when we say portion?",teacher,53,3,1.0,,0.0
+A portion means one more fraction away.,student,7,1,,,
+A portion is a fraction.  But it’s missing what?,teacher,9,1,1.0,,0.0
+I thought you meant a portion was a certain amount of something.,student,12,0,,0.0,
+"So if a fraction is missing one portion, as if three-fourths is missing a fourth, five-sixths is missing a sixth, so for the time being ladies and gentlemen, we know what we mean when we say portion.  We’re going to have to come back and make this more clear and concise so anybody who walks in will understand, okay?  But for now, when both fractions are missing a portion, a portion from being whole, from being one, right?  One-whole.  When both fractions are missing one portion from being one-whole, so this is missing a portion that keeps it from being four-fourths, this is missing a portion that keeps it from being six- sixths. Okay, what’s the rest of this?  When both fractions are missing one portion from being whole…",teacher,129,8,1.0,,0.0
+If the denominator is…,student,4,1,,,
+The fraction with…,teacher,3,1,,,0.0
+The biggest denominator.,student,3,1,,,
+The larger denominator…,teacher,3,1,,,0.0
+It takes away more space.,student,5,0,,,
+"So the larger the denominator, the larger the fraction?",teacher,9,2,0.0,,1.0
+The less amount it takes space.,student,6,0,,,
+"So, what?  It’s closer to one is what we’re saying.  The fraction with the larger denominator is closer to one, thereby a larger fraction?",teacher,24,3,0.0,,1.0
+Let’s not say [inaudible].,student,4,0,,,
+"Is larger because it is closer to one whole.  Let’s read that and make sure it makes sense.  Student J, read that for me, this rule.",teacher,26,1,,,0.0
+When both fractions…,student,3,1,,,
+Hold on one second.  We need to stop fidgeting.  Nice and loud please.,teacher,13,0,,,0.0
+"When both fractions are missing one portion from being one whole, the fraction with the larger denominator is larger because it is closer to one-whole.",student,25,5,,1.0,
+Does that make sense?,teacher,4,0,0.0,,0.0
+Yes.,multiple students,1,0,,,
+"So you can look at that and see that it makes sense?  Thank you Student M, thank you Student E, thank you Student D.  And I will say right now, Student K gave me chills earlier because he was at his table trying to explain it to his tablemates and they just weren’t there.  I think they needed to see it, they needed to push to see it.  And Student V was all over that too. Ladies and gentlemen, I know that we are still learning and acquiring the language of math….   I’ll wait.  When we speak the same language, it’s easy to understand each other, right? Right?",teacher,108,0,,,0.0
+Yes.,multiple students,1,0,,,
+If you’re speaking English you can understand me.  What happens if you start speaking a language I don’t know?,teacher,19,0,,,0.0
+You don’t understand.,student,3,0,,,
+I don’t understand.  So in math…,teacher,6,0,,,0.0
+You understand what they’re trying to teach.,student,7,0,,,
+"In math, part of what we’re seeking is to have a common language.  That common language is the math terms that we use, okay?  And I know we’re still acquiring those math terms, but we’ve got to be able to say larger, bigger, smaller, what?",teacher,45,0,1.0,,0.0
+Larger.,student,1,0,,,
+"Smaller than, larger than, what other words can we use.",teacher,10,0,,,0.0
+Same.,student,1,0,,,
+"Same, equal.  What about that top number on the fraction?",teacher,10,1,,,1.0
+Numerator.,multiple students,1,1,,,
+Num-er-at-or.  And the bottom number?,teacher,5,0,,,0.0
+Denominator.,multiple students,1,1,,,
+"De-nom-in-at-or.  Okay.  So as we explore and learn, we need to start using the language we’re exploring and learning.  And I put up here, as I came around, each table told me this rule.  Each table, they told me this rule.  Four tables told me this rule.  But when I went around and checked the other two tables, I saw that they had this rule written. Okay, so we explored this rule and we came to it together. And we noticed that they do have something in common, even though our eyes don’t see it.  But when we put it out this way, we can see the commonality that these two fractions have, and that is that they’re one portion away from being whole.  Your job, ladies and gentlemen, as math explorers and investigators, is to pay attention to what you see, whether it’s clear or not, and things you discover, we want to know.  You need to share those things, those ideas, because it’s through sharing of ideas that we learn.  Table one, table three. I want to know, is there anybody in here who did not understand any of this today?  Anybody who did not understand anything we did today?  You’re telling me you didn’t understand any of this?",teacher,211,2,,,0.0
+[Inaudible] C.,student,2,0,,,
+"C, okay.  And what part of C?  Can you tell me where you lost your understanding?",teacher,16,0,,,0.0
+Because I was going to say…,student,6,0,,,
+Can you tell me where you lost your understanding?  So you do understand what three-fourths is.  And you do understand what five-sixths is.,teacher,23,0,0.0,,0.0
+Mm-hmm.,student,1,0,,,
+Yes or no?,teacher,3,0,,,0.0
+Yes.,student,1,0,,,
+And you do understand how to represent three-fourths and five- sixths on the number line.  And what were we trying to do with these two fractions?,teacher,26,2,,,0.0
+Try to see which one was bigger.,student,7,0,,,
+We’re determining which fraction was the larger fraction.  And can you see on this number line which fraction is the larger fraction?,teacher,22,5,1.0,,0.0
+Mm-hmm.,student,1,0,,,
+And why is five-sixths the larger fraction?,teacher,7,1,,,1.0
+Because it’s close to one whole?,student,6,1,,,
+"It’s closer than three-fourths is. Ladies and gentlemen, when we looked back at this one, we said for this, when the numerators are the same and the fraction with the smaller denominator is larger, but that only applies when the numerator is the same.  Here the one with the smaller denominator was not larger.  Why was this larger again, Student A?",teacher,61,5,1.0,,1.0
+Because it’s closer to one whole.,student,6,1,,,
+Because it’s closer to one whole than three-fourths.  Is there anybody in here who cannot do fractions on a number line? Is there anybody in here who did not know how to break down a number line?  Okay.  So this is what I’m going to ask you to do.  Remember we talked about what’s a repertoire?,teacher,56,4,1.0,,0.0
+Yes.,multiple students,1,0,,,
+"And we talked about we have a toolbox and sometimes we have to pull out the toolbox and ruffle through the toolbox to figure out what strategy we’re going to use?  “Oh, yes, I have this strategy, I’ll put that in my back pocket.  I have this strategy, I’m going to put that in this pocket. I have that strategy, I’m going to put that in this pocket. I have this strategy, I’m going to put this in this pocket.” Ladies and gentlemen, every time you learn a new strategy, what do you think I’m going to expect you to do?",teacher,101,0,,,0.0
+Remember it.,student,2,0,,,
+Use that strategy.  We do the math and then we go back and we do what with it?  We double-check.  And what do I expect you to double-check using?,teacher,29,0,,,0.0
+Your notes?,student,2,0,,,
+"Right, but if I …",teacher,5,0,,,0.0
+Our knowledge.,student,2,0,,,
+"A different strategy.  Yeah, a different strategy.  And yeah, you are using your knowledge.  Remember, I’m telling you constantly, what am I always telling you?  You know more than…",teacher,29,0,,,0.0
+You think you do.,multiple students,4,0,,,
+"You know more than you think you do, yeah.  You do.  Ladies and gentlemen, it’s just trying to get you to articulate what you know, and not be afraid to say what you know.  Okay? Yes ma’am?",teacher,37,0,,,0.0
+[Inaudible] regurgitate.,student,2,0,,,
+"Regurgitate, yes.  I want you to be able to regurgitate this information.  What does that mean?",teacher,16,0,,,1.0
+To spit it out.,student,4,0,,,
+"To spit it back out.  And understand it.  Okay?  So this math lesson went really well.  Tomorrow’s math lesson is going to piggyback off of what we learned today.  We’re going to take this a step further, okay?  So please write your name please on these papers, all of them, and put them in the red folder in your Avid binder, because I’m going to ask you to take this out tomorrow, you’re going to be regurgitating some of this information, as we push for even better understanding. Okay, I’m going to count down.  10, 9, no, no, no, you’re staying where you are, 8, stay where you are, 7, 6, 5, slant when you’re finished so I’ll know, 4, 3, 2, 1.  Okay. We, ladies and gentlemen, we are going to slide on in to Social Studies.  And what unit are we in now?",teacher,145,1,,,0.0
+Explorers.,multiple students,1,0,,,
+"We, ladies and gentlemen, are learning about the age of…",teacher,10,0,,,0.0
+Exploring.,multiple students,1,0,,,
+"The age of discovery, or the age of exploration.  We have ten explorers we need to know about.",teacher,18,0,,,0.0
+Is Ponce de Leon one of them?,student,7,0,,,
+"Ponce de Leon is one of them, yes, ma’am.",teacher,9,0,1.0,,0.0
+Christopher Columbus.,student,2,0,,,
+"Christopher Columbus.  I know they’re doing biographies, part of their biographies.  Some of the people that they chose to do biographies on, some of them are explorers.  So they’re going to be our resident experts as we learn about these people and what their motivation was to get out and explore, okay? Ladies and gentlemen, I just need to state this.  I’ll wait.  When we learned about the Aztec civilization, we were learning about the Aztecs themselves, and part of learning about the Aztecs, because they go back so far in history, we learned the complete history of the Aztecs, and part of that history involved Hernan…",teacher,107,0,,,0.0
+Cortez.,student,1,0,,,
+"Cortez.  Now, ladies and gentlemen, we weren’t learning about Hernan Cortez himself, we were learning about his role in the downfall of the Aztecs.  In the age of exploration or the age of discovery, we are going to be learning about Hernan Cortez himself, okay?  We’re also going to learn about Francisco Pizarro himself, because we talked about him in the downfall of the Incas.  Okay?  So I just want to make that clear.",teacher,74,0,,,0.0

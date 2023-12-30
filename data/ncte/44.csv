@@ -1,0 +1,224 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"Okay.  All righty, so nobody has read this book Spaghetti and Meatballs?",teacher,12,0,,,0.0
+No.,multiple students,1,0,,,
+"For real?  Student J, you read it?",teacher,7,0,,,0.0
+I think it's like a large family or something.,student,9,0,,0.0,
+Okay.  Do you remember what the theme was kind of?,teacher,10,0,0.0,,0.0
+Like a family reunion.,student,4,0,,,
+"Yes, very good!  There was a family reunion.  Okay.  Mr. and Mrs. C wanted to have a family reunion.  Who can tell us what a reunion is?  Student S.",teacher,29,0,,,0.0
+Like when a whole bunch of family comes over and you like cook and play games.,student,16,1,,0.0,
+"Good.  You can have friends as well at a reunion.  Usually people have a reunion if they haven't seen everybody all together for a while. So the Comforts, Mr. and Mrs. C, they decide to have a family reunion.  There are 32 people coming over, so they wanna make sure they have enough seating for all 32 people.  Now Mrs. C thinks she has a great idea.  She has a way that she has the seating all arranged and when we read it, you're gonna see what happens when more people come over, what they wanna do, which I really can't blame them. Now the theme of this, we're gonna talk about area and parameter. Who can tell me what parameter is?  What is parameter? Student A.",teacher,127,1,1.0,,0.0
+The outside of something – shape.,student,6,0,,,
+The outside of a shape.  Good.  Who else can tell me another definition?  That's perfect.  Who else?  Anybody else? Student H.,teacher,21,0,1.0,,1.0
+"Like if you wanted to walk around like the whole park and you wanted to know how many inches it is, you would go around the park.",student,27,1,,0.0,
+"Okay, good.  Student N.",teacher,4,0,0.0,,0.0
+It's around the outside of a truck.,student,7,0,,,
+What is it?  It's around.  What are we talking about?  It begins with a D.  What are we measuring?  It begins with a D.  We're measuring the what?,teacher,28,2,1.0,,0.0
+Difference.,student,1,0,,,
+Not the difference.  We're talking about units of length.,teacher,9,2,,,0.0
+Diameter.,student,1,0,,,
+No.  Now you guessed.  Student J.,teacher,6,0,,,0.0
+Dimension.,student,1,1,,,
+"No.  If I walked a mile, okay, we're talking about how far I traveled.  What's another word for that?  It begins with a D.  The second letter is an I.",teacher,30,0,,,0.0
+"Oh, I know it.",student,4,0,,,
+"Yes, Student V.",teacher,3,0,,,0.0
+Diameter.,student,1,0,,,
+No.,teacher,1,0,,,0.0
+Distance.,student,1,1,,,
+"Oh, there we go, that's a girl.  We're talking about the distance around an object, okay.  The second part of this objective is after we read it, we're gonna show two other ways Mrs. C could have arranged the seats for the family reunion and then we're going to identify the area and the parameter for each table arrangement. So first thing we talked about was the parameter.  The parameter is the distance around a figure.  Let's take a look at this figure right here.  Does anybody know what shape that is? Student M.",teacher,94,3,,,1.0
+Pentagon.,student,1,1,,,
+"Pentagon, good.  Now this isn't a scale, I just put numbers there.  Who can tell me the parameter of that pentagon? Who can tell me the parameter?  And remember, look at what it is.  Student A.",teacher,36,3,,,0.0
+Fifteen.,student,1,0,,,
+Fifteen what?,teacher,2,0,,,0.0
+Fifteen inches.,student,2,0,,,
+"That a boy, fifteen inches.  Good.  Now, who could tell me the parameter of this shape if each side is one inch?  If each side is one inch – I didn't put any numbers there on purpose.  I'm gonna tell you it's one inch.  Switch it in black.  What's the parameter there?  What's the parameter there with one inch?  Student V.",teacher,61,0,,,0.0
+Eight inches.,student,2,0,,,
+"Very good.  This would be eight inches.  So all a parameter is, it's the distance around the shape, okay.  So that would be eight inches.  So if I was a little ant and I walked around this shape if [Inaudible] truly were one inch, then I would have walked eight inches. The second part of our objective is we also have to find the area. What's the area?  Look at the word Student W, we have a picture there.  If parameter is the distance around the shape – Student K.",teacher,90,4,,,0.0
+Inside the shape.,student,3,0,,,
+"Okay.  We're talking about inside the shape, okay.  And area's the number of square units needed to cover a figure.  The units used to measure area are based on units of length, but they are very different.  For example, if this was a one-inch square, the parameter would be four inches.  We're talking about a square, so the area for this square would be one square inch, okay, and we can write that by saying inch with a two above it, inch square.  Okay. The parameter of this square is one centimeter – one centimeter on each side – so the total parameter would be four centimeters.  The area we're talking about, that's a mistake.  The area is what?  One?",teacher,120,21,,,0.0
+Centimeter.,student,1,1,,,
+You've gotta say square 'cause we're –,teacher,7,1,,,0.0
+Square centimeter..,student,2,2,,,
+"Square centimeter.  Good, okay, all right.  So I'm gonna start reading this.  What I'm reading – and I found with the other class that I read it through the first time, and then we went back and we talked about some of the arrangements that Mrs. C made for the other people were doing to her four tables is what made her was so upset.  I might stop.  And I picked out a couple of arrangements that people made.  I might stop, then we might do it together. I think you'll find it easier to visualize.  Yes, Student A.",teacher,99,2,,,0.0
+Can you put the book on the projector so we can see the pages?,student,14,0,,0.0,
+"That's what I planned on doing.  Thank you, Student A.",teacher,10,0,0.0,,0.0
+What's that thing over there?,student,5,0,,,
+This is a microphone.,teacher,4,0,1.0,,0.0
+"Oh, so they can hear what you're singing?",student,8,0,,0.0,
+"Yes, they wanna hear me sing.  Like what is it –",teacher,11,0,1.0,,0.0
+Sing?  Oh.  You're gonna sing tonight?,multiple students,6,0,,,
+No.,teacher,1,0,0.0,,0.0
+Tomorrow.,student,1,0,,,
+"I'm not singing.  There will be no singing. [Crosstalk]  Okay. Spaghetti and Meatballs. One fine day, Mrs. C was busy tending the lettuce patch in your garden.  ""You know, it's been a long time since we've seen the family,"" she said to her husband.  ""You're right,"" answered Mr. C.  He was stretched out on a bench doing what he liked to do best with a vegetable garden, reading a cookbook. ""Maybe it's time for a family reunion,"" Mrs. C said.  ""A wonderful idea,"" Mr. C agreed.  ""Hmm, let's see. Menus, menus, ends with a two, starts with a six, banquets. How many people would we be having?"" [Inaudible] So there's Mr. C [Inaudible].  There's Mrs. C, lovely couple, working in their garden.  He's reading, she's working.  Ah, one of my favorite things, sitting down.  Oh, yeah.",teacher,136,0,,,0.0
+[Laughter],multiple students,1,0,,,
+"The Comforts called their children, they called their parents. Mrs. C called their brother, Mr. C called the next door neighbors who were almost like them.  Everyone could come.  ""That's 32 people all together, including us,"" Mr. C said.  ""What could possibly fit in our oven and still feed 32 people?"" he wondered out loud. ""Why not make your famous spaghetti and meatballs?"" asked Mrs. C.  ""Good thinking,"" said Mr. C.  ""Now what about renting some tables and chairs?"" asked Mrs. C. She got out the telephone book.  Yes.",teacher,89,0,,,0.0
+[Inaudible].,student,1,0,,,
+Okay.,teacher,1,0,,,0.0
+"That was like those three bears that's like Goldilocks, the Queen's chair.  The medium chair and the small chair.",student,19,0,,0.0,
+"That's a nice connection.  Two weeks later – that's a [Inaudible].  Two weeks later, the big day arrived.  Mr. C got up very early and spent all morning cooking. He baked 16 loaves of garlic bread and made 8 pounds of fresh pasta.  He simmered 8 quarts of spaghetti sauce and rolled 96 meatballs. Mrs. C picked all her ripe tomatoes, cucumbers, and lettuce for a salad, while Mr. C waited for the tables and chairs she had rented while Mrs. C [Inaudible].  She grew a seeding plant.  Then she got out the dishes, the silverware, the glasses, the table cloths, and some vases. When the rental company arrived, they were one chair short. ""Don't worry,"" said Mrs. C, ""we'll think of something."" So if you were one chair short, just curious, what would you do? Real life situation, real world problem.  What would you do?  Student A.",teacher,148,2,1.0,,0.0
+I'd get another chair from the house.,student,7,0,,,
+"Yeah, there you go, perfect.  Mrs. C found a folding chair.  Good job Student A. Now the tables were ready.  Each had four place settings, four chairs, and a vase with lovely cut flowers.  Mr. C came out of the kitchen balancing eight plates of [Inaudible] – one for each table.  So how did she arrange the chairs?  How did she arrange the chairs?  Student S.",teacher,66,0,1.0,,1.0
+Four.,student,1,0,,,
+By fours.  Correct.  So she arranged the chairs by fours.  How many tables were there?,teacher,15,0,,,0.0
+Eight tables.,student,2,0,,,
+Eight tables.,teacher,2,0,,,0.0
+Eight times four is thirty-two.,student,5,0,,,
+Say it again.,teacher,3,0,0.0,,0.0
+Eight times for is thirty-two.,student,5,0,,,
+"So can we all agree that there's thirty-two chairs, because eight tables times four chairs with total of thirty-two chairs.  Good?",teacher,21,1,1.0,,0.0
+Yeah.,multiple students,1,0,,,
+You feel good about that?,teacher,5,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Okay, good.  Just after noon, the Comfort's daughter and her husband arrived with their two children.  ""Welcome,"" said Mrs. C.  ""Come sit,"" said Mr. C.  ""Let's push two tables together so you can sit with us,"" suggested the Comfort's daughter.  ""But there won't be room,"" Mrs. C said.  ""But there is,"" said Mr. C.  ""There's plenty of room and plenty of garlic bread."" I think he's not really understanding what she's saying.  She's saying there won't be room, but he's saying there will be. Why won't there be room?  Why won't there be room?  Student C.",teacher,96,0,,,0.0
+Because they weren't one of the thirty-two people.,student,8,0,,1.0,
+They what?,teacher,2,0,1.0,,0.0
+They weren't one of the thirty-two people.,student,7,0,,,
+"No, they were part of the thirty-two people.  And why combine it?  Those two tables are gonna mess everything up.  Why is that?  Student J.",teacher,25,0,1.0,,1.0
+Because they're one chair short out of a table.,student,9,0,,1.0,
+"It would be one chair short out of a table, okay.",teacher,11,0,1.0,,0.0
+Because two people won't be able to sit there.,student,9,0,,1.0,
+Two people won't be able to sit.  So you say two people won't be able to sit and you say one person won't person won't be able to sit.,teacher,29,0,1.0,,0.0
+I say two.,student,3,0,,,
+"Why don't we do this.  Why don't we figure this one out for right now.  Why don't we take out – and Student K, you can just move your chair over there at any desk.  Student M, you can just turn around right there.  I want everybody on your desk, in your groups you will find colored tiles.  I want everybody to take out eight, you'll only need eight. [Crosstalk]",teacher,70,0,,,0.0
+"I got mine all in red.  Mine are all in red.  I know, all right.",multiple students,15,0,,0.0,
+"It doesn't matter what color they are. [Crosstalk] You only need eight Student S.  Only eight.  Very good. [Crosstalk/0:13:47] Okay, good.  Every has out eight.  Focus!  Student J, eight, that's it.  That's all you need to grab, just eight.  Okay, now, how did they want – so people came over and they wanted – turn your whole desk around. They wanted – they came over and they wanted since they were the only ones there, okay – her daughter came over their daughter came over with her husband and their two kids.  They're the only ones there at the time, so they're like, ""You know what, nobody really likes to eat alone,"" so they wanted to eat with the Comforts and Mr. C wanted to eat with them.  So they said, ""You know what, let's combine two tables.""  So everybody combine two tables just like this. [Crosstalk] Go ahead and do another arrangement.  Now, if they combined two tables, what would be the number of chairs that could fit around all of these tables now?  There's still eight tables, but what could be the total number of chairs that could fit around there?  Now remember that each spot, that would be a chair, that would be a chair, that would be a chair, that would be a chair, that would be a chair, and right there. How many chairs could they fit now?  Go ahead, look at it.  Turn around all those chairs.  Now how many chairs fit around one table everybody?",teacher,252,2,1.0,,0.0
+Eight.  Four.,multiple students,2,0,,,
+How many chairs fit around one table?,teacher,7,0,,,0.0
+Six.  Four.,multiple students,2,0,,,
+How many chairs fit around one table?,teacher,7,0,,,0.0
+Four!,multiple students,1,0,,,
+"Okay, [Inaudible] one table.  How many chairs would fit around there now?  Student C.",teacher,14,0,,,0.0
+Six.,student,1,0,,,
+Six where?,teacher,2,0,,,0.0
+[Inaudible],student,1,0,,,
+"So you're saying six would fit here, and you are correct.  Six would fit here, but Student C, I want you to then combine that six with these right here.  Now we know that four can fit around these.  So I guess what I'm asking you Christian is, ""What is the total number of chairs that could fit around all eight tables?""",teacher,62,1,,,0.0
+One then four.,student,3,0,,,
+"Well, let's take a look here.  How many tables are here?",teacher,11,0,,,0.0
+Six.,student,1,0,,,
+"There's six tables.  How many chairs at each table.  Four, good.  And what's six times four?",teacher,16,0,,,0.0
+Twenty-four.,student,1,0,,,
+"So we have twenty-four chairs here Student C, plus we have another six.  So how many total chairs do we have now?",teacher,22,1,,,0.0
+Thirty.,student,1,0,,,
+"Thirty.  So if everybody showed up right now, guess what?  How many chairs short would they be?",teacher,17,0,,,0.0
+Two.,multiple students,1,0,,,
+They would be short two chairs.  Did the amount of tables change?,teacher,12,0,,,0.0
+No.,multiple students,1,0,,,
+"No, the amount of tables didn't change.  Changed were the number of the way they arranged it.  So by arranging them a certain way, that changed the amount of chairs.  Yes, Student K.",teacher,33,0,,,0.0
+"I did it in my [book report], by putting my –",student,11,0,,0.0,
+"Oh, you're doing something different.  We're not there yet. Don't, don't – you're getting ahead of me.  Okay.  Put those back quickly.  That way, I don't wanna hear any tiles when I'm leaving. [Crosstalk/0:18:23] Five, four, three, two, one.  Okay.  Okay, so we know that isn't gonna work, so let's take a look it again.  Everyone was just about to sit down when a cop pulled into the driveway. And Mrs. C's brother and his wife and daughter, her husband and [Inaudible] son all spilled in.  ""Welcome,"" said Mr. C.  ""Sit down, sit down.""  ""Oh, let's push over two more tables so we can all sit together,"" said Mrs. C's brother's wife. The Comforts daughter and her husband got up to help.  But that won't work.  So look what they wanted to do now.  What did they wanna do now?  What did they wanna do now?  Student M.",teacher,148,0,0.0,,0.0
+They wanted to put four tables together.,student,7,0,,,
+They wanted to put four tables together.  How many people think that's gonna work?,teacher,14,0,1.0,,0.0
+I don't know.,student,3,0,,,
+"No?  How many people say it's not gonna work?  How many people are just not sure?  Okay, thank you for being honest. We're gonna come back to that – this one. ""You're so right,"" Mr. C said.  We have to put two more tables together.  ""But that won't work either,"" said Mrs. C. ""You're right,"" said Mrs. C's brother Dwight.  ""Make way,"" shouted Mrs. C's brother and the Comforts son- in-law.  They each carried over a table and put them side by side. ""You don't understand,"" Mrs. C sighed.  ""My plan was,"" but no one heard her.  Everyone was too busy.  Everybody's moving stuff, they're having a good time, they're hugging each other, right?  ""Save some of the garlic bread for me,"" the new arrival called.  ""Me too, me too, me too,"" three more voices piped in. ""Well look who's here,"" said Mrs. C's brother's daughter's husband.  It was the Comforts next door neighbors with their daughter and son.  ""Hello, hello,"" said Mr. C, ""so glad to see you.  Have a seat and I'll get the garlic bread.  ""But there's no place for them to sit,"" said Mrs. C. Yeah, they are right.  This guy, he's excited.  He's got a camera out and stuff.  ""Don't worry,"" said Mrs. C's brother's wife, ""we'll just divide these tables into two groups of four."" How many people think that would work?  You have – okay, Student L, this is what you do with your notebook.  You put four tiles here and four tiles there.  How many people think that would work, if they had two groups of four?  How many? Sound pretty good, right?  Okay, we'll come back to that one. ""Go ahead,"" Mrs. C said.  ""But I'm telling you, you fret too much,"" said Mr. C.  ""Bread anyone?"" So there's two sets of four there, two sets of four there, and as you're doing it, everybody's moving plates.  It's just getting crazy.  When all the tables had been rearranged, everyone sat down. ""See mom,"" the Comforts daughter said, ""it worked out just fine."" Mrs. C sighed.  It's like Mrs. C knows something that the other people don't.  How many people still think two groups of four will work? Okay, you know what?  Let's try that.  Everybody take [their] tiles again.  Lay two groups of four. [Crosstalk/0:21:58] Two groups of four.  If you don't know how to make it, look up at the board. Two groups of – Student D, you don't need [Inaudible] You know, you can kind of estimate how many tiles you need.  You have about 20 tiles on your desk.  Student A, we're not building tile towers.  No, you may not.  [Crosstalk] Remember, think about parameter, the distance around an object. Think about parameter, the distance around an object.  Love what you're doing Student C.  [Crosstalk] Do you have it? Do you have it? Student G, you feel confident?",teacher,480,4,,,0.0
+No.,student,1,0,,,
+"Student J, look at the board and look at yours.  There you go, that a girl.  Okay, now remember, think of where those chairs can fit.  Now, if it helps you, okay, just count all right.  I know here, one chair, two, third one, fourth, five, six, seven, eight. Okay, so some people said no.  I mean some people thought that they could fit thirty-two chairs there.  So who honestly – raise your hand if you thought thirty-two chairs could fit in that room.  That's okay.  I'll move it for you. Okay, Student J, how many chairs can fit there in that arrangement the way it is?",teacher,107,0,,,0.0
+"There can be two on this side, two on this side, two on the back, and two on the side.",student,20,0,,0.0,
+"Okay, so one arrangement can have how many?  How many chairs?",teacher,11,0,1.0,,0.0
+Eight.,student,1,0,,,
+"Eight.  That a girl.  So one arrangement can fit here, the other arrangement, it's the same shape, how many can that fit Student S?",teacher,24,0,,,0.0
+Two.,student,1,0,,,
+That a girl.  What's the total chairs for both of those shapes? Combine them.  How many do we have?  Student L.,teacher,21,1,,,0.0
+I [went] sixteen.,student,3,0,,,
+"Amazing Student L.  It's like I called on you – you must be ventriloquist or something, because I thought I heard somebody's voice without their mouth moving.  Hmm, I wonder what he said.  Who said that out loud –",teacher,39,0,,,1.0
+Eight plus eight is seventeen.,student,5,0,,,
+"Who said sixteen when I called on her?  I don't know, interesting.  Thank you Student J.",teacher,16,0,0.0,,0.0
+Sixteen.,student,1,0,,,
+"Eight plus eight is sixteen.  So actually there's less chairs here in this arrangement than the second one they did. Yes, Student T.",teacher,23,0,,,0.0
+That's half of thirty-two.,student,4,0,,,
+"That's half of thirty-two, very good.  Okay, keep your tiles the way they are, just don't touch them.  I don't wanna hear – I hear – okay, let me erase this. Okay, when all the tables have been rearranged, everyone sat down. See how the Comfort's daughter said it worked out just fine. ""Hi ya, hi ya, hi ya,"" boomed a familiar voice!  Sounds like my grandfather.  Mr. C's father, mother, and their little terrier strolled in.  ""Hello grandma, hello grandpa,"" the Comfort's daughter shouted. ""Oh, dear,"" said Mrs. C.  ""You think they could sit,"" because you just have that visual now, right?  That's the way they arranged the tables.  Now there's only sixteen. ""No problem,"" said Mrs. C's next door neighbor.  ""If we just push all eight tables into one long line, then there will room enough for everyone."" Oh, yeah.  That makes a lot of sense, right?  Have a nice long line?",teacher,154,2,,,0.0
+No.,multiple students,1,0,,,
+No?,teacher,1,0,,,0.0
+No.  Yes.  No.,multiple students,3,0,,,
+Yeah?,teacher,1,0,,,0.0
+No.,multiple students,1,0,,,
+"How many people say yes?  Ah, yeah.  Come on, let's do it.  Do it right now.  Make one long line and figure out how many people can fit there.  I think this is a good idea. [Crosstalk] One long line Student J.  Take all these – yeah, there you go, that a girl.  [Crosstalk]  One long line, eight tiles.[Crosstalk/0:27:15] I don't care about the snow, okay.  It's nothing that you haven't seen before.  All right, [Clapping hands] so how many people can be arranged the way it's set up now?  Somebody we haven't heard.  Student M.",teacher,96,3,,,0.0
+What?,student,1,0,,,
+How many people the way it's set up now could sit at these tables now?,teacher,15,0,,,0.0
+Eighteen.,student,1,0,,,
+Eighteen.  Is that gonna work?,teacher,5,0,,,0.0
+Yes.  No.,multiple students,2,0,,,
+"No.  A good idea though when you think about it, just one straight line.  What's the problem though?  What do they need more of in order for this way to work?  Student M.",teacher,33,1,,,0.0
+More tables.,student,2,0,,,
+"Excellent.  They need more tables in order for that to work. Yeah, I know their food is good enough for them.",teacher,21,0,,,0.0
+[Laughter],multiple students,1,0,,,
+"It would be good for us.  Yes, Student A.",teacher,9,0,,,0.0
+"When you put them together, they're supposed to be one chair in here and here.  But basically [Inaudible]",student,18,0,,0.0,
+"Exactly, very good, excellent.  Okay Student K, take that. [Crosstalk] Oh, but they're all having so much fun.  The cats and dogs like [Inaudible].  See that right there? [Laughter] Everybody can go .  Uh-oh, look at these two things. No sooner had everybody gotten settled, the Mrs. C's mother and father drove up in their yellow convertible.  ""Hello grammy, hello gramp,"" the Comfort's daughter shouted. Mrs. C put down her fork.  ""Oh, dear,"" she said.  ""So far we're all family, right,"" grandpa said.  ""Let's just split this long line of tables in two so there'll be plenty of room for us to squeeze.""  But it still isn't going to work because Mrs. C started to say a bowl of salad slipped into her lap.  ""Sorry,"" said one of Mrs. C's brother's daughter's twin sons.",teacher,134,2,1.0,,0.0
+"Oh, my God.",student,3,0,,,
+"Mr. and Mrs. C and their eighteen relatives and neighbors were finally all seated.  They passed the salad and the bread, they shared the celery and the olives, and when they heard a cheery, ""Hi, everyone,"" most of them held onto their plates.  The Comfort's son and his wife peddled in on a bicycle for two.  They're twin daughters rolled in on skates. ""Didn't I tell you,"" Mrs. C said, ""there's not enough room."" ""No problem mom,"" said the Comfort's son.  We'll just divide those lines of tables into four tables.  And there she is.  It looks like she's got a major headache right now. ""Wait, wait, you're all forgetting something,"" said Mrs. C. ""We're out of salad over here,"" the Comfort's daughter said.  ""Don't put any tomatoes in mine,"" said the Comfort's next door neighbor's son.  ""Is there more garlic bread?"" asked Mrs. C's mother.  ""Who's got more silverware?"" asked Mr. C's father. ""Hey,"" Mrs. C's brother's daughter's son had said to his twin brother, ""that's my bread you're eating.""  ""Get your fingers out of my salad,"" the Comfort's son's daughter said to her twin sister.  ""Don't play with you food,"" said the Comfort's son's wife.  ""What did you say?"" asked Mr. C.  ""I said, things are getting a little out of hand now."" Beep, beep.  Big Red's red van parked at the curb.  Out jumped – we're being good listeners that I shouldn't see anybody with those tiles. Out jumped Mrs. C's sister with their husband and their triplets.  All three of the triplets had brought their boyfriends who were also triplets.  ""Now do you see what I mean?"" Mrs. C asked.  ""Where are they all going to sit?"" ""Well my dearest,"" said Mr. C, ""I haven't served the spaghetti yet.  We'll just move a few chairs, reset a few places, and there will be plenty of room for everyone."" ""I give up,"" cried Mrs. C.  She sat down in her chair and didn't budge.  ""I'd say we divide the full [panels of] tables into eight single tables,"" Mrs. C's brother said. He and his wife moved on pair of tables apart, the triplets and their boyfriends moved the other three pairs.  ""You see,"" said Mr. C, ""it all worked out.""  ""I see everything is back exactly the way I had it!"" said Mrs. C.  ""I knew you'd think of something,"" said Mr. C.  Now how many meatballs were served? So what happened at the end of this story?  What happened?  Hands please, hands.  Student J.",teacher,418,3,,,0.0
+It ended back [Inaudible],student,4,0,,,
+"It ended where it originally began.  Very good, Student J.  The arrangement started where they originally had it.  Okay. Now there was one that I said we'd get to come back to and I believe that was the – yes.  What I would like you to do is I would like you now just to prove one more way. Four tables together and four separate.  I would like you to tell me how many chairs would that arrangement make.  How many chairs?  Okay, so four together and four separate; four together and four separate.  Who can come up to the board and show me four together and four separate?  Go ahead Student M.  No, I already got them there for you.",teacher,121,0,,,0.0
+Twenty-four.,student,1,0,,,
+"That a boy, good.  Now, I want you to figure out how many chairs could be seated there.  Thank you.  You can go back to your seat. [Crosstalk/0:35:25] Oh, snap.  Remember how – this is different than what you had.  That is what's on the board.  Going together and four separate. Michael went up to the board and put it up.[Crosstalk] Student M, Student A, do you see now?  Student D, is yours like that? When I come over, I'm gonna see that?  So that's – you know how many chairs?  [Crosstalk] Okay, Student A.  How many people can sit this arrangement?  It's basically a two by two, right?  How many people could sit here?",teacher,115,0,,,0.0
+Eight.,student,1,0,,,
+"Eight people, that's good.  So when we think about the parameter of this shape is eight.  These are inch square tiles, so we could say that this shape is eight inches, the parameter.  Oh, my pen isn't working again.  It was working so well.  Key word what, I already told you that, right? Come on.",teacher,55,1,,,0.0
+Eight.,student,1,0,,,
+"Eight inches.  So if this is eight, each of these individual tables or tiles are what; how many people can sit there? Student A.",teacher,24,0,,,0.0
+Sixteen people.,student,2,0,,,
+All together sixteen here; good.  So what sixteen plus eight.,teacher,10,0,,,0.0
+Twenty-four.,student,1,0,,,
+"Twenty-four.  So the total amount of chairs – or the total parameter for all of these shapes combined is twenty-four inches.  Are we good with that?  Now this is where the challenge comes. [Crosstalk]  How exciting. [Crosstalk] We already did Part A, so we're gonna go to Part B.  So you can fill in the top just so you have it there.  You know what I mean?  There you go bud.",teacher,71,2,,,0.0
+Thank you.,student,2,0,,,
+"You're welcome. [Crosstalk] Okay, everybody, let me have your attention.  Thank you Sarah, we're not having a festival right now.  Okay, so this is want you to do. [Crosstalk] Excuse me.  Everybody take a look so you'll know what you do.  And then groups that are doing their work and not fooling around are the groups that can go and use the [Inaudible]. Okay?  So let's just review this. At the beginning of the story, Mrs. C knew there would be how many people?",teacher,84,0,,,1.0
+Thirty-two.,multiple students,1,0,,,
+"Okay, so everybody fill in thirty-two right there.  And she could sit them at how many small tables?",teacher,18,0,,,0.0
+Eight.,multiple students,1,0,,,
+Eight.  Put it there.  And how many at each table?,teacher,10,0,,,0.0
+Four.,multiple students,1,0,,,
+"Okay.  Now we already talked about A, but let's just do it right now.  Just right here in this space, I just want you to draw eight tables and four at each table.  Okay, and if you want to to speed things up, if you feel comfortable with it, you can just write the number four.  If you still need to visually see it, then you can just put the four chairs just by lines around it, whatever you want.  And we should know that there will be thirty-two people. Now while reading the book – now let's talk about this.  Right here it says, ""The top of each small table has an area of one square unit.""  All right?  One square unit.  Our tiles, they're one inch.  The paper on your tables which I told you not to touch yet, that is one inch as well.  This will fit perfectly in this paper.",teacher,154,6,,,0.0
+What?  Where?,student,2,0,,,
+"On your desk.  Don't touch it yet.  You have one inch squared paper.  Your tiles fit perfectly in a square.  Okay, does everybody see that?  But don't touch the paper. So the total area – excuse me.  The total area – if I combine all of these squares, the total area would be eight square units. The total parameter – now I don't why that's moving. Student L, thank you.  The total parameter is thirty-two. An individual one – there's four will be combined under this thirty-two. Now this is what I want you to do.  You need to listen to directions this table, you will go last.  Show two other ways Mrs. C could have seated her guests.  And here's an important part.  She may have to rent more tables, so this is what I want you to do. I want you to come up with two other ways – stop playing with the tiles.  I don't like when people come up to me and say they don't know what to do, but you were doing something that you wanted to do.  Right now, you are listening to me. That's what I want you to do.  That's what you need to do so you know what to do.  I just said to do a lot, so pay attention.  All right. So you're gonna show two other ways Mrs. C could have seated her guests.  You can use more than eight tables.  You can use more than eight tables.  Once you have figured out a way with your tiles, I want you to take the inch squared paper which is on – don't touch it.  I want you to take the inch squared paper which is on your group's tables, and I want you to show me the shape.  Okay? Now just to let you know that one square – Student M, can I see you [inaudible].  [Crosstalk] So pay attention please.  So A, right?  In order to show A correctly, I'm gonna have it drawn – color in eight squares. Okay, I'm gonna have you color in eight squares, but I couldn't have drawn the lines without skipping a space because I have to show four people at a table.  So once you've made your arrangement, I want you to take that arrangement and I want you to color it on your square paper. If the squares are too big, on the back table I also have centimeter paper.  Now the centimeter paper is instead of inches, it's centimeters.  So it's smaller, but it's the same concept. So you could fit more on there if you needed to.  Does everybody know what they have to do?",teacher,447,21,,,0.0
+Yes.,multiple students,1,0,,,
+How many different shapes are you gonna make?,teacher,8,0,,,0.0
+Two.  Two.  Four.,multiple students,3,0,,,
+How many shapes Student A?,teacher,5,0,,,0.0
+Two.,student,1,0,,,
+"Once you are done making the shape, what are you gonna do then?",teacher,13,0,,,0.0
+[Inaudible],student,1,0,,,
+No.  What are you gonna do Student M?,teacher,8,0,,,0.0
+Finish the paper.,student,3,0,,,
+"No, not finish the paper.  No, you're not listening.  What are you gonna do?  It has something to do with this.",teacher,21,0,,,0.0
+Get more.,student,2,0,,,
+"Student A, save people please.  Save us.  Huh?",teacher,8,0,,,0.0
+"I don't know, double-check?",student,4,0,,,
+"No.  Once you made your shape with the color tiles, you're going to?",teacher,13,0,,,0.0
+You're gonna color them in the paper.,student,7,0,,,
+You're gonna color it onto the paper.,teacher,7,0,1.0,,0.0
+Is all of them the same color?,student,7,0,,,
+"No, it doesn't have to be the color that this was.  All right? Now how many chairs should we have?  How many chairs?",teacher,23,0,1.0,,0.0
+Thirty-two.,multiple students,1,0,,,
+"Thirty-two, okay?  All right, go ahead. [Crosstalk]  There's inch squared paper there. [Crosstalk] Your stomach hurts, that's awful.  Why don't you do a shape and then we'll see how you feel in five minutes. [Crosstalk]  Make an arrangement.  You can use more than eight tables, so you can use more than eight tiles. [Crosstalk] I wanna see you working.  What did I say?  Groups that are working will go the [Inaudible]; groups that are sitting there, will not go to the [Inaudible].  [Crosstalk/0:47:53] I'm gonna put some centimeter paper at your groups in case you choose to use that if you need more room. [Crosstalk]  Student C, don't worry about the minimal amount of snow we're getting right now, worry about the incredible work you need to do.",teacher,128,2,,,0.0
+We're gonna have a snow day. [Crosstalk],student,7,0,,,
+"Once you have a way, I would like to see it. [Crosstalk] Excellent.  Go ahead and put it on this table.  Very good. [Crosstalk/0:49:02] Oh, time out!  Time out.  I'm glad somebody did this.  People did it in the last class.  Student J, say what you just said.",teacher,48,0,1.0,,0.0
+I did sixteen tables with two chairs.,student,7,0,,,
+"He did sixteen tables with two chairs at a table.  That would equal thirty-two, but all the sides need to have a chair. All the sides need to have a chair.  Now in real life you are correct.  You could have just two people sitting at a restaurant, you're right about that.  But for this exercise, we're practicing parameter.  I want you to be able to count all the sides.  So all the sides need to be accounted for, okay Student J?  That was good though, I like that. Student B, you having a little dinner for two?  I understand, but we're doing it for four, okay? [Crosstalk]  Copy it down on your paper, color it in. [Crosstalk/0:51:20] Once you have one way, color it in on your paper and then do it a second way. [Crosstalk/0:53:27] All right, time out for a second.  Time.  I would like one person from each table if possible to come up and show me one way. Student G, come on up.  You will represent the middle group. Time out.  Maybe when you see an example, you'll understand why. You'll see it.  Student A, pay attention, okay.  Oh, this is like beautiful to look at.  All them colors reminds me of a [Inaudible]. All right Student G.  How many people are sitting at each arrangement?  So how many people are sitting at this group right here? Eight people are sitting at that group of tables, because – and I love how you wrote it.  I hope Student C and Student N were all looking up here.  We're seeing what she did.  She has one, two, three, four, five, six, seven, eight.  Each side represents a spot where a person can sit. So you have this line right there that I put.  That is where two different tiles work.  So that's like where two different tables could be.  Now Student D, we're not doing anything else Student D – excuse me – but paying attention. So you have eight people here.  So how many sets of tables does she have?  How many groups?  So who can give me a multiplication sentence that represents the parameter? Student M.",teacher,362,2,1.0,,0.0
+Eight times four.,student,3,0,,,
+"Eight times four, right?  Because she has eight people at a group of tables.  She has four sets of tables.  That is a parameter of thirty-two, okay?  Now what would be the total area of her shape?  Now the area of this shape, how many – when I say area, think about the tiles – what's the area of this shape?",teacher,61,4,,,0.0
+Four inches.,student,2,0,,,
+Not four inches.,teacher,3,0,,,0.0
+Four square inches.,student,3,1,,,
+"That a boy, four square inches.  So let's not even worry about saying square inches then, okay?  This is four.  How many tiles does she have all together?",teacher,28,2,,,0.0
+Four.,student,1,0,,,
+"No, she doesn't have four.  All together, how many tiles does she –",teacher,13,0,,,0.0
+Sixteen.,student,1,0,,,
+"Sixteen.  So we can say, ""A total area is sixteen square inches.""  Very good, okay – of the total combined.  Let's have somebody show a different way.  Please do not come up with that one.  Thank you Student G, very good. Student C, come on up.  You've been working hard on the last one. What's the matter with this right here?  Who can tell me? Student H.",teacher,67,3,,,1.0
+Two chairs are in each spot.,student,6,0,,,
+"Two chairs are in each spot.  I think you've run out of room there buddy.  It would be two – [Class interruption/Intercom announcement] This won't work 'cause we can only have one chair at each spot.  Not bad so far, it's a good try.  Somebody over here.  Student A, come on up.",teacher,52,1,1.0,,0.0
+[Inaudible],student,1,0,,,
+"I don't know, you tell me.  Okay, Student A, tell us – in one group here, how many tables does he have?  In one group, how many tables?  Student S, pay attention.  In one group here, how many tables do you have? He has three tables at each group, correct?  At each group?  How many chairs?  Eight chairs.  So again, kind of like we have four sets a group, three in each group, so the parameter would be thirty-two – eight, sixteen, twenty-four, thirty-two. What would be the area is we combined all of these together?  How many tables does he have?  How many tables does he have? Student B, just come in please.  Just act regular, okay please.  Student A.",teacher,121,1,,,0.0
+Twelve.,student,1,0,,,
+"Very good, very good.  So the area, because we combined these, would be twelve square units – twelve square inches.  Very good.  Let's have one more person come up.  Thank you, Student H.  One more; something different.  Student A, come on up.  Hurry up. Okay, you're gonna have to explain this one.  Which one is it?  Is it the whole paper?  Oh, these two.  So it's this one and this one?  What about these?",teacher,74,5,,,1.0
+This one right here.,student,4,0,,,
+"Wait, I'm confused.",teacher,3,0,,,0.0
+These ones were this way –,student,6,0,,,
+"Oh, okay.  So this one – okay, okay.  You know what you should have done?  What should you have done?  You should have used a different paper or just skipped a line and put this one here and this one there. Okay, so forget about – let me – oh, yeah, that's not right.  Forget about this right here, okay?  So you have how many – what's your parameter here?  Do this one.",teacher,73,1,1.0,,0.0
+My parameter is sixteen.,student,4,0,,,
+"Sixteen.  So you have one, two, three, four, five, six, seven here.  Seven there is fourteen – fifteen, sixteen.  So sixteen plus sixteen equals?",teacher,24,0,,,0.0
+Thirty-two.,student,1,0,,,
+"Excellent, and what is your area?",teacher,6,1,,,0.0
+I don't know.,student,3,0,,,
+"How many of these tiles do you have here?  One, two, three – you have seven here and how many here?",teacher,21,0,,,0.0
+Seven.,student,1,0,,,
+"Seven.  So you're combined – if we combine those, that would be an area of?",teacher,15,1,,,0.0
+[Inaudible],student,1,0,,,
+"That's very good.  All right, excellent job, very good.  Okay, let's have one more person come up.  One more.  We haven't heard anybody from this group.",teacher,26,0,,,0.0

@@ -1,0 +1,38 @@
+[
+    {
+        "start": "00:00.00",
+        "stop": "00:06.00",
+        "speaker": "Tutor",
+        "dialogue": "All right. Do you see the tools on the left-hand side of your screen?"
+    },
+    {
+        "start": "00:06.00",
+        "stop": "00:07.00",
+        "speaker": "Student",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "00:07.00",
+        "stop": "00:11.00",
+        "speaker": "Tutor",
+        "dialogue": "We're going to practice using them a little bit. Can you see my arrow when it moves around?"
+    },
+    {
+        "start": "00:11.00",
+        "stop": "00:12.00",
+        "speaker": "Student",
+        "dialogue": "Uh-huh."
+    },
+    {
+        "start": "00:12.00",
+        "stop": "00:13.00",
+        "speaker": "Tutor",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "00:13.00",
+        "stop": "00:42.98",
+        "speaker": "Tutor",
+        "dialogue": "The 3rd..."
+    }
+]

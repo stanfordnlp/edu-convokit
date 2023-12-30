@@ -1,0 +1,6176 @@
+[
+    {
+        "start": "00:01.60",
+        "stop": "00:01.88",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "00:02.72",
+        "stop": "00:03.92",
+        "speaker": "Tutor",
+        "dialogue": "We are recording."
+    },
+    {
+        "start": "00:04.72",
+        "stop": "00:05.20",
+        "speaker": "Tutor",
+        "dialogue": "I'm Goninga."
+    },
+    {
+        "start": "00:05.24",
+        "stop": "00:07.76",
+        "speaker": "Tutor",
+        "dialogue": "Go ahead and click it to the map."
+    },
+    {
+        "start": "00:08.72",
+        "stop": "00:10.08",
+        "speaker": "Tutor",
+        "dialogue": "Can you see the map on your screen?"
+    },
+    {
+        "start": "00:11.20",
+        "stop": "00:11.64",
+        "speaker": "Tutor",
+        "dialogue": "Awesome,"
+    },
+    {
+        "start": "00:12.40",
+        "stop": "00:12.68",
+        "speaker": "Tutor",
+        "dialogue": "Oky,"
+    },
+    {
+        "start": "00:13.20",
+        "stop": "00:13.24",
+        "speaker": "Tutor",
+        "dialogue": "What?"
+    },
+    {
+        "start": "00:14.96",
+        "stop": "00:15.16",
+        "speaker": "Student",
+        "dialogue": "Take."
+    },
+    {
+        "start": "00:15.24",
+        "stop": "00:17.96",
+        "speaker": "Tutor",
+        "dialogue": "A second to read the map and to look at it."
+    },
+    {
+        "start": "00:21.08",
+        "stop": "00:21.12",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "00:21.40",
+        "stop": "00:21.96",
+        "speaker": "Tutor",
+        "dialogue": "Think about."
+    },
+    {
+        "start": "00:25.04",
+        "stop": "00:26.32",
+        "speaker": "Tutor",
+        "dialogue": "Going on in this situation."
+    },
+    {
+        "start": "00:32.48",
+        "stop": "00:38.96",
+        "speaker": "Tutor",
+        "dialogue": "Showing the path from Providence to New York."
+    },
+    {
+        "start": "00:41.32",
+        "stop": "00:41.36",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "00:41.72",
+        "stop": "00:43.04",
+        "speaker": "Tutor",
+        "dialogue": "My sister in New York City,"
+    },
+    {
+        "start": "00:43.80",
+        "stop": "00:44.16",
+        "speaker": "Tutor",
+        "dialogue": "Allright,"
+    },
+    {
+        "start": "00:44.36",
+        "stop": "00:46.00",
+        "speaker": "Tutor",
+        "dialogue": "And what's going on on that path?"
+    },
+    {
+        "start": "00:49.28",
+        "stop": "00:49.44",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "00:52.08",
+        "stop": "00:52.12",
+        "speaker": "Student",
+        "dialogue": "A."
+    },
+    {
+        "start": "00:53.24",
+        "stop": "00:55.64",
+        "speaker": "Tutor",
+        "dialogue": "Thing next to it that says it's the I ninety five."
+    },
+    {
+        "start": "00:58.00",
+        "stop": "00:58.04",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "00:58.24",
+        "stop": "00:59.40",
+        "speaker": "Tutor",
+        "dialogue": "It's not a straight line."
+    },
+    {
+        "start": "00:59.52",
+        "stop": "01:00.64",
+        "speaker": "Tutor",
+        "dialogue": "It's all twisted."
+    },
+    {
+        "start": "01:01.28",
+        "stop": "01:01.60",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "01:02.44",
+        "stop": "01:03.92",
+        "speaker": "Tutor",
+        "dialogue": "Do you know what I ninety five is?"
+    },
+    {
+        "start": "01:04.96",
+        "stop": "01:05.76",
+        "speaker": "Tutor",
+        "dialogue": "It's a highway."
+    },
+    {
+        "start": "01:06.04",
+        "stop": "01:06.08",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "01:06.56",
+        "stop": "01:06.88",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "01:07.44",
+        "stop": "01:15.80",
+        "speaker": "Tutor",
+        "dialogue": "So can you show me with your pointer the the path that the car takes on this journey?"
+    },
+    {
+        "start": "01:17.44",
+        "stop": "01:17.48",
+        "speaker": "Student",
+        "dialogue": "It."
+    },
+    {
+        "start": "01:17.64",
+        "stop": "01:20.12",
+        "speaker": "Tutor",
+        "dialogue": "Goes from here all the way."
+    },
+    {
+        "start": "01:23.80",
+        "stop": "01:28.04",
+        "speaker": "Tutor",
+        "dialogue": "What are some things that we might be able to measure in this situation?"
+    },
+    {
+        "start": "01:31.52",
+        "stop": "01:31.64",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "01:32.00",
+        "stop": "01:34.68",
+        "speaker": "Tutor",
+        "dialogue": "The length say more,"
+    },
+    {
+        "start": "01:34.92",
+        "stop": "01:35.56",
+        "speaker": "Tutor",
+        "dialogue": "The length of what?"
+    },
+    {
+        "start": "01:36.76",
+        "stop": "01:38.32",
+        "speaker": "Tutor",
+        "dialogue": "The length of the highway,"
+    },
+    {
+        "start": "01:38.92",
+        "stop": "01:39.24",
+        "speaker": "Tutor",
+        "dialogue": "Okay?"
+    },
+    {
+        "start": "01:41.88",
+        "stop": "01:41.92",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "01:42.24",
+        "stop": "01:46.32",
+        "speaker": "Tutor",
+        "dialogue": "The length from like certain points on the highway."
+    },
+    {
+        "start": "01:46.72",
+        "stop": "01:47.00",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "01:47.16",
+        "stop": "01:51.76",
+        "speaker": "Tutor",
+        "dialogue": "So like certain destinations or parts along the journey,"
+    },
+    {
+        "start": "01:52.00",
+        "stop": "01:52.32",
+        "speaker": "Tutor",
+        "dialogue": "Towns,"
+    },
+    {
+        "start": "01:52.40",
+        "stop": "01:52.76",
+        "speaker": "Tutor",
+        "dialogue": "Or whatn?"
+    },
+    {
+        "start": "01:53.44",
+        "stop": "01:53.48",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "01:53.92",
+        "stop": "01:54.28",
+        "speaker": "Tutor",
+        "dialogue": "All right,"
+    },
+    {
+        "start": "01:54.64",
+        "stop": "01:55.92",
+        "speaker": "Tutor",
+        "dialogue": "So we could measure the length."
+    },
+    {
+        "start": "01:56.48",
+        "stop": "02:00.68",
+        "speaker": "Tutor",
+        "dialogue": "We could measure the length between different parts of the map."
+    },
+    {
+        "start": "02:01.32",
+        "stop": "02:02.12",
+        "speaker": "Tutor",
+        "dialogue": "Are there anything El?"
+    },
+    {
+        "start": "02:02.28",
+        "stop": "02:03.56",
+        "speaker": "Tutor",
+        "dialogue": "Is there anything else we can measure?"
+    },
+    {
+        "start": "02:08.52",
+        "stop": "02:08.68",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "02:09.00",
+        "stop": "02:11.00",
+        "speaker": "Tutor",
+        "dialogue": "I don't think so Okay,"
+    },
+    {
+        "start": "02:11.48",
+        "stop": "02:15.16",
+        "speaker": "Tutor",
+        "dialogue": "So there's a car traveling on this map and we might be able to measure the."
+    },
+    {
+        "start": "02:15.40",
+        "stop": "02:15.68",
+        "speaker": "Student",
+        "dialogue": "Length."
+    },
+    {
+        "start": "02:16.92",
+        "stop": "02:18.68",
+        "speaker": "Tutor",
+        "dialogue": "Is that summarizing what you're thinking right now?"
+    },
+    {
+        "start": "02:19.24",
+        "stop": "02:19.28",
+        "speaker": "Tutor",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "02:21.04",
+        "stop": "02:21.16",
+        "speaker": "Student",
+        "dialogue": "All."
+    },
+    {
+        "start": "02:21.28",
+        "stop": "02:21.76",
+        "speaker": "Tutor",
+        "dialogue": "Right now."
+    },
+    {
+        "start": "02:23.76",
+        "stop": "02:23.80",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "02:24.04",
+        "stop": "02:24.88",
+        "speaker": "Tutor",
+        "dialogue": "Am going to."
+    },
+    {
+        "start": "02:26.28",
+        "stop": "02:26.68",
+        "speaker": "Student",
+        "dialogue": "Move this."
+    },
+    {
+        "start": "02:28.72",
+        "stop": "02:29.92",
+        "speaker": "Tutor",
+        "dialogue": "Can you see a graph now?"
+    },
+    {
+        "start": "02:32.24",
+        "stop": "02:32.36",
+        "speaker": "Student",
+        "dialogue": "All."
+    },
+    {
+        "start": "02:32.48",
+        "stop": "02:32.60",
+        "speaker": "Tutor",
+        "dialogue": "Right?"
+    },
+    {
+        "start": "02:34.68",
+        "stop": "02:34.84",
+        "speaker": "Student",
+        "dialogue": "Look."
+    },
+    {
+        "start": "02:34.92",
+        "stop": "02:36.44",
+        "speaker": "Tutor",
+        "dialogue": "At the map and the graph,"
+    },
+    {
+        "start": "02:36.60",
+        "stop": "02:39.36",
+        "speaker": "Tutor",
+        "dialogue": "Now what is something that you notice?"
+    },
+    {
+        "start": "02:45.68",
+        "stop": "02:45.80",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "02:49.04",
+        "stop": "02:49.08",
+        "speaker": "Tutor",
+        "dialogue": "The."
+    },
+    {
+        "start": "02:49.24",
+        "stop": "02:49.52",
+        "speaker": "Student",
+        "dialogue": "Graph."
+    },
+    {
+        "start": "02:49.64",
+        "stop": "02:54.32",
+        "speaker": "Tutor",
+        "dialogue": "Might be corresponding to the time it takes to travel from Providence to New Ark."
+    },
+    {
+        "start": "02:56.40",
+        "stop": "02:56.56",
+        "speaker": "Student",
+        "dialogue": "How?"
+    },
+    {
+        "start": "02:56.68",
+        "stop": "02:59.68",
+        "speaker": "Tutor",
+        "dialogue": "So what do you mean corresponding Um,"
+    },
+    {
+        "start": "03:00.28",
+        "stop": "03:03.60",
+        "speaker": "Tutor",
+        "dialogue": "Like point E could be like their final distance."
+    },
+    {
+        "start": "03:05.36",
+        "stop": "03:05.40",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "03:05.68",
+        "stop": "03:07.64",
+        "speaker": "Tutor",
+        "dialogue": "Point A might be the starting distance,"
+    },
+    {
+        "start": "03:08.20",
+        "stop": "03:10.12",
+        "speaker": "Tutor",
+        "dialogue": "And as time goes on,"
+    },
+    {
+        "start": "03:10.56",
+        "stop": "03:15.56",
+        "speaker": "Tutor",
+        "dialogue": "They show how far they are from their original point."
+    },
+    {
+        "start": "03:17.04",
+        "stop": "03:23.56",
+        "speaker": "Tutor",
+        "dialogue": "They show how far in terms of what unit would you be thinking about if you're talking about how far they are,"
+    },
+    {
+        "start": "03:25.08",
+        "stop": "03:25.20",
+        "speaker": "Tutor",
+        "dialogue": "Um."
+    },
+    {
+        "start": "03:27.00",
+        "stop": "03:27.40",
+        "speaker": "Student",
+        "dialogue": "Miles."
+    },
+    {
+        "start": "03:28.20",
+        "stop": "03:28.60",
+        "speaker": "Tutor",
+        "dialogue": "Distant,"
+    },
+    {
+        "start": "03:29.44",
+        "stop": "03:29.72",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "03:30.44",
+        "stop": "03:35.00",
+        "speaker": "Tutor",
+        "dialogue": "So point A is a starting point somewhere and Point E,"
+    },
+    {
+        "start": "03:35.36",
+        "stop": "03:38.16",
+        "speaker": "Tutor",
+        "dialogue": "You said was what the ending point?"
+    },
+    {
+        "start": "03:38.52",
+        "stop": "03:39.36",
+        "speaker": "Tutor",
+        "dialogue": "The ending point."
+    },
+    {
+        "start": "03:39.64",
+        "stop": "03:44.36",
+        "speaker": "Tutor",
+        "dialogue": "And it's the ending point of the miles or the ending point of the time."
+    },
+    {
+        "start": "03:45.32",
+        "stop": "03:47.52",
+        "speaker": "Tutor",
+        "dialogue": "It's like the Um,"
+    },
+    {
+        "start": "03:48.20",
+        "stop": "03:49.88",
+        "speaker": "Tutor",
+        "dialogue": "Maybe the ending of miles."
+    },
+    {
+        "start": "03:53.08",
+        "stop": "03:53.52",
+        "speaker": "Student",
+        "dialogue": "Interesting."
+    },
+    {
+        "start": "03:54.88",
+        "stop": "03:59.16",
+        "speaker": "Tutor",
+        "dialogue": "You also talked earlier about on the map about being able to measure length."
+    },
+    {
+        "start": "04:00.20",
+        "stop": "04:02.28",
+        "speaker": "Tutor",
+        "dialogue": "Does this graph measure length at all?"
+    },
+    {
+        "start": "04:05.24",
+        "stop": "04:05.28",
+        "speaker": "Student",
+        "dialogue": "It."
+    },
+    {
+        "start": "04:05.52",
+        "stop": "04:07.04",
+        "speaker": "Tutor",
+        "dialogue": "Measures length of time."
+    },
+    {
+        "start": "04:07.92",
+        "stop": "04:08.16",
+        "speaker": "Student",
+        "dialogue": "Ah."
+    },
+    {
+        "start": "04:09.28",
+        "stop": "04:13.32",
+        "speaker": "Tutor",
+        "dialogue": "Corresponding to the length or the distance?"
+    },
+    {
+        "start": "04:15.20",
+        "stop": "04:15.40",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "04:15.44",
+        "stop": "04:21.52",
+        "speaker": "Tutor",
+        "dialogue": "I want to really understand what you're thinking about that you said the length of time corresponding to the distance."
+    },
+    {
+        "start": "04:22.52",
+        "stop": "04:22.56",
+        "speaker": "Student",
+        "dialogue": "What?"
+    },
+    {
+        "start": "04:22.68",
+        "stop": "04:26.84",
+        "speaker": "Tutor",
+        "dialogue": "Does that mean because like it says for point B?"
+    },
+    {
+        "start": "04:28.08",
+        "stop": "04:28.20",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "04:29.12",
+        "stop": "04:34.56",
+        "speaker": "Tutor",
+        "dialogue": "The time is one hour and the distance is miles fifty miles,"
+    },
+    {
+        "start": "04:34.76",
+        "stop": "04:39.24",
+        "speaker": "Tutor",
+        "dialogue": "So it could show that like in one hour they travel fifty miles."
+    },
+    {
+        "start": "04:40.80",
+        "stop": "04:45.00",
+        "speaker": "Tutor",
+        "dialogue": "Oh so point B tells us something about both of those variables."
+    },
+    {
+        "start": "04:45.60",
+        "stop": "04:45.64",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "04:46.28",
+        "stop": "04:48.44",
+        "speaker": "Tutor",
+        "dialogue": "At the same time Interesting."
+    },
+    {
+        "start": "04:48.72",
+        "stop": "04:49.00",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "04:49.28",
+        "stop": "04:51.88",
+        "speaker": "Tutor",
+        "dialogue": "So you've talked about point a point B and point E."
+    },
+    {
+        "start": "04:52.16",
+        "stop": "04:59.44",
+        "speaker": "Tutor",
+        "dialogue": "Now I would love to see where point a point B and point E are on the map."
+    },
+    {
+        "start": "05:00.96",
+        "stop": "05:01.00",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "05:01.32",
+        "stop": "05:04.32",
+        "speaker": "Tutor",
+        "dialogue": "On the left-hand side there's some tools for drawing."
+    },
+    {
+        "start": "05:04.64",
+        "stop": "05:05.36",
+        "speaker": "Tutor",
+        "dialogue": "Do you see those?"
+    },
+    {
+        "start": "05:06.12",
+        "stop": "05:06.40",
+        "speaker": "Tutor",
+        "dialogue": "Mhm?"
+    },
+    {
+        "start": "05:07.24",
+        "stop": "05:12.44",
+        "speaker": "Tutor",
+        "dialogue": "Could you choose one of those and let's look at point?"
+    },
+    {
+        "start": "05:13.36",
+        "stop": "05:13.40",
+        "speaker": "Student",
+        "dialogue": "B."
+    },
+    {
+        "start": "05:15.32",
+        "stop": "05:18.16",
+        "speaker": "Tutor",
+        "dialogue": "Where do you think point B would be on the map?"
+    },
+    {
+        "start": "05:20.24",
+        "stop": "05:20.40",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "05:20.72",
+        "stop": "05:24.52",
+        "speaker": "Tutor",
+        "dialogue": "I think Point B would be around the New Jersey Turnpike over here."
+    },
+    {
+        "start": "05:25.04",
+        "stop": "05:25.32",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "05:25.88",
+        "stop": "05:26.64",
+        "speaker": "Tutor",
+        "dialogue": "Like that area?"
+    },
+    {
+        "start": "05:27.00",
+        "stop": "05:27.48",
+        "speaker": "Tutor",
+        "dialogue": "How come?"
+    },
+    {
+        "start": "05:28.76",
+        "stop": "05:31.92",
+        "speaker": "Tutor",
+        "dialogue": "Because it says that like it's going for like fifty mile,"
+    },
+    {
+        "start": "05:32.28",
+        "stop": "05:32.72",
+        "speaker": "Tutor",
+        "dialogue": "One hour,"
+    },
+    {
+        "start": "05:32.84",
+        "stop": "05:33.44",
+        "speaker": "Tutor",
+        "dialogue": "Like a straight,"
+    },
+    {
+        "start": "05:33.60",
+        "stop": "05:34.36",
+        "speaker": "Tutor",
+        "dialogue": "Fifty miles,"
+    },
+    {
+        "start": "05:35.12",
+        "stop": "05:39.04",
+        "speaker": "Tutor",
+        "dialogue": "And like it isn't curving okay?"
+    },
+    {
+        "start": "05:40.56",
+        "stop": "05:40.60",
+        "speaker": "Student",
+        "dialogue": "The."
+    },
+    {
+        "start": "05:40.80",
+        "stop": "05:41.80",
+        "speaker": "Tutor",
+        "dialogue": "Graph isn't curving,"
+    },
+    {
+        "start": "05:42.08",
+        "stop": "05:43.40",
+        "speaker": "Tutor",
+        "dialogue": "Or the map isn't curving,"
+    },
+    {
+        "start": "05:43.52",
+        "stop": "05:45.96",
+        "speaker": "Tutor",
+        "dialogue": "But the grah isn't curving around."
+    },
+    {
+        "start": "05:48.32",
+        "stop": "05:48.36",
+        "speaker": "Student",
+        "dialogue": "What?"
+    },
+    {
+        "start": "05:48.52",
+        "stop": "05:54.44",
+        "speaker": "Tutor",
+        "dialogue": "Would it mean if the graph it would have like an uneven rate ofange?"
+    },
+    {
+        "start": "05:57.92",
+        "stop": "05:58.08",
+        "speaker": "Student",
+        "dialogue": "How?"
+    },
+    {
+        "start": "05:58.24",
+        "stop": "06:00.12",
+        "speaker": "Tutor",
+        "dialogue": "Does uneven rate of change?"
+    },
+    {
+        "start": "06:01.92",
+        "stop": "06:02.28",
+        "speaker": "Student",
+        "dialogue": "Connect."
+    },
+    {
+        "start": "06:02.40",
+        "stop": "06:02.96",
+        "speaker": "Tutor",
+        "dialogue": "With the map."
+    },
+    {
+        "start": "06:04.64",
+        "stop": "06:04.76",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "06:04.88",
+        "stop": "06:08.76",
+        "speaker": "Tutor",
+        "dialogue": "Because it could mean that they're stopping and like starting again,"
+    },
+    {
+        "start": "06:09.00",
+        "stop": "06:13.96",
+        "speaker": "Tutor",
+        "dialogue": "Trying and like travel in different places on the way back or going okay."
+    },
+    {
+        "start": "06:14.16",
+        "stop": "06:24.76",
+        "speaker": "Tutor",
+        "dialogue": "Do you see any uneven rates of change or any parts where they're starting or stopping Um on point D to point E?"
+    },
+    {
+        "start": "06:25.36",
+        "stop": "06:27.60",
+        "speaker": "Tutor",
+        "dialogue": "It looks very uneven there."
+    },
+    {
+        "start": "06:30.40",
+        "stop": "06:30.52",
+        "speaker": "Student",
+        "dialogue": "Does?"
+    },
+    {
+        "start": "06:30.60",
+        "stop": "06:33.80",
+        "speaker": "Tutor",
+        "dialogue": "That mean that the road is curving there?"
+    },
+    {
+        "start": "06:34.76",
+        "stop": "06:34.88",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "06:35.00",
+        "stop": "06:35.12",
+        "speaker": "Tutor",
+        "dialogue": "No,"
+    },
+    {
+        "start": "06:35.36",
+        "stop": "06:41.52",
+        "speaker": "Tutor",
+        "dialogue": "It means that they've stopped and started and they haven't traveled very far for very long periods of time."
+    },
+    {
+        "start": "06:42.52",
+        "stop": "06:46.96",
+        "speaker": "Tutor",
+        "dialogue": "Can you talk about points d and e in terms of distance and time?"
+    },
+    {
+        "start": "06:48.04",
+        "stop": "06:52.84",
+        "speaker": "Tutor",
+        "dialogue": "What's going on with the distance and Tu during those sections?"
+    },
+    {
+        "start": "06:54.48",
+        "stop": "06:54.52",
+        "speaker": "Student",
+        "dialogue": "For."
+    },
+    {
+        "start": "06:54.76",
+        "stop": "06:55.32",
+        "speaker": "Tutor",
+        "dialogue": "Point D,"
+    },
+    {
+        "start": "06:57.20",
+        "stop": "06:59.00",
+        "speaker": "Tutor",
+        "dialogue": "They've been traveling for two and a half hours,"
+    },
+    {
+        "start": "06:59.04",
+        "stop": "07:01.16",
+        "speaker": "Tutor",
+        "dialogue": "And then they went a hundred miles,"
+    },
+    {
+        "start": "07:02.64",
+        "stop": "07:03.68",
+        "speaker": "Tutor",
+        "dialogue": "But for point E,"
+    },
+    {
+        "start": "07:04.04",
+        "stop": "07:05.92",
+        "speaker": "Tutor",
+        "dialogue": "They tramveled forthree and a half hours,"
+    },
+    {
+        "start": "07:06.04",
+        "stop": "07:10.00",
+        "speaker": "Tutor",
+        "dialogue": "And only went around a hundred and thirty miles,"
+    },
+    {
+        "start": "07:10.96",
+        "stop": "07:12.60",
+        "speaker": "Tutor",
+        "dialogue": "Which was only thirty miles more."
+    },
+    {
+        "start": "07:14.16",
+        "stop": "07:14.20",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "07:14.44",
+        "stop": "07:16.60",
+        "speaker": "Tutor",
+        "dialogue": "Where would that thirty miles more be?"
+    },
+    {
+        "start": "07:17.36",
+        "stop": "07:19.32",
+        "speaker": "Tutor",
+        "dialogue": "Is that keeping track of Point E?"
+    },
+    {
+        "start": "07:20.60",
+        "stop": "07:20.64",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "07:21.96",
+        "stop": "07:24.88",
+        "speaker": "Tutor",
+        "dialogue": "But I thought you said Point E was a hundred and thirty miles,"
+    },
+    {
+        "start": "07:25.28",
+        "stop": "07:26.56",
+        "speaker": "Tutor",
+        "dialogue": "So can it come to those?"
+    },
+    {
+        "start": "07:27.92",
+        "stop": "07:28.24",
+        "speaker": "Student",
+        "dialogue": "Because."
+    },
+    {
+        "start": "07:28.40",
+        "stop": "07:30.76",
+        "speaker": "Tutor",
+        "dialogue": "Point D is at the hundred depart,"
+    },
+    {
+        "start": "07:30.92",
+        "stop": "07:32.60",
+        "speaker": "Tutor",
+        "dialogue": "And then point Es up here,"
+    },
+    {
+        "start": "07:32.88",
+        "stop": "07:36.08",
+        "speaker": "Tutor",
+        "dialogue": "And that's around one thirty in that area."
+    },
+    {
+        "start": "07:38.08",
+        "stop": "07:40.60",
+        "speaker": "Tutor",
+        "dialogue": "So what does thirty mean?"
+    },
+    {
+        "start": "07:41.96",
+        "stop": "07:47.48",
+        "speaker": "Tutor",
+        "dialogue": "Its the distance traveled between Point D and point E in the spa of one hour."
+    },
+    {
+        "start": "07:47.80",
+        "stop": "07:48.12",
+        "speaker": "Tutor",
+        "dialogue": "Cool."
+    },
+    {
+        "start": "07:48.36",
+        "stop": "07:51.32",
+        "speaker": "Tutor",
+        "dialogue": "You do a fantastic job of explaining how you're thinking this is."
+    },
+    {
+        "start": "07:51.52",
+        "stop": "07:51.96",
+        "speaker": "Student",
+        "dialogue": "Awesome."
+    },
+    {
+        "start": "07:52.76",
+        "stop": "07:53.04",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "07:53.48",
+        "stop": "07:56.36",
+        "speaker": "Tutor",
+        "dialogue": "So now let's go back to labeling on the map."
+    },
+    {
+        "start": "07:58.72",
+        "stop": "07:59.16",
+        "speaker": "Student",
+        "dialogue": "Whenever."
+    },
+    {
+        "start": "07:59.52",
+        "stop": "08:00.80",
+        "speaker": "Tutor",
+        "dialogue": "We first had the map."
+    },
+    {
+        "start": "08:01.52",
+        "stop": "08:08.08",
+        "speaker": "Tutor",
+        "dialogue": "I asked you to show me the path that the car takes And where did the car stot start?"
+    },
+    {
+        "start": "08:08.40",
+        "stop": "08:10.68",
+        "speaker": "Tutor",
+        "dialogue": "And where did it end in the journey?"
+    },
+    {
+        "start": "08:12.00",
+        "stop": "08:12.16",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "08:12.40",
+        "stop": "08:15.96",
+        "speaker": "Tutor",
+        "dialogue": "The car started and Providence up here,"
+    },
+    {
+        "start": "08:17.24",
+        "stop": "08:21.04",
+        "speaker": "Tutor",
+        "dialogue": "And then it went to New York,"
+    },
+    {
+        "start": "08:22.60",
+        "stop": "08:25.40",
+        "speaker": "Tutor",
+        "dialogue": "And it passed through New York City."
+    },
+    {
+        "start": "08:26.56",
+        "stop": "08:26.60",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "08:26.84",
+        "stop": "08:27.56",
+        "speaker": "Tutor",
+        "dialogue": "On the graph."
+    },
+    {
+        "start": "08:29.40",
+        "stop": "08:29.44",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "08:29.60",
+        "stop": "08:33.44",
+        "speaker": "Tutor",
+        "dialogue": "Said A represents the start or the end of the journey."
+    },
+    {
+        "start": "08:34.84",
+        "stop": "08:35.00",
+        "speaker": "Tutor",
+        "dialogue": "Um."
+    },
+    {
+        "start": "08:35.24",
+        "stop": "08:36.40",
+        "speaker": "Tutor",
+        "dialogue": "I thought it was the end,"
+    },
+    {
+        "start": "08:36.56",
+        "stop": "08:39.48",
+        "speaker": "Tutor",
+        "dialogue": "But now I think that might be the start of the journey."
+    },
+    {
+        "start": "08:40.44",
+        "stop": "08:42.00",
+        "speaker": "Tutor",
+        "dialogue": "Tell me why you're thinking something different."
+    },
+    {
+        "start": "08:42.08",
+        "stop": "08:42.52",
+        "speaker": "Tutor",
+        "dialogue": "That's cool."
+    },
+    {
+        "start": "08:43.64",
+        "stop": "08:43.80",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "08:44.08",
+        "stop": "08:47.28",
+        "speaker": "Tutor",
+        "dialogue": "Because it says that they went through New York City,"
+    },
+    {
+        "start": "08:47.68",
+        "stop": "08:50.48",
+        "speaker": "Tutor",
+        "dialogue": "And Um points C to E,"
+    },
+    {
+        "start": "08:50.72",
+        "stop": "08:53.60",
+        "speaker": "Tutor",
+        "dialogue": "Had like a lot of uneven like stops and starts,"
+    },
+    {
+        "start": "08:53.68",
+        "stop": "08:56.56",
+        "speaker": "Tutor",
+        "dialogue": "So I'm thinking like maybe they stopped and started in New York City,"
+    },
+    {
+        "start": "08:56.64",
+        "stop": "08:58.24",
+        "speaker": "Tutor",
+        "dialogue": "To like go and enjoy the sights there."
+    },
+    {
+        "start": "08:58.68",
+        "stop": "08:58.88",
+        "speaker": "Tutor",
+        "dialogue": "Ah,"
+    },
+    {
+        "start": "09:00.36",
+        "stop": "09:02.76",
+        "speaker": "Tutor",
+        "dialogue": "And A is the start of the graph,"
+    },
+    {
+        "start": "09:02.92",
+        "stop": "09:06.16",
+        "speaker": "Tutor",
+        "dialogue": "Which means it also has to be the start of the journey."
+    },
+    {
+        "start": "09:06.92",
+        "stop": "09:06.96",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "09:07.32",
+        "stop": "09:10.40",
+        "speaker": "Tutor",
+        "dialogue": "And the car starts in Providence or Newark."
+    },
+    {
+        "start": "09:11.32",
+        "stop": "09:11.60",
+        "speaker": "Student",
+        "dialogue": "Mhm."
+    },
+    {
+        "start": "09:12.32",
+        "stop": "09:13.12",
+        "speaker": "Tutor",
+        "dialogue": "Where does it start?"
+    },
+    {
+        "start": "09:14.08",
+        "stop": "09:15.44",
+        "speaker": "Tutor",
+        "dialogue": "It starts in Providence,"
+    },
+    {
+        "start": "09:15.56",
+        "stop": "09:15.88",
+        "speaker": "Tutor",
+        "dialogue": "Uppere,"
+    },
+    {
+        "start": "09:16.08",
+        "stop": "09:16.24",
+        "speaker": "Tutor",
+        "dialogue": "Ok,"
+    },
+    {
+        "start": "09:16.72",
+        "stop": "09:18.68",
+        "speaker": "Tutor",
+        "dialogue": "So now all that information,"
+    },
+    {
+        "start": "09:18.80",
+        "stop": "09:21.36",
+        "speaker": "Tutor",
+        "dialogue": "You have done a lot of really cool talking Now."
+    },
+    {
+        "start": "09:21.56",
+        "stop": "09:29.56",
+        "speaker": "Tutor",
+        "dialogue": "I would love for you to think about how you would label the map to correspond to what you have described about in the graph."
+    },
+    {
+        "start": "09:30.04",
+        "stop": "09:31.12",
+        "speaker": "Tutor",
+        "dialogue": "So where would the points be?"
+    },
+    {
+        "start": "09:50.68",
+        "stop": "09:50.72",
+        "speaker": "Student",
+        "dialogue": "A."
+    },
+    {
+        "start": "09:50.88",
+        "stop": "09:50.92",
+        "speaker": "Tutor",
+        "dialogue": "The."
+    },
+    {
+        "start": "09:51.00",
+        "stop": "09:51.24",
+        "speaker": "Student",
+        "dialogue": "Drawing."
+    },
+    {
+        "start": "09:51.28",
+        "stop": "09:52.24",
+        "speaker": "Tutor",
+        "dialogue": "Tools kind of interesting."
+    },
+    {
+        "start": "09:52.40",
+        "stop": "09:52.56",
+        "speaker": "Tutor",
+        "dialogue": "Huh,"
+    },
+    {
+        "start": "09:53.44",
+        "stop": "09:53.48",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "11:01.36",
+        "stop": "11:01.52",
+        "speaker": "Tutor",
+        "dialogue": "Mm,"
+    },
+    {
+        "start": "11:01.56",
+        "stop": "11:02.48",
+        "speaker": "Tutor",
+        "dialogue": "I think that's better."
+    },
+    {
+        "start": "11:03.80",
+        "stop": "11:04.12",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "11:07.12",
+        "stop": "11:07.36",
+        "speaker": "Tutor",
+        "dialogue": "Now."
+    },
+    {
+        "start": "11:12.88",
+        "stop": "11:13.08",
+        "speaker": "Student",
+        "dialogue": "If."
+    },
+    {
+        "start": "11:13.92",
+        "stop": "11:13.96",
+        "speaker": "Tutor",
+        "dialogue": "I."
+    },
+    {
+        "start": "11:14.04",
+        "stop": "11:14.16",
+        "speaker": "Student",
+        "dialogue": "Can?"
+    },
+    {
+        "start": "11:14.24",
+        "stop": "11:16.72",
+        "speaker": "Tutor",
+        "dialogue": "See where you're labeling and you've talked about New York City."
+    },
+    {
+        "start": "11:16.80",
+        "stop": "11:17.76",
+        "speaker": "Tutor",
+        "dialogue": "They're startin stoppin,"
+    },
+    {
+        "start": "11:17.92",
+        "stop": "11:19.12",
+        "speaker": "Tutor",
+        "dialogue": "And all of these cool things."
+    },
+    {
+        "start": "11:19.56",
+        "stop": "11:19.72",
+        "speaker": "Tutor",
+        "dialogue": "Now."
+    },
+    {
+        "start": "11:19.80",
+        "stop": "11:22.32",
+        "speaker": "Tutor",
+        "dialogue": "Could you describe the journey that the car takes?"
+    },
+    {
+        "start": "11:22.68",
+        "stop": "11:29.16",
+        "speaker": "Tutor",
+        "dialogue": "And I'm going to challenge you to use distance and time in relation to each other as much as possible,"
+    },
+    {
+        "start": "11:29.84",
+        "stop": "11:30.96",
+        "speaker": "Tutor",
+        "dialogue": "So from A to B,"
+    },
+    {
+        "start": "11:31.48",
+        "stop": "11:33.48",
+        "speaker": "Tutor",
+        "dialogue": "What's going on from B to C?"
+    },
+    {
+        "start": "11:33.88",
+        "stop": "11:36.12",
+        "speaker": "Tutor",
+        "dialogue": "What's going on for the in path?"
+    },
+    {
+        "start": "11:36.28",
+        "stop": "11:37.48",
+        "speaker": "Tutor",
+        "dialogue": "Does that question make sense?"
+    },
+    {
+        "start": "11:40.40",
+        "stop": "11:40.56",
+        "speaker": "Student",
+        "dialogue": "From."
+    },
+    {
+        "start": "11:40.68",
+        "stop": "11:41.56",
+        "speaker": "Tutor",
+        "dialogue": "Points A to B,"
+    },
+    {
+        "start": "11:41.96",
+        "stop": "11:46.96",
+        "speaker": "Tutor",
+        "dialogue": "They traveled for one hour and they went fifty miles without any stops,"
+    },
+    {
+        "start": "11:47.16",
+        "stop": "11:48.80",
+        "speaker": "Tutor",
+        "dialogue": "And it was Um,"
+    },
+    {
+        "start": "11:49.00",
+        "stop": "11:51.68",
+        "speaker": "Tutor",
+        "dialogue": "A direct correlation between the miles per hour."
+    },
+    {
+        "start": "11:54.24",
+        "stop": "11:54.36",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "11:54.48",
+        "stop": "11:55.52",
+        "speaker": "Tutor",
+        "dialogue": "From points B to C,"
+    },
+    {
+        "start": "11:55.80",
+        "stop": "11:59.48",
+        "speaker": "Tutor",
+        "dialogue": "They didn't do anything and they just stayed there."
+    },
+    {
+        "start": "11:59.92",
+        "stop": "12:00.12",
+        "speaker": "Tutor",
+        "dialogue": "Con."
+    },
+    {
+        "start": "12:00.52",
+        "stop": "12:00.76",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "12:01.00",
+        "stop": "12:03.04",
+        "speaker": "Tutor",
+        "dialogue": "I think I know where I screwed up on the graph."
+    },
+    {
+        "start": "12:03.24",
+        "stop": "12:03.40",
+        "speaker": "Tutor",
+        "dialogue": "Now,"
+    },
+    {
+        "start": "12:04.08",
+        "stop": "12:04.64",
+        "speaker": "Tutor",
+        "dialogue": "What do you mean?"
+    },
+    {
+        "start": "12:05.76",
+        "stop": "12:05.80",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "12:05.88",
+        "stop": "12:06.00",
+        "speaker": "Tutor",
+        "dialogue": "Mean,"
+    },
+    {
+        "start": "12:06.08",
+        "stop": "12:07.28",
+        "speaker": "Tutor",
+        "dialogue": "I think I might have screwed up,"
+    },
+    {
+        "start": "12:07.32",
+        "stop": "12:11.64",
+        "speaker": "Tutor",
+        "dialogue": "Because like they said for like half an hour and points for Um,"
+    },
+    {
+        "start": "12:11.80",
+        "stop": "12:12.68",
+        "speaker": "Tutor",
+        "dialogue": "But twein points B."
+    },
+    {
+        "start": "12:12.88",
+        "stop": "12:13.08",
+        "speaker": "Tutor",
+        "dialogue": "The C,"
+    },
+    {
+        "start": "12:13.44",
+        "stop": "12:15.04",
+        "speaker": "Tutor",
+        "dialogue": "They traveled for half an hour,"
+    },
+    {
+        "start": "12:15.12",
+        "stop": "12:17.12",
+        "speaker": "Tutor",
+        "dialogue": "But they still say at the fifteen mark point,"
+    },
+    {
+        "start": "12:17.40",
+        "stop": "12:20.16",
+        "speaker": "Tutor",
+        "dialogue": "I think that might have been fifty miles per hour."
+    },
+    {
+        "start": "12:23.52",
+        "stop": "12:24.04",
+        "speaker": "Student",
+        "dialogue": "Instead."
+    },
+    {
+        "start": "12:24.16",
+        "stop": "12:27.80",
+        "speaker": "Tutor",
+        "dialogue": "Of not doing anything for half an hour."
+    },
+    {
+        "start": "12:29.60",
+        "stop": "12:29.72",
+        "speaker": "Student",
+        "dialogue": "They."
+    },
+    {
+        "start": "12:29.76",
+        "stop": "12:31.96",
+        "speaker": "Tutor",
+        "dialogue": "Were trying to figure out what happened between B and C."
+    },
+    {
+        "start": "12:32.84",
+        "stop": "12:32.88",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "12:34.16",
+        "stop": "12:36.40",
+        "speaker": "Tutor",
+        "dialogue": "And at first you had B and C at the same point."
+    },
+    {
+        "start": "12:37.40",
+        "stop": "12:37.60",
+        "speaker": "Tutor",
+        "dialogue": "Hm,"
+    },
+    {
+        "start": "12:37.84",
+        "stop": "12:40.12",
+        "speaker": "Tutor",
+        "dialogue": "And now you're thinking that you might want to change that,"
+    },
+    {
+        "start": "12:41.56",
+        "stop": "12:41.60",
+        "speaker": "Tutor",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "12:44.12",
+        "stop": "12:45.72",
+        "speaker": "Tutor",
+        "dialogue": "Going to let you sit with that for a minute?"
+    },
+    {
+        "start": "12:46.48",
+        "stop": "12:46.76",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "12:47.60",
+        "stop": "12:48.24",
+        "speaker": "Tutor",
+        "dialogue": "Go to Cn."
+    },
+    {
+        "start": "12:48.32",
+        "stop": "12:48.36",
+        "speaker": "Tutor",
+        "dialogue": "D."
+    },
+    {
+        "start": "12:48.60",
+        "stop": "12:49.44",
+        "speaker": "Tutor",
+        "dialogue": "What's happening there?"
+    },
+    {
+        "start": "12:50.64",
+        "stop": "12:51.48",
+        "speaker": "Tutor",
+        "dialogue": "Um between C,"
+    },
+    {
+        "start": "12:51.68",
+        "stop": "12:51.88",
+        "speaker": "Tutor",
+        "dialogue": "N d,"
+    },
+    {
+        "start": "12:52.92",
+        "stop": "12:53.04",
+        "speaker": "Tutor",
+        "dialogue": "Um."
+    },
+    {
+        "start": "12:53.48",
+        "stop": "12:55.56",
+        "speaker": "Tutor",
+        "dialogue": "It's still again direct correlation,"
+    },
+    {
+        "start": "12:56.12",
+        "stop": "12:57.00",
+        "speaker": "Tutor",
+        "dialogue": "Just like A and B."
+    },
+    {
+        "start": "12:57.60",
+        "stop": "12:57.72",
+        "speaker": "Tutor",
+        "dialogue": "Um."
+    },
+    {
+        "start": "12:58.72",
+        "stop": "13:03.20",
+        "speaker": "Tutor",
+        "dialogue": "Because they traveled from fifty miles to a hundred miles in the span of one hour,"
+    },
+    {
+        "start": "13:03.28",
+        "stop": "13:04.16",
+        "speaker": "Tutor",
+        "dialogue": "So a hundred minleus."
+    },
+    {
+        "start": "13:04.24",
+        "stop": "13:05.16",
+        "speaker": "Tutor",
+        "dialogue": "Fifty would be fifty,"
+    },
+    {
+        "start": "13:05.60",
+        "stop": "13:09.36",
+        "speaker": "Tutor",
+        "dialogue": "So it'd be fifty miles per hour again between C and B."
+    },
+    {
+        "start": "13:11.00",
+        "stop": "13:11.04",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "13:11.20",
+        "stop": "13:16.36",
+        "speaker": "Tutor",
+        "dialogue": "When you talk about a direct correlation earlier used the term Um."
+    },
+    {
+        "start": "13:17.64",
+        "stop": "13:18.60",
+        "speaker": "Tutor",
+        "dialogue": "Constant rate."
+    },
+    {
+        "start": "13:18.76",
+        "stop": "13:23.68",
+        "speaker": "Tutor",
+        "dialogue": "I think you said Mhm as a constant rate and a direct correlation."
+    },
+    {
+        "start": "13:23.84",
+        "stop": "13:24.88",
+        "speaker": "Tutor",
+        "dialogue": "The same thing in your mind,"
+    },
+    {
+        "start": "13:26.60",
+        "stop": "13:26.76",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "13:27.40",
+        "stop": "13:27.76",
+        "speaker": "Tutor",
+        "dialogue": "Kind of,"
+    },
+    {
+        "start": "13:28.60",
+        "stop": "13:32.44",
+        "speaker": "Tutor",
+        "dialogue": "Because like the constant rate means that they didn't change anything."
+    },
+    {
+        "start": "13:32.68",
+        "stop": "13:33.88",
+        "speaker": "Tutor",
+        "dialogue": "And like a direct correlation,"
+    },
+    {
+        "start": "13:33.92",
+        "stop": "13:35.44",
+        "speaker": "Tutor",
+        "dialogue": "Wou mean that they alwait."
+    },
+    {
+        "start": "13:37.88",
+        "stop": "13:37.92",
+        "speaker": "Student",
+        "dialogue": "Uh?"
+    },
+    {
+        "start": "13:38.32",
+        "stop": "13:40.04",
+        "speaker": "Tutor",
+        "dialogue": "I don't know Oka."
+    },
+    {
+        "start": "13:42.60",
+        "stop": "13:42.64",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "13:42.80",
+        "stop": "13:45.96",
+        "speaker": "Tutor",
+        "dialogue": "Said Constant Raate means they didn't change anything."
+    },
+    {
+        "start": "13:48.28",
+        "stop": "13:48.32",
+        "speaker": "Student",
+        "dialogue": "C."
+    },
+    {
+        "start": "13:48.64",
+        "stop": "13:53.08",
+        "speaker": "Tutor",
+        "dialogue": "To D is anything changing from point C to point D?"
+    },
+    {
+        "start": "13:54.12",
+        "stop": "13:54.16",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "13:54.44",
+        "stop": "13:59.84",
+        "speaker": "Tutor",
+        "dialogue": "They're traveling a hundred miles in the span of fifty miles in the span of one hour,"
+    },
+    {
+        "start": "13:59.88",
+        "stop": "14:01.56",
+        "speaker": "Tutor",
+        "dialogue": "And they're constantly going up."
+    },
+    {
+        "start": "14:02.24",
+        "stop": "14:02.52",
+        "speaker": "Tutor",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "14:02.84",
+        "stop": "14:06.16",
+        "speaker": "Tutor",
+        "dialogue": "So is distance increasing or decreasing in that section?"
+    },
+    {
+        "start": "14:07.36",
+        "stop": "14:07.72",
+        "speaker": "Student",
+        "dialogue": "Distance."
+    },
+    {
+        "start": "14:07.88",
+        "stop": "14:12.48",
+        "speaker": "Tutor",
+        "dialogue": "Is increasing is time increasing or decreasing in that section?"
+    },
+    {
+        "start": "14:13.44",
+        "stop": "14:13.56",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "14:13.76",
+        "stop": "14:15.92",
+        "speaker": "Tutor",
+        "dialogue": "Time is also increasing so."
+    },
+    {
+        "start": "14:17.88",
+        "stop": "14:17.96",
+        "speaker": "Student",
+        "dialogue": "Are?"
+    },
+    {
+        "start": "14:18.12",
+        "stop": "14:19.36",
+        "speaker": "Tutor",
+        "dialogue": "Distance and time changing,"
+    },
+    {
+        "start": "14:19.48",
+        "stop": "14:20.48",
+        "speaker": "Tutor",
+        "dialogue": "Or are they staying the same?"
+    },
+    {
+        "start": "14:21.20",
+        "stop": "14:22.44",
+        "speaker": "Tutor",
+        "dialogue": "They're both changing,"
+    },
+    {
+        "start": "14:23.28",
+        "stop": "14:25.24",
+        "speaker": "Tutor",
+        "dialogue": "So as distance is increasing,"
+    },
+    {
+        "start": "14:25.72",
+        "stop": "14:27.20",
+        "speaker": "Tutor",
+        "dialogue": "Time is also increasing."
+    },
+    {
+        "start": "14:28.96",
+        "stop": "14:29.16",
+        "speaker": "Student",
+        "dialogue": "Hm."
+    },
+    {
+        "start": "14:30.52",
+        "stop": "14:30.56",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "14:30.88",
+        "stop": "14:31.44",
+        "speaker": "Tutor",
+        "dialogue": "Also said,"
+    },
+    {
+        "start": "14:32.72",
+        "stop": "14:33.92",
+        "speaker": "Tutor",
+        "dialogue": "Something's not changing."
+    },
+    {
+        "start": "14:35.64",
+        "stop": "14:35.68",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "14:35.80",
+        "stop": "14:40.12",
+        "speaker": "Tutor",
+        "dialogue": "Want to press you a little bit deeper on that thinking what's not changing?"
+    },
+    {
+        "start": "14:41.24",
+        "stop": "14:41.36",
+        "speaker": "Student",
+        "dialogue": "If."
+    },
+    {
+        "start": "14:41.52",
+        "stop": "14:58.72",
+        "speaker": "Tutor",
+        "dialogue": "Distance and time are changingll."
+    },
+    {
+        "start": "14:58.76",
+        "stop": "14:58.80",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "14:58.88",
+        "stop": "14:59.00",
+        "speaker": "Tutor",
+        "dialogue": "Mean."
+    },
+    {
+        "start": "14:59.08",
+        "stop": "14:59.12",
+        "speaker": "Student",
+        "dialogue": "The."
+    },
+    {
+        "start": "14:59.24",
+        "stop": "15:00.84",
+        "speaker": "Tutor",
+        "dialogue": "Road they're taking isn't changing."
+    },
+    {
+        "start": "15:01.96",
+        "stop": "15:02.00",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "15:02.72",
+        "stop": "15:04.84",
+        "speaker": "Tutor",
+        "dialogue": "The road stays the same no matter what."
+    },
+    {
+        "start": "15:08.88",
+        "stop": "15:08.92",
+        "speaker": "Student",
+        "dialogue": "What?"
+    },
+    {
+        "start": "15:09.16",
+        "stop": "15:13.92",
+        "speaker": "Tutor",
+        "dialogue": "About this constant rate or direct correlation or miles per hour,"
+    },
+    {
+        "start": "15:14.88",
+        "stop": "15:16.56",
+        "speaker": "Tutor",
+        "dialogue": "Those aren't labeleed on the graph,"
+    },
+    {
+        "start": "15:16.92",
+        "stop": "15:18.04",
+        "speaker": "Tutor",
+        "dialogue": "But you're thinking about."
+    },
+    {
+        "start": "15:18.12",
+        "stop": "15:18.28",
+        "speaker": "Student",
+        "dialogue": "Them."
+    },
+    {
+        "start": "15:19.76",
+        "stop": "15:20.08",
+        "speaker": "Tutor",
+        "dialogue": "Mhm,"
+    },
+    {
+        "start": "15:20.68",
+        "stop": "15:23.28",
+        "speaker": "Tutor",
+        "dialogue": "How are those related to what's going on between C and?"
+    },
+    {
+        "start": "15:23.40",
+        "stop": "15:23.44",
+        "speaker": "Student",
+        "dialogue": "D."
+    },
+    {
+        "start": "15:28.04",
+        "stop": "15:28.20",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "15:28.48",
+        "stop": "15:28.88",
+        "speaker": "Tutor",
+        "dialogue": "Because."
+    },
+    {
+        "start": "15:30.44",
+        "stop": "15:30.80",
+        "speaker": "Student",
+        "dialogue": "Between."
+    },
+    {
+        "start": "15:31.12",
+        "stop": "15:31.68",
+        "speaker": "Tutor",
+        "dialogue": "C and D,"
+    },
+    {
+        "start": "15:32.64",
+        "stop": "15:33.96",
+        "speaker": "Tutor",
+        "dialogue": "It's a full hour."
+    },
+    {
+        "start": "15:36.32",
+        "stop": "15:36.48",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "15:37.64",
+        "stop": "15:41.76",
+        "speaker": "Tutor",
+        "dialogue": "And the C is at starting at fifty and D ends at a hundred."
+    },
+    {
+        "start": "15:42.04",
+        "stop": "15:45.00",
+        "speaker": "Tutor",
+        "dialogue": "Then a hundred minutes to do it be fifty sould,"
+    },
+    {
+        "start": "15:45.04",
+        "stop": "15:47.20",
+        "speaker": "Tutor",
+        "dialogue": "It be fifty miles between C and D."
+    },
+    {
+        "start": "15:49.96",
+        "stop": "15:50.00",
+        "speaker": "Student",
+        "dialogue": "In."
+    },
+    {
+        "start": "15:50.20",
+        "stop": "15:51.40",
+        "speaker": "Tutor",
+        "dialogue": "The span of one hour."
+    },
+    {
+        "start": "15:55.20",
+        "stop": "15:55.44",
+        "speaker": "Student",
+        "dialogue": "Which?"
+    },
+    {
+        "start": "15:55.64",
+        "stop": "15:56.24",
+        "speaker": "Tutor",
+        "dialogue": "Means what?"
+    },
+    {
+        "start": "15:57.24",
+        "stop": "15:57.52",
+        "speaker": "Tutor",
+        "dialogue": "Whats?"
+    },
+    {
+        "start": "15:57.56",
+        "stop": "15:58.28",
+        "speaker": "Tutor",
+        "dialogue": "Staying the same?"
+    },
+    {
+        "start": "16:05.84",
+        "stop": "16:06.20",
+        "speaker": "Student",
+        "dialogue": "Miles."
+    },
+    {
+        "start": "16:06.32",
+        "stop": "16:06.44",
+        "speaker": "Tutor",
+        "dialogue": "Per."
+    },
+    {
+        "start": "16:06.52",
+        "stop": "16:06.76",
+        "speaker": "Student",
+        "dialogue": "Hour."
+    },
+    {
+        "start": "16:06.96",
+        "stop": "16:08.16",
+        "speaker": "Tutor",
+        "dialogue": "Staying the same Y,"
+    },
+    {
+        "start": "16:08.92",
+        "stop": "16:13.00",
+        "speaker": "Tutor",
+        "dialogue": "So that rate of change is constant and is staying the same,"
+    },
+    {
+        "start": "16:13.48",
+        "stop": "16:15.64",
+        "speaker": "Tutor",
+        "dialogue": "The cars going at a constant speed."
+    },
+    {
+        "start": "16:17.16",
+        "stop": "16:17.40",
+        "speaker": "Student",
+        "dialogue": "As."
+    },
+    {
+        "start": "16:17.84",
+        "stop": "16:20.72",
+        "speaker": "Tutor",
+        "dialogue": "The distance is increasing and the time is increasing."
+    },
+    {
+        "start": "16:24.40",
+        "stop": "16:29.64",
+        "speaker": "Tutor",
+        "dialogue": "That cool you're talk me about things that are increasing and something that's staying the same at the same time."
+    },
+    {
+        "start": "16:31.96",
+        "stop": "16:32.36",
+        "speaker": "Student",
+        "dialogue": "Complex."
+    },
+    {
+        "start": "16:32.60",
+        "stop": "16:32.84",
+        "speaker": "Tutor",
+        "dialogue": "Cool."
+    },
+    {
+        "start": "16:33.28",
+        "stop": "16:33.52",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "16:34.08",
+        "stop": "16:36.28",
+        "speaker": "Tutor",
+        "dialogue": "So let's go back to B and C."
+    },
+    {
+        "start": "16:38.24",
+        "stop": "16:39.12",
+        "speaker": "Tutor",
+        "dialogue": "Different about B and C,"
+    },
+    {
+        "start": "16:39.28",
+        "stop": "16:41.76",
+        "speaker": "Tutor",
+        "dialogue": "And it sounded like you weren't completely confident in."
+    },
+    {
+        "start": "16:44.36",
+        "stop": "16:44.40",
+        "speaker": "Student",
+        "dialogue": "That."
+    },
+    {
+        "start": "16:44.68",
+        "stop": "16:45.04",
+        "speaker": "Tutor",
+        "dialogue": "Seion."
+    },
+    {
+        "start": "16:49.00",
+        "stop": "16:49.04",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "16:50.56",
+        "stop": "16:52.36",
+        "speaker": "Tutor",
+        "dialogue": "We have distance."
+    },
+    {
+        "start": "16:53.44",
+        "stop": "16:54.64",
+        "speaker": "Tutor",
+        "dialogue": "Is it increasing,"
+    },
+    {
+        "start": "16:55.16",
+        "stop": "16:56.72",
+        "speaker": "Tutor",
+        "dialogue": "Decreasing or staying the same?"
+    },
+    {
+        "start": "16:57.28",
+        "stop": "16:58.00",
+        "speaker": "Tutor",
+        "dialogue": "We have time,"
+    },
+    {
+        "start": "16:58.64",
+        "stop": "16:59.68",
+        "speaker": "Tutor",
+        "dialogue": "Is it increasing,"
+    },
+    {
+        "start": "16:59.96",
+        "stop": "17:01.36",
+        "speaker": "Tutor",
+        "dialogue": "Decreasing or staying the same?"
+    },
+    {
+        "start": "17:02.04",
+        "stop": "17:03.40",
+        "speaker": "Tutor",
+        "dialogue": "And then you've also thought about."
+    },
+    {
+        "start": "17:04.64",
+        "stop": "17:04.96",
+        "speaker": "Student",
+        "dialogue": "Speed."
+    },
+    {
+        "start": "17:07.16",
+        "stop": "17:11.20",
+        "speaker": "Tutor",
+        "dialogue": "What's the distance that they've taken stays the same between and se,"
+    },
+    {
+        "start": "17:11.32",
+        "stop": "17:13.32",
+        "speaker": "Tutor",
+        "dialogue": "But the time goes on."
+    },
+    {
+        "start": "17:15.48",
+        "stop": "17:15.52",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "17:15.68",
+        "stop": "17:17.48",
+        "speaker": "Tutor",
+        "dialogue": "What does that mean as happening with the car?"
+    },
+    {
+        "start": "17:21.64",
+        "stop": "17:21.80",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "17:23.12",
+        "stop": "17:25.00",
+        "speaker": "Tutor",
+        "dialogue": "Maybe they aren't doing anything there,"
+    },
+    {
+        "start": "17:25.92",
+        "stop": "17:27.60",
+        "speaker": "Tutor",
+        "dialogue": "So what would that mean about the speed?"
+    },
+    {
+        "start": "17:29.56",
+        "stop": "17:29.68",
+        "speaker": "Student",
+        "dialogue": "There."
+    },
+    {
+        "start": "17:29.72",
+        "stop": "17:32.60",
+        "speaker": "Tutor",
+        "dialogue": "Would be noed that possible."
+    },
+    {
+        "start": "17:32.72",
+        "stop": "17:33.44",
+        "speaker": "Tutor",
+        "dialogue": "Is that realistic?"
+    },
+    {
+        "start": "17:37.04",
+        "stop": "17:37.16",
+        "speaker": "Student",
+        "dialogue": "No."
+    },
+    {
+        "start": "17:41.60",
+        "stop": "17:41.76",
+        "speaker": "Tutor",
+        "dialogue": "Why?"
+    },
+    {
+        "start": "17:41.88",
+        "stop": "17:41.96",
+        "speaker": "Student",
+        "dialogue": "They."
+    },
+    {
+        "start": "17:42.04",
+        "stop": "17:46.52",
+        "speaker": "Tutor",
+        "dialogue": "Could have stopped the car and like not used it for like half an hour."
+    },
+    {
+        "start": "17:46.76",
+        "stop": "17:48.04",
+        "speaker": "Tutor",
+        "dialogue": "Oh wait."
+    },
+    {
+        "start": "17:48.08",
+        "stop": "17:48.12",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "17:48.28",
+        "stop": "17:50.48",
+        "speaker": "Tutor",
+        "dialogue": "They could have stopped the car and not used it for half an hour,"
+    },
+    {
+        "start": "17:50.60",
+        "stop": "17:55.16",
+        "speaker": "Tutor",
+        "dialogue": "Because they traveled fifty miles and decided to take like a half hour break."
+    },
+    {
+        "start": "17:56.00",
+        "stop": "17:56.24",
+        "speaker": "Student",
+        "dialogue": "Ah."
+    },
+    {
+        "start": "17:57.00",
+        "stop": "17:59.88",
+        "speaker": "Tutor",
+        "dialogue": "So distance is staying the same,"
+    },
+    {
+        "start": "18:00.88",
+        "stop": "18:02.88",
+        "speaker": "Tutor",
+        "dialogue": "But the time continues to increase."
+    },
+    {
+        "start": "18:04.24",
+        "stop": "18:04.52",
+        "speaker": "Student",
+        "dialogue": "Mm."
+    },
+    {
+        "start": "18:04.64",
+        "stop": "18:08.08",
+        "speaker": "Tutor",
+        "dialogue": "And the speed stays the same at zero,"
+    },
+    {
+        "start": "18:08.64",
+        "stop": "18:10.00",
+        "speaker": "Tutor",
+        "dialogue": "Meaning the car is not moving."
+    },
+    {
+        "start": "18:11.24",
+        "stop": "18:11.28",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "18:11.40",
+        "stop": "18:13.84",
+        "speaker": "Tutor",
+        "dialogue": "Now go back to the label the way you labelled C and B."
+    },
+    {
+        "start": "18:14.60",
+        "stop": "18:17.48",
+        "speaker": "Tutor",
+        "dialogue": "Do you still agree with That is C and B at the same point?"
+    },
+    {
+        "start": "18:19.20",
+        "stop": "18:19.36",
+        "speaker": "Tutor",
+        "dialogue": "Yes,"
+    },
+    {
+        "start": "18:20.12",
+        "stop": "18:20.28",
+        "speaker": "Tutor",
+        "dialogue": "Yes,"
+    },
+    {
+        "start": "18:21.36",
+        "stop": "18:22.40",
+        "speaker": "Tutor",
+        "dialogue": "But time."
+    },
+    {
+        "start": "18:22.60",
+        "stop": "18:23.96",
+        "speaker": "Tutor",
+        "dialogue": "If we were labeling time on,"
+    },
+    {
+        "start": "18:24.12",
+        "stop": "18:25.32",
+        "speaker": "Tutor",
+        "dialogue": "This would be different."
+    },
+    {
+        "start": "18:26.08",
+        "stop": "18:26.12",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "18:26.80",
+        "stop": "18:27.12",
+        "speaker": "Tutor",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "18:29.00",
+        "stop": "18:29.20",
+        "speaker": "Student",
+        "dialogue": "Now."
+    },
+    {
+        "start": "18:29.44",
+        "stop": "18:31.32",
+        "speaker": "Tutor",
+        "dialogue": "Keep talking through what happens from D to E."
+    },
+    {
+        "start": "18:32.92",
+        "stop": "18:33.04",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "18:33.28",
+        "stop": "18:34.08",
+        "speaker": "Tutor",
+        "dialogue": "From D to E,"
+    },
+    {
+        "start": "18:34.48",
+        "stop": "18:37.16",
+        "speaker": "Tutor",
+        "dialogue": "They have many stops and starts,"
+    },
+    {
+        "start": "18:37.84",
+        "stop": "18:43.28",
+        "speaker": "Tutor",
+        "dialogue": "Because like it goes up and then back like it goes up and down like a staircase,"
+    },
+    {
+        "start": "18:43.52",
+        "stop": "18:44.84",
+        "speaker": "Tutor",
+        "dialogue": "But like a really wobbly one,"
+    },
+    {
+        "start": "18:45.16",
+        "stop": "18:54.60",
+        "speaker": "Tutor",
+        "dialogue": "So they didn't really have a super accurate amount of time where they stopped the car and started the car again."
+    },
+    {
+        "start": "18:56.76",
+        "stop": "18:56.80",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "18:57.12",
+        "stop": "18:58.92",
+        "speaker": "Tutor",
+        "dialogue": "Is you've talked about distance,"
+    },
+    {
+        "start": "18:59.12",
+        "stop": "18:59.88",
+        "speaker": "Tutor",
+        "dialogue": "Time and speed?"
+    },
+    {
+        "start": "19:00.72",
+        "stop": "19:04.32",
+        "speaker": "Tutor",
+        "dialogue": "What's happening with each of those variables from D to D?"
+    },
+    {
+        "start": "19:06.44",
+        "stop": "19:06.56",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "19:06.76",
+        "stop": "19:09.00",
+        "speaker": "Tutor",
+        "dialogue": "The distance is slowly increasing."
+    },
+    {
+        "start": "19:09.76",
+        "stop": "19:18.44",
+        "speaker": "Tutor",
+        "dialogue": "The time is still increasing and the speed is also slowly increasing."
+    },
+    {
+        "start": "19:20.16",
+        "stop": "19:20.20",
+        "speaker": "Student",
+        "dialogue": "Is?"
+    },
+    {
+        "start": "19:20.40",
+        "stop": "19:22.00",
+        "speaker": "Tutor",
+        "dialogue": "The speed stay,"
+    },
+    {
+        "start": "19:22.56",
+        "stop": "19:24.88",
+        "speaker": "Tutor",
+        "dialogue": "You sounded less confident when you talked about speed."
+    },
+    {
+        "start": "19:26.28",
+        "stop": "19:26.40",
+        "speaker": "Student",
+        "dialogue": "Your."
+    },
+    {
+        "start": "19:26.48",
+        "stop": "19:27.60",
+        "speaker": "Tutor",
+        "dialogue": "Voice kind of trailed off."
+    },
+    {
+        "start": "19:28.40",
+        "stop": "19:28.44",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "19:29.24",
+        "stop": "19:30.32",
+        "speaker": "Tutor",
+        "dialogue": "Are you still thinking about it?"
+    },
+    {
+        "start": "19:30.44",
+        "stop": "19:30.76",
+        "speaker": "Tutor",
+        "dialogue": "Are you like?"
+    },
+    {
+        "start": "19:30.88",
+        "stop": "19:33.08",
+        "speaker": "Tutor",
+        "dialogue": "No speed is slowly increasing."
+    },
+    {
+        "start": "19:34.48",
+        "stop": "19:34.52",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "19:34.80",
+        "stop": "19:35.52",
+        "speaker": "Tutor",
+        "dialogue": "Think now."
+    },
+    {
+        "start": "19:35.64",
+        "stop": "19:39.32",
+        "speaker": "Tutor",
+        "dialogue": "It's a bit different because like it's going in like a really wobbly pattern,"
+    },
+    {
+        "start": "19:40.12",
+        "stop": "19:48.24",
+        "speaker": "Tutor",
+        "dialogue": "So it maye like they're increasing the speed and then decreasing the speed slowly and then increasing it again and then decreasing it again."
+    },
+    {
+        "start": "19:49.52",
+        "stop": "19:49.56",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "19:49.84",
+        "stop": "19:52.40",
+        "speaker": "Tutor",
+        "dialogue": "So from D to E is the speed constant?"
+    },
+    {
+        "start": "19:53.52",
+        "stop": "19:53.64",
+        "speaker": "Tutor",
+        "dialogue": "No,"
+    },
+    {
+        "start": "19:53.88",
+        "stop": "19:55.88",
+        "speaker": "Tutor",
+        "dialogue": "The speed is in' constant from D to E."
+    },
+    {
+        "start": "19:57.96",
+        "stop": "19:58.08",
+        "speaker": "Student",
+        "dialogue": "Ok."
+    },
+    {
+        "start": "19:58.32",
+        "stop": "19:59.20",
+        "speaker": "Tutor",
+        "dialogue": "What happens after E?"
+    },
+    {
+        "start": "20:00.64",
+        "stop": "20:00.68",
+        "speaker": "Student",
+        "dialogue": "E."
+    },
+    {
+        "start": "20:01.24",
+        "stop": "20:02.84",
+        "speaker": "Tutor",
+        "dialogue": "It is constant again,"
+    },
+    {
+        "start": "20:03.16",
+        "stop": "20:09.44",
+        "speaker": "Tutor",
+        "dialogue": "But then it trails off after four hours and a little after the hundred and fifty miles park."
+    },
+    {
+        "start": "20:11.76",
+        "stop": "20:11.80",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "20:14.48",
+        "stop": "20:14.52",
+        "speaker": "Tutor",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "20:15.36",
+        "stop": "20:15.52",
+        "speaker": "Student",
+        "dialogue": "There."
+    },
+    {
+        "start": "20:15.60",
+        "stop": "20:16.00",
+        "speaker": "Tutor",
+        "dialogue": "Should be."
+    },
+    {
+        "start": "20:16.88",
+        "stop": "20:17.84",
+        "speaker": "Student",
+        "dialogue": "An F right here."
+    },
+    {
+        "start": "20:24.16",
+        "stop": "20:26.68",
+        "speaker": "Tutor",
+        "dialogue": "An f represents the end of the journey."
+    },
+    {
+        "start": "20:30.36",
+        "stop": "20:30.40",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "20:30.56",
+        "stop": "20:31.36",
+        "speaker": "Tutor",
+        "dialogue": "Where would F be?"
+    },
+    {
+        "start": "20:31.52",
+        "stop": "20:32.44",
+        "speaker": "Tutor",
+        "dialogue": "Where did they end up?"
+    },
+    {
+        "start": "20:33.28",
+        "stop": "20:35.28",
+        "speaker": "Tutor",
+        "dialogue": "F would be in New York,"
+    },
+    {
+        "start": "20:35.40",
+        "stop": "20:36.64",
+        "speaker": "Tutor",
+        "dialogue": "Where they ended over there,"
+    },
+    {
+        "start": "20:37.12",
+        "stop": "20:37.44",
+        "speaker": "Tutor",
+        "dialogue": "Correct?"
+    },
+    {
+        "start": "20:37.88",
+        "stop": "20:38.16",
+        "speaker": "Student",
+        "dialogue": "Cool."
+    },
+    {
+        "start": "20:38.92",
+        "stop": "20:39.20",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "20:39.52",
+        "stop": "20:39.64",
+        "speaker": "Tutor",
+        "dialogue": "Now,"
+    },
+    {
+        "start": "20:39.68",
+        "stop": "20:41.08",
+        "speaker": "Tutor",
+        "dialogue": "I'm going to uncover something else."
+    },
+    {
+        "start": "20:52.68",
+        "stop": "20:52.72",
+        "speaker": "Student",
+        "dialogue": "What?"
+    },
+    {
+        "start": "20:53.20",
+        "stop": "20:55.20",
+        "speaker": "Tutor",
+        "dialogue": "Is this graph going to keep track of?"
+    },
+    {
+        "start": "21:05.64",
+        "stop": "21:05.68",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "21:05.84",
+        "stop": "21:06.00",
+        "speaker": "Tutor",
+        "dialogue": "Think."
+    },
+    {
+        "start": "21:06.40",
+        "stop": "21:09.12",
+        "speaker": "Tutor",
+        "dialogue": "Keep track of the same thing as the other graph just."
+    },
+    {
+        "start": "21:11.04",
+        "stop": "21:11.08",
+        "speaker": "Student",
+        "dialogue": "That."
+    },
+    {
+        "start": "21:11.60",
+        "stop": "21:15.64",
+        "speaker": "Tutor",
+        "dialogue": "The variables are placed on Di on the opposite axis."
+    },
+    {
+        "start": "21:17.56",
+        "stop": "21:17.60",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "21:18.16",
+        "stop": "21:18.92",
+        "speaker": "Tutor",
+        "dialogue": "In this journey."
+    },
+    {
+        "start": "21:20.88",
+        "stop": "21:21.08",
+        "speaker": "Student",
+        "dialogue": "Where?"
+    },
+    {
+        "start": "21:21.16",
+        "stop": "21:23.48",
+        "speaker": "Tutor",
+        "dialogue": "Are we going to be keeping track of distance now?"
+    },
+    {
+        "start": "21:24.96",
+        "stop": "21:25.04",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "21:25.40",
+        "stop": "21:28.40",
+        "speaker": "Tutor",
+        "dialogue": "Aver here on the Exxus,"
+    },
+    {
+        "start": "21:28.72",
+        "stop": "21:32.12",
+        "speaker": "Tutor",
+        "dialogue": "And where are we going to be keeping track of time on the Wyaxus,"
+    },
+    {
+        "start": "21:32.56",
+        "stop": "21:35.76",
+        "speaker": "Tutor",
+        "dialogue": "And whenever we do a graph in the middle of this,"
+    },
+    {
+        "start": "21:36.40",
+        "stop": "21:37.32",
+        "speaker": "Tutor",
+        "dialogue": "Like in this section,"
+    },
+    {
+        "start": "21:38.36",
+        "stop": "21:40.68",
+        "speaker": "Tutor",
+        "dialogue": "What's that keeping track of Um?"
+    },
+    {
+        "start": "21:41.56",
+        "stop": "21:45.32",
+        "speaker": "Tutor",
+        "dialogue": "That would keep track of the miles per hour?"
+    },
+    {
+        "start": "21:46.40",
+        "stop": "21:46.44",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "21:46.60",
+        "stop": "21:49.48",
+        "speaker": "Tutor",
+        "dialogue": "It's going to show the relationship between time and distance."
+    },
+    {
+        "start": "21:50.28",
+        "stop": "21:50.32",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "21:50.52",
+        "stop": "21:53.36",
+        "speaker": "Tutor",
+        "dialogue": "Distance is going to be changing or staying the same in some way."
+    },
+    {
+        "start": "21:54.00",
+        "stop": "21:57.48",
+        "speaker": "Tutor",
+        "dialogue": "Time is going to be changing or staying the same in some way,"
+    },
+    {
+        "start": "21:58.08",
+        "stop": "22:06.92",
+        "speaker": "Tutor",
+        "dialogue": "And I'd like you to think about what does the graph look like That shows how they are changing or staying the same throughout this journey in relation to each."
+    },
+    {
+        "start": "22:06.96",
+        "stop": "22:07.12",
+        "speaker": "Student",
+        "dialogue": "Other."
+    },
+    {
+        "start": "22:09.76",
+        "stop": "22:11.08",
+        "speaker": "Tutor",
+        "dialogue": "So whenever you are ready,"
+    },
+    {
+        "start": "22:11.88",
+        "stop": "22:14.28",
+        "speaker": "Tutor",
+        "dialogue": "Sketch what you think the graph might look like."
+    },
+    {
+        "start": "22:58.12",
+        "stop": "22:58.16",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "22:58.40",
+        "stop": "22:58.44",
+        "speaker": "Tutor",
+        "dialogue": "That."
+    },
+    {
+        "start": "22:58.64",
+        "stop": "23:17.24",
+        "speaker": "Student",
+        "dialogue": "Was another hour one?"
+    },
+    {
+        "start": "23:17.84",
+        "stop": "23:18.32",
+        "speaker": "Tutor",
+        "dialogue": "Forty."
+    },
+    {
+        "start": "23:59.52",
+        "stop": "23:59.56",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "23:59.76",
+        "stop": "24:00.80",
+        "speaker": "Tutor",
+        "dialogue": "I my Im of it A."
+    },
+    {
+        "start": "24:01.00",
+        "stop": "24:01.32",
+        "speaker": "Student",
+        "dialogue": "I know."
+    },
+    {
+        "start": "24:42.24",
+        "stop": "24:42.28",
+        "speaker": "Tutor",
+        "dialogue": "Me,"
+    },
+    {
+        "start": "24:43.44",
+        "stop": "25:54.04",
+        "speaker": "Tutor",
+        "dialogue": "Um ho,"
+    },
+    {
+        "start": "25:54.52",
+        "stop": "25:55.00",
+        "speaker": "Tutor",
+        "dialogue": "Look like that."
+    },
+    {
+        "start": "25:55.56",
+        "stop": "25:55.76",
+        "speaker": "Tutor",
+        "dialogue": "I G."
+    },
+    {
+        "start": "25:57.84",
+        "stop": "25:57.88",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "25:58.28",
+        "stop": "25:59.88",
+        "speaker": "Tutor",
+        "dialogue": "Plotted all the points at first."
+    },
+    {
+        "start": "26:01.20",
+        "stop": "26:01.36",
+        "speaker": "Student",
+        "dialogue": "Can?"
+    },
+    {
+        "start": "26:01.44",
+        "stop": "26:05.00",
+        "speaker": "Tutor",
+        "dialogue": "You tell me how you thought about or how you knew B went here."
+    },
+    {
+        "start": "26:05.16",
+        "stop": "26:05.72",
+        "speaker": "Tutor",
+        "dialogue": "For example,"
+    },
+    {
+        "start": "26:07.04",
+        "stop": "26:07.16",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "26:07.44",
+        "stop": "26:11.84",
+        "speaker": "Tutor",
+        "dialogue": "Because this one is distance per mile and the miles on the X axis here,"
+    },
+    {
+        "start": "26:12.32",
+        "stop": "26:14.56",
+        "speaker": "Tutor",
+        "dialogue": "And since the miles on the y axis here,"
+    },
+    {
+        "start": "26:14.64",
+        "stop": "26:23.12",
+        "speaker": "Tutor",
+        "dialogue": "I decided to use what was here and just transfer it here by like flipping it over and then like rotating it."
+    },
+    {
+        "start": "26:23.24",
+        "stop": "26:24.60",
+        "speaker": "Tutor",
+        "dialogue": "I guess in my mind,"
+    },
+    {
+        "start": "26:25.24",
+        "stop": "26:27.88",
+        "speaker": "Tutor",
+        "dialogue": "Were you thinking about the section from A to B?"
+    },
+    {
+        "start": "26:28.60",
+        "stop": "26:28.88",
+        "speaker": "Student",
+        "dialogue": "Or were?"
+    },
+    {
+        "start": "26:28.92",
+        "stop": "26:33.60",
+        "speaker": "Tutor",
+        "dialogue": "You thinking it was just point B and flipping the X and y numbers?"
+    },
+    {
+        "start": "26:34.64",
+        "stop": "26:35.40",
+        "speaker": "Tutor",
+        "dialogue": "I was thinking about."
+    },
+    {
+        "start": "26:35.44",
+        "stop": "26:35.96",
+        "speaker": "Tutor",
+        "dialogue": "Like the section,"
+    },
+    {
+        "start": "26:36.16",
+        "stop": "26:36.32",
+        "speaker": "Tutor",
+        "dialogue": "How,"
+    },
+    {
+        "start": "26:36.40",
+        "stop": "26:36.56",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "26:36.72",
+        "stop": "26:39.28",
+        "speaker": "Tutor",
+        "dialogue": "Like two points like one point zero,"
+    },
+    {
+        "start": "26:39.40",
+        "stop": "26:40.20",
+        "speaker": "Tutor",
+        "dialogue": "One point there,"
+    },
+    {
+        "start": "26:40.72",
+        "stop": "26:42.08",
+        "speaker": "Tutor",
+        "dialogue": "And then like one point zero,"
+    },
+    {
+        "start": "26:42.16",
+        "stop": "26:42.76",
+        "speaker": "Tutor",
+        "dialogue": "One point there,"
+    },
+    {
+        "start": "26:42.80",
+        "stop": "26:45.28",
+        "speaker": "Tutor",
+        "dialogue": "Thato'ld be one hour and then they s tifty there,"
+    },
+    {
+        "start": "26:45.40",
+        "stop": "26:47.20",
+        "speaker": "Tutor",
+        "dialogue": "So just drive it over to the fifty,"
+    },
+    {
+        "start": "26:47.24",
+        "stop": "26:48.16",
+        "speaker": "Tutor",
+        "dialogue": "And that's how I found B."
+    },
+    {
+        "start": "26:49.24",
+        "stop": "26:49.52",
+        "speaker": "Tutor",
+        "dialogue": "Okay?"
+    },
+    {
+        "start": "26:50.88",
+        "stop": "26:50.92",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "26:51.36",
+        "stop": "26:51.40",
+        "speaker": "Tutor",
+        "dialogue": "Like,"
+    },
+    {
+        "start": "26:51.56",
+        "stop": "26:58.64",
+        "speaker": "Tutor",
+        "dialogue": "The coordinates of B here are one fiftym And then here the coordinates are fifty."
+    },
+    {
+        "start": "26:58.92",
+        "stop": "26:59.12",
+        "speaker": "Tutor",
+        "dialogue": "One."
+    },
+    {
+        "start": "26:59.92",
+        "stop": "26:59.96",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "27:00.52",
+        "stop": "27:02.20",
+        "speaker": "Tutor",
+        "dialogue": "You were like inverting the coordinates."
+    },
+    {
+        "start": "27:02.88",
+        "stop": "27:02.92",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "27:03.68",
+        "stop": "27:03.96",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "27:04.68",
+        "stop": "27:04.92",
+        "speaker": "Tutor",
+        "dialogue": "Cool."
+    },
+    {
+        "start": "27:05.00",
+        "stop": "27:05.88",
+        "speaker": "Tutor",
+        "dialogue": "That's helpful thinking."
+    },
+    {
+        "start": "27:06.24",
+        "stop": "27:06.56",
+        "speaker": "Tutor",
+        "dialogue": "All right,"
+    },
+    {
+        "start": "27:06.68",
+        "stop": "27:08.48",
+        "speaker": "Tutor",
+        "dialogue": "I've got another one for you."
+    },
+    {
+        "start": "27:08.92",
+        "stop": "27:14.68",
+        "speaker": "Tutor",
+        "dialogue": "We're going to kind of improb a little bit up here because you're thinking is so cool."
+    },
+    {
+        "start": "27:14.88",
+        "stop": "27:16.76",
+        "speaker": "Tutor",
+        "dialogue": "I'd love to hear how you think about this one."
+    },
+    {
+        "start": "27:19.44",
+        "stop": "27:19.48",
+        "speaker": "Tutor",
+        "dialogue": "In."
+    },
+    {
+        "start": "27:19.60",
+        "stop": "27:19.64",
+        "speaker": "Student",
+        "dialogue": "A,"
+    },
+    {
+        "start": "27:19.92",
+        "stop": "27:20.16",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "27:21.16",
+        "stop": "27:21.68",
+        "speaker": "Tutor",
+        "dialogue": "Wusa."
+    },
+    {
+        "start": "27:27.00",
+        "stop": "27:27.32",
+        "speaker": "Student",
+        "dialogue": "I don't."
+    },
+    {
+        "start": "27:27.40",
+        "stop": "27:28.08",
+        "speaker": "Tutor",
+        "dialogue": "Like that line,"
+    },
+    {
+        "start": "27:28.32",
+        "stop": "27:29.52",
+        "speaker": "Tutor",
+        "dialogue": "Let me try to do this again."
+    },
+    {
+        "start": "27:29.96",
+        "stop": "27:36.68",
+        "speaker": "Tutor",
+        "dialogue": "I want to keep this on the same board because I want you to be able to see your previous work so this might get a little bit interesting."
+    },
+    {
+        "start": "27:42.92",
+        "stop": "27:43.04",
+        "speaker": "Tutor",
+        "dialogue": "If."
+    },
+    {
+        "start": "27:43.12",
+        "stop": "27:43.16",
+        "speaker": "Student",
+        "dialogue": "We."
+    },
+    {
+        "start": "27:43.32",
+        "stop": "27:44.20",
+        "speaker": "Tutor",
+        "dialogue": "Had anothergraph?"
+    },
+    {
+        "start": "27:49.36",
+        "stop": "27:49.40",
+        "speaker": "Student",
+        "dialogue": "That."
+    },
+    {
+        "start": "27:51.16",
+        "stop": "27:51.44",
+        "speaker": "Tutor",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "27:51.60",
+        "stop": "27:52.16",
+        "speaker": "Student",
+        "dialogue": "That didn't work."
+    },
+    {
+        "start": "27:52.36",
+        "stop": "27:53.28",
+        "speaker": "Tutor",
+        "dialogue": "Like I wanted it to."
+    },
+    {
+        "start": "28:10.24",
+        "stop": "28:10.28",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "28:10.48",
+        "stop": "28:13.88",
+        "speaker": "Tutor",
+        "dialogue": "This is another x y coordinate of quadrant one."
+    },
+    {
+        "start": "28:16.84",
+        "stop": "28:16.88",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "28:17.44",
+        "stop": "28:18.08",
+        "speaker": "Tutor",
+        "dialogue": "Down here."
+    },
+    {
+        "start": "28:26.44",
+        "stop": "28:26.48",
+        "speaker": "Student",
+        "dialogue": "We."
+    },
+    {
+        "start": "28:26.60",
+        "stop": "28:27.80",
+        "speaker": "Tutor",
+        "dialogue": "Were keeping track of?"
+    },
+    {
+        "start": "28:34.00",
+        "stop": "28:34.32",
+        "speaker": "Student",
+        "dialogue": "Eat."
+    },
+    {
+        "start": "28:39.64",
+        "stop": "28:40.32",
+        "speaker": "Tutor",
+        "dialogue": "And here?"
+    },
+    {
+        "start": "28:44.56",
+        "stop": "28:44.60",
+        "speaker": "Student",
+        "dialogue": "We."
+    },
+    {
+        "start": "28:44.76",
+        "stop": "28:47.20",
+        "speaker": "Tutor",
+        "dialogue": "Were keeping track of time?"
+    },
+    {
+        "start": "28:53.80",
+        "stop": "28:53.84",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "28:54.68",
+        "stop": "28:54.96",
+        "speaker": "Tutor",
+        "dialogue": "Time,"
+    },
+    {
+        "start": "28:55.16",
+        "stop": "28:57.92",
+        "speaker": "Tutor",
+        "dialogue": "What units would we be using to keep track of time in this situ?"
+    },
+    {
+        "start": "28:58.20",
+        "stop": "28:59.00",
+        "speaker": "Tutor",
+        "dialogue": "Oh yeah,"
+    },
+    {
+        "start": "28:59.76",
+        "stop": "29:00.12",
+        "speaker": "Tutor",
+        "dialogue": "Hours."
+    },
+    {
+        "start": "29:00.84",
+        "stop": "29:05.96",
+        "speaker": "Tutor",
+        "dialogue": "And what units would we be using to keep track of speed in this situation Miles per hour?"
+    },
+    {
+        "start": "29:06.12",
+        "stop": "29:06.16",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "29:06.76",
+        "stop": "29:07.52",
+        "speaker": "Tutor",
+        "dialogue": "Should do miles."
+    },
+    {
+        "start": "29:08.72",
+        "stop": "29:08.92",
+        "speaker": "Student",
+        "dialogue": "Could?"
+    },
+    {
+        "start": "29:09.00",
+        "stop": "29:10.24",
+        "speaker": "Tutor",
+        "dialogue": "We just do miles for speed,"
+    },
+    {
+        "start": "29:10.36",
+        "stop": "29:11.48",
+        "speaker": "Tutor",
+        "dialogue": "Or does it have to be miles?"
+    },
+    {
+        "start": "29:11.56",
+        "stop": "29:11.92",
+        "speaker": "Student",
+        "dialogue": "Per hour."
+    },
+    {
+        "start": "29:14.76",
+        "stop": "29:17.08",
+        "speaker": "Tutor",
+        "dialogue": "I think I think we."
+    },
+    {
+        "start": "29:18.16",
+        "stop": "29:18.32",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "29:18.96",
+        "stop": "29:19.00",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "29:19.12",
+        "stop": "29:20.68",
+        "speaker": "Tutor",
+        "dialogue": "I think it has to be miles per hour."
+    },
+    {
+        "start": "29:20.80",
+        "stop": "29:21.20",
+        "speaker": "Tutor",
+        "dialogue": "Actually,"
+    },
+    {
+        "start": "29:22.08",
+        "stop": "29:22.12",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "29:22.40",
+        "stop": "29:23.44",
+        "speaker": "Tutor",
+        "dialogue": "If it's just miles,"
+    },
+    {
+        "start": "29:23.52",
+        "stop": "29:26.24",
+        "speaker": "Tutor",
+        "dialogue": "We'd be keeping track of distance."
+    },
+    {
+        "start": "29:27.88",
+        "stop": "29:30.32",
+        "speaker": "Tutor",
+        "dialogue": "Speed is keeping track of the miles per hour."
+    },
+    {
+        "start": "29:31.44",
+        "stop": "29:31.72",
+        "speaker": "Student",
+        "dialogue": "All right."
+    },
+    {
+        "start": "29:31.80",
+        "stop": "29:33.08",
+        "speaker": "Tutor",
+        "dialogue": "I'm going to try to erase this."
+    },
+    {
+        "start": "29:37.60",
+        "stop": "29:37.64",
+        "speaker": "Student",
+        "dialogue": "This."
+    },
+    {
+        "start": "29:37.88",
+        "stop": "29:41.96",
+        "speaker": "Tutor",
+        "dialogue": "Is another graph same situation?"
+    },
+    {
+        "start": "29:44.40",
+        "stop": "29:44.56",
+        "speaker": "Student",
+        "dialogue": "How?"
+    },
+    {
+        "start": "29:44.88",
+        "stop": "29:48.80",
+        "speaker": "Tutor",
+        "dialogue": "Would you grafh the relationship between time and speed?"
+    },
+    {
+        "start": "30:09.32",
+        "stop": "30:38.44",
+        "speaker": "Student",
+        "dialogue": "A Mm."
+    },
+    {
+        "start": "31:09.04",
+        "stop": "31:11.08",
+        "speaker": "Tutor",
+        "dialogue": "This would be a very confusing graph."
+    },
+    {
+        "start": "31:12.20",
+        "stop": "31:12.96",
+        "speaker": "Tutor",
+        "dialogue": "What do you mean by that?"
+    },
+    {
+        "start": "31:14.84",
+        "stop": "31:14.96",
+        "speaker": "Tutor",
+        "dialogue": "Um?"
+    },
+    {
+        "start": "31:15.76",
+        "stop": "31:18.52",
+        "speaker": "Tutor",
+        "dialogue": "Because if it were going by speed for miles per hour,"
+    },
+    {
+        "start": "31:18.68",
+        "stop": "31:19.64",
+        "speaker": "Tutor",
+        "dialogue": "Itould be like zero,"
+    },
+    {
+        "start": "31:19.96",
+        "stop": "31:20.08",
+        "speaker": "Tutor",
+        "dialogue": "Ten,"
+    },
+    {
+        "start": "31:20.32",
+        "stop": "31:20.60",
+        "speaker": "Tutor",
+        "dialogue": "Twenty,"
+    },
+    {
+        "start": "31:20.80",
+        "stop": "31:21.00",
+        "speaker": "Tutor",
+        "dialogue": "Thirty,"
+    },
+    {
+        "start": "31:21.08",
+        "stop": "31:25.76",
+        "speaker": "Tutor",
+        "dialogue": "Forty fiftyum And like from points B to points C,"
+    },
+    {
+        "start": "31:26.52",
+        "stop": "31:30.60",
+        "speaker": "Tutor",
+        "dialogue": "There is no speed there And but they are going on."
+    },
+    {
+        "start": "31:31.24",
+        "stop": "31:32.52",
+        "speaker": "Tutor",
+        "dialogue": "Oh wait,"
+    },
+    {
+        "start": "31:32.68",
+        "stop": "31:33.16",
+        "speaker": "Tutor",
+        "dialogue": "Never mind."
+    },
+    {
+        "start": "31:33.32",
+        "stop": "31:33.60",
+        "speaker": "Tutor",
+        "dialogue": "Hang on."
+    },
+    {
+        "start": "31:34.68",
+        "stop": "31:34.72",
+        "speaker": "Tutor",
+        "dialogue": "What?"
+    },
+    {
+        "start": "31:35.08",
+        "stop": "31:35.12",
+        "speaker": "Tutor",
+        "dialogue": "What?"
+    },
+    {
+        "start": "31:35.32",
+        "stop": "31:35.68",
+        "speaker": "Tutor",
+        "dialogue": "What was that?"
+    },
+    {
+        "start": "31:35.84",
+        "stop": "31:36.00",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "31:36.12",
+        "stop": "31:40.56",
+        "speaker": "Tutor",
+        "dialogue": "That's cool because I just realized that it wouldn't be all the way back to zero,"
+    },
+    {
+        "start": "31:40.68",
+        "stop": "31:43.32",
+        "speaker": "Tutor",
+        "dialogue": "Because that would also mean that there's no time thats passing."
+    },
+    {
+        "start": "31:44.32",
+        "stop": "31:44.36",
+        "speaker": "Student",
+        "dialogue": "M."
+    },
+    {
+        "start": "31:44.40",
+        "stop": "31:44.44",
+        "speaker": "Student",
+        "dialogue": "But."
+    },
+    {
+        "start": "31:44.56",
+        "stop": "31:46.24",
+        "speaker": "Tutor",
+        "dialogue": "There would be time that would be passing,"
+    },
+    {
+        "start": "31:46.64",
+        "stop": "31:48.52",
+        "speaker": "Tutor",
+        "dialogue": "So C would be up here to like,"
+    },
+    {
+        "start": "31:48.68",
+        "stop": "31:50.28",
+        "speaker": "Tutor",
+        "dialogue": "Signified passing of time."
+    },
+    {
+        "start": "31:54.04",
+        "stop": "31:54.08",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "31:54.24",
+        "stop": "31:56.20",
+        "speaker": "Tutor",
+        "dialogue": "There's some units of time that are passing,"
+    },
+    {
+        "start": "31:56.80",
+        "stop": "31:57.96",
+        "speaker": "Tutor",
+        "dialogue": "But the speed is."
+    },
+    {
+        "start": "31:59.68",
+        "stop": "31:59.72",
+        "speaker": "Student",
+        "dialogue": "The."
+    },
+    {
+        "start": "31:59.88",
+        "stop": "32:00.84",
+        "speaker": "Tutor",
+        "dialogue": "Speed is zero."
+    },
+    {
+        "start": "32:04.32",
+        "stop": "32:04.36",
+        "speaker": "Student",
+        "dialogue": "A."
+    },
+    {
+        "start": "32:04.68",
+        "stop": "32:06.00",
+        "speaker": "Tutor",
+        "dialogue": "Zero would be like here,"
+    },
+    {
+        "start": "32:06.28",
+        "stop": "32:08.08",
+        "speaker": "Tutor",
+        "dialogue": "But then time would keep on going,"
+    },
+    {
+        "start": "32:08.60",
+        "stop": "32:11.04",
+        "speaker": "Tutor",
+        "dialogue": "So I'd have to put the Sa on the Y axis."
+    },
+    {
+        "start": "32:20.32",
+        "stop": "32:20.36",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "32:20.40",
+        "stop": "32:22.96",
+        "speaker": "Tutor",
+        "dialogue": "Would put it up where your cursor is like Yeah,"
+    },
+    {
+        "start": "32:23.20",
+        "stop": "32:23.96",
+        "speaker": "Tutor",
+        "dialogue": "Around that area."
+    },
+    {
+        "start": "32:26.72",
+        "stop": "32:27.00",
+        "speaker": "Student",
+        "dialogue": "So this?"
+    },
+    {
+        "start": "32:28.96",
+        "stop": "32:31.68",
+        "speaker": "Tutor",
+        "dialogue": "Let me see if I can follow you to build up to C."
+    },
+    {
+        "start": "32:33.12",
+        "stop": "32:36.24",
+        "speaker": "Tutor",
+        "dialogue": "Help me understand why you put A and B where you did,"
+    },
+    {
+        "start": "32:37.12",
+        "stop": "32:41.04",
+        "speaker": "Tutor",
+        "dialogue": "Because A there's um zero miles per hour,"
+    },
+    {
+        "start": "32:41.16",
+        "stop": "32:45.16",
+        "speaker": "Tutor",
+        "dialogue": "Because they haven't gone anywhere and they didn't spend any time doing anything,"
+    },
+    {
+        "start": "32:45.72",
+        "stop": "32:51.24",
+        "speaker": "Tutor",
+        "dialogue": "But then it goes to fifty miles per hour on one hour,"
+    },
+    {
+        "start": "32:51.76",
+        "stop": "32:53.08",
+        "speaker": "Tutor",
+        "dialogue": "So B would be up there."
+    },
+    {
+        "start": "32:55.00",
+        "stop": "32:55.04",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "32:55.24",
+        "stop": "32:55.72",
+        "speaker": "Tutor",
+        "dialogue": "Then C."
+    },
+    {
+        "start": "32:58.08",
+        "stop": "32:58.20",
+        "speaker": "Student",
+        "dialogue": "They."
+    },
+    {
+        "start": "32:58.44",
+        "stop": "32:59.68",
+        "speaker": "Tutor",
+        "dialogue": "Spend half an hour,"
+    },
+    {
+        "start": "33:00.84",
+        "stop": "33:04.32",
+        "speaker": "Tutor",
+        "dialogue": "But they aren't going anywhere and there's no speed that happens,"
+    },
+    {
+        "start": "33:04.52",
+        "stop": "33:05.80",
+        "speaker": "Tutor",
+        "dialogue": "So it B up here."
+    },
+    {
+        "start": "33:08.28",
+        "stop": "33:08.32",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "33:08.48",
+        "stop": "33:13.76",
+        "speaker": "Tutor",
+        "dialogue": "Are doing a good job of explaining how you think about where point A is and point B is?"
+    },
+    {
+        "start": "33:15.08",
+        "stop": "33:15.12",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "33:15.24",
+        "stop": "33:17.80",
+        "speaker": "Tutor",
+        "dialogue": "Want to challenge you to think about?"
+    },
+    {
+        "start": "33:19.60",
+        "stop": "33:19.80",
+        "speaker": "Student",
+        "dialogue": "Where?"
+    },
+    {
+        "start": "33:19.92",
+        "stop": "33:24.96",
+        "speaker": "Tutor",
+        "dialogue": "Is this section from A to B on your graph?"
+    },
+    {
+        "start": "33:29.68",
+        "stop": "33:29.72",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "33:29.96",
+        "stop": "33:30.92",
+        "speaker": "Tutor",
+        "dialogue": "Before you draw it,"
+    },
+    {
+        "start": "33:31.72",
+        "stop": "33:38.04",
+        "speaker": "Tutor",
+        "dialogue": "Think back to what you told me was happening here in terms of distance,"
+    },
+    {
+        "start": "33:39.08",
+        "stop": "33:39.40",
+        "speaker": "Tutor",
+        "dialogue": "Time,"
+    },
+    {
+        "start": "33:40.48",
+        "stop": "33:40.80",
+        "speaker": "Tutor",
+        "dialogue": "Speed,"
+    },
+    {
+        "start": "33:41.56",
+        "stop": "33:44.72",
+        "speaker": "Tutor",
+        "dialogue": "And constant rate or miles per hour."
+    },
+    {
+        "start": "34:21.68",
+        "stop": "34:21.72",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "34:21.84",
+        "stop": "34:22.88",
+        "speaker": "Tutor",
+        "dialogue": "Think I put it there,"
+    },
+    {
+        "start": "34:23.52",
+        "stop": "34:26.20",
+        "speaker": "Tutor",
+        "dialogue": "Because like as the shows,"
+    },
+    {
+        "start": "34:26.28",
+        "stop": "34:29.28",
+        "speaker": "Tutor",
+        "dialogue": "Its like aradual build up to fifty miles per hour."
+    },
+    {
+        "start": "34:35.04",
+        "stop": "34:35.08",
+        "speaker": "Student",
+        "dialogue": "This."
+    },
+    {
+        "start": "34:35.28",
+        "stop": "34:35.32",
+        "speaker": "Tutor",
+        "dialogue": "Is?"
+    },
+    {
+        "start": "34:35.44",
+        "stop": "34:35.48",
+        "speaker": "Student",
+        "dialogue": "A."
+    },
+    {
+        "start": "34:35.64",
+        "stop": "34:36.12",
+        "speaker": "Tutor",
+        "dialogue": "Gradual,"
+    },
+    {
+        "start": "34:37.36",
+        "stop": "34:37.84",
+        "speaker": "Tutor",
+        "dialogue": "A to B."
+    },
+    {
+        "start": "34:38.96",
+        "stop": "34:39.00",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "34:39.84",
+        "stop": "34:41.20",
+        "speaker": "Tutor",
+        "dialogue": "They are not going okay,"
+    },
+    {
+        "start": "34:41.24",
+        "stop": "34:45.52",
+        "speaker": "Tutor",
+        "dialogue": "So I'm goninga back up to see if I understood what you said before when we were on this graph."
+    },
+    {
+        "start": "34:47.68",
+        "stop": "34:47.72",
+        "speaker": "Student",
+        "dialogue": "You?"
+    },
+    {
+        "start": "34:47.88",
+        "stop": "34:48.52",
+        "speaker": "Tutor",
+        "dialogue": "Told me from."
+    },
+    {
+        "start": "34:50.56",
+        "stop": "34:50.76",
+        "speaker": "Student",
+        "dialogue": "From."
+    },
+    {
+        "start": "34:51.12",
+        "stop": "34:52.04",
+        "speaker": "Tutor",
+        "dialogue": "A to B."
+    },
+    {
+        "start": "34:55.48",
+        "stop": "34:55.92",
+        "speaker": "Student",
+        "dialogue": "Distance."
+    },
+    {
+        "start": "34:56.04",
+        "stop": "34:56.80",
+        "speaker": "Tutor",
+        "dialogue": "Was increasing,"
+    },
+    {
+        "start": "34:57.68",
+        "stop": "34:58.72",
+        "speaker": "Tutor",
+        "dialogue": "Time was increasing,"
+    },
+    {
+        "start": "34:59.36",
+        "stop": "35:01.00",
+        "speaker": "Tutor",
+        "dialogue": "But something was staying the same."
+    },
+    {
+        "start": "35:04.00",
+        "stop": "35:04.24",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "35:04.52",
+        "stop": "35:04.64",
+        "speaker": "Tutor",
+        "dialogue": "Wa."
+    },
+    {
+        "start": "35:08.12",
+        "stop": "35:08.16",
+        "speaker": "Student",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "35:08.44",
+        "stop": "35:10.52",
+        "speaker": "Tutor",
+        "dialogue": "Because like it wouldn't be gradual."
+    },
+    {
+        "start": "35:10.60",
+        "stop": "35:15.08",
+        "speaker": "Tutor",
+        "dialogue": "Because if the miles per hour were staying the same then?"
+    },
+    {
+        "start": "35:21.20",
+        "stop": "35:21.36",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "35:26.88",
+        "stop": "35:27.16",
+        "speaker": "Tutor",
+        "dialogue": "Maybe."
+    },
+    {
+        "start": "35:27.20",
+        "stop": "35:27.24",
+        "speaker": "Student",
+        "dialogue": "It."
+    },
+    {
+        "start": "35:27.28",
+        "stop": "35:29.72",
+        "speaker": "Tutor",
+        "dialogue": "Would be like this like a straight line."
+    },
+    {
+        "start": "35:40.00",
+        "stop": "35:40.24",
+        "speaker": "Student",
+        "dialogue": "Straight."
+    },
+    {
+        "start": "35:40.40",
+        "stop": "35:43.08",
+        "speaker": "Tutor",
+        "dialogue": "Line signify on your grafton."
+    },
+    {
+        "start": "35:47.04",
+        "stop": "35:47.28",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "35:47.64",
+        "stop": "35:47.68",
+        "speaker": "Tutor",
+        "dialogue": "I,"
+    },
+    {
+        "start": "35:48.04",
+        "stop": "35:49.72",
+        "speaker": "Tutor",
+        "dialogue": "I drew the wrong one wrong way."
+    },
+    {
+        "start": "35:52.20",
+        "stop": "35:52.56",
+        "speaker": "Student",
+        "dialogue": "Because."
+    },
+    {
+        "start": "35:55.04",
+        "stop": "35:55.08",
+        "speaker": "Tutor",
+        "dialogue": "The."
+    },
+    {
+        "start": "35:55.28",
+        "stop": "35:55.44",
+        "speaker": "Student",
+        "dialogue": "Line."
+    },
+    {
+        "start": "35:55.52",
+        "stop": "35:56.48",
+        "speaker": "Tutor",
+        "dialogue": "Would have to be like."
+    },
+    {
+        "start": "35:58.44",
+        "stop": "35:58.48",
+        "speaker": "Student",
+        "dialogue": "This."
+    },
+    {
+        "start": "36:04.60",
+        "stop": "36:04.76",
+        "speaker": "Tutor",
+        "dialogue": "Why?"
+    },
+    {
+        "start": "36:04.88",
+        "stop": "36:04.92",
+        "speaker": "Student",
+        "dialogue": "Is?"
+    },
+    {
+        "start": "36:05.00",
+        "stop": "36:06.52",
+        "speaker": "Tutor",
+        "dialogue": "The line that way instead of the other way,"
+    },
+    {
+        "start": "36:06.84",
+        "stop": "36:07.96",
+        "speaker": "Tutor",
+        "dialogue": "You know as a teacher,"
+    },
+    {
+        "start": "36:08.00",
+        "stop": "36:09.20",
+        "speaker": "Tutor",
+        "dialogue": "I get so excited whenever you go."
+    },
+    {
+        "start": "36:09.28",
+        "stop": "36:09.56",
+        "speaker": "Tutor",
+        "dialogue": "Oh wait,"
+    },
+    {
+        "start": "36:09.56",
+        "stop": "36:09.60",
+        "speaker": "Tutor",
+        "dialogue": "W,"
+    },
+    {
+        "start": "36:09.64",
+        "stop": "36:09.80",
+        "speaker": "Tutor",
+        "dialogue": "Wait,"
+    },
+    {
+        "start": "36:09.84",
+        "stop": "36:10.00",
+        "speaker": "Tutor",
+        "dialogue": "Wah,"
+    },
+    {
+        "start": "36:10.04",
+        "stop": "36:10.20",
+        "speaker": "Tutor",
+        "dialogue": "Wait."
+    },
+    {
+        "start": "36:10.36",
+        "stop": "36:14.04",
+        "speaker": "Tutor",
+        "dialogue": "That's literally like the process of like growing the synapse in your brain and it's awesome."
+    },
+    {
+        "start": "36:15.72",
+        "stop": "36:15.80",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "36:15.88",
+        "stop": "36:22.00",
+        "speaker": "Tutor",
+        "dialogue": "It'd be this way because if the miles per hour were to stay constant,"
+    },
+    {
+        "start": "36:22.08",
+        "stop": "36:26.08",
+        "speaker": "Tutor",
+        "dialogue": "Then they'd have to start at the consistent speed of what they originally went to,"
+    },
+    {
+        "start": "36:26.56",
+        "stop": "36:28.40",
+        "speaker": "Tutor",
+        "dialogue": "And since only the hours are changing,"
+    },
+    {
+        "start": "36:28.48",
+        "stop": "36:29.56",
+        "speaker": "Tutor",
+        "dialogue": "It'd have to go up."
+    },
+    {
+        "start": "36:30.96",
+        "stop": "36:31.20",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "36:31.44",
+        "stop": "36:35.76",
+        "speaker": "Tutor",
+        "dialogue": "So the speed is staying constant as the time is increasing."
+    },
+    {
+        "start": "36:37.04",
+        "stop": "36:37.28",
+        "speaker": "Student",
+        "dialogue": "Mhm,"
+    },
+    {
+        "start": "36:37.60",
+        "stop": "36:37.64",
+        "speaker": "Student",
+        "dialogue": "O."
+    },
+    {
+        "start": "36:37.92",
+        "stop": "36:39.88",
+        "speaker": "Tutor",
+        "dialogue": "I'm going to just put a label here so I can."
+    },
+    {
+        "start": "36:42.24",
+        "stop": "36:42.28",
+        "speaker": "Student",
+        "dialogue": "What?"
+    },
+    {
+        "start": "36:42.52",
+        "stop": "36:43.48",
+        "speaker": "Tutor",
+        "dialogue": "Is that speed right here?"
+    },
+    {
+        "start": "36:44.80",
+        "stop": "36:44.92",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "36:45.00",
+        "stop": "36:46.56",
+        "speaker": "Tutor",
+        "dialogue": "That'd be fifty miles per hour."
+    },
+    {
+        "start": "36:48.16",
+        "stop": "36:48.20",
+        "speaker": "Student",
+        "dialogue": "On."
+    },
+    {
+        "start": "36:48.32",
+        "stop": "36:48.72",
+        "speaker": "Tutor",
+        "dialogue": "The gras."
+    },
+    {
+        "start": "36:51.92",
+        "stop": "36:51.96",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "36:52.20",
+        "stop": "36:54.72",
+        "speaker": "Tutor",
+        "dialogue": "How long does the car travel At fifty miles per hour?"
+    },
+    {
+        "start": "36:55.52",
+        "stop": "36:56.40",
+        "speaker": "Tutor",
+        "dialogue": "Um one hour?"
+    },
+    {
+        "start": "36:57.00",
+        "stop": "36:57.28",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "36:57.76",
+        "stop": "36:59.04",
+        "speaker": "Tutor",
+        "dialogue": "So how would you label that?"
+    },
+    {
+        "start": "37:01.88",
+        "stop": "37:02.00",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "37:02.20",
+        "stop": "37:04.44",
+        "speaker": "Tutor",
+        "dialogue": "Over here would be one like Gret Cair."
+    },
+    {
+        "start": "37:06.76",
+        "stop": "37:06.92",
+        "speaker": "Student",
+        "dialogue": "Put."
+    },
+    {
+        "start": "37:06.96",
+        "stop": "37:07.60",
+        "speaker": "Tutor",
+        "dialogue": "One over there for you."
+    },
+    {
+        "start": "37:07.92",
+        "stop": "37:08.04",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "37:08.12",
+        "stop": "37:08.44",
+        "speaker": "Tutor",
+        "dialogue": "You did that."
+    },
+    {
+        "start": "37:08.60",
+        "stop": "37:09.28",
+        "speaker": "Tutor",
+        "dialogue": "That's even better."
+    },
+    {
+        "start": "37:09.56",
+        "stop": "37:09.88",
+        "speaker": "Tutor",
+        "dialogue": "Gotch."
+    },
+    {
+        "start": "37:10.44",
+        "stop": "37:10.68",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "37:11.04",
+        "stop": "37:13.36",
+        "speaker": "Tutor",
+        "dialogue": "So from A to B,"
+    },
+    {
+        "start": "37:14.64",
+        "stop": "37:17.04",
+        "speaker": "Tutor",
+        "dialogue": "The car travels at a constant speed."
+    },
+    {
+        "start": "37:18.64",
+        "stop": "37:18.68",
+        "speaker": "Student",
+        "dialogue": "Of."
+    },
+    {
+        "start": "37:18.84",
+        "stop": "37:20.76",
+        "speaker": "Tutor",
+        "dialogue": "Fifty miles per hour for one hour."
+    },
+    {
+        "start": "37:21.92",
+        "stop": "37:23.88",
+        "speaker": "Tutor",
+        "dialogue": "Do you agree that that's what your graph shows?"
+    },
+    {
+        "start": "37:24.24",
+        "stop": "37:25.84",
+        "speaker": "Tutor",
+        "dialogue": "Does it match the words that you say?"
+    },
+    {
+        "start": "37:27.16",
+        "stop": "37:27.32",
+        "speaker": "Tutor",
+        "dialogue": "Ok?"
+    },
+    {
+        "start": "37:28.64",
+        "stop": "37:31.88",
+        "speaker": "Tutor",
+        "dialogue": "Now thinking about that from C to d,"
+    },
+    {
+        "start": "37:32.24",
+        "stop": "37:32.72",
+        "speaker": "Tutor",
+        "dialogue": "B to C."
+    },
+    {
+        "start": "37:33.64",
+        "stop": "37:38.64",
+        "speaker": "Tutor",
+        "dialogue": "So you've thought about just point B and just point C."
+    },
+    {
+        "start": "37:39.48",
+        "stop": "37:39.64",
+        "speaker": "Tutor",
+        "dialogue": "Now,"
+    },
+    {
+        "start": "37:39.72",
+        "stop": "37:43.36",
+        "speaker": "Tutor",
+        "dialogue": "I want you to think about what's happening in that section from B to C."
+    },
+    {
+        "start": "37:59.08",
+        "stop": "37:59.32",
+        "speaker": "Student",
+        "dialogue": "Only."
+    },
+    {
+        "start": "37:59.52",
+        "stop": "38:01.04",
+        "speaker": "Tutor",
+        "dialogue": "Time would be increasing,"
+    },
+    {
+        "start": "38:01.84",
+        "stop": "38:06.52",
+        "speaker": "Tutor",
+        "dialogue": "But the miles per hour would have an abrupt delake stop,"
+    },
+    {
+        "start": "38:07.64",
+        "stop": "38:22.56",
+        "speaker": "Tutor",
+        "dialogue": "So I think it could be like thischi."
+    },
+    {
+        "start": "38:25.56",
+        "stop": "38:25.72",
+        "speaker": "Tutor",
+        "dialogue": "Going."
+    },
+    {
+        "start": "38:25.76",
+        "stop": "38:25.80",
+        "speaker": "Student",
+        "dialogue": "To."
+    },
+    {
+        "start": "38:25.84",
+        "stop": "38:29.08",
+        "speaker": "Tutor",
+        "dialogue": "Say out loud what you said and I want you to think about."
+    },
+    {
+        "start": "38:29.16",
+        "stop": "38:30.28",
+        "speaker": "Tutor",
+        "dialogue": "Does your graph show this?"
+    },
+    {
+        "start": "38:31.72",
+        "stop": "38:32.24",
+        "speaker": "Tutor",
+        "dialogue": "You said."
+    },
+    {
+        "start": "38:33.56",
+        "stop": "38:33.72",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "38:33.76",
+        "stop": "38:34.04",
+        "speaker": "Tutor",
+        "dialogue": "My gosh."
+    },
+    {
+        "start": "38:34.12",
+        "stop": "38:34.96",
+        "speaker": "Tutor",
+        "dialogue": "Now I just lost it."
+    },
+    {
+        "start": "38:36.40",
+        "stop": "38:37.00",
+        "speaker": "Student",
+        "dialogue": "Speed."
+    },
+    {
+        "start": "38:37.80",
+        "stop": "38:39.32",
+        "speaker": "Tutor",
+        "dialogue": "There would be an abrupt stop."
+    },
+    {
+        "start": "38:42.52",
+        "stop": "38:42.68",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "38:42.84",
+        "stop": "38:43.04",
+        "speaker": "Tutor",
+        "dialogue": "Man,"
+    },
+    {
+        "start": "38:43.60",
+        "stop": "38:44.96",
+        "speaker": "Tutor",
+        "dialogue": "You said it so eloquently."
+    },
+    {
+        "start": "38:45.40",
+        "stop": "38:46.92",
+        "speaker": "Tutor",
+        "dialogue": "Try to you say it again."
+    },
+    {
+        "start": "38:48.08",
+        "stop": "38:48.20",
+        "speaker": "Tutor",
+        "dialogue": "Um."
+    },
+    {
+        "start": "38:48.64",
+        "stop": "38:51.08",
+        "speaker": "Tutor",
+        "dialogue": "There'd be an abrupt stop in the miles per hour,"
+    },
+    {
+        "start": "38:51.20",
+        "stop": "38:53.00",
+        "speaker": "Tutor",
+        "dialogue": "But the time would keep on going."
+    },
+    {
+        "start": "38:53.60",
+        "stop": "38:53.88",
+        "speaker": "Tutor",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "38:54.08",
+        "stop": "38:56.92",
+        "speaker": "Tutor",
+        "dialogue": "There'd be an abrupt stop in miles per hour,"
+    },
+    {
+        "start": "38:57.00",
+        "stop": "38:58.64",
+        "speaker": "Tutor",
+        "dialogue": "But the time would keep increasing,"
+    },
+    {
+        "start": "39:00.12",
+        "stop": "39:00.16",
+        "speaker": "Tutor",
+        "dialogue": "What,"
+    },
+    {
+        "start": "39:02.04",
+        "stop": "39:04.04",
+        "speaker": "Tutor",
+        "dialogue": "Um to one and a half hour."
+    },
+    {
+        "start": "39:04.76",
+        "stop": "39:05.04",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "39:07.76",
+        "stop": "39:11.64",
+        "speaker": "Tutor",
+        "dialogue": "And that line backwards right here shows Yeah,"
+    },
+    {
+        "start": "39:12.04",
+        "stop": "39:12.24",
+        "speaker": "Tutor",
+        "dialogue": "Rup,"
+    },
+    {
+        "start": "39:12.36",
+        "stop": "39:12.60",
+        "speaker": "Tutor",
+        "dialogue": "Stop."
+    },
+    {
+        "start": "39:13.16",
+        "stop": "39:13.20",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "39:13.64",
+        "stop": "39:13.68",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "39:14.16",
+        "stop": "39:15.48",
+        "speaker": "Tutor",
+        "dialogue": "Cool heky."
+    },
+    {
+        "start": "39:17.80",
+        "stop": "39:18.00",
+        "speaker": "Student",
+        "dialogue": "Now."
+    },
+    {
+        "start": "39:19.60",
+        "stop": "39:20.60",
+        "speaker": "Tutor",
+        "dialogue": "C to D."
+    },
+    {
+        "start": "39:21.64",
+        "stop": "39:23.04",
+        "speaker": "Tutor",
+        "dialogue": "What's happening in that section,"
+    },
+    {
+        "start": "39:24.24",
+        "stop": "39:26.32",
+        "speaker": "Tutor",
+        "dialogue": "C to D would be the same as A to B."
+    },
+    {
+        "start": "39:26.56",
+        "stop": "39:29.68",
+        "speaker": "Tutor",
+        "dialogue": "It'd be going back up like."
+    },
+    {
+        "start": "39:32.48",
+        "stop": "39:32.52",
+        "speaker": "Student",
+        "dialogue": "This."
+    },
+    {
+        "start": "39:35.84",
+        "stop": "39:35.88",
+        "speaker": "Tutor",
+        "dialogue": "And?"
+    },
+    {
+        "start": "39:36.04",
+        "stop": "39:36.24",
+        "speaker": "Student",
+        "dialogue": "Then."
+    },
+    {
+        "start": "39:36.44",
+        "stop": "39:36.84",
+        "speaker": "Tutor",
+        "dialogue": "Hang up."
+    },
+    {
+        "start": "39:37.00",
+        "stop": "39:37.40",
+        "speaker": "Tutor",
+        "dialogue": "Let me to."
+    },
+    {
+        "start": "39:38.80",
+        "stop": "39:40.80",
+        "speaker": "Tutor",
+        "dialogue": "The rest of these are confusing me."
+    },
+    {
+        "start": "39:41.36",
+        "stop": "39:41.40",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "39:41.56",
+        "stop": "39:46.76",
+        "speaker": "Tutor",
+        "dialogue": "And this is a really small grass will definitely make it bigger in the future based on this cool work that."
+    },
+    {
+        "start": "39:46.80",
+        "stop": "39:47.28",
+        "speaker": "Student",
+        "dialogue": "You're doing."
+    },
+    {
+        "start": "39:51.00",
+        "stop": "39:52.64",
+        "speaker": "Tutor",
+        "dialogue": "Like do you be up there?"
+    },
+    {
+        "start": "39:56.28",
+        "stop": "39:56.32",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "39:56.68",
+        "stop": "40:00.04",
+        "speaker": "Tutor",
+        "dialogue": "Why is it a straight line of a straight vertical line again?"
+    },
+    {
+        "start": "40:00.64",
+        "stop": "40:00.68",
+        "speaker": "Tutor",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "40:02.80",
+        "stop": "40:02.92",
+        "speaker": "Student",
+        "dialogue": "How?"
+    },
+    {
+        "start": "40:03.00",
+        "stop": "40:03.20",
+        "speaker": "Tutor",
+        "dialogue": "Come,"
+    },
+    {
+        "start": "40:03.28",
+        "stop": "40:06.28",
+        "speaker": "Tutor",
+        "dialogue": "What does that vertical line signify Um?"
+    },
+    {
+        "start": "40:06.44",
+        "stop": "40:09.36",
+        "speaker": "Tutor",
+        "dialogue": "Because like before for A to B,"
+    },
+    {
+        "start": "40:10.04",
+        "stop": "40:14.40",
+        "speaker": "Tutor",
+        "dialogue": "The speed is constant with the distance and the time is changing."
+    },
+    {
+        "start": "40:15.80",
+        "stop": "40:16.08",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "40:16.24",
+        "stop": "40:21.12",
+        "speaker": "Tutor",
+        "dialogue": "So here this line shows the speed being at a constant fifty miles,"
+    },
+    {
+        "start": "40:21.92",
+        "stop": "40:22.20",
+        "speaker": "Tutor",
+        "dialogue": "Mhm,"
+    },
+    {
+        "start": "40:23.04",
+        "stop": "40:25.52",
+        "speaker": "Tutor",
+        "dialogue": "For a period of time that's increasing."
+    },
+    {
+        "start": "40:26.20",
+        "stop": "40:26.48",
+        "speaker": "Student",
+        "dialogue": "Mhm,"
+    },
+    {
+        "start": "40:26.88",
+        "stop": "40:27.20",
+        "speaker": "Student",
+        "dialogue": "Cool."
+    },
+    {
+        "start": "40:30.20",
+        "stop": "40:30.80",
+        "speaker": "Tutor",
+        "dialogue": "Oh man,"
+    },
+    {
+        "start": "40:31.04",
+        "stop": "40:32.72",
+        "speaker": "Tutor",
+        "dialogue": "I wish there was a selection tool."
+    },
+    {
+        "start": "40:33.60",
+        "stop": "40:34.48",
+        "speaker": "Student",
+        "dialogue": "Wonder if there it is."
+    },
+    {
+        "start": "40:36.40",
+        "stop": "40:36.64",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "40:36.72",
+        "stop": "40:38.04",
+        "speaker": "Tutor",
+        "dialogue": "Let me see if I can pull this down."
+    },
+    {
+        "start": "40:38.84",
+        "stop": "40:41.32",
+        "speaker": "Tutor",
+        "dialogue": "We're experimenting right now and it might be a mistake,"
+    },
+    {
+        "start": "40:41.60",
+        "stop": "40:42.44",
+        "speaker": "Tutor",
+        "dialogue": "But I'm going to try it."
+    },
+    {
+        "start": "40:42.60",
+        "stop": "40:43.00",
+        "speaker": "Tutor",
+        "dialogue": "You ready?"
+    },
+    {
+        "start": "40:44.60",
+        "stop": "40:44.76",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "40:44.84",
+        "stop": "40:45.36",
+        "speaker": "Tutor",
+        "dialogue": "It works."
+    },
+    {
+        "start": "40:46.84",
+        "stop": "40:47.00",
+        "speaker": "Student",
+        "dialogue": "Ya."
+    },
+    {
+        "start": "40:47.92",
+        "stop": "40:49.72",
+        "speaker": "Tutor",
+        "dialogue": "Is it confusing if I pull it down here?"
+    },
+    {
+        "start": "40:51.00",
+        "stop": "40:51.16",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "40:51.76",
+        "stop": "40:51.88",
+        "speaker": "Tutor",
+        "dialogue": "No,"
+    },
+    {
+        "start": "40:52.08",
+        "stop": "40:52.60",
+        "speaker": "Tutor",
+        "dialogue": "Not really."
+    },
+    {
+        "start": "40:53.08",
+        "stop": "40:54.12",
+        "speaker": "Tutor",
+        "dialogue": "Will you tell me where you want?"
+    },
+    {
+        "start": "40:54.12",
+        "stop": "40:54.16",
+        "speaker": "Tutor",
+        "dialogue": "It?"
+    },
+    {
+        "start": "40:54.28",
+        "stop": "40:57.84",
+        "speaker": "Tutor",
+        "dialogue": "Is it okay if I pull it like to here like a tiny bit higher,"
+    },
+    {
+        "start": "40:58.20",
+        "stop": "40:59.60",
+        "speaker": "Tutor",
+        "dialogue": "Kind of like ino the other,"
+    },
+    {
+        "start": "40:59.88",
+        "stop": "41:01.00",
+        "speaker": "Tutor",
+        "dialogue": "Lured by the back of it."
+    },
+    {
+        "start": "41:01.68",
+        "stop": "41:02.24",
+        "speaker": "Tutor",
+        "dialogue": "What about that?"
+    },
+    {
+        "start": "41:03.12",
+        "stop": "41:03.16",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "41:03.36",
+        "stop": "41:04.00",
+        "speaker": "Tutor",
+        "dialogue": "That looks good."
+    },
+    {
+        "start": "41:04.40",
+        "stop": "41:04.68",
+        "speaker": "Tutor",
+        "dialogue": "Okay,"
+    },
+    {
+        "start": "41:05.16",
+        "stop": "41:08.48",
+        "speaker": "Tutor",
+        "dialogue": "I just want to give you some more space to see what else is happening here."
+    },
+    {
+        "start": "41:13.28",
+        "stop": "41:13.56",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "41:13.96",
+        "stop": "41:14.48",
+        "speaker": "Tutor",
+        "dialogue": "Keep going."
+    },
+    {
+        "start": "41:15.32",
+        "stop": "41:15.84",
+        "speaker": "Tutor",
+        "dialogue": "You're at D."
+    },
+    {
+        "start": "41:18.36",
+        "stop": "41:18.48",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "41:19.44",
+        "stop": "41:20.52",
+        "speaker": "Tutor",
+        "dialogue": "From D to e,"
+    },
+    {
+        "start": "41:21.04",
+        "stop": "41:22.80",
+        "speaker": "Tutor",
+        "dialogue": "The speed is uneven."
+    },
+    {
+        "start": "41:25.20",
+        "stop": "41:26.88",
+        "speaker": "Tutor",
+        "dialogue": "It doesn't decrease."
+    },
+    {
+        "start": "41:27.24",
+        "stop": "41:29.96",
+        "speaker": "Tutor",
+        "dialogue": "It keeps on increasing along with the time,"
+    },
+    {
+        "start": "41:30.64",
+        "stop": "41:34.60",
+        "speaker": "Tutor",
+        "dialogue": "So it would be like a diagonal line."
+    },
+    {
+        "start": "41:35.40",
+        "stop": "41:37.48",
+        "speaker": "Tutor",
+        "dialogue": "How do you know the speed doesn't decrease?"
+    },
+    {
+        "start": "41:38.88",
+        "stop": "41:39.00",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "41:39.08",
+        "stop": "41:41.96",
+        "speaker": "Tutor",
+        "dialogue": "Because if the speed were to decrease like on point B to C,"
+    },
+    {
+        "start": "41:42.12",
+        "stop": "41:44.12",
+        "speaker": "Tutor",
+        "dialogue": "It'd just be like absolutely flat,"
+    },
+    {
+        "start": "41:44.56",
+        "stop": "41:47.76",
+        "speaker": "Tutor",
+        "dialogue": "But here it's just like going up and like like."
+    },
+    {
+        "start": "41:50.80",
+        "stop": "41:51.84",
+        "speaker": "Tutor",
+        "dialogue": "It's like stairs,"
+    },
+    {
+        "start": "41:52.20",
+        "stop": "41:52.56",
+        "speaker": "Tutor",
+        "dialogue": "I guess,"
+    },
+    {
+        "start": "41:53.44",
+        "stop": "41:55.36",
+        "speaker": "Tutor",
+        "dialogue": "And if it's stairs earlier told me,"
+    },
+    {
+        "start": "41:55.48",
+        "stop": "41:57.68",
+        "speaker": "Tutor",
+        "dialogue": "That means that the car is starting and stopping."
+    },
+    {
+        "start": "42:00.68",
+        "stop": "42:00.80",
+        "speaker": "Student",
+        "dialogue": "If."
+    },
+    {
+        "start": "42:00.88",
+        "stop": "42:02.12",
+        "speaker": "Tutor",
+        "dialogue": "It's starting and stopping."
+    },
+    {
+        "start": "42:04.12",
+        "stop": "42:06.56",
+        "speaker": "Tutor",
+        "dialogue": "Happening with its time and speed,"
+    },
+    {
+        "start": "42:06.84",
+        "stop": "42:08.56",
+        "speaker": "Tutor",
+        "dialogue": "Since those are the two variables we're thinking."
+    },
+    {
+        "start": "42:08.60",
+        "stop": "42:09.24",
+        "speaker": "Student",
+        "dialogue": "About right now."
+    },
+    {
+        "start": "42:10.88",
+        "stop": "42:16.48",
+        "speaker": "Tutor",
+        "dialogue": "It would be going in a zigzag pattern from the wlaaxis out to like the specific speed,"
+    },
+    {
+        "start": "42:17.40",
+        "stop": "42:19.76",
+        "speaker": "Tutor",
+        "dialogue": "And if it's starting and stopping is."
+    },
+    {
+        "start": "42:19.96",
+        "stop": "42:20.52",
+        "speaker": "Student",
+        "dialogue": "The speed?"
+    },
+    {
+        "start": "42:21.20",
+        "stop": "42:22.04",
+        "speaker": "Tutor",
+        "dialogue": "Staying the same."
+    },
+    {
+        "start": "42:22.84",
+        "stop": "42:25.20",
+        "speaker": "Tutor",
+        "dialogue": "Is it increasing or is it decreasing?"
+    },
+    {
+        "start": "42:26.68",
+        "stop": "42:32.24",
+        "speaker": "Tutor",
+        "dialogue": "The speed is like decreasing and then increasing,"
+    },
+    {
+        "start": "42:32.36",
+        "stop": "42:35.16",
+        "speaker": "Tutor",
+        "dialogue": "And then like decreasing again and then increasing again."
+    },
+    {
+        "start": "42:35.48",
+        "stop": "42:35.52",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "42:35.80",
+        "stop": "42:37.76",
+        "speaker": "Tutor",
+        "dialogue": "So the speed is not staying the same."
+    },
+    {
+        "start": "42:37.96",
+        "stop": "42:38.76",
+        "speaker": "Tutor",
+        "dialogue": "It is changing,"
+    },
+    {
+        "start": "42:39.44",
+        "stop": "42:39.48",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "42:40.72",
+        "stop": "42:43.68",
+        "speaker": "Tutor",
+        "dialogue": "Increasing and decreasing for a period of time."
+    },
+    {
+        "start": "42:46.68",
+        "stop": "42:46.84",
+        "speaker": "Student",
+        "dialogue": "Yes."
+    },
+    {
+        "start": "42:46.88",
+        "stop": "42:53.60",
+        "speaker": "Tutor",
+        "dialogue": "So I think that this line instead would be like a zigzag?"
+    },
+    {
+        "start": "42:54.84",
+        "stop": "42:56.44",
+        "speaker": "Tutor",
+        "dialogue": "How will you know which way to zigzag?"
+    },
+    {
+        "start": "42:58.64",
+        "stop": "42:58.68",
+        "speaker": "Student",
+        "dialogue": "A."
+    },
+    {
+        "start": "43:01.76",
+        "stop": "43:01.88",
+        "speaker": "Tutor",
+        "dialogue": "No."
+    },
+    {
+        "start": "43:02.00",
+        "stop": "43:02.28",
+        "speaker": "Student",
+        "dialogue": "Clue."
+    },
+    {
+        "start": "43:02.92",
+        "stop": "43:03.08",
+        "speaker": "Tutor",
+        "dialogue": "Well,"
+    },
+    {
+        "start": "43:03.16",
+        "stop": "43:06.72",
+        "speaker": "Tutor",
+        "dialogue": "I mean it says a like at the start of point D."
+    },
+    {
+        "start": "43:07.20",
+        "stop": "43:10.60",
+        "speaker": "Tutor",
+        "dialogue": "It kind of stops and then like it goes back up again,"
+    },
+    {
+        "start": "43:11.24",
+        "stop": "43:17.12",
+        "speaker": "Tutor",
+        "dialogue": "So I think you'd have to start from the zero because like it stops and then it starts again,"
+    },
+    {
+        "start": "43:17.20",
+        "stop": "43:18.16",
+        "speaker": "Tutor",
+        "dialogue": "Then it stops again,"
+    },
+    {
+        "start": "43:18.24",
+        "stop": "43:19.40",
+        "speaker": "Tutor",
+        "dialogue": "Then it starts again,"
+    },
+    {
+        "start": "43:28.28",
+        "stop": "43:28.32",
+        "speaker": "Student",
+        "dialogue": "This."
+    },
+    {
+        "start": "43:28.52",
+        "stop": "43:29.44",
+        "speaker": "Tutor",
+        "dialogue": "Whenever you're going,"
+    },
+    {
+        "start": "43:30.28",
+        "stop": "43:34.12",
+        "speaker": "Tutor",
+        "dialogue": "I'm wondering why you zigzagged it that way instead of."
+    },
+    {
+        "start": "43:35.28",
+        "stop": "43:35.72",
+        "speaker": "Student",
+        "dialogue": "This way."
+    },
+    {
+        "start": "43:38.52",
+        "stop": "43:38.64",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "43:38.72",
+        "stop": "43:40.36",
+        "speaker": "Tutor",
+        "dialogue": "Because going that way would in,"
+    },
+    {
+        "start": "43:40.84",
+        "stop": "43:41.00",
+        "speaker": "Tutor",
+        "dialogue": "Um."
+    },
+    {
+        "start": "43:43.08",
+        "stop": "43:43.12",
+        "speaker": "Student",
+        "dialogue": "H."
+    },
+    {
+        "start": "43:43.48",
+        "stop": "43:43.52",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "43:43.68",
+        "stop": "43:44.52",
+        "speaker": "Tutor",
+        "dialogue": "That's a good point."
+    },
+    {
+        "start": "43:52.76",
+        "stop": "43:52.88",
+        "speaker": "Student",
+        "dialogue": "No."
+    },
+    {
+        "start": "43:53.00",
+        "stop": "43:53.80",
+        "speaker": "Tutor",
+        "dialogue": "Because that way,"
+    },
+    {
+        "start": "43:54.16",
+        "stop": "43:56.12",
+        "speaker": "Tutor",
+        "dialogue": "It would only show that the time is increasing,"
+    },
+    {
+        "start": "43:56.32",
+        "stop": "43:59.32",
+        "speaker": "Tutor",
+        "dialogue": "But that would also show that the speed is increasing as well."
+    },
+    {
+        "start": "43:59.40",
+        "stop": "44:00.92",
+        "speaker": "Tutor",
+        "dialogue": "Although it may be a zigzag,"
+    },
+    {
+        "start": "44:01.44",
+        "stop": "44:03.32",
+        "speaker": "Tutor",
+        "dialogue": "The speed is going up that way."
+    },
+    {
+        "start": "44:03.60",
+        "stop": "44:06.80",
+        "speaker": "Tutor",
+        "dialogue": "So if we did it that way then it wouldn't be correct."
+    },
+    {
+        "start": "44:07.88",
+        "stop": "44:09.40",
+        "speaker": "Tutor",
+        "dialogue": "Why wouldn't it be correct about speed?"
+    },
+    {
+        "start": "44:09.44",
+        "stop": "44:10.32",
+        "speaker": "Tutor",
+        "dialogue": "I think I understand,"
+    },
+    {
+        "start": "44:10.32",
+        "stop": "44:11.28",
+        "speaker": "Tutor",
+        "dialogue": "But Ijust want to make sure."
+    },
+    {
+        "start": "44:12.16",
+        "stop": "44:12.28",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "44:12.44",
+        "stop": "44:17.60",
+        "speaker": "Tutor",
+        "dialogue": "Because the speed is going upwards when you go more to the right,"
+    },
+    {
+        "start": "44:18.24",
+        "stop": "44:20.92",
+        "speaker": "Tutor",
+        "dialogue": "But you want it to stop and then start again,"
+    },
+    {
+        "start": "44:21.44",
+        "stop": "44:25.56",
+        "speaker": "Tutor",
+        "dialogue": "So it have to be on the vertical axis instead of the horizontal."
+    },
+    {
+        "start": "44:25.80",
+        "stop": "44:27.32",
+        "speaker": "Tutor",
+        "dialogue": "So the correx of this line,"
+    },
+    {
+        "start": "44:27.40",
+        "stop": "44:32.60",
+        "speaker": "Tutor",
+        "dialogue": "This yellow line is showing the speed continuing to increase Mhm,"
+    },
+    {
+        "start": "44:33.08",
+        "stop": "44:36.80",
+        "speaker": "Tutor",
+        "dialogue": "As time increasescreasing,"
+    },
+    {
+        "start": "44:37.04",
+        "stop": "44:40.12",
+        "speaker": "Tutor",
+        "dialogue": "And time can't increase and decrease in the scenario,"
+    },
+    {
+        "start": "44:40.80",
+        "stop": "44:40.84",
+        "speaker": "Tutor",
+        "dialogue": "Yeah."
+    },
+    {
+        "start": "44:42.88",
+        "stop": "44:43.16",
+        "speaker": "Student",
+        "dialogue": "Cool."
+    },
+    {
+        "start": "44:43.60",
+        "stop": "44:44.88",
+        "speaker": "Tutor",
+        "dialogue": "And then you have one more,"
+    },
+    {
+        "start": "44:45.04",
+        "stop": "44:45.16",
+        "speaker": "Tutor",
+        "dialogue": "Right?"
+    },
+    {
+        "start": "44:47.24",
+        "stop": "44:47.28",
+        "speaker": "Student",
+        "dialogue": "A."
+    },
+    {
+        "start": "44:47.40",
+        "stop": "44:47.60",
+        "speaker": "Tutor",
+        "dialogue": "Em."
+    },
+    {
+        "start": "45:16.80",
+        "stop": "45:16.96",
+        "speaker": "Student",
+        "dialogue": "Fm."
+    },
+    {
+        "start": "45:17.08",
+        "stop": "45:17.92",
+        "speaker": "Tutor",
+        "dialogue": "Point eda F."
+    },
+    {
+        "start": "45:18.20",
+        "stop": "45:20.00",
+        "speaker": "Tutor",
+        "dialogue": "I think it'd be going back up again."
+    },
+    {
+        "start": "45:21.92",
+        "stop": "45:21.96",
+        "speaker": "Student",
+        "dialogue": "Like."
+    },
+    {
+        "start": "45:22.20",
+        "stop": "45:22.24",
+        "speaker": "Tutor",
+        "dialogue": "That."
+    },
+    {
+        "start": "45:25.88",
+        "stop": "45:25.92",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "45:26.08",
+        "stop": "45:29.96",
+        "speaker": "Tutor",
+        "dialogue": "It looks like you drew it at about fifty miles again."
+    },
+    {
+        "start": "45:30.60",
+        "stop": "45:30.64",
+        "speaker": "Tutor",
+        "dialogue": "Yeah?"
+    },
+    {
+        "start": "45:32.88",
+        "stop": "45:33.00",
+        "speaker": "Student",
+        "dialogue": "How?"
+    },
+    {
+        "start": "45:33.04",
+        "stop": "45:38.36",
+        "speaker": "Tutor",
+        "dialogue": "Do you know I understand how you know the A to B is fifty miles per hour?"
+    },
+    {
+        "start": "45:39.40",
+        "stop": "45:41.00",
+        "speaker": "Tutor",
+        "dialogue": "Because you told me that it?"
+    },
+    {
+        "start": "45:41.56",
+        "stop": "45:45.04",
+        "speaker": "Tutor",
+        "dialogue": "The car has traveled fifty miles in one hour."
+    },
+    {
+        "start": "45:45.64",
+        "stop": "45:48.68",
+        "speaker": "Tutor",
+        "dialogue": "If that means that it has traveled fifty miles per hour,"
+    },
+    {
+        "start": "45:48.76",
+        "stop": "45:49.40",
+        "speaker": "Tutor",
+        "dialogue": "That's the speed."
+    },
+    {
+        "start": "45:50.68",
+        "stop": "45:50.80",
+        "speaker": "Student",
+        "dialogue": "How?"
+    },
+    {
+        "start": "45:50.88",
+        "stop": "45:54.96",
+        "speaker": "Tutor",
+        "dialogue": "Do you know a F has a speed of fifty miles per hour?"
+    },
+    {
+        "start": "45:57.56",
+        "stop": "45:57.68",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "45:58.04",
+        "stop": "46:00.96",
+        "speaker": "Tutor",
+        "dialogue": "Because if you look at uh like one half of Ea B,"
+    },
+    {
+        "start": "46:01.84",
+        "stop": "46:01.88",
+        "speaker": "Tutor",
+        "dialogue": "Like,"
+    },
+    {
+        "start": "46:02.64",
+        "stop": "46:09.04",
+        "speaker": "Tutor",
+        "dialogue": "They stop there and it's like twenty five miles in half an hour."
+    },
+    {
+        "start": "46:13.72",
+        "stop": "46:13.76",
+        "speaker": "Student",
+        "dialogue": "And?"
+    },
+    {
+        "start": "46:13.88",
+        "stop": "46:17.44",
+        "speaker": "Tutor",
+        "dialogue": "Then looking at that point and looking at this point from Ea,"
+    },
+    {
+        "start": "46:17.60",
+        "stop": "46:17.64",
+        "speaker": "Tutor",
+        "dialogue": "F."
+    },
+    {
+        "start": "46:18.24",
+        "stop": "46:19.40",
+        "speaker": "Tutor",
+        "dialogue": "It looks similar."
+    },
+    {
+        "start": "46:20.76",
+        "stop": "46:20.80",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "46:21.00",
+        "stop": "46:23.64",
+        "speaker": "Tutor",
+        "dialogue": "The slope of that line looks similar is what you're saying."
+    },
+    {
+        "start": "46:24.28",
+        "stop": "46:24.32",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "46:25.24",
+        "stop": "46:25.72",
+        "speaker": "Tutor",
+        "dialogue": "Interesting."
+    },
+    {
+        "start": "46:27.84",
+        "stop": "46:27.88",
+        "speaker": "Student",
+        "dialogue": "I."
+    },
+    {
+        "start": "46:27.96",
+        "stop": "46:29.24",
+        "speaker": "Tutor",
+        "dialogue": "Hadn't thought about it that way."
+    },
+    {
+        "start": "46:31.04",
+        "stop": "46:31.64",
+        "speaker": "Tutor",
+        "dialogue": "Cool thinking."
+    },
+    {
+        "start": "46:32.76",
+        "stop": "46:33.12",
+        "speaker": "Student",
+        "dialogue": "Although."
+    },
+    {
+        "start": "46:33.16",
+        "stop": "46:38.40",
+        "speaker": "Tutor",
+        "dialogue": "It might be twenty miles per hour instead of like point from point e F."
+    },
+    {
+        "start": "46:38.64",
+        "stop": "46:41.20",
+        "speaker": "Tutor",
+        "dialogue": "It might be like forty miles per hour."
+    },
+    {
+        "start": "46:41.36",
+        "stop": "46:41.60",
+        "speaker": "Tutor",
+        "dialogue": "Sorry,"
+    },
+    {
+        "start": "46:42.32",
+        "stop": "46:42.44",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "46:42.68",
+        "stop": "46:44.56",
+        "speaker": "Tutor",
+        "dialogue": "Instead of fifty,"
+    },
+    {
+        "start": "46:45.20",
+        "stop": "46:49.92",
+        "speaker": "Tutor",
+        "dialogue": "Because from point point E is around a hundred and thirty miles,"
+    },
+    {
+        "start": "46:50.44",
+        "stop": "46:54.44",
+        "speaker": "Tutor",
+        "dialogue": "And point F is closer to like a hundred and fifty miles,"
+    },
+    {
+        "start": "46:55.76",
+        "stop": "46:57.44",
+        "speaker": "Tutor",
+        "dialogue": "And then a hundred and fifty miles to a hundred."
+    },
+    {
+        "start": "46:57.52",
+        "stop": "46:58.64",
+        "speaker": "Tutor",
+        "dialogue": "Thirty is twenty miles."
+    },
+    {
+        "start": "46:58.72",
+        "stop": "47:01.12",
+        "speaker": "Tutor",
+        "dialogue": "So I would travel twenty miles in half an hour,"
+    },
+    {
+        "start": "47:01.44",
+        "stop": "47:03.52",
+        "speaker": "Tutor",
+        "dialogue": "Which means that that wouldn't be correct,"
+    },
+    {
+        "start": "47:04.64",
+        "stop": "47:06.28",
+        "speaker": "Tutor",
+        "dialogue": "And that would have to be."
+    },
+    {
+        "start": "47:09.40",
+        "stop": "47:09.64",
+        "speaker": "Student",
+        "dialogue": "Back."
+    },
+    {
+        "start": "47:10.96",
+        "stop": "47:12.04",
+        "speaker": "Tutor",
+        "dialogue": "A bit and an up."
+    },
+    {
+        "start": "47:14.48",
+        "stop": "47:14.64",
+        "speaker": "Student",
+        "dialogue": "Kind."
+    },
+    {
+        "start": "47:14.68",
+        "stop": "47:15.36",
+        "speaker": "Tutor",
+        "dialogue": "Of like an L."
+    },
+    {
+        "start": "47:16.52",
+        "stop": "47:18.56",
+        "speaker": "Tutor",
+        "dialogue": "Because you made it go back to West speed,"
+    },
+    {
+        "start": "47:19.44",
+        "stop": "47:22.04",
+        "speaker": "Tutor",
+        "dialogue": "Um back to forty miles Cool."
+    },
+    {
+        "start": "47:22.12",
+        "stop": "47:24.76",
+        "speaker": "Tutor",
+        "dialogue": "And how long did it travel for forty miles an hour?"
+    },
+    {
+        "start": "47:26.36",
+        "stop": "47:26.48",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "47:26.72",
+        "stop": "47:28.76",
+        "speaker": "Tutor",
+        "dialogue": "It traveled for around half an hour."
+    },
+    {
+        "start": "47:28.92",
+        "stop": "47:30.40",
+        "speaker": "Student",
+        "dialogue": "Around half cool,"
+    },
+    {
+        "start": "47:32.28",
+        "stop": "47:32.56",
+        "speaker": "Student",
+        "dialogue": "This has."
+    },
+    {
+        "start": "47:32.64",
+        "stop": "47:33.84",
+        "speaker": "Tutor",
+        "dialogue": "Been so interesting,"
+    },
+    {
+        "start": "47:34.08",
+        "stop": "47:34.44",
+        "speaker": "Tutor",
+        "dialogue": "Chrissie,"
+    },
+    {
+        "start": "47:34.48",
+        "stop": "47:36.76",
+        "speaker": "Tutor",
+        "dialogue": "It's been wonderful learning about how you think about this."
+    },
+    {
+        "start": "47:38.08",
+        "stop": "47:38.12",
+        "speaker": "Tutor",
+        "dialogue": "What?"
+    },
+    {
+        "start": "47:38.68",
+        "stop": "47:38.80",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "47:39.84",
+        "stop": "47:41.20",
+        "speaker": "Tutor",
+        "dialogue": "We just have a couple more minutes."
+    },
+    {
+        "start": "47:41.40",
+        "stop": "47:43.76",
+        "speaker": "Tutor",
+        "dialogue": "We're finished with thinking about the math right now,"
+    },
+    {
+        "start": "47:44.04",
+        "stop": "47:47.24",
+        "speaker": "Tutor",
+        "dialogue": "But I would love to hear what was this experience Like for you,"
+    },
+    {
+        "start": "47:49.00",
+        "stop": "47:51.04",
+        "speaker": "Tutor",
+        "dialogue": "It was very educational."
+    },
+    {
+        "start": "47:51.40",
+        "stop": "47:53.72",
+        "speaker": "Tutor",
+        "dialogue": "It helped me think it through a lot more."
+    },
+    {
+        "start": "47:55.36",
+        "stop": "47:55.40",
+        "speaker": "Student",
+        "dialogue": "What?"
+    },
+    {
+        "start": "47:55.60",
+        "stop": "47:57.12",
+        "speaker": "Tutor",
+        "dialogue": "Did it help you think about?"
+    },
+    {
+        "start": "47:58.64",
+        "stop": "47:58.84",
+        "speaker": "Student",
+        "dialogue": "Oh."
+    },
+    {
+        "start": "47:58.88",
+        "stop": "47:59.36",
+        "speaker": "Tutor",
+        "dialogue": "When you say,"
+    },
+    {
+        "start": "47:59.52",
+        "stop": "48:01.44",
+        "speaker": "Tutor",
+        "dialogue": "Think it through more like,"
+    },
+    {
+        "start": "48:01.84",
+        "stop": "48:05.68",
+        "speaker": "Tutor",
+        "dialogue": "It helped me think about how it would work and why it would work that way,"
+    },
+    {
+        "start": "48:05.76",
+        "stop": "48:08.04",
+        "speaker": "Tutor",
+        "dialogue": "Instead of just like randomly writing it down being like,"
+    },
+    {
+        "start": "48:08.16",
+        "stop": "48:08.28",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "48:08.32",
+        "stop": "48:08.36",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "48:08.52",
+        "stop": "48:09.96",
+        "speaker": "Tutor",
+        "dialogue": "It just works because it works."
+    },
+    {
+        "start": "48:11.36",
+        "stop": "48:11.40",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "48:11.56",
+        "stop": "48:13.44",
+        "speaker": "Tutor",
+        "dialogue": "It made you think about the proof a little bit more."
+    },
+    {
+        "start": "48:14.00",
+        "stop": "48:14.04",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "48:14.76",
+        "stop": "48:15.88",
+        "speaker": "Tutor",
+        "dialogue": "Or the reasoning behind it."
+    },
+    {
+        "start": "48:16.64",
+        "stop": "48:16.68",
+        "speaker": "Tutor",
+        "dialogue": "Yeah,"
+    },
+    {
+        "start": "48:16.92",
+        "stop": "48:18.56",
+        "speaker": "Tutor",
+        "dialogue": "Because I normally shuck aut that stuff."
+    },
+    {
+        "start": "48:20.12",
+        "stop": "48:20.32",
+        "speaker": "Tutor",
+        "dialogue": "Oh,"
+    },
+    {
+        "start": "48:20.52",
+        "stop": "48:28.56",
+        "speaker": "Tutor",
+        "dialogue": "That's interesting that you say that because I think the way that you were reasoning and making sense and trusting your instinct was really powerful."
+    },
+    {
+        "start": "48:29.04",
+        "stop": "48:33.40",
+        "speaker": "Tutor",
+        "dialogue": "Oftentimes whenever Um students are asked questions,"
+    },
+    {
+        "start": "48:33.84",
+        "stop": "48:37.28",
+        "speaker": "Tutor",
+        "dialogue": "They assume they did something wrong and you didn't do that."
+    },
+    {
+        "start": "48:37.80",
+        "stop": "48:38.48",
+        "speaker": "Tutor",
+        "dialogue": "You are like Num."
+    },
+    {
+        "start": "48:38.60",
+        "stop": "48:40.20",
+        "speaker": "Tutor",
+        "dialogue": "I'm going to tell you what I'm thinking about."
+    },
+    {
+        "start": "48:41.00",
+        "stop": "48:41.04",
+        "speaker": "Student",
+        "dialogue": "So?"
+    },
+    {
+        "start": "48:41.20",
+        "stop": "48:43.40",
+        "speaker": "Tutor",
+        "dialogue": "I would describe you as a very powerful reasoner."
+    },
+    {
+        "start": "48:44.76",
+        "stop": "48:44.80",
+        "speaker": "Tutor",
+        "dialogue": "You."
+    },
+    {
+        "start": "48:45.96",
+        "stop": "48:48.60",
+        "speaker": "Tutor",
+        "dialogue": "Is there anything you think would be helpful for me to know,"
+    },
+    {
+        "start": "48:49.16",
+        "stop": "48:52.92",
+        "speaker": "Tutor",
+        "dialogue": "As we work with more students on this situation in this platform,"
+    },
+    {
+        "start": "48:53.36",
+        "stop": "48:54.88",
+        "speaker": "Tutor",
+        "dialogue": "Things that would be more helpful to you?"
+    },
+    {
+        "start": "48:57.20",
+        "stop": "48:57.32",
+        "speaker": "Student",
+        "dialogue": "Um."
+    },
+    {
+        "start": "48:58.36",
+        "stop": "48:58.48",
+        "speaker": "Tutor",
+        "dialogue": "No,"
+    },
+    {
+        "start": "48:58.64",
+        "stop": "48:59.96",
+        "speaker": "Tutor",
+        "dialogue": "This is actually pretty good."
+    },
+    {
+        "start": "49:00.00",
+        "stop": "49:00.04",
+        "speaker": "Tutor",
+        "dialogue": "I."
+    },
+    {
+        "start": "49:00.20",
+        "stop": "49:00.96",
+        "speaker": "Tutor",
+        "dialogue": "I like it a lot."
+    },
+    {
+        "start": "49:01.92",
+        "stop": "49:03.00",
+        "speaker": "Tutor",
+        "dialogue": "What did you like about it?"
+    },
+    {
+        "start": "49:04.00",
+        "stop": "49:04.12",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "49:04.20",
+        "stop": "49:07.52",
+        "speaker": "Tutor",
+        "dialogue": "I like how you step with through like step by step explaining it,"
+    },
+    {
+        "start": "49:07.60",
+        "stop": "49:09.44",
+        "speaker": "Tutor",
+        "dialogue": "And like making me think about it more."
+    },
+    {
+        "start": "49:10.08",
+        "stop": "49:11.60",
+        "speaker": "Tutor",
+        "dialogue": "Instead of just like saying here,"
+    },
+    {
+        "start": "49:11.72",
+        "stop": "49:12.52",
+        "speaker": "Tutor",
+        "dialogue": "Write this down."
+    },
+    {
+        "start": "49:12.76",
+        "stop": "49:13.48",
+        "speaker": "Tutor",
+        "dialogue": "Write that down."
+    },
+    {
+        "start": "49:13.80",
+        "stop": "49:18.16",
+        "speaker": "Tutor",
+        "dialogue": "Do this equation like without asking me questions about,"
+    },
+    {
+        "start": "49:18.28",
+        "stop": "49:21.80",
+        "speaker": "Tutor",
+        "dialogue": "Like why it's that way or like letting me do it myself."
+    },
+    {
+        "start": "49:22.64",
+        "stop": "49:22.68",
+        "speaker": "Tutor",
+        "dialogue": "I,"
+    },
+    {
+        "start": "49:23.60",
+        "stop": "49:24.12",
+        "speaker": "Tutor",
+        "dialogue": "That's cool."
+    },
+    {
+        "start": "49:24.52",
+        "stop": "49:25.28",
+        "speaker": "Tutor",
+        "dialogue": "That's really awesome."
+    },
+    {
+        "start": "49:25.36",
+        "stop": "49:26.12",
+        "speaker": "Tutor",
+        "dialogue": "Thank you for sharing that,"
+    },
+    {
+        "start": "49:26.64",
+        "stop": "49:28.12",
+        "speaker": "Tutor",
+        "dialogue": "And also thank you for your patience."
+    },
+    {
+        "start": "49:28.16",
+        "stop": "49:30.00",
+        "speaker": "Tutor",
+        "dialogue": "As we had to reschedule this a couple of times."
+    },
+    {
+        "start": "49:30.96",
+        "stop": "49:31.08",
+        "speaker": "Tutor",
+        "dialogue": "Um,"
+    },
+    {
+        "start": "49:31.32",
+        "stop": "49:34.16",
+        "speaker": "Tutor",
+        "dialogue": "I appreciate it and I'm so glad I got to learn from you."
+    },
+    {
+        "start": "49:34.28",
+        "stop": "49:39.68",
+        "speaker": "Tutor",
+        "dialogue": "To-day it was really helpful and the way you were thinking and explaining is really going to help us help other students learn,"
+    },
+    {
+        "start": "49:39.80",
+        "stop": "49:39.92",
+        "speaker": "Tutor",
+        "dialogue": "Too."
+    },
+    {
+        "start": "49:40.76",
+        "stop": "49:40.92",
+        "speaker": "Student",
+        "dialogue": "Ok."
+    }
+]

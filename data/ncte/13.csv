@@ -1,0 +1,229 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"Cameras are on.  It’s 11:30, December 13.  This is Math class. So, recording in progress. Okay, let me have your attention please, boys and girls, put the books away and get your folder ready and your notebook, as well as your box.  So last week we’ve been exploring volume, right, and volume of a rectangular prism.  So can someone just tell us or remind us how we found the volume of this box, or this rectangular prism?",teacher,77,7,,,0.0
+You multiply the length by the width by the height.,student,10,2,,0.0,
+"Okay, so we figured out one way to do this was to multiply…",teacher,13,1,1.0,,0.0
+The length…,student,2,1,,,
+The length.,teacher,2,1,,,0.0
+The width.,student,2,0,,,
+"The width, and then the height.  Okay, so that was one way to find, right, and we all tried that.  Is there another way to find this, Student D?",teacher,29,0,,,1.0
+The bottom of the surface times the height.,student,8,0,,0.0,
+"The bottom of the surface here you said? Okay, so surface, for example, this one has 5 across and 4 this way, so what does that mean? The surface has 20 squares.  And if you were to put cubes, you can put 20 cubes, right? The bottom layer. And why do you multiply by 3, Student D?",teacher,57,4,1.0,,1.0
+Because that’s the height.,student,4,0,,,
+"Because that’s the height, that’s the 3 layers, right? So if you were to take apart the 3 layers, then you have 3 layers of cube. Any other ways that we tried or you tried? No? Okay.  So last time you made this box, and this is Box 1, and we did volume, and I would say everyone did very well on the test on Friday in terms of finding volume.  I don’t think anyone had a problem finding volume.  Maybe there are a couple of problems with other things, being careless, for example, the pattern, that you miscalculated, then something else, just being careless.  But in terms of volume, I think you had no problem doing that. So today we are going to shift into something, not volume, but similar.  I shouldn't say similar to volume, but something that we can use this box to find, to help us to start. And that is called a surface area.  So today we’re going to explore finding the surface area of an object, of a rectangular prism.  I’m just going to write this word.  And please write this down in your notebook. Okay, so write down surface area, and what does that look like to you, the words “surface area”? What does that sound like? What do you think it means? Student A?",teacher,222,17,,,0.0
+The surface of the area,student,5,1,,,
+"So the surface, like this board has a surface, the floor has a surface, but what about area? What’s area? Student S?",teacher,22,2,1.0,,0.0
+[Inaudible],student,1,0,,,
+So area is the number of…,teacher,6,1,,,0.0
+[Inaudible],multiple students,1,0,,,
+"Okay, you remember this, right?",teacher,5,0,,,0.0
+From last year.,student,3,0,,,
+"So area, that’s the number of square units, right? Of an area. For example, this floor, you can count the number of squares, the number of tiles.  This board, if we put the grid here, then you can also count the number of squares. So does that have to do with the inside? Does that have to do with cubes? If we’re just looking at the surface?",teacher,67,7,,,1.0
+No.,student,1,0,,,
+"Think about it.  We’re looking at surface.  Why did you say no, Student L?",teacher,14,0,,,1.0
+"Because it’s not finding the whole thing, it’s just finding the surface.",student,12,1,,1.0,
+"Okay, it’s not the whole prism, but it’s just the surface.  So for example, if you just look at the surface of this, how many squares do you see at the bottom of your box?",teacher,35,3,1.0,,0.0
+24.,student,1,0,,,
+"There are 24 squares, right? Because it’s 6 x 4. And what about the surface of the bottom of this box? How many squares do you see?",teacher,27,2,,,0.0
+24.,multiple students,1,0,,,
+And they’re the same?,teacher,4,0,,,0.0
+Yes.,multiple students,1,0,,,
+"These are the same.  So can I say that they have the same surface, or the area are the same? Now, but if you look at the two boxes, do they hold the same number of cubes?",teacher,37,2,,,0.0
+No.,multiple students,1,0,,,
+"So can I say that the volume is different, okay? This one versus this one.  But what about the surface? Just the bottom.  We’re just looking at the bottom.  The same, right? So area is the same but volume is different.  So if we look at surface, are we looking at the inside, how many cubes it can fit in here?",teacher,61,4,,,0.0
+No.,multiple students,1,0,,,
+"Okay, we’re just looking at the surface. So for example this paper has a surface and you can see the number of squares here, right? Okay? But if I turn it this way, suppose you can look at the paper as flat from this angle, do you see any? If this is two-dimensional, you’re not supposed to see any height, right? But it has a surface, but there’s no volume.  And last week I think we said that volume has to do with what kind of objects?",teacher,87,5,,,0.0
+Three-dimensional. Three-dimensional solids.,student,3,2,,,
+"Three-dimensional solids, right? So I want you to remember this, boys and girls, and as we find the area or the surface, we’re not going to think about the volume, okay? [Interruption] So what was I saying? Okay, when we look at the surface area, we’re not going to think about volume, okay? So what you’re going to do is to create a box that looks like this, but this time I am going to give you a grid that looks like this instead of the pattern.  You will have to figure out the pattern for making this, and you just draw it and cut it out and make a box the size of this, all right? And this is the same as the first one that you made last week before you added. Now, after that, pay attention please, after that you’re actually going to use this as a cover.  And this is a box, so you cover this box and now it’s a rectangular prism, right? Okay.  So again, we’re not looking at volume, so not the inside, but only on the outside, the surface, okay? Let me just help you start by looking at one of the sides.  So let’s say the box is like this, Student S, let’s say this is the top.  I just call it the top, and that’s the bottom, sides, front, back, okay? How can we find the surface or the area of this top side? Student J?",teacher,246,10,,,0.0
+Measure length and width.,student,4,2,,,
+"Length, okay, that’s 6 units.  And then 4 units this way.  So how many?",teacher,14,3,,,0.0
+24 units.,student,2,1,,,
+"There are 24 not just units, but square units.  So 6 times 4 square units.  Okay, does that make sense? So now we took care of the top.  How many sides are there in a rectangular prism? How many different sides?",teacher,41,7,,,0.0
+6.,student,1,0,,,
+"6, right? Top, bottom, 1, 2, front, back, 3, 4, side, side, 5, 6.  Okay? So what you’re going to do is you’ll make this box first and then I want you to write… Figure out the area of the top and then the area of the bottom, the area of the front side, area of the backside, the side, one of the sides, and then the other side, okay? So once we have all six of those, what does that mean? We have found all the surfaces, right? All the sides.  And then how do you find the surface area of this entire rectangular prism?",teacher,106,8,,,1.0
+You add them up?,student,4,1,,,
+"You just add everything up and then you have the total surface area of this.  So why don’t I have you start by making the top.  This is pattern for Box 1. Can you walk around the other way instead of walking this way? Thank you. Okay, does everyone have one? You need one more? So use a pencil to make the pattern and then you cut, okay? Yes? There’s one more right there, yes. Okay, so make sure you count carefully. Student J, do you know what to do? Can you stop for a minute, Student J? So how many squares across? How many units? If you count from here, how many?",teacher,113,6,,,0.0
+4 square units.,student,3,2,,,
+"4, right? Square units.  How about this way? Here to here? Is it also 4 square units?",teacher,17,4,,,0.0
+Yes.,student,1,0,,,
+"So is this going to match? You need to make a pattern that’s this size, right? And only one layer.  One unit high, okay? All right, very good.  Very good.  Are you all set, Student J? Okay. Why are you making another one, Student L?",teacher,45,1,,,1.0
+Because I messed it up.,student,5,0,,,
+"So here you just cut the corner, is that right?",teacher,10,0,0.0,,0.0
+Yeah.,student,1,0,,,
+"That’s fine, you can do another one. What are you looking for?",teacher,12,0,,,0.0
+Tape.,student,1,0,,,
+"Just tape the top and you don’t have to tape the lid, the cover.  Just tape the sides so you can cover this, like a box, okay? Okay, now that’s the same as this, okay? Boys, how do you think we can find the area? Remember we talked about this? Or the surface area of this whole rectangular prism?",teacher,59,6,,,0.0
+"You find all the areas, like this part, this part, this part and this part and this part and you add them up together.",student,24,2,,0.0,
+"Okay, do you agree with that, Student S?  The area.",teacher,10,1,1.0,,0.0
+"That does not work.  If you add this and that, these share. No, you add this 20 plus 24 plus 18…",student,21,2,,0.0,
+"Okay, Student S, can you say that again? What do you mean they share?",teacher,14,0,1.0,,1.0
+"Because right here, if you put the cube in, this square and this square are the same squares.",student,18,4,,1.0,
+"They’re part of the same cube, so we can’t count them twice. But remember what we said? Are we working with cubes or are we not doing cubes any more, and this time, Student S, it’s just the surface, okay.  Just the surface.  So this has nothing to do with that, because we’re not doing cubes, okay, just the squares.  In other words, how many squares are there all around this, okay? So remember surface area. Area is just the surface, not the inside, okay? So that’s a good point.  Do you understand?",teacher,93,9,1.0,,0.0
+Yes.,student,1,0,,,
+"Okay, so can you start calculating and write in your notebook just like the way I wrote on the board? So once you have your box, boys and girls, you can start figuring out the surface area of this box.  The entire box.  It’s just like counting all the squares around this box, so that’s the number of squares, area. Here, Student G, tell me about this? How did you figure these out?",teacher,73,5,,,1.0
+So the top area I found by the bottom because it’s the same.,student,13,1,,1.0,
+"You’re saying the top area is the same as the bottom area, okay.",teacher,13,2,1.0,,0.0
+"And the front, this here, and the back are the same.",student,11,0,,0.0,
+"Okay, where’s the front.  So 3 units by 4 units, show me.  Mm- hmm, go ahead, so they are 12 square units, right? The front and the …",teacher,28,4,1.0,,0.0
+Back.,student,1,0,,,
+Are the same.  Then what about the last two?,teacher,9,0,,,0.0
+"The sides, they’re also the same.",student,6,0,,,
+"Right, okay.  So that’s why you did it twice.  Okay.  And how do you find the total number of squares around this rectangular prism?",teacher,24,4,0.0,,1.0
+[Inaudible],student,1,0,,,
+"Mm-hmm, and then you have the… Total surface area, very good. Okay what are you working on?",teacher,17,3,,,0.0
+[I had to re-do it.],student,5,0,,,
+Oh.  So just quickly fix it and then you can start looking for the area.,teacher,15,1,0.0,,0.0
+This is not going to fit on the box.,student,9,0,,0.0,
+"So, Student M, what’s the strategy for finding the surface area?",teacher,11,2,0.0,,0.0
+Multiply the width…,student,3,1,,,
+"Okay, just a minute.  Why don’t you look at this for now.  So tell me how you can find the surface area.  What is the surface area?",teacher,27,4,,,0.0
+"The top, the area of the top and the bottom.  You find it by multiplying the length and the width.",student,20,3,,0.0,
+"Okay, and why do you have to multiply the length by the width?",teacher,13,2,1.0,,1.0
+To figure out the area.,student,5,1,,,
+Where’s the area?,teacher,3,1,1.0,,0.0
+The units.,student,2,1,,,
+"Okay, the number of…  What are these?",teacher,7,0,,,0.0
+Square units.,student,2,2,,,
+"So once you have this then, what do you do?",teacher,10,0,,,0.0
+You [inaudible].,student,2,0,,,
+"Remember, we have to look for the surface area, that means all these sides all together, right? So what do you have to do? Can you figure out the area of this side? How about the area of this? So what does that make?",teacher,44,4,,,1.0
+The area around the box.,student,5,1,,,
+"Yes, so how do you find the total surface area?",teacher,10,3,1.0,,1.0
+[Inaudible],student,1,0,,,
+"Well, you can do this way, you can do this.  So once you have all 6 then what do you do?",teacher,21,0,,,1.0
+Add them up.,student,3,1,,,
+"Okay, so let’s see that in your notebook.  Let’s put this aside and why don’t we start writing. Okay boys and girls, I need to see that in your notebook, so you need to write down surface area.  Student L, put this book away. Where’s the surface area?",teacher,48,4,,,0.0
+108.,student,1,0,,,
+And you need to show me how you found 108.  108 what? Units?,teacher,13,1,,,0.0
+[Inaudible],student,1,0,,,
+"Surface area, is that a unit?",teacher,6,3,,,0.0
+[Inaudible],student,1,0,,,
+"So you need to show you how found each one, okay? All right are you all set? Okay, so you’ve got the first step.",teacher,24,0,,,0.0
+Can we use tape?,student,4,0,,,
+"Yes, if you have tape you can just tape these corners.",teacher,11,0,,,0.0
+Okay.,student,1,0,,,
+"Okay, Student S, do you now what’s happening? What are you looking for now?",teacher,14,0,,,0.0
+I’m looking for the area [inaudible].,student,6,1,,,
+"All around this box, right? Okay? So how do you think you can find the area to the bottom.  Let’s say that’s the top, this is the bottom.",teacher,28,1,1.0,,1.0
+Multiply [inaudible].,student,2,1,,,
+"Right.  Okay.  So can you write that down? Student A, I need to see your work.",teacher,16,0,,,0.0
+"After we do all these, we add these other things?",student,10,1,,0.0,
+Why? Why do you need to add all those numbers?,teacher,10,1,1.0,,1.0
+To find the surface area.,student,5,2,,,
+And what is surface area?,teacher,5,2,1.0,,0.0
+The area of a three-dimensional shape.,student,6,2,,,
+"Okay, Student K, if you were to explain to someone what surface area is, let’s say you have this prism, how do you explain it? Surface is the area…",teacher,29,4,1.0,,1.0
+On the surface.,student,3,0,,,
+On what surface? Just one surface?,teacher,6,0,,,0.0
+All the surfaces.,student,3,0,,,
+"All the sides and surfaces, okay? So earlier you asked me whether you had to add the numbers, so do you have to add those?",teacher,25,2,,,0.0
+[Inaudible],student,1,0,,,
+And why?,teacher,2,0,,,1.0
+"Because it says, you have to [inaudible] one surface, you’re doing [inaudible] surface.",student,13,0,,1.0,
+"Okay, so once you found six surfaces, you just add them, right? And that’s exactly what Student M just said, is that right? Very good. Okay, now if you were looking at this box like this, so where’s the top?",teacher,40,1,1.0,,0.0
+Over here.,student,2,0,,,
+"This is the top, bottom, front, back, side, and side.  Can you see that? There are six sides.  But you can also look at it from this angle. So can this be the front?",teacher,34,1,,,0.0
+Yes.,student,1,0,,,
+And then what would the back be?,teacher,7,0,,,0.0
+This side.,student,2,0,,,
+"Right.  Side and side.   So depending on how you look at the box.  If you put it up this way, then this would be the …",teacher,26,0,,,0.0
+Top.,student,1,0,,,
+"So you have to decide how you want to look at this box, and then figure out the front side, back, top, bottom. Student E, let me see your… So what do you have to do next?",teacher,37,0,,,0.0
+Recount the bottom area.,student,4,1,,,
+And what do you notice about the top and the bottom?,teacher,11,0,,,1.0
+They’re the same.,student,3,0,,,
+"Can you see that they’re actually the same?  All right, now you have top and bottom.  Okay, Student M, I want you to start figuring out the answer and how did you get this number?",teacher,35,0,,,0.0
+"First I was looking at this, then [inaudible].",student,8,0,,0.0,
+"Did you count all the squares? Student K, did you write down the surface area? Can you show how you found it? Okay.  Can you check with each other and make sure you agree.  Yes, Michael?",teacher,36,3,0.0,,0.0
+I counted all the squares.,student,5,1,,,
+"Oh, you counted all the squares.  You counted each one of these? Okay.     That works, because you’re looking for the surface of this whole thing, right? But what I’d like you to do is to take this box like one side of a time.  So you calculate the area of this side, this side, this side, this side.  And then what do you do at the end?",teacher,67,3,1.0,,0.0
+Add them all together.,student,4,1,,,
+"And then you have the total surface area.  Okay, just like the way I wrote on the board.  You see the red? Let’s see.  Okay, very good.  All right. Okay, another minute, boys and girls.  Take another minute to finish, and if you’re done, I’d like you to write down – okay, listening please – to write down how you can calculate or find a surface area of a rectangular prism, okay? So if you were to explain to someone who does not know how to find the surface area, what would you say? Just write it down, okay? And make sure you have the right units. Okay, let me have you stop for a minute, boys and girls. I think most of you have found the area of all the sides, so how can we find the area, the surface area, or the area to all of these sides around this rectangular prism? Student A?",teacher,156,17,,,0.0
+You have to combine all the area of the sides.,student,10,1,,0.0,
+"Okay, do you agree with that? You have to combine all the areas of the sides.",teacher,16,1,1.0,,0.0
+You have to combine all 6 surfaces and then see how much squares they can be by multiplying the length and the height.,student,23,3,,0.0,
+"Okay, so we need to find the area, how many squares on each surface, right?",teacher,15,2,1.0,,0.0
+[And then you write them down on the page and then you add the bottom and each top.],student,18,1,,0.0,
+"Okay, so can you help finish the rest of this? And what about the bottom area? Student J?",teacher,18,1,1.0,,0.0
+[Inaudible].,student,1,0,,,
+"Let’s say we’re looking at this box from this angle.  Let’s say this is 6 and 4 and 3, okay? So that the bottom, okay, bottom is this area here, right? So how do we find the bottom area? Student J?",teacher,41,3,,,0.0
+Multiply.,multiple students,1,1,,,
+"Okay, multiply.",teacher,2,1,,,0.0
+6 units and 4 units equals 24 units.,student,8,3,,0.0,
+Did I hear 24 units?,teacher,5,1,1.0,,0.0
+Yes.,student,1,0,,,
+"Okay, why is it important to say square units instead of units? Are they the same?",teacher,16,3,,,1.0
+A square unit would be three-dimensional? Two-dimensional.,student,7,4,,,
+"Okay, are these squares?",teacher,4,1,0.0,,0.0
+Yes.,student,1,0,,,
+So are these square units?,teacher,5,2,,,0.0
+"Yes. It’s important because it could be any type of units.  It’s important because people might get confused, like what kind of units?",student,23,2,,0.0,
+"Right, if you just say units, then it could be an inch, a centimeter, okay, a foot, etc.  Right? But when you say square units, what does that mean? You actually count squares, number of squares.  And when we say cubic, just like last week, we count the number of –",teacher,51,6,1.0,,1.0
+Boxes. Cubes.,student,2,1,,,
+"Cubes or boxes, all right, cubes.  So it’s very important that you use the right unit.  Okay, now let’s move on to the next one.  So Student K, what would the next one be? Let’s say this is the front.",teacher,40,3,,,0.0
+The front area would be 3 times 6.  [Crosstalk],student,9,1,,0.0,
+"How come some people disagree? Let’s hear it.  Student M, did you disagree? So is it wrong that it’s 3 by 6?",teacher,22,0,1.0,,1.0
+It’s 6 by 3.,student,4,0,,,
+"Or 6 by 3, does it matter? It’s the same.  Okay.  Now group one, hold it, hold it.  How many people actually have 3 units by 6 units? How many have 6 units by 3 units? And do you get the same answer, the same number of squares? How many have something different for the front side.  Student J, what do you have?",teacher,63,5,,,0.0
+I have 3 times 4.,student,5,0,,,
+3 times 4? How did he get 3 times 4?,teacher,10,0,1.0,,1.0
+He went the other way.,student,5,0,,,
+"Oh, so this is your front side, is that right, Student J? Student S, which is front, is this front side or is this front side?",teacher,26,0,0.0,,0.0
+This is front. Both.,student,4,0,,,
+"What do you mean, both? Explain to us, please. One at a time.",teacher,13,0,,,1.0
+"It depends on the way that you look at it. You could say this is the front, or you could say this is the front, this is the front.",student,29,0,,0.0,
+"Okay, and do you agree with him? Depending on how you look at this, right? And I drew this up here, I said we’re going to look at this box from this angle, so we say this is the front side.  But if you look at it from this way, that’s the front side, right? Can the top be the front also?",teacher,62,1,1.0,,1.0
+Yes.,student,1,0,,,
+"Yeah.  Okay.  All right, so let’s just keep this as the front side and what about the … so what is that?",teacher,22,0,,,0.0
+[Inaudible].,student,1,0,,,
+"All right, someone else, the backside? Student K? It’s the same is that right?",teacher,14,0,,,0.0
+Yes.,student,1,0,,,
+"Okay, very good.  And then the side. So this side and that side.  Student D, what’s the side, or left side, this side?",teacher,23,0,,,0.0
+[Inaudible],student,1,0,,,
+I’m sorry? Can you see this? So what is that side? Or this side?,teacher,14,0,,,0.0
+3 by 4.,student,3,0,,,
+"Oh, 3 by 4, okay? So 3 units by 4 units, and that’s 12.  Okay. And then the last one, Student S?",teacher,22,2,,,0.0
+"On the side, there’s 12, 3 times 4.  [Inaudible]",student,9,0,,0.0,
+"Okay.  And that’s 12, right.  And I asked you to write down how you find the total surface area, so what would you say? Student L, how can you find the total surface area?",teacher,34,6,1.0,,1.0
+You add all the …,student,5,1,,,
+"All of these, okay.  So now the surface area of this rectangular prism is…",teacher,14,4,0.0,,0.0
+108 units. 108 square units.,student,5,3,,,
+"Okay, remember square units.  All right.  You all set? Okay, so let me give you another one to practice.  You can use this box, or you can draw a box, but this has different dimensions.  So for this one, first of all I’m going to have you find the volume, and then you’ll find the surface area, okay? So this is a rectangular prism.  Okay, wait a minute, Student S, let’s leave that up because I want people to be able to see that.  Okay, so this rectangular prism is 4 by 3 by 2 inches. Okay, so draw in your notebook.  I want you to draw the prism, and then I want you to find the volume.  Okay, we’ve been practicing finding volume, right? And then the surface area. What are the dimensions for this box, Student M? You see the numbers? 4 by 3 by 2, okay? What’s this?  24…",teacher,152,16,1.0,,0.0
+I counted it like [inaudible].,student,5,0,,,
+Did you count the number of cubes?,teacher,7,1,1.0,,0.0
+Yes.,student,1,0,,,
+"So earlier we said we can find one layer and then multiply by the number of layers, right? So what’s that bottom layer? How many cubes can that hold?",teacher,29,2,,,0.0
+4.,student,1,0,,,
+"Remember, we’re going back to volume, so the number of cubes you can put inside.",teacher,15,2,,,0.0
+"Oh, without this?",student,3,0,,,
+Mm-hmm.,teacher,1,0,,,0.0
+12?,student,1,0,,,
+Mm-hmm.  So now there are two layers.,teacher,7,0,,,0.0
+So 24.,student,2,0,,,
+"Right, so the volume is 24 cubic inches, that’s good.  And now you’re going to think about the surface area. So volume, how did you find the volume.",teacher,28,5,,,1.0
+4 times 3.,student,3,0,,,
+"Okay, write it next to it please. Okay, now you have the box, now look for the volume and then look for the surface area. Remember to label the numbers, Student R, labeling.  You labeled with number, but what about the units? Volume, square, okay.  Now remember volume, going back to last week, what does volume mean? The number of cubes we can put inside, right? So what units do we call those?",teacher,73,10,,,0.0
+Cubic units.,student,2,2,,,
+"Mm-hmm.  And then the surface area, since we’re looking for area, is just the number of squares, right? Did you finish, Student L? What are you supposed to do to these numbers? Are we supposed to just leave the numbers without labels?",teacher,42,4,,,0.0
+No.,student,1,0,,,
+"And what I’d like you to do is see if you can find an easier way to find the surface area, instead of finding the top and then the bottom, the front, the back, is there an easier way?",teacher,39,2,,,0.0
+I think there is.,student,4,0,,,
+2 times 4 is…,teacher,4,0,,,0.0
+8.,student,1,0,,,
+8 times 3.,teacher,3,0,,,0.0
+"No, no, no, 2 times 4, and then, never mind.  Um, like these two numbers you times them, which is 8, and you do 8 for the next one as well.  You could times 2, times 3, which is 6.  4 times 3, 12.",student,44,0,,0.0,
+"Okay, why did you do those twice? Each one twice?",teacher,10,0,1.0,,1.0
+"Because I put each side, like right here.  You still find the same answer, because each side is the same on the other side.  This side and the back side, the top and the bottom.",student,35,0,,1.0,
+"Okay, very good.  So you noticed the front and the back and the top and the bottom, those are the same. And instead of finding it two times, you just find once, and then multiply by 2.  Very good.  Maybe you can try to write a formula. Okay, those people who finished, see if you can write a formula for finding a surface area.  See if there’s an easier way to do that instead of doing 6 steps and then add, is there an easier way? Do you see a pattern, any patterns?",teacher,93,4,1.0,,0.0
+I can make it into 3 steps.,student,7,0,,,
+And how is that? How does that work?,teacher,8,0,1.0,,1.0
+"Because this is the same on the other side, so you can do 4 times 2 times 2, but that’s only 3 steps.",student,23,0,,1.0,
+"So you don’t have to repeat that because it … okay, very good. Can you write a formula, just write it down. What do you notice about these numbers?",teacher,29,0,0.0,,1.0
+"They’re the same, right? And so are these, see? So how can you write a formula, if you can write a formula to find surface area.  Something that’s easier than doing one side at a time.  Think about it.   Yes? [0:53:00] You could do top times … top plus the front plus the right times 2.",student,56,2,,0.0,
+So top area plus front area plus right area times 2? Why times 2?,teacher,14,3,1.0,,1.0
+Because it’s [inaudible] so you can times 2 it.,student,9,0,,1.0,
+"Oh, very good.  Can you write it? Just write the whole formula. Surface area equals… Length times height times width, remember what that … we did that last week, right? So what’s that? What would that be if you multiply…",teacher,40,5,0.0,,0.0
+52 square units.,student,3,2,,,
+"That would be the volume, but we’re not looking for volume, right? You found the volume, now we’re looking for surface area.",teacher,22,5,,,0.0
+"I figured out an easier way.  If the top area is 6 x 4, you don’t have to do the bottom because it’s going to be the same.  So it goes both sides, front and back, and then left and right.",student,41,1,,1.0,
+"Okay, so if you only find one of them and then double, multiply 2, then you find.  Okay, very good.",teacher,20,1,0.0,,0.0
+"Because it’s going to be the same, the ones over here and the other sides.",student,15,0,,1.0,

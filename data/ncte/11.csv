@@ -1,0 +1,662 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"Okay, boys and girls.  We're gonna get started.  Today, we have our objective.  It's there.  Can you see it?",teacher,19,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Given a set of fractional word problems the students will accurately solve the problems and explain how they know they're answer is correct.  Now we're gonna be talking about fraction.  Actually we've been talking about fractions.  You know a lot about fractions, don't you?",teacher,44,4,,,0.0
+"Yes, Teacher, we do.",multiple students,4,0,,,
+This means that we're going to work together in order to solve a in your group.  After you're done we'll come back and we share.  All right?,teacher,27,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Now the problem that we have is this one.  I hope that you can see the problem.  I'm gonna read it to you and you're gonna try to solve it together.  It says Miss H asked her students how they get to school each day.  She collected their answers and determined the following results.  Half of her students take the bus.  One-fifth of their parents.  Now that's the problem, right?",teacher,70,0,,,0.0
+Yes.,student,1,0,,,
+That's the information that we have.  Now I'm gonna ask you this question.  What's the portion of the students that are going to take the bus?  It says they're – ?,teacher,31,0,,,0.0
+One [Inaudible],student,2,0,,,
+It says that they're going to take the bus.,teacher,9,0,,,0.0
+Half.,multiple students,1,0,,,
+Half.  Right?  Half of the students.  And what's the portion that are going to walk?,teacher,15,0,,,0.0
+One-fifth.,student,1,0,,,
+One-fifth.  And the rest.  Do you know the portion of the rest?,teacher,12,0,,,0.0
+No.,student,1,0,,,
+You don't know it yet.  Right?  You don't.  You have something to say?,teacher,13,0,,,0.0
+Yes.  I think – one half plus one-fifth will give you the answer.  It probably be the answer of the rest of her student [Inaudible].,student,25,0,,0.0,
+"We'll see but let's go to the question first.  Now we have the question, right?  The question – the first question that we have there – can you read the question?  Can you read the question? question?  Question A.",teacher,39,0,0.0,,0.0
+What percent of the students take the bus?,student,8,1,,0.0,
+"What percent of the students take the bus.  Now let's think about that.  Now we know how to convert fraction into percents, don't we?",teacher,24,4,1.0,,0.0
+Okay.,multiple students,1,0,,,
+If you don't know we have it over here but I know that you know.  Now it says half of her students take the bus.  And now the question is what percent of the students take the bus.  Let me go to the girls and see.  Can you tell me what percent of –,teacher,54,2,,,0.0
+Fifty percent.,student,2,1,,,
+Fifty percent.  Hmm.  Do you –,teacher,6,1,,,0.0
+How do you get that?,student,5,0,,,
+Do you all agree though?  Do you all agree that's 50 percent?,teacher,12,1,0.0,,0.0
+Yes.,multiple students,1,0,,,
+What about the boys?  Do you all agree?,teacher,8,0,,,1.0
+Yes.,multiple students,1,0,,,
+And why do you think?  I'm gonna go back to you again.  Why do you think it's 50 percent?,teacher,19,1,,,1.0
+'Cause one-half comes to 50 percent.,student,6,1,,,
+Because one-half is?,teacher,3,0,1.0,,0.0
+Fifty-percent,multiple students,1,1,,,
+The same as?,teacher,3,0,,,0.0
+Fifty percent.,multiple students,2,1,,,
+Fifty percent.  And are you sure about that?,teacher,8,1,,,0.0
+Yes.,multiple students,1,0,,,
+You sure?,teacher,2,0,,,0.0
+Yes.,multiple students,1,0,,,
+You're sure?,teacher,2,0,,,0.0
+Yes.,student,1,0,,,
+Oh.  Sure or not sure.  Are you sure?,teacher,8,0,,,0.0
+Yes.,student,1,0,,,
+"Yes.  It's 50 percent, right.  Fifty percent is the same as half.  Any half is 50 percent.  Right?",teacher,18,3,,,0.0
+Yes.,multiple students,1,0,,,
+Now that's an easy one to [go down].  Should I write it right here?,teacher,14,0,,,0.0
+Yes.,multiple students,1,0,,,
+What percent of the students take the bus?,teacher,8,1,,,0.0
+Fifty percent.,multiple students,2,1,,,
+Fifty percent.  Okay.  Fifty percent of the?,teacher,7,2,,,0.0
+Students take the bus.,multiple students,4,0,,,
+"Students.  All right.  Now we have the second question.  Can you read that question, please?",teacher,15,0,,,0.0
+What percent of the students walk?,student,6,1,,,
+"What percent?  Okay, sorry.",teacher,4,1,1.0,,0.0
+Explain how you know that answer – your answer is correct.,student,11,0,,0.0,
+"Now in this question we have more than one part, right?",teacher,11,0,0.0,,0.0
+Yes. Two.,multiple students,2,0,,,
+"Two parts.  Now, don't forget when we are ready to answer the question we should answer the two – ?",teacher,20,0,,,0.0
+Parts of the question.,multiple students,4,0,,,
+Parts of the question.  Now what's the first part of this question?  Let me see.  Let me go over here.  What's the first part?  Can you – ?,teacher,28,0,,,0.0
+What's the percent of the students that walked to school?,student,10,1,,0.0,
+"What's the percent of students that walk?  Now, let me see if you can't come up with the answer to that.  I'm going to – that kid over here.",teacher,29,1,1.0,,0.0
+Twenty percent.,student,2,1,,,
+"Twenty?  Twenty percent you said.  One-fifth of her students walked.  He said 20 percent.  Boys, do you agree that it's 20 percent?",teacher,22,3,,,0.0
+Yes.,multiple students,1,0,,,
+Do you agree?,teacher,3,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Okay.  I need to see the girls.  Girls, do you agree that it's 20?",teacher,14,0,,,0.0
+Yes.,multiple students,1,0,,,
+"Now, why do you think it's 20 percent?  Tell me.",teacher,10,1,,,1.0
+Because one-fifth equal 20 percent.,student,5,1,,,
+Because one-fifth is 20 percent.  Now he said 20 percent and all of you agreed that's 20 percent is what percent of the students that walk.  And I'm gonna write it here 20 percent.  But yet they are asking you to explain how you know that the answer is correct?  Remember our objective says that we got to explain our answer.  And he said – what did you say?  Can you repeat it?,teacher,73,5,1.0,,0.0
+One-fifth equals 20 percent.,student,4,1,,,
+"One-fifth is 20 percent.  Now how do you know that one-fifth is 20 percent?  Can you tell me?  How do you know that one- fifth is 20 percent?  How do you know that?  Can you help, Student J?",teacher,38,3,,,1.0
+"You could write, I know that it's 20 percent because 20 percent is equal to –",student,16,2,,1.0,
+"Okay, go ahead.  Equal to what?",teacher,6,0,1.0,,1.0
+Like –,student,2,0,,,
+Equals one-fifth.  Is that what you mean?,teacher,7,0,,,1.0
+Yeah.  One-fifth equals –,student,4,0,,,
+Yeah.  But how do you know that one-fifth is 20 percent?  Can you help?,teacher,14,1,,,1.0
+You could do it this way.  One-fifth of 50?,student,9,0,,0.0,
+One-fifth of 50?  Why 50?  Why 50?,teacher,7,0,1.0,,1.0
+Not – fifty of the students.  'Cause –,student,8,0,,0.0,
+Fifty?  Do we have fifty there?,teacher,6,0,1.0,,0.0
+No 'cause one [Inaudible] what percent of the students take the bus.,student,12,1,,1.0,
+"Okay.  That is 50 percent of the students.  But why do you have to relate it to one-fifth?  Okay.  Again, my question is how do you know that one-fifth of is 20 percent?  Do you have something to add?",teacher,39,3,1.0,,1.0
+"Yes, one-fifth of percent – one-fifth is the same as two-ten. And when you have like a tenth you just got, like, ten times the number that's – ten times the [numerator] and it's gonna be the same as two-ten.  And two-tenths is the same as 20 percent.",student,48,5,,0.0,
+"Okay.  Two-tenths.  Two-tenths is equivalent to one-fifth. Right?  And it's the same as 20 percent.  If one-fifth is 20 percent, two-tenths is also 20 percent.  Now girls, what do you think?",teacher,31,7,1.0,,1.0
+Correct.  But there's another way you could do it.  You can find one-fifth of –,student,15,0,,1.0,
+Can you say it louder?,teacher,5,0,0.0,,0.0
+You can find one-fifth of a whole.,student,7,1,,,
+One-fifth of a whole.  Yes.  That's a good idea.  Yeah.  And in a whole how many fifths you have?,teacher,19,2,1.0,,0.0
+Two.,multiple students,1,0,,,
+How many fifths you have in a whole?  Fifths?,teacher,9,1,,,1.0
+Four fifths. Five.,student,3,0,,,
+"Two, three, four, five.",teacher,4,0,,,0.0
+Six. Four.,student,2,0,,,
+Two-fifths?,teacher,1,0,,,0.0
+One.,student,1,0,,,
+Excuse me.  Let me – let me look at it this way.  Okay.  Let me -- what do you have to say?,teacher,22,0,,,1.0
+Could you say the question again?,student,6,0,,,
+I said one in a whole.  One whole.  How many fifths you have in a whole?  A whole.,teacher,18,4,0.0,,0.0
+One. I have three Two. Five.,student,6,0,,,
+Five.  That's good.  Five-fifths.  Yeah.  Then if you have five- fifths fifths is the same as what?,teacher,17,0,1.0,,0.0
+100 percent.,multiple students,2,1,,,
+100 percent.  If you divide 100 percent into – into what?  Into five parts then each part would be what?,teacher,20,3,,,0.0
+One-fifth.,student,1,0,,,
+"Yeah.  This is – if you want to explain it this way, you do this.",teacher,15,0,,,1.0
+Twenty-five times –,student,3,0,,,
+"You divide this one, two, three – one, two, three, four, five, right?",teacher,13,1,,,0.0
+Yes.,multiple students,1,0,,,
+"Into five parts, right, and this – this is the same as five- fifths or one whole, right?",teacher,18,1,,,0.0
+Yes.,student,1,0,,,
+"And one-fifth is this one, right?  And this is one-fifth and this is the same as what percent?  One whole is – ?",teacher,23,2,,,0.0
+100 percent.,multiple students,2,1,,,
+"100 percent.  And one-fifth is one 100 divided by one, two, three, four, five.  If you divide 100 by 5, what you have?",teacher,23,3,,,0.0
+20.,student,1,0,,,
+20.  And 20 percent.  A one-fifth is the same as – ?,teacher,12,1,,,0.0
+20 percent.,student,2,1,,,
+"20 percent.  Right.  Now he explained it, right?  This is how you should explain your --",teacher,16,1,,,1.0
+Answer.,student,1,0,,,
+Your answer.  Now is that difficult to do?,teacher,8,0,,,0.0
+No.,student,1,0,,,
+"No, it's not difficult.  Now are you ready to go to the third question?",teacher,14,0,,,0.0
+Third.,multiple students,1,0,,,
+"Now, I'm gonna have one boy over here to read the – can you read the third question?  Question C.",teacher,20,0,,,0.0
+What percent of the students ride with their parents?  Show or explain how you got your answer.,student,17,1,,0.0,
+Now.  Here the question – the question is what percent – can you state – state the question for me?  What percent? What's the question?  Question C?,teacher,27,2,1.0,,0.0
+It says what percent of the students ride with their parents?,student,11,1,,0.0,
+Parents.  Now let's go have – let's go up a little bit.  It says – see the problem there?,teacher,19,0,1.0,,0.0
+Yes.,student,1,0,,,
+It says the rest of her students ride with their parents.  Hmm. Isn't this a little bit difficult?  Isn't this a little bit difficult to do?  Right?  But now how are we going to solve this problem here?  What is the first thing to do to solve this problem?  Let me go over here.  Okay.  What is the first thing that you do to solve this problem?  What percent of the students ride with their parents?  I believe it says the rest.  Okay.  The rest of the students ride with their parents.,teacher,92,1,,,0.0
+You put at both of the percents of – you've got 50 – 50 percent plus 20 percent and then find – and then you do 70 percent plus what equals so 100 percent.,student,34,5,,0.0,
+"Yeah.  But it seems to me that that's the answer.  But boys, what you say?",teacher,15,0,0.0,,0.0
+Yeah.,multiple students,1,0,,,
+And over here?  What do you say? Are you – do you agree with him?,teacher,15,0,,,1.0
+Yes.,multiple students,1,0,,,
+Can you tell me what he just said?,teacher,8,0,,,1.0
+He said that you have to add the –,student,9,1,,0.0,
+What do you want to add?,teacher,6,1,1.0,,1.0
+The percents that you have.,student,5,1,,,
+"The half?  The percent of B.  Half of the students?  Then it's – he said it's 50 percent, right?",teacher,19,2,1.0,,0.0
+Add 20 percent. Yes.,student,4,2,,,
+You're gonna add it –,teacher,5,1,,,0.0
+20 percent.,multiple students,2,1,,,
+Add it to 20 percent.,teacher,5,2,,,0.0
+Equals 70 percent. 70 percent.,student,5,2,,,
+"70 percent and – now let me stop there.  Okay.  Let me see one of the girls over there.  I'm going to you.  Okay.  Now 70 percent – now you said that you add 50, right?  Then 20? And you have 70 percent.  Is that the answer?",teacher,47,4,1.0,,0.0
+No.,multiple students,1,0,,,
+Okay.  Now girls.  What can you say?,teacher,7,0,,,1.0
+You add 70 plus what equals to 100 percent.,student,9,2,,1.0,
+Okay.  You add 70 plus what?  Okay.  She said add 70 plus – what that goes to?,teacher,17,2,1.0,,0.0
+100 percent.,multiple students,2,1,,,
+100 percent.  Then?  He would be what?,teacher,7,1,,,0.0
+30 percent,multiple students,2,1,,,
+"Oh, good.  That would be 70 plus 30.",teacher,8,0,,,0.0
+Equals 100 whole.,multiple students,3,1,,,
+Then the answer would be what?,teacher,6,0,,,0.0
+30 percent.,multiple students,2,1,,,
+Then it says what percent of students ride with their parents?,teacher,11,1,,,0.0
+30 percent.,student,2,1,,,
+Okay.  30 percent.  Okay.,teacher,4,1,,,0.0
+Students drive with their parents.,student,5,0,,,
+"Of the students.  Okay.  Thank you.  With their parents.  Now, that's good.  Yes.  Do you have something to say about this?",teacher,21,0,1.0,,1.0
+She had a question.,student,4,0,,,
+Yes.  What's your question?,teacher,4,0,,,0.0
+Where did you get the 30 from?,student,7,0,,,
+Where did I get the 30 from?  Who can explain?  Who can tell her?  Okay.  Let me see – over here.,teacher,21,0,1.0,,1.0
+"Well, when you put – fifty percent plus 20 percent equals the 70, right?  Then 70 plus what equals to 100 percent? There's a whole in the class and [Inaudible] and you find 70.  So 70 plus 30 equals to 100 percent.  A whole.",student,44,6,,0.0,
+"Yeah.  Remember that the whole is 100 percent, right?  Now you already know that half of the students take the bus.  What is the percent for half?",teacher,27,3,1.0,,0.0
+70.,student,1,0,,,
+"The percent for half.  Percent.  Percent – fifty percent, right?",teacher,10,4,,,0.0
+Fifty percent.,student,2,1,,,
+And you also know that one-fifth of the students walk.  Right? because it's 70.  And the whole remember is 100 – – percent.  Then when you go from 70 to 100 you take how many steps?,teacher,36,2,,,0.0
+30 steps.,multiple students,2,0,,,
+"30 steps, right?",teacher,3,0,,,0.0
+Because it's 30 steps.,student,4,0,,,
+"It's 30 percent.  Now what we did here was we added, right? But we could have –",teacher,17,1,,,0.0
+Subtracted.,student,1,1,,,
+"Done subtractions, right?  How could you do subtraction?  Can you tell me?",teacher,12,2,,,1.0
+Fifty percent take away 20 percent.  That's 30.  But it was 30. There's 70.  I know that 70 plus 30 plus 100 but the answers not 70.  The answers 30 'cause 50 percent take away 20 percent –,student,38,4,,1.0,
+"Now, you said that you'd take the 50 – 20 percent from 50 percent?",teacher,14,2,1.0,,1.0
+Yeah.,student,1,0,,,
+Would that be the correct way to solve this problem?  To do the subtraction?  Now how would you do it?,teacher,20,1,,,1.0
+I would first – I would subtract by –,student,9,1,,0.0,
+From?,teacher,1,0,0.0,,0.0
+From 100 then the answer would be 80.,student,8,0,,0.0,
+80?,teacher,1,0,1.0,,0.0
+I would –,student,3,0,,,
+The answer would be?,teacher,4,0,,,0.0
+80 from – subtract would be 100 by 20.  You'll get 80.  Then you'll subtract the 50 by the 100 – I mean 80 by 50 to get the answer.,student,30,2,,0.0,
+Hmm.  Isn't this a little bit complicated for us?  No.  But the idea is there but you need to work on it a little bit.  Who can help?  Can you tell us how to get it by – to do it by subtraction?  How to – what are you going to subtract? What are you going to subtract?,teacher,58,3,1.0,,0.0
+100.,student,1,0,,,
+100.,teacher,1,0,,,0.0
+Minus 70.,student,2,0,,,
+Minus 70.  Right.  Because it's – remember you added 50 plus 20.  Now we have 70 percent that you know.  The 50 percent of these students are riding the bus – taking the bus and 20 percent are riding with their parents.  And we know 70 percent.  And we need to know the rest.  It's 100 percent minus –,teacher,59,5,,,0.0
+70 percent.,multiple students,2,1,,,
+Minus – see and this is how you do it.  See?  It's 100 minus 70 equals 30.,teacher,17,0,,,0.0
+30 percent.,multiple students,2,1,,,
+And remember that this 70 here – 70 comes from what?  From 50,teacher,13,0,,,0.0
+Fifty percent.,student,2,1,,,
+Plus what?,teacher,2,0,,,0.0
+Plus 20.,multiple students,2,0,,,
+Plus 20.  Then you have that –,teacher,7,0,,,0.0
+Equals 70.,student,2,0,,,
+Right.,teacher,1,0,,,0.0
+Yeah.  Right.,student,2,0,,,
+That's why you have 30 –,teacher,6,0,,,0.0
+Percent.,student,1,1,,,
+30 percent.  Now – yes?,teacher,5,1,,,0.0
+You could [take] 100 [Inaudible] from 70.,student,7,0,,,
+Yes.,teacher,1,0,0.0,,0.0
+Plus [Inaudible] though.,student,3,0,,,
+Yeah.  That's how you do it.  Now let's go to the – yes?,teacher,13,0,,,0.0
+"[Inaudible] [I would stop at two-fifth].  You need to give to the whole, right?",student,14,1,,0.0,
+Yes.,teacher,1,0,0.0,,0.0
+You know that 50 plus 20 equals the 70 so you do 100 minus what equals to 70.  That was my [thinking].,student,22,0,,1.0,
+100 minus?,teacher,2,0,1.0,,0.0
+What is close to 70?,student,5,0,,,
+Yes.  100 minus what?  100 minus --?,teacher,7,0,0.0,,0.0
+30.,student,1,0,,,
+30 equals to 70.  Now that's –,teacher,7,0,,,0.0
+Or [Inaudible].,student,2,0,,,
+"That's okay.  Now let's go to the last one.  Okay?  Over here B – last time one of the boys read, right?",teacher,22,0,,,0.0
+He did.,student,2,0,,,
+"Can you read over here?  Can you see?  Can you read from there? You can read?  Let me go over there then.  Yes, can you read the last one?",teacher,29,0,,,0.0
+There are 27 students in this [Inaudible] students walks to school.  Show or explain how you got your answer.,student,19,0,,0.0,
+"Hmm.  Now remember that they didn't tell us how many students there were in that – in the classroom before.  But now they are telling us the number, right?  They said – there are 27 students in the classroom.  Now there comes the question how many of her students walked?  Remember, how many walked.  They're not asking – are they asking for a fraction?",teacher,64,1,1.0,,0.0
+No.,multiple students,1,0,,,
+"No, because we already know what?",teacher,6,0,,,0.0
+The percent.  The fraction.,student,4,2,,,
+"You know the fraction, right?  Don't you know the fraction? Now are they asking for percent?",teacher,16,3,,,0.0
+No.,multiple students,1,0,,,
+Are they asking for percent?,teacher,5,1,,,0.0
+No.,multiple students,1,0,,,
+Then what are they asking for percent?,teacher,7,1,,,0.0
+The number [Inaudible],student,3,0,,,
+"For the number of students, right?  They're asking for the number of students.  Student J, they're asking for the number of students. to solve it?  How would you solve this?  There are 27 students in the classroom and you know that the fraction – you know the fraction of those that are walkers.  You know the fraction of those that are walkers, right?  Now I want to know how many of those walkers in the classroom.  How would you solve it?",teacher,81,3,,,1.0
+"I would put 70 – well you said 70, right?",student,10,0,,0.0,
+No.  There are 27 students in the classroom and you know that walkers fraction of this number is what?,teacher,19,1,0.0,,0.0
+One-fifth.,student,1,0,,,
+"One-fifth.  One-fifth.  And what they want to know is how many students this represents in that 27 – the number or 27 students you have in the class.  Okay, Student R?",teacher,31,0,,,0.0
+Twenty-seven plus –,student,3,0,,,
+Twenty-seven plus.  Do you think that were going to adding 27 to any number would do it?,teacher,17,0,,,1.0
+No.,student,1,0,,,
+Okay.  Can – what do you think?,teacher,7,0,,,1.0
+I think you could one-fifth.  27 of those –,student,9,0,,0.0,
+Are you gonna add 27?  Okay.  Let me see over there.  I'll go to the girls in a minute.,teacher,19,1,1.0,,0.0
+You're gonna put 30 minus what equals give you 27.,student,10,0,,0.0,
+Is that the way to solve this problem?,teacher,8,0,0.0,,0.0
+No.,student,1,0,,,
+Let me go to one of the girls over there.  Okay.  Now how would you solve the problem?,teacher,18,0,,,1.0
+You will one-fifth of 27. Yes.,student,6,0,,,
+"One-fifth of 27.  Girls, girls.  Do you agree with her?",teacher,10,0,1.0,,1.0
+Yes.  We agree.,student,3,0,,,
+Okay.  You said you're gonna find what?,teacher,7,0,,,0.0
+One-fifth.,multiple students,1,0,,,
+One-fifth of 27.  Why one-fifth of 27?  Why one-fifth?  Where did you come up with one-fifth?,teacher,16,0,,,1.0
+Because one-fifth of her students walked.,student,6,0,,,
+"Okay.  One-fifth of her students walked – are walkers.  Now, boys do you agree with them?",teacher,16,0,1.0,,1.0
+Yes.,multiple students,1,0,,,
+"And do you agree too?  Now if you all agree that it's gonna be one-fifth.  Yes, it's one-fifth of what?",teacher,20,0,,,0.0
+100.,student,1,0,,,
+Okay.  One-fifth – remember it's one-fifth of 27.  Now the problem is how to find one-fifth of 27.  Now let me see – let me see one of the girls.  How can you find one-fifth of 27?,teacher,37,0,,,1.0
+27?,student,1,0,,,
+Yes.,teacher,1,0,,,0.0
+Divide by one.,student,3,1,,,
+You divide 27 by 1.  Okay.  You said – say it again?,teacher,12,1,,,0.0
+27 divided by 1.,student,4,1,,,
+You divide 27 by 1?,teacher,5,1,,,0.0
+I mean times one.,student,4,0,,,
+Okay.  Times one.,teacher,3,0,,,0.0
+Equals 27.,student,2,0,,,
+Okay.  Equals 27.,teacher,3,0,,,0.0
+27 divided by five.,student,4,1,,,
+27 divided by five?,teacher,4,1,,,1.0
+Yes.,student,1,0,,,
+27 divided by five is what?,teacher,6,1,,,0.0
+"Equals five, remainder two. Yeah.  It will be [Inaudible].",student,9,1,,0.0,
+It's five? Okay.  Let me go –,teacher,7,0,0.0,,0.0
+Or you just could do this.,student,6,0,,,
+Yes.,teacher,1,0,0.0,,0.0
+You could do 100 divided by 25.  It gives you the answer.,student,12,1,,0.0,
+Okay.  It's – the answer is five for over here.  But now don't you think that we have a problem with this problem here?,teacher,24,0,1.0,,0.0
+Yes,student,1,0,,,
+What's the problem?  Who – ?,teacher,6,0,,,0.0
+The remainder.,student,2,1,,,
+"Because we have the remainder.  Now, remember, what are you going to do with the remainder here?  Now let's think about this.  Are we talking about what – people?  Students.  Now can you have five students point two or five?",teacher,40,2,,,0.0
+No.,student,1,0,,,
+You got to find the whole –,teacher,7,1,,,0.0
+Whole number.,student,2,1,,,
+"A whole number.  Now, don't you think that there's this number over here, 27, you cannot find one-fifth of it and get the whole number?  I don't think that 27 works over here because I'm not gonna have five students and a portion of a student.  Right?",teacher,47,2,,,0.0
+No.,multiple students,1,0,,,
+"Now maybe – but the concept is here.  Okay, the concept is here.  Now, what did you do to make it work.  Could you –",teacher,25,0,,,1.0
+You could [take seven].,student,4,0,,,
+You would change this?,teacher,4,0,,,1.0
+Yeah.,student,1,0,,,
+Change what?,teacher,2,0,,,0.0
+To seven.,student,2,0,,,
+Change this?,teacher,2,0,,,0.0
+[Inaudible].,multiple students,1,0,,,
+Yeah.  But they're asking how many of her students walked to school.  Now if it's 27 – one-fifth walked to school you're not gonna find because this is 27 – 25.  They you have the remaining,teacher,36,0,,,0.0
+[Inaudible].  It would be [25].,student,5,0,,,
+No.  You could change it to 25.  Right.  Now maybe there was a mistake when they wrote this problem.  I didn't write the problem.  Okay.  But the suggestion would be to change the number 27 to 25.  Now I didn't change it on purpose when I started because I wanted you to figure it out.  And good. Now if you change it to 25 would be what?  How many students?,teacher,70,0,1.0,,0.0
+Five.,multiple students,1,0,,,
+By five?  Five students.  Great.,teacher,5,0,,,0.0
+I know why I got 25.,student,6,0,,,
+Yes.  What's that?,teacher,3,0,0.0,,0.0
+I know why I got 25.,student,6,0,,,
+Why?  Yes?,teacher,2,0,1.0,,1.0
+27 divided by five plus five remainder two.  I got the two and the two [Inaudible] from the [seven] and I got five.,student,23,2,,0.0,
+Yeah.  Is there any other number that could work there besides 25?  Yes?,teacher,13,0,1.0,,1.0
+Twenty.,student,1,0,,,
+Twenty?  Twenty would work.  Why 20?  Why would 20 work?,teacher,10,0,,,1.0
+Because –,student,2,0,,,
+Excuse me.  Why would 20 work?,teacher,6,0,,,1.0
+Five times –,student,3,0,,,
+Times what?,teacher,2,0,,,0.0
+Four equals one.,student,3,0,,,
+Yes.  Now – and I don't know if that would work there.,teacher,12,0,,,0.0
+Thirty.,student,1,0,,,
+Thirty.  Yes.  Thirty would work.  Why?,teacher,6,0,,,1.0
+Because five times six is 30.,student,6,0,,,
+"Okay.  Because five times six is 30.  Now, good.  And this is great because you realized that the number 27 doesn't work over here because you cannot have 5.2 students.  Now you have something to say about this?  Yes.",teacher,39,0,1.0,,1.0
+"Teacher, can you [Inaudible] 35?",student,5,0,,,
+Yep.  35?,teacher,2,0,1.0,,0.0
+Yeah.,student,1,0,,,
+Would 35 work?,teacher,3,0,,,0.0
+No.,student,1,0,,,
+Why not?,teacher,2,0,,,1.0
+Yes.  Yes.  Yes.,student,3,0,,,
+Is 35 divisible by five?,teacher,5,1,,,0.0
+Yeah.,student,1,0,,,
+"Yes.  It is, right.  Yes.  35 is divisible by 7.  Now this is what we're problem.  This is similar to that and you're gonna work here with your groups, right?  You're gonna try to solve it.  And I want to hear you talking about the problem. You're doing problem number 10.  [Inaudible] problem number 10 on the other side of the paper.  Problem number 10. Number 10.",teacher,67,1,,,0.0
+Did I do good?,student,4,0,,,
+"Yes.  Number 10.  We're gonna do problem number 10, okay. Let's work.",teacher,12,0,,,0.0
+[Inaudible],student,1,0,,,
+Yes.  Now we cannot fix it but I'll turn it off in a minute.,teacher,14,0,,,0.0
+Teacher?,student,1,0,,,
+"Yes.  Now we are problem number 10.  Let's work on problem number 10.  Can you work over here?  I'm gonna go around and see how you're working, how you're doing this.  Okay. Work with your group over here.",teacher,38,0,,,0.0
+Is he supposed to work with us?,student,7,0,,,
+"That's fine.  Okay.  What you need?  A pencil.  All right.  We have – let's say I'm gonna give you 10, 15 minutes to do it.  That's – let's do it.  Let's work.  Okay?",teacher,33,0,0.0,,0.0
+[Inaudible] [in the corners].,student,4,0,,,
+"Okay. What's the first thing you do you do here?  You read the problem, right/",teacher,15,0,,,0.0
+"Yes.  And I read the first one last. Today's 16, right? Thirteen. Sixteen.",student,13,0,,0.0,
+Thirteen.,teacher,1,0,1.0,,0.0
+Melanie sings in the chorus at her school.,student,8,0,,0.0,
+Chorus.,teacher,1,0,1.0,,0.0
+In the chorus.  Three-fifths of the student are in the [sixteen group] and the rest are in the fifth grade.  The chorus [is three-fifth student are in the sixth grade are three-fifth and they are no chorus.  And the rest – and the rest are in the -- ],student,49,0,,0.0,
+"Now, you – now read the question.  Question A.  Read the question A and try to understand and try to understand what they're asking you to do.",teacher,27,0,0.0,,0.0
+[Inaudible],student,1,0,,,
+Okay.  Did you read the problem?,teacher,6,0,,,0.0
+Yes.,multiple students,1,0,,,
+Did you read the problem?  Now did you read the first question?,teacher,12,0,,,0.0
+Yes.  At first we're gonna find the percent and then we can know – students are in chorus and sixth grade.,student,21,1,,0.0,
+And what is the first question?  What does –,teacher,9,0,0.0,,0.0
+It says what fraction of the students in chorus are in [fifth grade]?,student,13,1,,0.0,
+What were they?  What –,teacher,5,0,0.0,,0.0
+Fraction.,student,1,1,,,
+What fraction from the student in the chorus are in what grade?,teacher,12,1,,,0.0
+Fifth.,multiple students,1,0,,,
+In fifth grade.,teacher,3,0,,,0.0
+There's a way to figure it out.  If you put that you find the percent that you – is closest.  But how much you could see – you find the percent of the students in fifth grade.  So then you could find the number.  You know the – ?,student,49,2,,0.0,
+The fraction?,teacher,2,1,0.0,,0.0
+"No, not the –",student,4,0,,,
+The percent.  Yes.,teacher,3,1,,,0.0
+And then you could turn that percent into a fraction.,student,10,2,,1.0,
+Okay.  You can present the fraction.  Okay.  Go ahead do it and work together to solve it.  Okay.,teacher,18,1,0.0,,0.0
+The fraction as a percent.,student,5,2,,,
+Okay.  Let him say.  He – let him expose his idea.  Okay.,teacher,12,0,0.0,,0.0
+We know the percent.  If you subtract it – we'll subtract that by that – we – if you know the percent of it you might find the answer from it.,student,31,4,,0.0,
+The answer to that.,teacher,4,0,1.0,,0.0
+Yes.,student,1,0,,,
+Now –,teacher,2,0,,,0.0
+100 percent by 60.,student,4,1,,,
+Is this is a strategy that you're gonna use to solve this problem.  Are you gonna 30 percent?  She said she wanted to say something.  Okay.,teacher,26,1,,,0.0
+"She said the [Inaudible] percent 'cause the reason – I mean yes it does. I thought that was a [sixteen] [Inaudible] [because one 50 plus 20, fifty plus 20.]",student,29,1,,1.0,
+Mm-hmm.,teacher,1,0,0.0,,0.0
+And three sixes.  [Sixty.],student,4,0,,,
+Yeah.  Correct. Now –,teacher,4,0,,,0.0
+"You're going to 68. Now you guys are agreeing to put, like 100 [Inaudible].",student,14,0,,0.0,
+"I want to redirect you to the question.  And what's the question?  What is the question?  What fraction?  But remember – okay, it sends –",teacher,25,1,0.0,,0.0
+Fraction.,student,1,1,,,
+When they ask – the answer would be?,teacher,8,0,,,0.0
+Fraction. Two-fifths because –,student,4,1,,,
+"No, the answer would be in fraction, right?",teacher,8,1,,,0.0
+Yes.,student,1,0,,,
+"Okay.  Now discuss it among – discuss it among you.  All right now.  But one thing I want you to explain how you got the answer, all right?",teacher,28,0,,,1.0
+Yes.,student,1,0,,,
+Okay.  Shh.  Yes.,teacher,3,0,,,0.0
+[Inaudible],student,1,0,,,
+How's it going?,teacher,3,0,,,0.0
+[Inaudible]  Three-fifths [Inaudible].,student,3,0,,,
+"Yes, then did you write the answer there?  How you gonna write the answer?  How you gonna write the answer?",teacher,20,0,,,0.0
+I'm gonna write of the [Inaudible] there are six of –,student,11,0,,0.0,
+Then you got to write it down.,teacher,7,0,0.0,,0.0
+"Of – oh, yeah.",student,4,0,,,
+Now did you figure it out.  What are they asking you to do? What fraction?,teacher,15,1,,,1.0
+What fraction of the student on the – from the chorus are in the fifth grade?,student,16,1,,0.0,
+You know that three-fifths are in the sixth grade?,teacher,9,0,1.0,,0.0
+Yes.,student,1,0,,,
+Three-fifths is in the sixth grade.  And the rest?  The rest in the fifth grade.  Now what's the fraction then?  What are you gonna do to find out?  What are you gonna do to find out?,teacher,36,1,,,0.0
+You're gonna add 60 times 20.,student,6,1,,,
+You're gonna 16 – 60 and?,teacher,6,0,1.0,,0.0
+Times 20.,student,2,0,,,
+"Oh, you're gonna multiply sixty times – why?  Why is that?",teacher,11,1,,,1.0
+Because look you have three-fifths.,student,5,0,,,
+Where did you come up with 60?,teacher,7,0,0.0,,1.0
+Three-fifths.,student,1,0,,,
+Okay.  That's 60 what?,teacher,4,0,,,0.0
+60 percent.,student,2,1,,,
+Then you're gonna use percent to solve this problem?  Are you gonna use percent to solve this problem?,teacher,18,2,,,0.0
+Yeah.,student,1,0,,,
+Okay.  If a fifth is 60 percent then what else?  What else you gonna do.,teacher,15,1,,,1.0
+You're gonna [Inaudible] 60 times three.,student,6,0,,,
+Why?,teacher,1,0,0.0,,1.0
+Because the three – when it's three-fifths and six.  If that – three-fifths equals 60 but you could [60] percent.  So when it's 60 percent and it's three-fifth and [this] number so you could add [10] numbers by the – number that gives 60. So you could add 60 percent.  60 times three.,student,53,5,,1.0,
+"Let me ask you this question.  If you were asked to come up with a fraction that would represent the whole number over here what would that be?  A fraction that could represent the whole number over here?  The whole number.  If this is portion, a part, a fraction that – a fraction that represents the whole.  Think about that.  I'll come back in a minute.",teacher,66,8,1.0,,0.0
+"This group doesn't want to listen.  Teacher, some of the people have their own opinion.  [Inaudible] But they can't combine it together.",student,22,0,,0.0,
+Let me see the problem.  Okay.  One at a time.  Excuse me.  One at a time.  Listen – I want everyone to listen to her.  All right?,teacher,27,0,0.0,,0.0
+Three-fifths is 60 percent.,student,4,1,,,
+Yes.  I want you to listen to her.,teacher,8,0,,,0.0
+If we did 100 percent minus 60 percent equals 40.  So we find a fraction that equals to 40 percent. Two-fifths.,student,21,4,,0.0,
+Yes.  Then is that the answer.,teacher,6,0,0.0,,0.0
+Yes.,student,1,0,,,
+Yep.  That is – it seems to me that the answer – what do you have to say?  Let me see.  Do you agree with them?,teacher,26,0,,,1.0
+"Yeah but they're not talking about, like, percent.",student,8,1,,0.0,
+Percent?  Okay.,teacher,2,1,1.0,,0.0
+They're talking about fractions.,student,4,1,,,
+But what she just said is – can you say it again?,teacher,12,0,,,0.0
+"[It's good]. We do 100 percent minus 60 percent equals to 40 percent.  So 40 percent.  You find the fraction.  That equals to 40 percent, two-fifths.",student,26,6,,0.0,
+That's fine.  Do you agree?,teacher,5,0,0.0,,0.0
+They're saying the problem but that's not the problem.,student,9,0,,0.0,
+Excuse me.  You said that's not what?,teacher,7,0,1.0,,0.0
+That's not the problem.  They –,student,6,0,,,
+That's not the question?,teacher,4,0,1.0,,0.0
+It says to use fraction.,student,5,1,,,
+Okay.  Now but what did she say in the end?,teacher,10,0,0.0,,1.0
+I get it but they say it says for us to use fraction.,student,13,1,,0.0,
+Tell me what you did to solve the problem.  Okay tell me what you did.  Tell me what you did.,teacher,20,0,0.0,,1.0
+"Well, I put – well I already know this is 100 percent.",student,12,1,,0.0,
+"Which one is 100 percent?  This one, what?",teacher,8,1,1.0,,0.0
+Five-fives.,student,1,0,,,
+Five-fifths.,teacher,1,0,,,0.0
+Three – five-fifths.,student,3,0,,,
+Yeah.,teacher,1,0,,,0.0
+Three-sixths.  It's 60 percent and [Inaudible].  But like you could say to use fractions.,student,14,2,,0.0,
+Yes.  But what's the answer then?,teacher,6,0,0.0,,0.0
+It's two-fifths.,student,2,0,,,
+Okay.  Two-fifths.  And did you write the answer two-fifth? Didn't she say two-fifth?,teacher,13,0,,,0.0
+Yeah.,student,1,0,,,
+"She used another strategy, right?  She used another strategy to solve the problem.  That's fine.",teacher,15,0,,,0.0
+They're the same thing.  Use a fraction.,student,7,1,,,
+You used fraction.  She used percent.  But then in the end what she did?  She converted it into – ?,teacher,20,3,1.0,,1.0
+[Inaudible]  You're supposed to let the percent – you're supposed to make –,student,13,1,,0.0,
+No but what did she say?  You don't have to write – the answer's not in percent.  The answer is in –,teacher,22,1,1.0,,0.0
+Fraction.,multiple students,1,1,,,
+Fraction.  That's what she said in the end.,teacher,8,1,,,0.0
+That's what I said.,student,4,0,,,
+Okay.  She was explaining how she solved it.,teacher,8,0,,,1.0
+That's what I said.  You're supposed to.,student,7,0,,,
+Exactly.  Exactly.  Hold on.  Hold on.,teacher,6,0,0.0,,0.0
+You're supposed to use a fraction.,student,6,1,,,
+Yeah.  But what's the answer now?  I want to see the answer.,teacher,12,0,0.0,,0.0
+Two-fifths.,student,1,0,,,
+Two – that's got to be the answer.,teacher,8,0,,,0.0
+Percent.,student,1,1,,,
+Yes.  It's not gonna be in percent.,teacher,7,1,,,0.0
+It's gonna be in fractions.,student,5,1,,,
+It's gonna be in fractions.,teacher,5,1,1.0,,0.0
+It tells you to explain it.,student,6,0,,,
+Exactly.,teacher,1,0,0.0,,0.0
+But how could I –,student,5,0,,,
+Yes.  Yes.  I understand that.,teacher,5,0,0.0,,0.0
+She explained it in fraction then she cut the answer in half.,student,12,1,,0.0,
+She got the answer.  She used percent,teacher,7,1,1.0,,0.0
+She used percent –,student,4,1,,,
+Yes.  No.,teacher,2,0,,,0.0
+And then giving the answer in fractions.,student,7,1,,,
+"Yes.  And the answer – yes, that's good.  Okay, but you got to write the answer over here.  Write the answer.  Okay. Write the answer.  Write the answer down.",teacher,29,0,1.0,,0.0
+Two-fifths equals forty percent.,student,4,1,,,
+Okay.  You got it write.  It says what fraction of the students in the chorus are – the students in the chorus that are in fifth grade?  The fraction.  The fraction.  You got to write the fraction of the students – you got to start it like that.,teacher,48,4,,,0.0
+"Teacher, [Inaudible] write to the fraction.",student,6,1,,,
+Okay.  What about are you doing it?  You're not doing it.,teacher,11,0,0.0,,1.0
+Five-fives.,student,1,0,,,
+Okay.  You understand?,teacher,3,0,,,0.0
+Five-fifths is [Inaudible].,student,3,0,,,
+"Yeah.  Good discussion.  I like that.  Yes, over here.",teacher,9,0,,,0.0
+He's saying that – he said for us to write there is.  I'm saying for us to write there are 40 of –,student,23,0,,0.0,
+They're asking what – okay.  Over here.  Did you find the answer?  Then what's the answer?  There.  What's the answer over here?,teacher,22,0,0.0,,0.0
+There – there are.,student,4,0,,,
+There are what?,teacher,3,0,,,0.0
+There are two-fifths of fifth grade and –,student,8,0,,0.0,
+Okay.  Two-fifths of the students.,teacher,5,0,1.0,,0.0
+In the chorus.,student,3,0,,,
+"Yeah.  Are in chorus.  Yeah.  Now over here.  Question B, what's – ?",teacher,13,0,,,0.0
+"Yeah, but I forgot the answer.",student,6,0,,,
+It says write your answer from Part A as percent.,teacher,10,1,1.0,,0.0
+We wrote that.,student,3,0,,,
+"Yeah.  But you got to put percent and explain how you know that.  Okay?  Explain.  To each answer I want to see an explanation, okay?  For each one of them.",teacher,30,1,,,1.0
+"But you said to write there are forty percent blah, blah, blah. I was going to write there is 40 percent.",student,21,2,,0.0,
+There is what?,teacher,3,0,1.0,,0.0
+You said like to write there are 40 percent.,student,9,1,,0.0,
+Okay.  And you say just say – it says write your answer from Part A as a percent.  You said that two-fifth equals 40 percent.  Then it's been how you know two-fifths is 40 percent?,teacher,35,3,1.0,,0.0
+We'll say that –,student,4,0,,,
+"Okay.  Now just write it down.  Discuss it and write it down. Boys, I want you to in the – you too.  Yes?",teacher,23,0,,,0.0
+[Inaudible],student,1,0,,,
+"No, okay.  Can you come up with the – it's a fraction.  A fraction number that would represent a whole over here. Looking at this is three-fifth, right?  And you can thinking that the whole using the fraction.  How would you write it?  This is three-fifths.  And a whole would be what?",teacher,52,6,,,1.0
+One.,student,1,0,,,
+No.  A whole is one but give it in fractions.,teacher,10,2,,,0.0
+One whole is –,student,4,1,,,
+Over here.  You see this is the denominator.  The denominator is the number of the parts you divide your whole into. Right?  Then that is the part that you divide your whole into.  Hello? Can Student A come to your class for the last hour today? Yes. Thank you very much.,teacher,51,6,,,0.0
+[Inaudible] forty.  Me and Student J. [Inaudible] answers from. We got this answer times because we –,student,17,0,,0.0,
+Okay.  Did you think about the fraction?,teacher,7,1,0.0,,0.0
+We need to put the fraction [Inaudible]. Yeah.  We – I [come from] 60 to 10 because 10 –,student,19,1,,1.0,
+"But wouldn't it be – this is three-fifth.  Three-fifth our students of – sixth-grade students, right in chorus.  And the rest are fifth-graders, right?  I hear three-fifths to go from three-fifths to a whole number and what the fraction you're gonna have there to represent the whole number?",teacher,48,3,0.0,,0.0
+The whole number?,student,3,1,,,
+"This is three-fifths.  Wouldn't that be five-fifths, for example?  Right?  The whole number.  Then if you're going from three-fifths you already know that three-fifth is – five-fifths is what?",teacher,29,1,,,0.0
+Sixty.,student,1,0,,,
+"No, forget about that sixty.  Okay.  Three-fifths of this five- fifths are students in sixth grade.  Now the rest.  If we have three-fifths and the whole is five-fifths, what's the rest?",teacher,31,1,,,0.0
+15.,student,1,0,,,
+No.  Fifteen what?,teacher,3,0,,,0.0
+[Forty] percent.  'Cause –,student,4,1,,,
+No. Why are you coming up with a percent?  You have three- fifths and you're going to five-fifth.  And what's the difference between the two?  Between three-fifths and five- fifths?  How many steps you take to go from – yes and that's – the difference would be the answer to that question.  Yes.  You okay?  Yeah.  Okay.,teacher,57,1,,,0.0
+Are you saying not to write three-fifths of 35 of students.,student,11,0,,0.0,
+Look what question are you doing now?,teacher,7,0,0.0,,0.0
+C.,student,1,0,,,
+Question C?  There are 35 students in this chorus.  What is the total number of students in the chorus who are in the fifth grade?,teacher,25,1,,,0.0
+Yes.,multiple students,1,0,,,
+The whole number is what?  How many students?,teacher,8,1,,,0.0
+Thirty-five.,student,1,0,,,
+It says there.,teacher,3,0,,,0.0
+Yeah.  He's right.,student,3,0,,,
+The whole number is what?,teacher,5,1,,,0.0
+Thirty-five.,student,1,0,,,
+"Thirty-five, right?",teacher,2,0,,,0.0
+Mm-hmm.,student,1,0,,,
+Now do you know – what do you need to know here to solve this problem?,teacher,16,0,,,0.0
+Three-fifths.  Three-fifths equals thirty-five because – I'm trying to say [Inaudible] the students are –,student,15,0,,1.0,
+Yeah.  They're looking for the number of students in sixth grade.  Yes.  Now can you – sixth or fifth grade?  Who are in the fifth grade?  It'll be for the fifth grade?,teacher,32,0,1.0,,0.0
+"Oh, yeah.",student,2,0,,,
+Fifth grade.  What's – what is the fraction for students in fifth grade?,teacher,13,1,,,0.0
+"But no, not three-fifths.  Two-fifths.",student,5,0,,,
+And explain.  Tell him why.,teacher,5,0,0.0,,1.0
+Because [Inaudible].,student,2,0,,,
+"Yes, over here.",teacher,3,0,,,0.0
+"We don't got it because – no, we can't write.  We have to show our work.",student,16,0,,0.0,
+"That's it.  That's fine.  You know, we can write if you would like to.",teacher,14,0,1.0,,0.0
+It says write your answer.,student,5,0,,,
+Okay.  It's 40 percent because what?,teacher,6,1,0.0,,0.0
+Because 100 minus 60.,student,4,0,,,
+Okay.  Then write it down if you think that's the answer.,teacher,11,0,,,0.0
+Forty percent because – I did the [Inaudible].  I didn't write under the problem.  I'm doing the problem but – [Inaudible],student,21,1,,0.0,
+What's that?,teacher,2,0,0.0,,0.0
+[Inaudible] [putting] this on number one.  Number two –,student,9,0,,0.0,
+"Now move to the last question, question C.  And question C says there are 35 students in the course, right?",teacher,20,0,0.0,,0.0
+They didn't tell us before. Take the other one.,student,9,0,,0.0,
+But –,teacher,2,0,0.0,,0.0
+Take the other one.,student,4,0,,,
+Yeah.  Thirty –,teacher,3,0,,,0.0
+This thirty-five is the 100 percent.,student,6,1,,,
+Yes but why it 100 percent?,teacher,6,1,1.0,,1.0
+Because it's the whole.,student,4,1,,,
+"It's the whole.  Good.  The total number.  Now what's the question there?  What's the question, Student A?",teacher,17,2,,,0.0
+On number C.,student,3,0,,,
+Yes.  Letter C.,teacher,3,0,,,0.0
+There are 30 –,student,4,0,,,
+What's the question?,teacher,3,0,,,0.0
+I know.  What is the total number of the students in the chorus? There's two parts. Who are in fifth-graders so show or explain how you --,student,27,1,,0.0,
+Okay.  Now what is – the question is what's the number of students in the chorus who are what?  Who are –,teacher,22,0,1.0,,0.0
+Fifth grade.,student,2,0,,,
+"Who are in the fifth grade.  Remember, you have sixth-graders. You have fifth graders.  Now, how – exactly.  But you got to figure it out.  How you gonna figure it out?  No. Excuse me.  Are they asking you for a fraction?  You know the fraction, right?",teacher,46,2,,,0.0
+Yes.,student,1,0,,,
+"Okay, but knowing the fraction could you help you solve the problem.",teacher,12,1,,,0.0
+Three-fifths at a – of 35.,student,6,0,,,
+To – out of 35?,teacher,5,0,1.0,,0.0
+Yes.,student,1,0,,,
+Out of 35?,teacher,3,0,,,0.0
+No.  Of.  Of 35.,multiple students,4,0,,,
+Two-fifths of 35.  Yeah.  You got to find out what's two-fifths of 25?  Okay.  Did you do it?,teacher,18,0,,,1.0
+"Yes, we did.",student,3,0,,,
+Okay.  Did you – are you doing that?  Are you working together?,teacher,12,0,,,0.0
+Yeah.,student,1,0,,,
+I want to know how you're doing that last question.  Okay.  Let me see.  Correct.  Yes then how did you find out?,teacher,22,0,,,1.0
+Because you said the one of the number would be the two and five.  So I thought –,student,18,0,,1.0,
+Can you write the equation there?  Write the equation there.,teacher,10,2,0.0,,0.0
+So you said –,student,4,0,,,
+To question A.  What's the equation?,teacher,6,1,,,0.0
+You said three –,student,4,0,,,
+Three what?,teacher,2,0,,,0.0
+Three –,student,2,0,,,
+"Three-fifths, right?",teacher,2,0,,,0.0
+Three-fifths.  Yeah.  Three-fifths.,student,3,0,,,
+"Is that plus, right?",teacher,4,0,,,0.0
+"Yeah, plus.",student,2,0,,,
+Plus what?  Are you gonna what?,teacher,6,0,,,0.0
+Yeah.,student,1,0,,,
+Equals the –,teacher,3,0,,,0.0
+"Five-fifths, right?",student,2,0,,,
+Okay.  Now what's the answer here?,teacher,6,0,,,0.0
+Two.,student,1,0,,,
+Two?,teacher,1,0,,,0.0
+Two-fifths.,student,1,0,,,
+"Yes, two-fifths.  Then what fraction of the students in the course are in fifth grade?",teacher,15,1,,,0.0
+Two-fifths.,student,1,0,,,
+"Two-fifths.  Good.  And that's the answer, right?",teacher,7,0,,,0.0
+Two-fifths.,student,1,0,,,
+Then move to once you're done with that move to question B. Then you got to write – okay just circle it or write it. Write the see.,teacher,28,1,,,0.0
+Can I explain?,student,3,0,,,
+Yes.,teacher,1,0,,,0.0
+We took two-fifths of 35 and then we did 35 times two equals 70.  79 divided by 5 equals 14.,student,20,1,,0.0,
+How do you – where do you come up with two-fifths?,teacher,11,0,1.0,,1.0
+"Because we found out that there are two-fifths of the students in fifth grade in chorus so then we did – we put two- fifths.  The first two-fifths is the students in fifth grade.  And then we put three-fifths of the total, which is 35.  And then we got 14 because we did 35 times two equals 70.  And 70 divided by five equals 14.",student,65,2,,1.0,
+14.  Yep.  Yep.,teacher,3,0,1.0,,0.0
+14 of the students – 14 of the students aren't in –,student,12,0,,0.0,
+Did you the same?  Did you do the same?,teacher,9,0,0.0,,0.0
+Yes.,multiple students,1,0,,,
+"Now, that's good.  I like that.  Okay.  Do you agree also with them?  Let me see.  Okay.  One at a time.  Excuse me. Excuse me.  One at a time.  She's talking now.",teacher,32,0,,,0.0
+The answer and the answer is 14 but he doesn't agree with us.,student,13,0,,0.0,
+That's fine.  That's fine.,teacher,4,0,0.0,,0.0
+He thinks that – Did you ask him?,student,8,0,,0.0,
+Okay.  Hold on.,teacher,3,0,0.0,,0.0
+He thinks two has a remainder but it doesn't.,student,9,1,,0.0,
+Now let me hear your point.,teacher,6,0,0.0,,0.0
+I think the answer's not 14 because –,student,8,0,,0.0,
+And why?,teacher,2,0,0.0,,1.0
+Just [we put shoulders on the bird].  So on part A it says 100 minus 60 equals 40 so I drew – if you put four it's gonna give you the the 40 but I took it out.,student,38,0,,0.0,
+Four is from the forty?  Did you say four from the forty?  Did you get four from the forty?  Is that what you got?,teacher,24,0,1.0,,0.0
+No.,student,1,0,,,
+"Okay.  Now, they didn't – they said they didn't.  Now how did you solve it?  How you solve it and came up with – ? What's the answer?  The answer that you got.",teacher,33,0,,,1.0
+The answer is [some] 35 times 4 equals –,student,9,0,,0.0,
+Where do you come up with four?  Excuse me.  Let him finish. Go ahead.,teacher,14,0,1.0,,0.0
+Four is from the forty.,student,5,0,,,
+How so?  Excuse me.  Let him finish.  Let him think.  Let him say.  Okay.  How so?,teacher,16,0,0.0,,1.0
+"Because I know that 100 minus 60 it gives you 40, so you take out",student,15,0,,1.0,
+"But now that's – is that the way that you solve the problem?  I don't think that is a good way to solve this problem.  Now, because 40 over here.  Listen.  Let me say this.  40 doesn't have anything to do with this problem.  It does in a certain way because two-fifths is the same as 40 percent. But once you're solving this problem over here, you're not gonna take four from this number 40, all right, to solve it. Now there's a way to do it.  Now you have 35 students, right?  Thirty-five students the whole number, right?",teacher,99,2,1.0,,0.0
+Mm-hmm. find out the number of students in the course who are in the fifth grade.  Now you know the fraction of the fifth grade students in the course.  Do you know that?  What's the fraction?  You found it out somewhere else here. The fraction's two-fifth.,student,46,3,,0.0,
+Two-fifth.  Right.  And then it's two-fifths of how many students?,teacher,10,0,1.0,,0.0
+Thirty-five.,student,1,0,,,
+Thirty-five students.  Now what you're gonna do is to find what? To find out two-fifths of 35.  Now remember how to find a fraction of a whole number?  Do you remember that? How you find the fraction of a whole number.  And the fraction's two-fifths of 35.  Or it should be 35 over here not 25.  Now what to do to find out.  What do you want to do to find out that two-fifths of 35?  I want him to think and tell me.,teacher,84,5,,,1.0
+Are we going to do 35 minus four?,student,8,0,,0.0,
+Minus four again?,teacher,3,0,1.0,,0.0
+No.  Thirty-five minus forty.,student,4,0,,,
+Why are you bringing 40 to this – excuse me.  Okay.  Why are you bringing forty to this equation right here?,teacher,21,1,,,1.0
+Because two-fifths equals forty.,student,4,0,,,
+Yeah.  I understand that.  Two-fifths equals forty.,teacher,7,0,,,0.0
+You do 40 minus 35.  It gives you five.,student,9,0,,0.0,
+"No, it's not gonna work like that.  Forty is percent.  Then if you're gonna mix percent with a whole number – with a whole number and a fraction -- a fraction number, you're gonna create a problem.  Now this is what you're going to do. I'm trying to understand your idea.  I know why you're thinking like that maybe because two-fifths is 40 percent. Right?",teacher,65,7,0.0,,0.0
+Yeah.,student,1,0,,,
+"And this case it would be 40 percent plus what gives you 100 percent then see the difference between the two in percent, which would be 60 percent then convert the 60 percent into a fraction.  And find out how – what number of students the fraction represents.  That would be complicated.  Now let's – there is an which I can see to be an effective one to solve this problem, which is to find two-fifths of 35.  What do you do?  What'd you do?  Can you tell him what you did?",teacher,92,8,,,1.0
+Yeah.  We did two times 35 equals 70.,student,8,0,,0.0,
+Okay.  Two times 35.,teacher,4,0,1.0,,0.0
+So 70 divided by five equals 14.  So 14 of the – there are 14 –,student,16,1,,0.0,
+"Do you see what she did?  She multiplied or they multiplied two times 35, right, which is 70.  70 divided by five is 14. Or she could do this.  Thirty-five divided by five, which is seven.  Then seven times two could be 14.  That's the answer to the question.  The answer is there are how many students?",teacher,57,4,1.0,,0.0
+14.,multiple students,1,0,,,
+"14.  Fourteen students.  Yes.  Yeah.  Okay.  Boys and girls, you did a great job working on these problems.  Actually this problem with one, two, three parts.  Three questions. Now this is – this is great.  You did great.  Excellent. You could come and share but we're already out of time. That's why we got to stop it here and you guys did great. You did great.  Excellent job.  Excellent job.  And you demonstrated that you know your fractions and your percents and hopefully that you'll continue to do to your best in order to learn more.  All right?  [Applause]  Good job. Good job.",teacher,103,2,,,0.0
+If you was grading this and not for [money] if this was in [Inaudible] and we [was] filming it.,student,19,0,,0.0,
+Okay.  What are you saying?  If this was a test?,teacher,10,0,1.0,,1.0
+"Yeah.  If you graded this and we had the same thing, you will graded it and get a – we all get a –",student,24,0,,0.0,
+Yeah.  I'm gonna grade it.  I'm gonna grade it.  Yes. [Applause],teacher,11,0,1.0,,0.0

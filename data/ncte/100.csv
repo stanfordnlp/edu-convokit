@@ -1,0 +1,586 @@
+text,speaker,talktime_words,math_density,uptake,student_reasoning,focusing_questions
+"Okay.  Everybody please take out your morning work, which had the bar graphs on it, please.  There’s no more talking. Right.  And if you need to have your notebook out, because it has the definition of the vocabulary words that we’re talking about, you may have that out as well.  Make sure your name is on the top.  I see a lot of people did not do anything on their morning work this morning.  So, I’m gonna check – write that down. Okay.  We’re not talking.  So, why don’t we take three minutes to at least get the first two problems done so that we can have a conversation about it and it’s not just one person.  Three minutes independently working. Boys, we’re not talking.  We’re not talking. Where’s your paper?",teacher,131,2,,,0.0
+"Teacher, ___________.  ’Cause I know that this is the average, but what do I add up?",student,16,2,,0.0,
+"So, which one is Tom?",teacher,5,0,0.0,,0.0
+Tom.,student,1,0,,,
+"If you look at this key, which one is Tom?",teacher,10,0,,,0.0
+The blacks.,student,2,0,,,
+"The dark black, so you want to add up his numbers first.",teacher,12,1,,,0.0
+Okay.,student,1,0,,,
+Okay?,teacher,1,0,,,0.0
+And do you _______________?,student,4,0,,,
+"Well, that’s why you have to make – you have to make sure you look at the key to see which bar is Tom and which bar is Mike.",teacher,29,0,,,0.0
+"Oh, okay. I have a problem too.  Mine ____________.",student,9,0,,0.0,
+"So, it says, “What is the mean number of golf balls that Tom lost?”  So, you’re just talking about Tom, then you’re just talking about Mike.",teacher,26,0,0.0,,0.0
+"So, first do Tom, then Mike.",student,6,0,,,
+"First, do Tom, then do Mike.",teacher,6,0,1.0,,0.0
+Teacher?,student,1,0,,,
+Yep.,teacher,1,0,,,0.0
+_______________.,student,1,0,,,
+I used to have a black marker.,teacher,7,0,,,0.0
+What’s the range again?,student,4,0,,,
+Didn’t you write it down?  Okay.  You just wrote the numbers. Range is maximum minus minimum.,teacher,16,0,,,0.0
+Oh.  And you divide it by five?,student,7,1,,,
+"Yes. Can I see your answers?  Where did you get nine from?  When they say do at this, is nine even on here?",teacher,23,0,0.0,,1.0
+Yes.,student,1,0,,,
+"So, is it possible that it’s gonna be nine?",teacher,9,0,,,1.0
+No.,student,1,0,,,
+"So, look at that one again. Okay.  Let’s take a look at this.  We’re gonna start with Tom, right?",teacher,19,0,,,0.0
+Yes.,student,1,0,,,
+"Before we even do any of the data analysis that they’re asking us to do, let’s just write down Tom’s data.  So, what does the bar graph tell us?  What does the bar graph tell us? Only Student T or and Student K have an idea?  Student T?",teacher,48,6,,,1.0
+The black graph is telling us number of golf balls and the golf date.,student,14,1,,0.0,
+"So, it tells us the number of golf balls and then it also tells us the dates.  Student K, did you want to add to that?",teacher,26,1,1.0,,1.0
+"Yeah, that’s the same.  Yeah, the number of golf balls they lost.",student,12,0,,0.0,
+"The number of golf balls they lost.  So, the first thing we want to do is list the number of golf balls that Tom lost. So, can someone raise their hand to tell me just in the order that it’s in on the chart what the numbers are? Student T?",teacher,50,0,1.0,,0.0
+"Five, four and one, one, one.",student,6,0,,,
+"Five, four, one, one, one.  Everybody agrees?  Yes?  Okay. This isn’t the first question on your paper but let’s just review.  What is the maximum number of golf balls that Tom lost?  Raise your hand.  What is – actually, show me on your hand.  What is the maximum number of golf balls that Tom lost?  Show me on your hand.  The maximum number.  So, Table Three has an idea.  Three people at Table Two have an idea and only one person at Table – show me on your hand how many – what your maximum number of golf balls lost was. Five. Why is five the maximum?  Raise your hand.  Why is five the maximum?  What is maximum?  Student C?",teacher,120,0,1.0,,0.0
+The highest.,student,2,0,,,
+"The highest or the greatest.  So, in this case, the maximum is five.  What’s the minimum number of golf balls that Tom lost?  This one’s tricky.  Show me on your hand.  So, we have a lot of ones. What we didn’t include here is look on September 18th.  How many golf balls did he lose?  Zero.  So, we need to add a zero here. So, now, what’s the minimum number of golf balls Tom lost?",teacher,75,1,,,0.0
+Zero.,multiple students,1,0,,,
+"Zero.  So, in this case, when there’s a date, when there’s a date and nothing is there, it indicates zero, right?",teacher,21,0,,,0.0
+Yes.,multiple students,1,0,,,
+"So, we have to include that zero, ’cause he golfed for six days.  Okay? So, if the maximum is five and the minimum is zero, what’s the range?  What’s the range?  Who remembers how to find range?  Come on, boys and girls.  Who remembers how to find range?  We wrote it in our notebooks.  Student T?",teacher,56,0,,,0.0
+_____ equals – subtract the maximum from the minimum.,student,9,1,,0.0,
+"You subtract the minimum from the maximum.  So, if the maximum is five and the minimum is zero, show me on your hand what the range is, please.  What’s the range?  If the maximum is five and the minimum is zero, what’s the range?  Good, the range is five, because five minus zero is five.  Okay. Now, the first question on your paper is, “What is the mean number of golf balls?”  And mean we said was average.  How do we find the average or the mean number of golf balls? Only Student J knows how and Student J and Student T and Student N.  Raise your hand to tell me how – Student R, put that down, please.  Raise your hand and tell me how we find the mean or the average.  Nobody at Table – okay.  Student J?",teacher,140,4,1.0,,0.0
+By adding all of them up.,student,6,0,,,
+Adding all the numbers up and then?,teacher,7,0,1.0,,0.0
+"Oh, and then, dividing up – dividing them by the numbers they are in?",student,14,0,,0.0,
+"So, diving by the number of numbers.  So, if we add these numbers up, we have five plus four is what?",teacher,21,1,1.0,,0.0
+Nine.,multiple students,1,0,,,
+Excuse me?,teacher,2,0,,,0.0
+Nine.,multiple students,1,0,,,
+Nine plus one?,teacher,3,0,,,0.0
+Ten.,multiple students,1,0,,,
+Plus one?,teacher,2,0,,,0.0
+11.,multiple students,1,0,,,
+Plus one?,teacher,2,0,,,0.0
+12.,multiple students,1,0,,,
+Plus zero?,teacher,2,0,,,0.0
+12.,multiple students,1,0,,,
+"So, we have 12 and what are we gonna divide by?  Show me on your hands.  What are we gonna divide by?  I’ve got some votes for 5 and some votes for 6.  How many numbers are here?",teacher,38,2,,,0.0
+Six.,student,1,0,,,
+"6, so, we’re gonna divide by 6.  So, show me on your hand what 12 divided by 6 is, please?  2.  So, our mean is 2. What is the mode of this data set?  What is the mode? Remember I capitalized the M and the O for a reason in mode.  Why do I capitalize the M and the O?  What do those stand for, Student R?",teacher,67,3,,,1.0
+Most often.,student,2,0,,,
+"Most often.  So, which of those numbers appears most often, Student L?",teacher,12,0,,,1.0
+Can you come back to me?,student,6,0,,,
+"Nope, which of those numbers is up there the most?",teacher,10,0,0.0,,0.0
+Five and one.  Wait.,student,4,0,,,
+"Five, four, one, one, one, zero, which one’s up there the most?",teacher,12,0,,,0.0
+Five.,student,1,0,,,
+Five is up there more than any other number?,teacher,9,0,,,0.0
+"No, zero.",student,2,0,,,
+Zero’s up there?,teacher,3,0,,,0.0
+Can you come back to me?,student,6,0,,,
+Student M?,teacher,2,0,0.0,,0.0
+One.,student,1,0,,,
+One.  Why is one up there the most?  How many times is one listed?,teacher,14,0,,,1.0
+Three and like –,student,4,0,,,
+Three.,teacher,1,0,,,0.0
+Yeah.,student,1,0,,,
+And do you see that?,teacher,5,0,,,0.0
+Yeah.,student,1,0,,,
+And everything else is only listed once.,teacher,7,0,,,0.0
+Yeah.,student,1,0,,,
+"So, the mode is one. How about the median?  How about the median?  What does median mean?  What are we looking for when we’re looking for median?  Same hands are going up.  I’m waiting for about four people haven’t raised their hand at all. Student J, what’s the median mean?",teacher,50,5,,,1.0
+I think you’re looking for middle.,student,6,0,,,
+The middle number.,teacher,3,0,1.0,,0.0
+"Wait, Teacher, we didn’t do the range.",student,7,0,,,
+We did range.,teacher,3,0,1.0,,0.0
+Oh.,student,1,0,,,
+"So, if we’re finding the middle number, what’s the first step we have to do?  Put the numbers in what?",teacher,20,0,,,0.0
+Order.,multiple students,1,0,,,
+"Order.  Fortunately, for us, it is.  It’s in backwards order, but it’s in order.  And then, we have to find the middle number.  And we’ve been using the technique of going one, one, one, one, right?  So, we cross out the zero, the five, the one, the four, uh-oh –",teacher,50,0,,,0.0
+Because –,student,2,0,,,
+"– we have two numbers left, but they’re the same.",teacher,10,0,,,0.0
+Add ’em up.,student,3,1,,,
+"So, what we would do is we would add them up.  We’d find the average of these two.",teacher,18,2,,,0.0
+Two.,student,1,0,,,
+"So, if we add one plus one, we get two.  We divide by the number of numbers, which is?",teacher,19,2,,,0.0
+Two.,student,1,0,,,
+Two.,teacher,1,0,,,0.0
+One.,student,1,0,,,
+"So, two divided by two is?",teacher,6,1,,,1.0
+Zero. One.,student,2,0,,,
+"One.  So, the median is one.  Thumbs up if you’re with me. Thumbs in the middle if you’re sort of with me meaning – thumbs up means I get all of those words.  Middle means I know some of those words and how to find them.  Down means I don’t know how to do any of them.",teacher,57,1,,,0.0
+"Wait, what’s range?",student,3,0,,,
+Range is where we did the maximum minus the minimum.,teacher,10,0,,,0.0
+Okay.,student,1,0,,,
+Okay.  Let’s look at Mike’s data now.  Can somebody raise their hand and tell me all of Mike’s data?  Student C?,teacher,21,2,,,0.0
+"All of Mike’s data is six plus two, two and four and four.",student,13,1,,0.0,
+"There should be one more, I think.",teacher,7,0,0.0,,0.0
+Zero.,student,1,0,,,
+Is there a zero?,teacher,4,0,,,0.0
+Yeah.,multiple students,1,0,,,
+"Okay.  So, six, two, two, four, four, zero.  What’s the maximum number of golf balls that Mike lost.  Show me on your hands.  What’s the maximum number?  Maximum.  We have six, two, two, four, four, zero.  I have a vote for four.  I have a vote for six.",teacher,48,0,,,0.0
+"Six, six.",student,2,0,,,
+"Student L, six.  Student N?",teacher,5,0,,,0.0
+"Six, six.",student,2,0,,,
+"Six, why is six the maximum?  Student L, why is six the maximum?",teacher,13,0,,,0.0
+’Cause it’s the highest number.,student,5,0,,,
+"’Cause it’s the highest number.  And maximum, remember we capitalized maximum, ’cause it means the biggest.  Max. What’s the minimum number of golf balls that Mike lost? Show me on your hand.  What’s the minimum number?  I have a vote for zero.  I have a vote for zero.  I have a vote for –",teacher,54,0,1.0,,0.0
+You said what’s the minute?,student,5,0,,,
+"Zero, minimum.",teacher,2,0,1.0,,0.0
+Okay.,student,1,0,,,
+Minimum is zero.  Why is the minimum zero?  What are we finding when we find the minimum number of golf balls?,teacher,21,0,,,0.0
+The least.,student,2,0,,,
+Or the minimum number of anything?  Raise your hand. Student J?,teacher,11,0,,,0.0
+Smaller.,student,1,0,,,
+"The smallest or the least.  Now, we’re gonna find the range. Remind me how we find the range, please.  Remind me how we find the range, Student L?",teacher,28,0,,,0.0
+_______________________.,student,1,0,,,
+Say it again.,teacher,3,0,,,0.0
+Finding the highest number.,student,4,0,,,
+"Well, we found the highest number or the greatest number, which is five.  So, now what do we do to find the range?",teacher,23,0,,,0.0
+Most often.,student,2,0,,,
+Boys.  Okay.  Student T?,teacher,4,0,,,0.0
+Maximum plus the minimum.,student,4,0,,,
+Plus?,teacher,1,0,,,0.0
+_________.,student,1,0,,,
+"Maximum minus the minimum.  Whoops.  So, six minus zero is what?",teacher,11,0,,,0.0
+Six.,multiple students,1,0,,,
+"So, the range is six.  Thank you. Now, we’re gonna find the mean.  Can somebody raise their hand and remind me how we find the mean number of golf balls?  Student T?",teacher,32,0,,,0.0
+__________ our number.,student,3,0,,,
+Then?,teacher,1,0,,,0.0
+"We count how much numbers there are.  Then, we divide.",student,10,1,,0.0,
+"Okay.  So, let’s add it up together.  I’m gonna start with six and four, ’cause that makes a number I’m familiar with. So, six plus four is?",teacher,27,1,0.0,,0.0
+Ten.,multiple students,1,0,,,
+Plus four?,teacher,2,0,,,0.0
+14.,multiple students,1,0,,,
+Plus two?,teacher,2,0,,,0.0
+16.,multiple students,1,0,,,
+Plus two?,teacher,2,0,,,0.0
+18.,multiple students,1,0,,,
+Plus zero?,teacher,2,0,,,0.0
+18.,multiple students,1,0,,,
+"So, we still are at 18.  How many numbers are there?",teacher,11,0,,,0.0
+Six.,student,1,0,,,
+"So, we’re gonna divide by 6.  Show me on your hands, 18 divided by 6.  I’ve got a vote for 3.  A vote for 2.",teacher,25,2,,,0.0
+"Two? Two, who wrote two?",student,5,0,,,
+Six times two is what?,teacher,5,0,0.0,,0.0
+12.,multiple students,1,0,,,
+"So, good, three.  So, the mean is three. What about the mode?  What does mode mean again?",teacher,17,0,,,1.0
+Most often.,student,2,0,,,
+"Most often.  Student M, what’s in your mouth?  Get rid of it, please. So, it’s most often.  So, which number appears most often? Student L?",teacher,25,0,,,0.0
+Two.,student,1,0,,,
+"Two, is there something else?",teacher,5,0,,,1.0
+And four.,student,2,0,,,
+"’Cause they appear the same amount of times, so in this case, we’re gonna write two, four, because both of them are –",teacher,23,0,,,0.0
+Mode.,student,1,0,,,
+"– mode. And, finally, the median.  What’s the first step in finding the median, the most important step of finding the median? Two people know.",teacher,25,3,,,0.0
+I forgot.,student,2,0,,,
+"Four people know, five people, six people.  Student L?",teacher,9,0,,,0.0
+________________.,student,1,0,,,
+"When we’re finding the median, what are we finding, the what?",teacher,11,1,,,0.0
+The middle.,student,2,0,,,
+"The middle.  So, in order to find the middle, we need to put the numbers in what?",teacher,17,0,,,0.0
+In order.,student,2,0,,,
+"In order.  So, let’s put them in order from least to greatest. So, we have zero –",teacher,17,0,,,0.0
+Two.,student,1,0,,,
+Two,teacher,1,0,,,0.0
+"Two, four, four, six.",multiple students,4,0,,,
+"Then, we do our nice trick, where we cross out one on each side.",teacher,14,0,,,0.0
+"Yeah, yeah, yeah, yeah.",multiple students,4,0,,,
+"And we’re left with two and four.  So, when we’re left with numbers, what did I just say that we’re gonna do?  We’re gonna find something?  Raise your hand, ’cause I can’t understand.  Student J?",teacher,35,0,,,0.0
+"We add them, then we divide it –",student,8,2,,0.0,
+Which is finding the?,teacher,4,0,0.0,,0.0
+The mean?,student,2,0,,,
+"The mean, the average, good.  So, four plus two?",teacher,9,1,,,0.0
+Six.,multiple students,1,0,,,
+Six divided by how many numbers?,teacher,6,1,,,0.0
+Two.,multiple students,1,0,,,
+"Two.  So, six divided by two is?",teacher,7,1,,,1.0
+Three.,multiple students,1,0,,,
+"So, the median is three.",teacher,5,1,,,0.0
+What? ______________ information.,student,3,0,,,
+On your piece of paper.  Pardon?,teacher,6,0,,,0.0
+The three is not in there.,student,6,0,,,
+"The three is not in here.  So, Student R makes a good point. How can three be our answer if three’s not in here? Student T?",teacher,26,0,1.0,,0.0
+Because we divided.,student,3,1,,,
+"Because we’re looking at our two middle numbers to see what was the average or what was the middle.  And it’s not 2 and it’s not 4, it’s gonna be somewhere in there.  So, what this means is if we took – what did we come up with 18? Some people aren’t looking at me.  If we took 18 golf balls and they golfed on 6 days.  And we put the same number of golf balls on each day to sort of figure out if he lost the same amount of balls on each day, how many would he have lost?  And so, imagine 6 days, right, Student R?  I want to take the 18 balls and put them on each of those days.  What do we come up with on each day?",teacher,133,1,,,0.0
+Six. Three.,student,2,0,,,
+"3 times 6 is 18.  So, that’s where the three comes from.  It means if we were to spread it out over the six days evenly, how many would each day have had?",teacher,33,0,,,0.0
+I like doing this.,student,4,0,,,
+"So, even though he lost six on one day and two on another, we could figure it out that on each day he lost about three balls.  Okay?  People, good?",teacher,30,0,,,0.0
+Yes.,multiple students,1,0,,,
+Okay.  Put that inside of your blue folder.,teacher,8,0,,,0.0
+It’s in the back.,student,4,0,,,
+"Make sure your name is on it.  And then, I want to draw your attention to the fact that on your table there are some geometric solids, wooden solids.  There are five of them. And here’s what I’m gonna ask you to do.  I’m not sure they gave you guys a second set.  Student T is ready.  Student L is ready.  Student N is ready. In your notebook, you have copied down these three vocabulary words, yes?  Cone, attribute and cylinder. Do you want to throw it away?  You need to throw it away you said?",teacher,96,2,,,0.0
+Yeah.,student,1,0,,,
+Go ahead.  The one I want to talk about first is attribute. Does anybody want to tell me what an attribute is?  If I said – you want to take a guess?,teacher,32,2,,,1.0
+"Maybe, it’s the three-dimensional shapes.",student,5,1,,,
+"Maybe, it’s the three-dimensional shapes.  Let me put it in a sentence for you.  I want you to tell me the attributes of this shape?",teacher,25,2,1.0,,0.0
+Oh.,student,1,0,,,
+"So, what am I looking for you to tell me?",teacher,10,0,,,1.0
+"I’m not sure, but I think it’s –",student,8,0,,0.0,
+"Hold on one second, ’cause some people are talking.",teacher,9,0,0.0,,0.0
+_________________.,student,1,0,,,
+Vocabulary.,teacher,1,0,,,0.0
+I think it’s like the sides or the angles.,student,9,1,,0.0,
+Sides or angles.,teacher,3,1,1.0,,0.0
+Or dimension.,student,2,1,,,
+Dimensions.  Student J?,teacher,3,1,,,0.0
+"Edge, she just said.",student,4,0,,,
+Edges.,teacher,1,0,,,0.0
+And the faces.,student,3,0,,,
+"Faces.  So, it’s all of those things.  When you’re telling me the attributes of a shape, you’re gonna tell me what it’s made up of.  Sort of like – I’ll wait until people are done playing with pencils and shapes.  It’s sort of like in reading when you say describe the characteristics of the main character.  You – I’m gonna wait till all the pencils are down.  You’re gonna describe the character and what kind of a person he is.  The attributes are that of a shape.  What makes up this shape, okay? So, you have five shapes in front of you and in your notebooks on page – on the right-hand page, this blank page, you’re gonna work at your table and you are gonna take each shape.  You’re gonna first name it, if you can, and then describe its attributes.  What is it made up of? How many edges?  How many faces?  How many vertices?  How many bases?  What shape are the bases?  What shape are the faces? Thumbs up if you understand the directions; thumbs in the middle if you sort of do; thumbs down if you don’t. Okay.  At table – here’s how I want it to work.  You have two sets, so the two of you can work together and the three of you can work together.  You have one set.  What might make sense is for you to say, two people will work together and the other two people will work together and then you’ll come together and talk about all five shapes.  Same thing over here.  I didn’t say to begin yet.  So, over here, you might say, you know what, we’re gonna do these two.  We’re gonna do these two.  And then, whoever finishes first will do this one.  And then, you’ll come together to talk about it.  Does that make sense?  Okay? So, you should write it down in your notebooks.  So, if I were writing it down – I didn’t say to begin, so I’m waiting for eyes on me, please.  Thank you. So, if I was starting with this one, who knows the name of this shape?  Student T?",teacher,360,3,,,1.0
+A cone.,student,2,0,,,
+"A cone.  So, the first thing I’m gonna write down is cone. Then, beside cone or under cone, Student L, I’m gonna list all of its attributes.  What does it have?  So, does it have vertices?  Does it have faces?  Does it have a base? Does it have edges?",teacher,49,1,,,0.0
+No.,student,1,0,,,
+"You’re gonna list all of that.  Then, you’ll go to the next shape.  Does that make sense?",teacher,17,0,,,1.0
+Uh-huh.,student,1,0,,,
+"Okay.  Begin.  And I actually just changed my mind about how you guys are gonna do it.  Do these two – do all five.  So, when you’re done with these two, switch with the boys.",teacher,35,0,,,0.0
+Okay.,student,1,0,,,
+Okay?  Did you guys hear what I said?,teacher,8,0,,,0.0
+Yeah.,student,1,0,,,
+"When they’re done with these two, they’re gonna switch with you, so that you get to do all five of them.",teacher,21,0,,,0.0
+Okay.,student,1,0,,,
+"Okay.  Same thing over here.  I just changed my mind.  So, you and Student T – come sit beside Student T.  So, where are the other shapes?  There were five shapes and I only see three.  Okay.  So, you two work on these three.  You two work on these two.  And then, switch.  Does that make sense?  So, everybody’s gonna talk about all five, okay? Okay?",teacher,66,0,,,0.0
+I forgot what this was called.,student,6,0,,,
+"Everybody’s working on this one, right, because this is the one that’s written down.  So, everybody wrote down cone.",teacher,19,0,0.0,,0.0
+Yep.,student,1,0,,,
+"And so far, you’ve said no edges.",teacher,7,0,,,0.0
+Yes.,student,1,0,,,
+What else are you gonna say about this cone?,teacher,9,0,,,1.0
+It has one face.,student,4,0,,,
+One face and what shape is the face?,teacher,8,0,,,1.0
+A circle.,student,2,1,,,
+A circle.,teacher,2,1,,,0.0
+We have one face and just one cone at the top.,student,11,0,,0.0,
+Do you remember what this is called?,teacher,7,0,0.0,,0.0
+I don’t know.,student,3,0,,,
+Starts with a V?,teacher,4,0,,,0.0
+Vertical.,student,1,1,,,
+"Vertex, vertex.",teacher,2,2,,,0.0
+"Vertex. Wait, corners is the same as angles, right?",student,9,2,,0.0,
+"So, show me an angle.  So, right here is the angle.  Where’s the corner?  Is this a corner?",teacher,18,2,1.0,,0.0
+Yes.,student,1,0,,,
+"The corner or the vertex, the point, is made up of angles, correct?",teacher,13,2,,,0.0
+Yes.,student,1,0,,,
+"But how many vertices are there, though, ’cause this is one. This is two.  This is three.  This is four.  Right?  Then, we have one, two, three, four, which is eight.  Are there any left?",teacher,35,0,,,0.0
+Yeah.,student,1,0,,,
+"Yeah, let’s just use a pencil and do this.  One second, ladies, okay.  So, if I circle one, two, three, four, five, six, seven, eight.  Are there any left that haven’t been circled?",teacher,33,2,,,0.0
+No.,student,1,0,,,
+"So, there might be 24 angles, but there’s only 8 vertices.",teacher,11,1,,,0.0
+Corners is the same as vertices.,student,6,0,,,
+"Vertices, corners.  Yes, ladies.",teacher,4,0,1.0,,0.0
+"Isn’t that the first thing – I mean, _______ I thought I was gonna try –",student,16,0,,0.0,
+Grab that one for me.,teacher,5,0,0.0,,0.0
+"This is a triangle, isn’t it?",student,6,1,,,
+"So, what are the differences between these two shapes?",teacher,9,0,0.0,,1.0
+This is a triangle that’s kind of long.,student,8,1,,0.0,
+"So, this has a triangle all the way down.  Why does it have a triangle all the way down?",teacher,19,2,1.0,,1.0
+’Cause it’s __________.,student,3,0,,,
+Why – but this one has triangles all the way down.,teacher,11,1,,,0.0
+"Because this one is ______, because it’s a triangle. It’s like a triangle shape or –",student,16,2,,1.0,
+"So, tell me about the top and the bottom.",teacher,9,0,0.0,,0.0
+This is pointed as a triangle.,student,6,1,,,
+"So, this one has two triangular bases, right, the top and the bottom.",teacher,13,0,1.0,,0.0
+"And then, they have –",student,5,0,,,
+"And this has a square base.  So, when it has two triangular bases, it’s a triangular prism.",teacher,17,2,0.0,,0.0
+"Yeah, image.",student,2,0,,,
+"This is a pyramid, because it has a square base and no second base.",teacher,14,2,,,0.0
+Those are the pyramid too.,student,5,1,,,
+"Yeah.  If it was – you could imagine if this was a little bit shorter and fatter, it would look like the pyramids you see in the pictures.  Good. How’s it going over here?  So which one did you do first?",teacher,41,1,1.0,,0.0
+Square-based pyramid.,student,2,2,,,
+"A square-based pyramid, I like it.  Corners, edges.  So, this has five faces.  Can you show me the five faces?",teacher,20,2,,,1.0
+"One, two, three, four, five.",student,5,0,,,
+"Okay.  Now, this is a base, because it’s the bottom.  Does it have one or two bases?  I’ll be there in one second.  Not a – nope.  Does it have one or two base – one base.  Now, this one is also triangular.  Does it have one or two bases?",teacher,50,0,0.0,,0.0
+Two base. What? Two.,student,4,0,,,
+Does it have a bottom and a top?,teacher,8,0,,,0.0
+Yeah.,student,1,0,,,
+"So, it has two.  So, that’s the difference there.  Good. Let’s see how we’re doing over here.  Moved onto cylinder. Two faces, round.  Does it have any edges, corners, vertices, angles?  That’s it, right?  Good. Okay.  So, they’ve already done this one, so you can do this one.  And then, you guys still have to do that one. Okay.  What are you guys on now?",teacher,65,1,,,0.0
+"We want to go to the next one. Cylinder, it’s easy.",student,11,0,,0.0,
+How do you know that’s a cylinder?  What makes a cylinder a cylinder?,teacher,13,0,1.0,,1.0
+"It’s – Wait, isn’t that a – oh. It only has two faces.",student,13,0,,0.0,
+It only has two faces.  Okay.  That’s it?,teacher,8,0,1.0,,0.0
+And it’s –,student,3,0,,,
+What are the faces?  What shape?,teacher,6,0,,,1.0
+Circle.,student,1,1,,,
+"Good. What are you guys on, cylinder also?  Okay.  Good.  Can I see with this cylinder for a second?  If I could cut this open and unroll it, what shape would this be?  Since you’re both doing the same thing, if I cut this cylinder open and unrolled it, so I’d have two circles, what shape would be in the middle if I made this a two-dimensional shape?",teacher,68,2,,,0.0
+"Wait, did you say you cut it down like that? Oh, I know what. I know what shape, but I don’t know – The name of it.",student,27,0,,0.0,
+A rectangle.  So –,teacher,4,1,0.0,,0.0
+Like the bottom of it.,student,5,0,,,
+"’Cause if you open this, you would have a rectangle, right? And then, what you would do is you would take your two circles and you would sort of roll it around.  Does that make sense?  Good.  But it’s weird that it’s a rectangle, because it ends up with no –",teacher,51,3,0.0,,0.0
+Faces.,student,1,0,,,
+"No faces or edges.  I mean or – yeah, or edges.",teacher,11,0,,,0.0
+"Oh, yeah.",student,2,0,,,
+It’s weird.,teacher,2,0,,,0.0
+______________ on the cylinder.,student,4,0,,,
+Cylinder.,teacher,1,0,,,0.0
+Okay.  The cone had one base. _________________.,student,7,0,,,
+Hemisphere?,teacher,1,0,1.0,,0.0
+"Hemisphere, no –",student,3,0,,,
+Hemisphere is what – the world is made up in hemispheres.,teacher,11,0,,,0.0
+"Yeah. Oh, like a –",student,5,0,,,
+Like half of a circle.,teacher,5,1,1.0,,0.0
+We just did it this way.,student,6,0,,,
+"Well, this would be – one second.  It’s getting a little too loud.  I’ll be right there. So, this would be a hemisphere, because it’s half of a circle.",teacher,29,1,0.0,,0.0
+Like half of a – this one is a half.,student,10,0,,0.0,
+This [wrinkle].,teacher,2,0,0.0,,0.0
+Yeah.,student,1,0,,,
+Does that make sense?,teacher,4,0,,,0.0
+Yes.,student,1,0,,,
+’Cause two of those – I imagine it like the world.,teacher,11,0,,,0.0
+It’s a whole ball.,student,4,1,,,
+"With this, what’s this called?",teacher,5,0,,,0.0
+A moon. A fear. Sphere.,student,5,0,,,
+"A sphere.  And when you cut it in half, you have one hemisphere and another hemisphere.",teacher,16,0,1.0,,0.0
+"So, if they was to put together, it would be a sphere?",student,12,0,,0.0,
+A sphere.,teacher,2,0,1.0,,0.0
+Sphere.,student,1,0,,,
+"And so, you know, in social studies, we say the Northern Hemisphere, because we’re talking about the equator cutting it in half and the top being the Northern Hemisphere. Good.",teacher,30,0,,,0.0
+"It’s hard, because it just seems like – __________.",student,9,0,,0.0,
+Good.  Okay.  About five more minutes.  I’m gonna put five minutes on the timer.,teacher,14,0,0.0,,0.0
+What is this called?,student,4,0,,,
+"What is it called?  Oh, let me put my five minutes on the timer first.",teacher,15,0,,,0.0
+This is a triangular _________.,student,5,0,,,
+"Give me, one second, while I put five minutes on the timer.",teacher,12,0,0.0,,0.0
+It’s called a triangular prism.,student,5,1,,,
+"So, let’s look at these two.  They’re similar.  What makes them similar?",teacher,12,0,0.0,,1.0
+They both are triangles.,student,4,1,,,
+They both are triangles.  What makes them different?,teacher,8,1,,,1.0
+One’s three dimensional.,student,3,1,,,
+They’re both three dimensional.,teacher,4,1,,,0.0
+"Oh, 3-D dimensional.  One is – one shape is ________. One shape –",student,13,1,,0.0,
+How many bases does – this has how many faces?,teacher,10,0,0.0,,0.0
+Two.,student,1,0,,,
+"Two.  We also call these bases, because they’re the top and the bottom.  How many bases does this one have?",teacher,20,0,,,0.0
+"Four, no, wait. Three, two.",student,5,0,,,
+Two.  How many bases does this one have?,teacher,8,0,1.0,,0.0
+One.,student,1,0,,,
+"One, it doesn’t have a top face.  So, this one is a what? Whoops.",teacher,14,0,,,0.0
+Triangular prism.,student,2,1,,,
+A triangular –,teacher,3,0,,,0.0
+Prism.,student,1,1,,,
+Prism?  People agree.,teacher,3,1,,,1.0
+Pyramid.,student,1,1,,,
+Some people think pyramid.  Some people think – what is this called?,teacher,12,1,,,1.0
+I had prism. Cube or square.,student,6,3,,,
+"This isn’t just – rectangular prism, because the top is a rectangle and the bottom is a rectangle.",teacher,18,4,1.0,,0.0
+"Oh, no, no, no.",student,4,0,,,
+"So, is this the pyramid or the rectangular prism?  Let’s do this.  Let me say it again.  This is a rectangular prism, because the top and bottom are rectangles.",teacher,29,6,,,0.0
+Uh-huh.,student,1,0,,,
+"So, is this a triangular prism?",teacher,6,1,,,1.0
+"Yes, that one has –",student,5,0,,,
+Does this have a top and bottom that are triangles?,teacher,10,1,0.0,,0.0
+No.,student,1,0,,,
+"So, can this be a triangular prism?  Is this a triangular prism?",teacher,12,2,,,1.0
+Yes.,student,1,0,,,
+Because the top and bottom are triangles.  Okay. What’s going on over here?,teacher,13,1,,,1.0
+We’re done.,student,2,0,,,
+You’re done with all of them?,teacher,6,0,,,0.0
+Uh-huh.,student,1,0,,,
+"So, now talk as a table and make sure you agree.  So, choose one shape to start with and make sure you agree.  And I’m gonna bring you something else and see if you can name that.  _____________ hear that.",teacher,40,0,,,0.0
+When we’re done with our two shapes –,student,8,0,,0.0,
+"You have to do the shapes that they already did.  Student R, Student R, is there a reason to be yelling right now?",teacher,23,0,1.0,,0.0
+No.,student,1,0,,,
+"No, so don’t.",teacher,3,0,,,0.0
+To __________.,student,2,0,,,
+"When you’re done, see if you guys can figure out what that is? So, you did cone and you did cube.  So, let’s put the cone and the cube over here.  And now, you’re on the rectangular prism – the triangular prism.",teacher,42,5,,,0.0
+How do you spell pyramid?,student,5,1,,,
+P-Y –,teacher,2,0,1.0,,0.0
+"Oh, okay.  P-Y-R.",student,3,0,,,
+A-M.,teacher,1,0,,,0.0
+P-Y-R.,student,1,0,,,
+A-M.,teacher,1,0,,,0.0
+A-M.,student,1,0,,,
+I-D.,teacher,1,0,,,0.0
+Are we supposed to be doing this one?,student,8,0,,0.0,
+Which one are you guys doing?  Are you doing the one Student R’s holding in his hand or are you doing this one?,teacher,23,0,1.0,,0.0
+I want to do this one. __________________on that one. No.  We didn’t do them.,student,14,0,,0.0,
+"Wait, well, it doesn’t matter if you do them all anyway.  So, since everybody wrote pyramid, let’s do pyramid.",teacher,19,2,1.0,,0.0
+I didn’t write pyramid.,student,4,1,,,
+You didn’t write anything yet.,teacher,5,0,,,0.0
+I ________________.,student,2,0,,,
+"So, what are the attributes of the pyramid?",teacher,8,2,,,0.0
+"I already did all the stats. I had one – Three, four, five – five? Two bases. Five faces. One, two and that.  And this is – please be – one, two. Five points. Four, five points. Five in –",student,40,0,,0.0,
+"Yeah, okay.  Those are called vertices.",teacher,6,0,0.0,,0.0
+One.  Okay.  One. There’s six edges.,student,6,0,,,
+What’s the difference between a face and an edge?  What’s an edge?,teacher,12,0,1.0,,0.0
+An edge is like _______.,student,5,0,,,
+"No, that’s the vertex.  Where is an edge?",teacher,8,1,1.0,,0.0
+That’s the vertex.,student,3,1,,,
+Yeah.  This right here.  This is the edge.,teacher,8,0,,,0.0
+"So, where’s the _________?",student,4,0,,,
+"Okay.  So, you have five faces, five vertices, anything else?",teacher,10,0,,,1.0
+"Well, no, with two, there should be one edges then. And then there is– oh, there’s six vertices. There should be 16 triangles.  _______ You could say 16 or something else.",student,31,1,,0.0,
+"Well, can I see it for one second?",teacher,8,0,0.0,,0.0
+You said four ________ eight.,student,5,0,,,
+"So, there’s four here.  There’s four at the bottom, which is eight.  And you have these two, which is –",teacher,20,0,1.0,,0.0
+Ten.,student,1,0,,,
+And you have these two.,teacher,5,0,,,0.0
+12.,student,1,0,,,
+12.,teacher,1,0,,,0.0
+"12. You don’t need to give him a dirty look, though.",student,11,0,,0.0,
+I hope we’re talking about math over here.,teacher,8,0,0.0,,0.0
+"Yeah. 1, 2, 8 and 4 is 16. 16.",student,9,0,,0.0,
+Okay.  Are you guys on this now?,teacher,7,0,0.0,,0.0
+We’re just finishing up that _________.,student,6,0,,,
+Okay.,teacher,1,0,0.0,,0.0
+"And to flat top, you could name that flat top.",student,10,0,,0.0,
+This?  This has a name.,teacher,5,0,1.0,,0.0
+A sphere.,student,2,0,,,
+Half of a –,teacher,4,0,,,0.0
+Sphere. A circle.,student,3,1,,,
+A what?,teacher,2,0,,,0.0
+Sphere.,student,1,0,,,
+"So, what is a –",teacher,5,0,,,0.0
+A sphere.,student,2,0,,,
+"This is a sphere.  Right, a sphere is a three-dimensional circle, like the world.  What’s half of a sphere called?",teacher,20,2,,,0.0
+Hemisphere.,student,1,0,,,
+"Oh, that’s the timer.  It’s hemisphere.  Good. All right.  Pencils down and shapes down.  Pencils down and shapes down.  Hey. Let’s talk about these three-dimensional shapes.  Of course, I would – there.  All right.  Let’s all start with the – whoops.  ___________.  Let’s all start with the cones, since that’s what we started talking about before. I’m gonna wait until all pencils and writing utensils are down and all shapes are down and all eyes are on me. Okay.  This is a cone.  Everybody agreed on that, right? Why am I throwing everything today?  Thank you.  What makes a cone a cone?  What makes a cone a cone?  What are its attributes?  Everybody’s hands should be up, because everybody has worked on this and has written this information down.  Okay, Student T?",teacher,132,2,,,0.0
+It has one face.,student,4,0,,,
+"One face, and this face we can also call a what?",teacher,11,0,,,0.0
+A circle.,student,2,1,,,
+A circle and a?,teacher,4,1,,,0.0
+Base.,student,1,0,,,
+"Base.  And the base is a circle.  Anything else about the cone that makes it a cone, Student T?",teacher,19,1,,,1.0
+One vertex.,student,2,1,,,
+One vertex.  That’s a fancy word.  What’s a vertex?  What’s a vertex?  Raise your hand.  Student T?,teacher,17,3,,,0.0
+Like the top of the shape.,student,6,0,,,
+"So, this is a vertex here?",teacher,6,1,0.0,,1.0
+No.  The top – like a point.,student,7,0,,,
+"A point where the angles come – where you get an angle.  So, I mean, it was like it – more than one are vertices.  So, it has a vertex.  Anything else?",teacher,32,3,1.0,,1.0
+No edges.,student,2,0,,,
+No edges.,teacher,2,0,,,0.0
+It was one point.,student,4,0,,,
+"Okay.  Now, if I pulled the circle off of this, if I could pull the circle off of this and I could unwrap this part of it, what would this part look like?",teacher,33,2,,,1.0
+A rectangle.,student,2,1,,,
+This would be a rectangle?,teacher,5,1,,,0.0
+No. Like a circle.  It would probably look like this.,student,10,1,,0.0,
+You think so?  What do you think?,teacher,7,0,0.0,,1.0
+"So, ___________. I think it would still look like _______, but smaller.",student,12,0,,0.0,
+But if I flattened it.,teacher,5,0,0.0,,0.0
+"A cylinder. Then, it would probably –",student,7,0,,,
+"Nope, if I made a two-dimensional shape.",teacher,7,1,0.0,,0.0
+"This. Oh, it would be like a triangle.  A triangle. Then, it would be like this.  _________. It would be like a square with a little –",student,27,3,,0.0,
+Don’t you think it would be like a teepee?,teacher,9,0,1.0,,0.0
+Yeah. Yeah. A teepee?,student,4,0,,,
+Right.,teacher,1,0,,,0.0
+"Oh, yeah.",student,2,0,,,
+"Right, so that when you folded it all the way around, it became this and you’d have like a circle at the bottom.",teacher,23,1,,,0.0
+"Oh, yeah.",student,2,0,,,
+"Right?  So, obviously, the top has to be smaller than the bottom, is that true?",teacher,15,0,,,0.0
+Yes.,multiple students,1,0,,,
+"’Cause this needs to close really tight, where this one doesn’t need to.",teacher,13,0,,,0.0
+Yes.,student,1,0,,,
+"Okay.  Now, let’s look at this one.  What’s the name of this? Raise your hand.  What’s the name of this?  Student C?",teacher,22,0,,,0.0
+Cylinder.,student,1,0,,,
+This is a cylinder.  Cylinder is C-Y-L-I-N-D-E-R.  Does it have any bases?,teacher,12,0,,,0.0
+Yeah.,student,1,0,,,
+Student J?  Two bases.  What else?  Student T?,teacher,8,0,,,1.0
+It has – it’s round.,student,5,0,,,
+"It’s round.  I’m gonna wait until I don’t hear shapes falling. What shape are the bases?  What shape are the bases?  There is three people in here who are not getting full credit for participation, ’cause they’re not really participating. What shape are the bases?  Student M?",teacher,47,0,1.0,,0.0
+Circles.,student,1,1,,,
+The bases are circles.  Are there any edges?,teacher,8,1,,,0.0
+Yeah. No.,multiple students,2,0,,,
+Any vertices?,teacher,2,0,,,0.0
+No.,student,1,0,,,
+"No.  If I was to take the cylinder and take the circles off and unroll this to be a two-dimensional shape, raise your hand and tell me what shape this would be.  Student T?",teacher,34,2,,,0.0
+A rectangle.,student,2,1,,,
+"A rectangle.  A long rectangle, right?  So that when we folded it all the way around, we’d get a circle.  Does that make sense?",teacher,24,3,,,0.0
+Yep.,multiple students,1,0,,,
+Okay.  Sort of like taking a piece of paper –,teacher,10,0,,,0.0
+"So, how come how – why would we want to take off the circles, because when you unwrap it, it’s ______________ off?",student,22,1,,0.0,
+"So, I guess the reason why I’m asking is what if I were to show you a picture and I’ve seen this on – when we did “First in Math” last year, it would show you a picture and say, “Which one of these would make a cylinder?”  So, you’d have to know, well, this is the top and this is the bottom and, well, that might work or it might not work.  Do you know what I’m saying?",teacher,79,0,1.0,,0.0
+Oh.,student,1,0,,,
+"Okay.  So, we’ve done cone.  We’ve done cylinder.  Let’s move to – not everybody has the exact same one of this, but one that looks like this.",teacher,27,0,,,0.0
+Cube.,multiple students,1,1,,,
+"So, this one is a cube, but not everybody had one that was a square.  So, what is this called?  Let me see, where’s yours?  Let me take yours instead.  So, what is this called?",teacher,35,2,,,1.0
+A cube.,student,2,1,,,
+This one’s not a cube.,teacher,5,1,,,0.0
+It’s called – A rectangle.,student,5,1,,,
+Rectangular –,teacher,2,1,1.0,,0.0
+Prism.,multiple students,1,1,,,
+"So, even if you had a cube, let’s call it a rectangular prism. And then, we’ll talk about a cube separately.",teacher,21,4,,,0.0
+Yeah.,student,1,0,,,
+"So, rectangular prism, tell me about it.  Tell me about a rectangular prism.  Student C?",teacher,15,4,,,1.0
+It’s just like a cylinder.  It has two faces on the top of it.,student,14,0,,0.0,
+"So, there’s two bases, which are what shape?",teacher,8,0,1.0,,1.0
+A square.,student,2,1,,,
+In a rectangular prism?,teacher,4,2,,,0.0
+On top they’re –,student,4,0,,,
+They’re squares?,teacher,2,1,,,0.0
+"Oh, yeah.  Oh, no, they’re rectangles.",student,6,1,,,
+Rectangles.  If they were squares –,teacher,6,2,1.0,,0.0
+Then –,student,2,0,,,
+"Hold on one second.  If they were squares, what would they be?",teacher,12,1,,,0.0
+A cube.,student,2,1,,,
+A cube.,teacher,2,1,,,0.0
+It would be a square prism.,student,6,2,,,
+"Well, but a square prism we call?",teacher,7,2,1.0,,0.0
+A cube.,student,2,1,,,
+"Cube.  So, what else?  Student J?",teacher,6,1,,,1.0
+It’s a three-dimensional rectangle.,student,4,2,,,
+"It’s a three-dimensional rectangle.  Yep, these are all three dimensional.  What else?  I hear that – you know what?  Put the shapes in the middle of the table.  Tell me something else about the rectangular prism or the cube and we’ll see if it fits in both categories.  Student L?",teacher,50,6,,,1.0
+Eight edges.,student,2,0,,,
+Eight edges.,teacher,2,0,,,0.0
+Eight corners.,student,2,0,,,
+"Eight corners.  One, two, three, four, five, six, seven, eight. And what do we call corners in fifth grade?",teacher,19,0,,,0.0
+Vertices.,student,1,0,,,
+Vertices.  Is that true of both a rectangular prism and a cube?,teacher,12,3,,,0.0
+Yes. No. Yes.,student,3,0,,,
+"One, two, three, four, five, six, seven, eight.  One, two, three, four, five, six, seven, eight.  Okay?  What else? How many faces?  How many faces?  How many faces?  How many faces, Student L?",teacher,33,0,,,1.0
+Six.,student,1,0,,,
+Six faces for both the cube and the rectangular prism?,teacher,10,3,,,0.0
+Yeah.,student,1,0,,,
+"Okay.  Edges, are there any edges?",teacher,6,0,,,0.0
+12.,student,1,0,,,
+"12 edges, let’s see, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.  Is that the same for a cube?",teacher,23,1,,,0.0
+Yep.,student,1,0,,,
+"Okay.  Next, there was some great discuss – yes?",teacher,9,0,,,0.0
+12 right angles.,student,3,2,,,
+12 right angles.  In both?,teacher,5,2,,,1.0
+Yes.,student,1,0,,,
+"In both, yes?",teacher,3,0,,,0.0
+Yes.,student,1,0,,,
+"So, 4, 8 – I think it’s more than 12.  There’s 4 right angles here.  There’s 4 right angles here.  There’s 4 right angles here.  Why 24?",teacher,27,6,,,1.0
+Because six times four.,student,4,0,,,
+"’Cause there’s – these are six sides and each side has right angles.  Okay.  I feel like I’m losing you and we’re almost done.  We have two more shapes.  We have two more shapes and there was – my goodness.  There were two more shapes and there was a lot of discussion about these two shapes. Everybody in the room knew one was gonna be a pyramid and one was gonna be a rectangular prism.  The conversation was about what makes one a pyramid and what makes the other a rectangular prism. In my left hand, I have, we’ll call it Shape A.  And in my right hand, we’ll call it Shape B.  Which one A or B is the triangular prism?  Is it A or B?  Student T?",teacher,129,9,,,0.0
+B.,student,1,0,,,
+B.  Why is this a triangular prism?  Why is this a triangular prism?  Put your pencil down and look at me.  Why is this a triangular prism?  Student N?,teacher,29,3,,,1.0
+"Because if you cut it in half, there’s only two triangles and the bases are triangles.",student,16,2,,1.0,
+"Because the bases are triangles.  So, how many – there’s two bases, you said?  Two bases and they’re both triangles. What else?  What else?  Student J?",teacher,26,2,1.0,,1.0
+That because the pyramid has like a point and a flat –,student,12,1,,1.0,
+"So, how many bases does a pyramid have?",teacher,8,1,1.0,,1.0
+It has like –,student,4,0,,,
+"Bases, not faces, bases.",teacher,4,0,,,0.0
+One.,student,1,0,,,
+One base.  And what shape is the base?,teacher,8,0,,,1.0
+Square.,student,1,1,,,
+"Square.  Okay.  Tell me more about the triangular prism.  It has two bases, which are triangles.  How many faces?  How many faces?  Student M?",teacher,24,3,,,1.0
+Five faces.,student,2,0,,,
+"One, two, three – five faces.  How many faces does the pyramid have?  How many faces?  Student L?",teacher,18,1,,,0.0
+Five.,student,1,0,,,
+Five faces also.  How many vertices does this one have?  Show me on your hand.,teacher,15,0,,,1.0
+What do you show you on?,student,6,0,,,
+How many vertices?  One vertex.,teacher,5,1,1.0,,0.0
+One.,student,1,0,,,
+And how many vertices does this one have?,teacher,8,0,,,0.0
+Two.,student,1,0,,,
+Just raise your hand.  You could just raise your hand.  Student J?,teacher,12,0,,,0.0
+Six.,student,1,0,,,
+"Six.  One, two, three, four, five, six.  Good.  Good. Everybody came to the same conclusion?",teacher,15,0,,,1.0
+Yes.,multiple students,1,0,,,
+"So, then, I offered a challenge to a couple of tables and it was based on something Student J asked.  And that is, what is this shape?  But in order to get there first, we looked at this shape.  Raise your hand and tell me what this shape is.  Student K?",teacher,51,0,,,0.0
+"Well, a circle with –",student,5,1,,,
+"These are three dimensional circles, so what’s a circle?  It’s that funny word that’s so hard to say.",teacher,18,3,1.0,,0.0
+Sphere.,student,1,0,,,
+Student J?,teacher,2,0,,,0.0
+Sphere.,student,1,0,,,
+Sphere.  Sphere.,teacher,2,0,,,0.0
+Sphere.,multiple students,1,0,,,
+"It’s a hard word, right, S-P-H.  We don’t come across many words that start S-P-H.  When we cut it in half – this is half of the sphere, what do we call it, Student N?",teacher,35,0,,,0.0
+A hemisphere.,student,2,0,,,
+"A hemisphere.  Hemisphere.  Just like in – as I explained to one table, in social studies, we talked about the Northern Hemisphere.  Well, that’s because we talk about this middle line being the equator and we cut in half and the top half is the Northern Hemisphere or the northern part.",teacher,51,1,,,0.0
+What about the Western Hemisphere? Because it’d be equivalent.,student,9,1,,1.0,
+"Yep.  The Western Hemisphere would be if we talked about the prime meridian, which cuts it in half this way and we talked about this side.  Okay?",teacher,27,0,1.0,,0.0
+We cut ____________. Yeah.,student,4,0,,,
+"Yeah, I’m not really sure what the word is for that, though. Okay.  In your student – close your notebooks.  Good job. In your student activity books – I’m gonna wait, ’cause there are too many people moving and talking.  I’m waiting for you to sit.  Stop.",teacher,47,0,,,0.0
+"Oh, can I see the shapes?",student,6,0,,,
+"In your student activity books, please tear out Pages 40 and 41, which is your homework.  Put your student activity books back in the bins.  Bins away.  And then, you need to just sit with your hands folded, ’cause we’re gonna do a stand and stretch, ’cause I’m losing you.",teacher,50,0,0.0,,0.0
+Is this Unit 2?,student,4,1,,,
+"Unit 2, Pages 40 and 41.  Pages 40 and 41.",teacher,10,1,,,0.0
+Both __________. Two pages.,student,4,0,,,
+40 and 41.,teacher,3,0,,,0.0
+I don’t have ’em.  I want to get my notebook.,student,10,0,,0.0,
+"Look in the book that’s in the desk.  When I count backwards from ten, tables will be neat and organized with the blue folder in the middle, the art card in the middle and those geometric solids in the middle.  Ten, nine, notebooks will be away – 40 and 41 – eight – just put ’em in the middle – seven, six, five, four, three, two, one and zero.  Okay.",teacher,70,1,1.0,,0.0

@@ -1,0 +1,216 @@
+dialogue,Speaker,talktime,math_density,uptake,student_reasoning,focusing_questions
+"Okay, do you see my pointer moving?",Tutor,7,0,,,0.0
+Yep.,Student,1,0,,,
+"All right, try to move yours. Let me make sure I can see you too. Awesome. You see the tools on the left-hand side?",Tutor,24,0,,,0.0
+Yeah.,Student,1,0,,,
+"All right, so we're going to practice using a couple of them because the erase function can get a little bit tricky. The pencil, that's the second one down. Whenever you click on it, right above, you'll see the color box and size box pop up. That's where you can change things if you decide that you want to make something a different color or a different size. And then the T with a, or a box with a T in the center, it's a text box if you would rather type instead of draw. And if you create something and you decide that you change your mind and want to erase it, you use this top arrow to select what it is that you want to erase. And then the arrow with an X to erase exactly what's selected. If you hit the trash can button, it will erase everything. And we don't want to do that because then we can't get your work back.",Tutor,166,0,,,0.0
+Okay.,Student,1,0,,,
+"Okay, so practice drawing something and then erasing what you drew. So use this top arrow up here to select what you want to erase. And then once it's selected, you can click the erase button.",Tutor,36,0,,,0.0
+Yeah.,Student,1,0,,,
+It's a little bit tricky. Makes sense?,Tutor,7,0,,,0.0
+Okay.,Student,1,0,,,
+"You can also close your chat box if it's open to give you some more workspace. Because we'll be talking back and forth like this. And on that note, I will ask you lots of questions, but that doesn't necessarily mean that you have to answer all of them. You just have to think about what you're thinking about. So I'm going to ask you a few questions. And then I'm going to ask you to think about what you're thinking about. And then you can use your chat box to ask questions. And then I want to ask you a few questions and then I'm going to ask you to think about what you're thinking about. So it's nice you can just verbalize it and say, I'm not sure. Give me some time to think. And then I won't interrupt your thinking that way. Cool?",Tutor,146,0,,,0.0
+Yep.,Student,1,0,,,
+All right. We're going to get started.,Tutor,7,0,,,0.0
+I'm guessing it might be distance related. What's it called? Possibly rate of change?,Student,14,1,,0.0,
+You said distance related.,Tutor,4,1,1.0,,0.0
+And what else?,Student,3,0,,,
+Possibly rate of change. Something might be changing. What are some things that we might measure in this situation?,Tutor,19,1,,,1.0
+Distance and time ratio.,Student,4,2,,,
+"Okay. So if you are measuring distance and time ratio, what are some units we might use to",Tutor,18,4,,,0.0
+measure that? Probably like miles per hour. Yeah. Okay.,Student,9,1,,0.0,
+So we would use the miles per hour as a unit?,Tutor,11,1,1.0,,1.0
+"Yeah, most likely.",Student,3,0,,,
+Use your arrow to show me what's happening in this situation with the car.,Tutor,14,0,,,0.0
+What's it doing? It's driving like upwards.,Student,7,0,,,
+Okay.,None,1,0,,,
+So if we're pretending...,Tutor,4,0,,,0.0
+"No, down, sorry.",Student,3,0,,,
+"Oh, wait. Is it up or down or could it be both?",Tutor,12,0,,,0.0
+From province to New York.,Student,5,0,,,
+"Okay. And it's going to drive through New York City on that interstate. Yeah. Okay, cool. Now I'm going to uncover something else. And tell me how this is similar or different to what you were thinking about.",Tutor,38,0,1.0,,1.0
+It's very similar because it's also a rate of change and it's miles per hour.,Student,15,0,,1.0,
+Okay. Show me where you see that miles per hour or that rate of change.,Tutor,15,0,1.0,,0.0
+"Well, it's talking about on this side, it's the distance in correlation with how much time has gone by in hours.",Student,21,1,,1.0,
+Okay. So what's the blue line showing then? Is it showing miles or is it showing hours or is it showing something else?,Tutor,23,1,1.0,,0.0
+It's showing how many miles the car has moved per hour.,Student,11,0,,0.0,
+Okay. So you used... Let me see exactly what it was. You said a distance time ratio. Do you see that ratio anywhere on this graph?,Tutor,26,4,1.0,,1.0
+"I suppose like on the letters, how there's zero and zero, 50 to one.",Student,14,0,,0.0,
+Okay. So is the ratio just at point B? Like you can describe a ratio at point B or can you describe a ratio of the blue line,Tutor,28,4,0.0,,0.0
+"at all? I think if calculated, there can be a ratio of the entirety of the line.",Student,17,2,,1.0,
+And what would that ratio be telling us about this situation?,Tutor,11,1,1.0,,1.0
+"How many hours it would have taken for the... Wait, I have to think about this real quick. Like how many hours it would be taking to get from Providence to Newark?",Student,32,0,,0.0,
+I thought that just this axis was keeping track of how many hours. Is it also keeping track of a ratio or something? I'm trying to make sense of how all of that's connected.,Tutor,34,2,1.0,,0.0
+One sec. There might be a third factor to calculate with this graph. Say more about that. Like perhaps the speed at which the car is moving.,Student,27,1,,0.0,
+Are we able to see the speed of the car in this?,Tutor,12,0,1.0,,0.0
+"No, we're not getting the speed.",Student,6,0,,,
+Are we able to determine the speed of the car?,Tutor,10,0,1.0,,0.0
+Yes.,Student,1,0,,,
+How would we do that?,Tutor,5,0,,,1.0
+"We do that by taking a look at how... Well, at the graph and how it shows us how much distance it's traveled over these four hours.",Student,27,2,,0.0,
+"Okay. So as it is right now, do you see speed on the graph or are you saying we have enough information to figure out the speed, but it's not on the graph yet?",Tutor,34,2,1.0,,0.0
+We have enough information to figure it out.,Student,8,0,,0.0,
+"Okay, cool. So now using the map and the graph, describe what's happening during each stage of the journey.",Tutor,19,1,0.0,,0.0
+"By each stage, you mean each hour?",Student,7,0,,,
+"Yeah, each section of the journey. So from like A to B, B to C, and so on.",Tutor,18,0,1.0,,0.0
+"Okay. So in the first hour, the car drives 50 miles. And by point C, which is an hour and 30 minutes, the distance hasn't changed. So it can be inferred that it probably stopped. From C to D, D being two hours and 30 minutes, it drove another 50 miles. And then from D to E, yeah, E. It's another hour, making it three hours and 30 minutes. And that would be 140 miles. From E to F, it's... Wait, no, no, 130 miles from D to E. It's 130 total.",Student,92,2,,0.0,
+So each of these points can tell us how much distance has passed and how much time has,Tutor,18,1,1.0,,0.0
+passed? Yes.,Student,2,0,,,
+"So how come D to E has a bumpy line there, but C to D is a straight line?",Tutor,19,2,,,0.0
+"Well if you try to, I guess, say, if you try to proportion the graph in comparison to the image here, you can look at the general patterns in which the trail moves. So these bumps are probably once they're in New York City.",Student,44,1,,0.0,
+Why would it be when they're in New York City?,Tutor,10,0,1.0,,1.0
+"Well, there are a few things. You can think about the landscape, for one. I mean, I live in New York City. I know there's a lot of turns. It's probably, it's also possibly more crowded, a lot more traffic to drive through. So I don't know, just a lot of things to take into consideration like those.",Student,58,0,,0.0,
+"So specifically with what this graph is keeping track of, what's happening from D to E, and why would that be New York City?",Tutor,24,1,1.0,,1.0
+"What's happening is, it's not as per se smooth as the other areas. It's not, I suppose, as easy to drive through.",Student,22,1,,0.0,
+"So like the roads have potholes in them, or there's more turns or things like that?",Tutor,16,0,1.0,,0.0
+"Yeah, more turns, most likely.",Student,5,0,,,
+"Okay, cool. Let's now, you've started to think about where some of these points would be. Like you said, D to E is probably that section from New York City. So let's label. Where do you see the points on the map? Where do you estimate they would be, and why?",Tutor,51,1,0.0,,0.0
+"So I see this like ending straight area would be F. As shown on the graph, since it's right after the city, which we just kind of discussed that it would probably be E, well D to E.",Student,38,2,,1.0,
+Okay.,None,1,0,,,
+"So actually put like a dot, where do you think point F would be on the road? And leave your F there, yeah, so that we know that that's the label for that point, but where would you actually put that dot as well?",Tutor,44,0,,,1.0
+"Oh, okay. All right, so I'd end E like right here, and that would go to F, that's right here. And since it starts to get all bumpy at D, D would be right at this point.",Student,37,0,,0.0,
+"And your prediction right now is it's bumpy on the graph because there's turns, potholes, something like that in New York City. Most likely.",Tutor,24,1,1.0,,0.0
+"Okay, cool.",None,2,0,,,
+"And then, so the trickier part would probably be D to C, and from there to A. But I can take into consideration that there's like a stop right here in between B and C. So that stop would most likely be where there's what looks like an irrelevant marking. So I probably think that the stop in between B and C is like somewhere around here.",Student,67,0,,1.0,
+"Okay, put your points, where do you think B would be, where would C be? And the cool thing is we're predicting right now. It's kind of like whenever you're writing a paper, and you write an outline or a rough draft, you're doing some rough draft thinking right now.",Tutor,50,1,1.0,,0.0
+"Yeah. I'm going to start from A right here, since A is zero, I can mark that at the starting point.",Student,21,0,,0.0,
+"And go ahead and put A right next to that point too, so we can keep track of what those little slashes mean.",Tutor,23,0,1.0,,0.0
+"All right, and B and C are probably going to be, I'm actually saying in the midsection of these somewhere, which it's harder to tell because from A to like I-95, it's all curved compared to I-95 to New York City, which is straight. But somewhere halfway I think would be both B and C because they're both 50 miles away from the next point.",Student,65,0,,1.0,
+Okay.,None,1,0,,,
+So I'll probably put it like somewhere right there.,Student,9,0,,0.0,
+"Okay, so you're thinking like this whole section is about 100 miles and both B and C are about 50, so it's like the midpoint of the trip?",Tutor,28,1,0.0,,1.0
+Yeah.,Student,1,0,,,
+Okay. And you said both B and C are the same point?,Tutor,12,0,,,1.0
+"Yeah, since the distance doesn't change.",Student,6,1,,,
+Okay. So the distance stays the same while the time is still increasing?,Tutor,13,1,1.0,,0.0
+Yep.,Student,1,0,,,
+"Okay, so label up B and C.",Tutor,7,0,,,0.0
+"D and E, yeah.",None,4,0,,,
+"And you started to say something about there's curvy lines here and straight lines here of the road, so I'm curious if this is the section that is A to B and it's got curves in it, but from A to B on the graph, it's a smooth line. Why?",Tutor,50,4,,,1.0
+"What's going on there? I'd have to generally... I can't think of the word. The only reason it goes as smooth as it does on the graph is because, like in comparison to how New York City works, is that I inferred that there are most likely a lot of turns and more general roadblocks than from A to B. Yeah.",Student,61,1,,0.0,
+"So we're going to dig into that a little bit more, okay? All right. This is some really cool thinking that you're trying to make sense of right now. I'm going to type a few things here. You've been using these words some as well, and we're going to call these the purple power words. I want you to challenge yourself. These are going to be part of our purple power words, and so are these. And then you've also talked about another power word. I'm going to put down here purple, because I think purple power sounds cool. Okay? All right. Talk about speed as well. So we're going to look at just section A to B. And from A to B, describe what is happening using these purple power words.",Tutor,132,0,0.0,,0.0
+Okay. So there's a distance increases as well as the time.,Student,11,1,,0.0,
+Can we say anything about speed?,Tutor,6,0,1.0,,1.0
+"Yeah, but I think speed really makes more sense when you're bringing A and B into comparison with other points.",Student,20,0,,1.0,
+"So that means you're thinking that speed, just trying to make sure I understand this, that speed is something that can be calculated at a point, but we can't think about the speed of the car during a section of the journey?",Tutor,42,0,1.0,,1.0
+"Well, actually, actually, we can calculate the, yeah, we can calculate the speed in which the car moved from A to B being 50 miles per hour.",Student,27,0,,0.0,
+"So you just added some stuff here. Okay, so this is in miles per hour. Okay. So speed is something that we can keep track of in units of miles per hour. And you think that from A to B, we can describe the speed of the car in miles per hour? Yes. And what is the speed of the car?",Tutor,61,1,1.0,,0.0
+50 miles per hour.,Student,4,0,,,
+Does the car travel at the same speed the entire section of the journey from A to B?,Tutor,18,0,,,0.0
+"Well, that's, it can't, it's not something that can really be figured out, I suppose, because it's not, like the speed can vary, but it would have to, but the car would have to go a certain speed for it to be able to cover 50 miles in that hour.",Student,50,0,,1.0,
+"Okay, so from.",Tutor,3,0,0.0,,0.0
+So there are points where it could.,Student,7,0,,,
+"If the car was varying, if the speed of the car was varying, what would that look like on the graph?",Tutor,21,1,0.0,,1.0
+"Well, if it were varying, then it probably would have, I don't think, it wouldn't have changed on the graph because it still ended up covering the 50 in one hour.",Student,31,1,,1.0,
+"So you're saying because the distance increased by 50 miles and the time increased by one hour, the speed of the car is 50 miles per hour?",Tutor,27,1,1.0,,1.0
+"Most likely, but it still could have varied. Wait, all right, I think I understand D and E now. I think it didn't vary because it's a straight line.",Student,29,1,,0.0,
+So you're saying that we can see speed on this graph now? Yeah. Say more.,Tutor,15,1,0.0,,0.0
+"Well, if you look at, I'll show you most of D and E for a second because it really helps with the example, since it is New York City and we're still thinking about all the possible turns and whatnot in the city, the speed would actually have to vary, which is probably the cause of the graph's line ending up all bumpy and stuff here.",Student,66,2,,1.0,
+"So we're going to do the same thing from D to E. This is really cool thinking you're doing here. Okay, so earlier, can you see what I typed up here in black? Yep. So you said from A to B, the distance increases and so does the time. Let's add more detail to that. Do you know how much the distance increased? You know how much the time increased? And what could you say about speed from A to B?",Tutor,81,3,1.0,,1.0
+The speed has stayed consistent at 50 miles per hour.,Student,10,0,,0.0,
+"Okay. And you said you know from A to B, the car traveled at a constant rate or a constant speed of 50 miles an hour because it has this line. And this linear representation on a graph shows that this thing that's changing and this thing that's changing are changing together at the same rate. Yeah. Okay. And then you said, oh, wait, that means D to E. There's something more about D to E then. So I'm going to type what you say about D to E. Again, challenging you to use those purple power words. What's going on?",Tutor,101,3,1.0,,1.0
+"All right. So the speed both increases and decreases as it covers... I have to calculate the exact distance again. So as the car travels about another 40 miles, the speed varies. It increases and decreases through New York City.",Student,40,1,,0.0,
+"Cool. And what does the distance do? Does the distance increase, decrease, or stay the same from D to E?",Tutor,20,2,1.0,,0.0
+Distance increases.,Student,2,1,,,
+"As the distance increases by 40 miles. Yeah. And what about the time? Is the time increasing, decreasing, or staying the same?",Tutor,22,1,,,0.0
+The time increases as well by... Let's see. It goes from two hours and 30 to by an hour.,Student,19,0,,0.0,
+"Okay. So could we... You said the speed increases and decreases, and that's what this line is showing. Would we be able to calculate the speed of the car from D to E?",Tutor,33,1,1.0,,0.0
+"I'm not sure we can. I mean, we can look at how much distance it covers. Actually, we can calculate it, but maybe not as one consistent speed, because you can calculate 30 miles in 40 minutes. I mean, wait, 30 miles in an hour. But since we do know that the speed changes, we can't get... I can't say that the measurement we get is consistent.",Student,67,2,,1.0,
+"So would we be able to find the exact speed from D to E, or would it be the average speed?",Tutor,21,1,1.0,,0.0
+Average.,None,1,1,,,
+Yeah.,Student,1,0,,,
+"Yeah, you can find the average speed, and then you also recognize... But during that time, the car is increasing its speed and then decreasing its speed. And from A to B, the car is traveling at a consistent speed. So now I'm going to go back to my yellow circles. The outcome on the map, it's a curvy line from A to B, but on the graph, it's a straight line.",Tutor,72,5,,,0.0
+"Well, I believe that the curves could have... There's a very well possibility that the curves weren't really much of a problem at all, and that they were able to just keep going at that 50 miles per hour.",Student,39,0,,1.0,
+"Yeah. So the math is keeping track of the actual path of the road. There's the actual turns the car is making, but the car is traveling. It's like they set the cruise control, and it's traveling at a set 50 miles an hour. Yeah. Is that possible in real life? Can a car travel a consistent rate or a constant rate of 50 miles an hour on a curvy road?",Tutor,71,0,1.0,,0.0
+I think so. I don't drive.,Student,6,0,,,
+"Great connection. Like, I don't know. I haven't experienced it. Yeah, that's what cruise control is. You push a button on the car, or trains may do this, for example. The train track may not be a straight path, but they travel at a constant speed. That's possible.",Tutor,48,0,0.0,,0.0
+"Yeah. I mean, I believe it could do that at 50 miles per hour.",Student,14,0,,0.0,
+"Yeah. And that's why here, even though it's a straight line, it's a relatively straight stretch of the road, the car still is traveling 50 miles an hour again. Or some constant speed.",Tutor,33,1,1.0,,0.0
+"You know what else? The constant speed changes in the city could also be for stoplights, because I assume from A to D and then E to F that it's just a whole bunch of highway, so there aren't really any stoplights or any reason to stop the car.",Student,49,1,,1.0,
+"Right. Right, yeah. There's a great connection there. So D to E, yeah, it is New York City. Is it New York City because of its curvy roads and lots of turns, or is it New York City because of the stops and goes and the speed of the car?",Tutor,50,0,1.0,,0.0
+It's because of the stops and-,Student,6,0,,,
+"Yeah. According to what this graph is keeping track of anyways, right? Because this graph is keeping track of the relationship of distance and time and how those things are changing together. So speed, if we look at this journey, did the car travel at the same speed the entire trip?",Tutor,51,3,1.0,,0.0
+No.,Student,1,0,,,
+No. What can you say about how the speed changed throughout the trip?,Tutor,13,0,,,1.0
+The speed has changed in relation to the stops that were made.,Student,12,0,,0.0,
+"So from A to B, what's the speed? What do you know about the speed of the car?",Tutor,18,0,1.0,,1.0
+That it stayed consistent because there wasn't a reason to stop.,Student,11,0,,0.0,
+And what do you know about the speed of the car from B to C?,Tutor,15,0,0.0,,1.0
+That the car took a stop.,Student,6,0,,,
+And what do you know about the speed of the car from C to D?,Tutor,15,0,1.0,,1.0
+That it went consistent again with the same speed as A to B and ultimately had to stop.,Student,18,0,,0.0,
+And what do you know about the speed of the car from D to E?,Tutor,15,0,1.0,,1.0
+That the speed couldn't stay consistent because there were a lot of stops.,Student,13,0,,1.0,
+And E to F? We haven't looked at that section yet. What do we know about the speed of the car there?,Tutor,22,0,1.0,,0.0
+"So E to F, it looks like it follows the same pattern as A to D, being that it's once again the freeway. So they're able to drive without problem. Because if you look at E to F, it also looks fairly consistent in speed, though there's not a lot of distance.",Student,52,1,,1.0,
+"So the shape of the graph on the inside can tell us if the speed is constant or if it's varying. And you're saying E to F because it again is this smooth line that demonstrates a constant rate. Cool. So anytime you're looking at graphs, one axis will always tell us one thing that's changing and we can describe how it's changing. If it's increasing, decreasing, or staying the same. The other thing that's changing in the situation will be labeled on the other axis. And what's in the middle is describing the relationship of how these two things are changing together. So we can see speed on this graph. It's the blue line.",Tutor,115,7,1.0,,0.0
+Does that make sense? Yep.,None,5,0,,,
+All right. Now you're going to make a prediction and sketch another graph.,Tutor,13,1,,,0.0
+"Okay. All right. So we'll use this angle for four hours. One, two.",Student,13,1,,0.0,
+"Three, four.",None,2,0,,,
+"Five, six, seven, eight, nine, 10.",Student,6,0,,,
+"11, 12, 13, 14, 15. 16, 17, 18, 19, 20.",None,10,0,,,
+"21, 22, 23, 24. 25, 26, 27, 28, 29, 30. 31, 32, 33, 34, 35.",Student,15,0,,0.0,
+"36, 37, 38, 39.",None,4,0,,,
+"40, 41, 42. What are those two dots?",Tutor,8,0,,,0.0
+They're the letters.,Student,3,0,,,
+Okay. So is that one dot A?,Tutor,7,0,,,0.0
+"This one is dot A. After I plant the dots, I'm going to put the letters next to them.",Student,19,0,,0.0,
+"Okay. Before you do that, I want you to explain to me from A to B what's going on with the speed from A to B.",Tutor,26,0,1.0,,1.0
+"Okay. So at A, the speed hasn't started moving at all. So it's just at zero. And then it starts to, as the time goes up, the speed does as well, reaching point B. So by the first hour, the car is at 50 miles per hour.",Student,47,0,,0.0,
+"Okay, so you said by the first hour, the car is traveling 50 miles per hour. Earlier, you said from A to B, the car travels, the speed stays constant at 50 miles per hour. So from A to B, is the speed increasing gradually up to 50 miles per hour? Or is the speed of the car staying the same at 50 miles per hour that entire first hour of the trip?",Tutor,73,0,1.0,,0.0
+You know what? It's a lot more logical that it starts reaching 50 than just being at 50.,Student,18,0,,1.0,
+"In like logical meaning, like in real life, because a car can't instantly be traveling 50 miles an hour? Yeah. All right, so let's pretend the car was already driving whenever it hit Providence. So it was already traveling. It's coming up from here, 50 miles an hour. And then it was already traveling when it started in Providence.",Tutor,59,0,1.0,,0.0
+Okay.,Student,1,0,,,
+Then would it be logical?,Tutor,5,0,,,1.0
+"Well, point A start, well, for one, actually, point A on this graph starts at zero hours. Meaning Providence would probably be the starting point still. It also says that it hasn't traveled any distance yet. Oh, wait, wait, never mind. One sec. I think that if they had started driving before Providence, they may not have been driving at 50 miles per hour already, because at that point they hadn't reached 50 yet, had they?",Student,76,2,,0.0,
+"They hadn't reached the distance of 50. But the car was, whenever you were looking at these lines earlier, you said, if it's a smooth line like this, that means the speed is constant, because the rate of change is constant in that section. So that means five minutes into the trip, the car is going 50 miles an hour, because they set the cruise control. 30 minutes into the trip, the car is going 50 miles an hour. It hasn't traveled 50 miles yet, but the speed of the car remains constant. Is that kind of hard to make sense of?",Tutor,102,3,1.0,,1.0
+I'm trying to make sense of it.,Student,7,0,,,
+"Yeah, your brain is seeing that this starts right here, right? So something is zero. The time of the trip is zero, and the distance traveled is zero. But is speed zero?",Tutor,32,1,0.0,,0.0
+"I mean, the speed, it could either be 50 or zero, because they very well could have traveled 50 miles before getting to Providence.",Student,24,0,,1.0,
+Let's take this point. How fast is the car going 30 minutes into the trip?,Tutor,15,0,1.0,,0.0
+"30 minutes, and they're going 25 miles per hour.",Student,9,0,,0.0,
+How did you get that?,Tutor,5,0,0.0,,1.0
+"Well, 30 would be right along here, and where the line hits 30 is right in between zero and 50, which is 25.",Student,23,1,,0.0,
+So they traveled 25 miles in 30 minutes?,Tutor,8,0,1.0,,1.0
+Yeah.,Student,1,0,,,
+"And speed is in units of miles per hour. So that means I want to know, if I continue at this same rate, how far will I have traveled in one hour?",Tutor,32,1,,,0.0
+"Well, for that, you just multiply them both by two, which is still 50 per hour.",Student,16,1,,0.0,
+"Ah, so even at this point, which is 30 minutes into the trip, I've only traveled 25 miles, but my speed is still 50 miles per hour. So this line here, because it is this straight line, that is demonstrating exactly what you said earlier. The speed stays consistent at 50 miles an hour. And that's five minutes into the trip, 30 minutes into the trip, 45 minutes into the trip. This entire section from A to B, the car is traveling 50 miles per hour. How could you show that on your graph?",Tutor,94,3,1.0,,1.0
+"Well, I can relocate point A to right here, so that it's still on zero in time, but it's at 50 miles per hour.",Student,24,0,,0.0,
+Okay. Are we allowed to do that? Are we allowed to change our minds and edit in math? Yes. Yeah. That's what problem solving is. It's beautiful.,Tutor,27,0,0.0,,0.0
+"Okay. So it's A, there's B. Then from B to C, the speed goes to zero, but the distance, right? The time goes by three minutes. I think I'm moving a little too high. I'm going to change this one. Okay.",Student,41,1,,0.0,
+"So I want you to stop for a second. I heard you saying this is point A, this is point B. Where is the line from A to B? Or is there one?",Tutor,33,1,1.0,,0.0
+"I mean, it would be going straight up.",Student,8,0,,1.0,
+Yeah. Does that feel weird to draw it like that?,Tutor,10,0,0.0,,1.0
+"No, not really.",Student,3,0,,,
+"Okay, cool. Draw. Okay. Where would B to C? Where's that line?",Tutor,12,1,,,0.0
+It goes.,Student,2,0,,,
+So is this B or is this C or is this another point?,Tutor,13,0,,,0.0
+It's a C.,Student,3,0,,,
+"Okay. So B to C, earlier you told me the car was stopped. If the car was stopped, how fast is the car going?",Tutor,24,0,,,0.0
+Zero miles per hour.,Student,4,0,,,
+"Is it going zero miles per hour just at B, just at C, or this whole time from B to C?",Tutor,21,1,,,0.0
+The whole time.,Student,3,1,,,
+"So that means even like an hour and 15 minutes, it's still zero miles per hour?",Tutor,16,0,,,1.0
+Yeah.,Student,1,0,,,
+Okay. Right here? At an hour and 15 minutes? You told me the car is going 30-ish miles an hour.,Tutor,20,0,,,0.0
+"Oh, I'm confusing myself.",Student,4,0,,,
+"It's so cool. Your brain is literally growing right now. That, wait, I'm confused. Huh? What? That's literally your brain making the connections between all of these different things that are changing in this situation. It's so cool.",Tutor,38,0,,,0.0
+"All right. So maybe rather than stop, they're just like coming to a stop? So that they're moving slower.",Student,19,0,,0.0,
+"As much as I would, you're in such a cool spot right now, but unfortunately we are out of time.",Tutor,20,0,0.0,,0.0
+Wow.,Student,1,0,,,
+"So we're going to stop right there. And if we were able to work on this tomorrow, this is exactly where we would pick up. So cool. Okay. So you know you are helping us test this platform and what it's like to learn in this way. So I would love to just hear a little bit about your experience. What do you feel like you learned or are thinking differently about now?",Tutor,73,0,,,1.0
+I actually really like it because it stimulated my brain a bit. It really made me think. It made me put logic into this whole example. And I found myself constantly changing how I was thinking about certain aspects.,Student,39,1,,0.0,
+"And that process of constantly changing how you're thinking, that's literally learning. So cool. You were in that really deep state of learning. What do you think that you were thinking about differently?",Tutor,33,0,1.0,,1.0
+"As to how I was thinking differently, I was putting myself into somewhat different perspectives as I was trying to figure out how the speed worked. Like if I were in that car, how would I be moving throughout this trail?",Student,41,0,,0.0,
+"Right. Yeah. So cool. So in any graph that you see, whether it's one you're reading or it's one you are creating, challenge yourself to think with these purple power words. What's the thing that's changing? How is it changing? And then what's this thing that's changing? How is it changing? And then how can I show or make sense of how those two things are changing in relationship to each other? Does that make sense?",Tutor,76,1,0.0,,0.0
+Yep.,Student,1,0,,,
+All right. Cool. Is there anything that you think was helpful that we should keep doing or something that wasn't as helpful that maybe we should change to make it better?,Tutor,31,0,,,0.0
+"Something I think was really helpful was the patience and the time to let the tutory, I don't know how to call it, the person who's learning, to help them get a better understanding to try to sit there and take a second to see if they can figure it out on their own before they get the help.",Student,59,0,,0.0,
+Beautiful. Yeah. Mucking around is so much fun. You did a really good job of being patient with yourself too and allowing yourself the time to think deeply. You're a very powerful mathematical thinker. Always allow yourself that time to make sense and wonder and try to make those connections. Okay?,Tutor,51,0,1.0,,0.0
+All right.,Student,2,0,,,
+All right. Thank you so much for joining.,Tutor,8,0,,,0.0
+Thank you.,Student,2,0,,,
+All right. Have a good night.,Tutor,6,0,,,0.0
+All right. You too.,Student,4,0,,,

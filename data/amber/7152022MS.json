@@ -1,0 +1,62 @@
+[
+    {
+        "start": "00:03.76",
+        "stop": "00:10.48",
+        "speaker": "Tutor",
+        "dialogue": "Um, okay, so it looks like the recording is active on my end."
+    },
+    {
+        "start": "00:10.56",
+        "stop": "00:12.20",
+        "speaker": "Tutor",
+        "dialogue": "I'm not sure when that happened for the session."
+    },
+    {
+        "start": "00:12.92",
+        "stop": "00:14.76",
+        "speaker": "Tutor",
+        "dialogue": "Um, what I'll do is I'll just mute myself."
+    },
+    {
+        "start": "00:15.00",
+        "stop": "00:22.16",
+        "speaker": "Tutor",
+        "dialogue": "Um, I'll mute this tab too, so I won't be listening in on the session, so don't worry about that, but I'll just hang in here for the duration of the session and the recording will record on my side."
+    },
+    {
+        "start": "00:23.92",
+        "stop": "00:24.64",
+        "speaker": "Student",
+        "dialogue": "I have several O."
+    },
+    {
+        "start": "00:29.28",
+        "stop": "00:32.92",
+        "speaker": "Tutor",
+        "dialogue": "It should be because you're at it as a teacher in all of these classes."
+    },
+    {
+        "start": "00:33.36",
+        "stop": "00:35.36",
+        "speaker": "Tutor",
+        "dialogue": "Um, were you able to record the one this morning?"
+    },
+    {
+        "start": "00:36.24",
+        "stop": "00:36.28",
+        "speaker": "Student",
+        "dialogue": "The."
+    },
+    {
+        "start": "00:36.28",
+        "stop": "00:36.92",
+        "speaker": "Tutor",
+        "dialogue": "One I before."
+    },
+    {
+        "start": "00:39.04",
+        "stop": "00:39.36",
+        "speaker": "Student",
+        "dialogue": "Okay."
+    }
+]
