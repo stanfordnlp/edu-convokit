@@ -62,9 +62,9 @@ Tutorials: Basics of edu-toolkit
 .. raw:: html
 
    <ul>
-      <li><a href="TODO"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="TODO">Tutorial on Text Pre-Processing</a></li>
-      <li><a href="TODO"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="TODO">Tutorial on Annotation</a></li>
-      <li><a href="TODO"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="TODO">Tutorial on Analysis</a></li>
+      <li><a href="https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK">Tutorial on Text Pre-Processing</a></li>
+      <li><a href="https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw">Tutorial on Annotation</a></li>
+      <li><a href="https://colab.research.google.com/drive/1xfrq5Ka3FZH7t9l87u4sa_oMlmMvuTfe"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1xfrq5Ka3FZH7t9l87u4sa_oMlmMvuTfe">Tutorial on Analysis</a></li>
    </ul>
 
 
@@ -74,9 +74,9 @@ Tutorials: Datasets with edu-toolkit
 .. raw:: html
 
    <ul>
-      <li><a href="TODO"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="TODO">Tutorial on the Amber dataset with edu-toolkit</a></li>
-      <li><a href="TODO"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="TODO">Tutorial on the TalkMoves dataset with edu-toolkit</a></li>
-      <li><a href="TODO"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="TODO">Tutorial on the NCTE dataset with edu-toolkit</a></li>
+      <li><a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9">Tutorial on the Amber dataset with edu-toolkit</a></li>
+      <li><a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd">Tutorial on the TalkMoves dataset with edu-toolkit</a></li>
+      <li><a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg">Tutorial on the NCTE dataset with edu-toolkit</a></li>
    </ul>
 
 Citation
@@ -91,4 +91,4 @@ If you use the edu-toolkit in your research, please cite the following paper:
 Contributing
 ------------
 
-We welcome contributions to the edu-toolkit! Please check out our :ref:`contributing` guidelines for more details.
+We welcome contributions to the edu-toolkit! Feel free to make a pull request or submit an issue on GitHub: https://github.com/rosewang2008/edu-toolkit.
