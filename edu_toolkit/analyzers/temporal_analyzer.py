@@ -35,7 +35,7 @@ class TemporalAnalyzer(analyzer.Analyzer):
 
         results_df = []
 
-        for df in dfs:
+        for num_df, df in enumerate(dfs):
             assert speaker_column in df.columns, f"Speaker column {speaker_column} not found in dataframe."
             assert feature_column in df.columns, f"Feature column {feature_column} not found in dataframe."
 
@@ -57,6 +57,9 @@ class TemporalAnalyzer(analyzer.Analyzer):
                         f"prop_speaker_{feature_column}": speaker_df[feature_column].sum() / feature_sum,
                     }
                     results_df.append(result)
+
+            if self.max_transcripts is not None and num_df >= self.max_transcripts - 1:
+                break
         
         results_df = pd.DataFrame(results_df)
         return results_df
