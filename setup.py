@@ -40,7 +40,7 @@ setuptools.setup(
         "scikit-learn",
         "matplotlib",
         "seaborn",
-        "pandas>=2.0.0",
+        "pandas",
         "clean-text",
     ],
     extras_require=extras_require,
