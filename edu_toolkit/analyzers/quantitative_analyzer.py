@@ -64,6 +64,21 @@ class QuantitativeAnalyzer(analyzer.Analyzer):
             value_as: str = "raw", # raw, avg, prop, all
             dropna: bool = False,
     ) -> str:
+        """
+        Report statistics for a feature across all speakers.
+
+        Arguments:
+            feature_column (str): name of column containing feature to compute statistics for
+            df (pd.DataFrame): pandas dataframe. If None, then use self.dfs from constructor
+            speaker_column (str): name of column containing speaker names
+            value_as (str): raw, avg, prop, all
+            dropna (bool): drop rows with NaN values in feature_column
+
+        Returns:
+            str: string representation of statistics
+        """
+    
+
         assert value_as in ["raw", "avg", "prop", "all"], f"Invalid value_as {value_as}. Must be one of ['raw', 'avg', 'prop']."
 
         results_df = self._compute_statistics(
@@ -101,6 +116,19 @@ class QuantitativeAnalyzer(analyzer.Analyzer):
             value_as: str = "raw", # raw, avg, prop
             dropna: bool = False,
     ):
+        """
+        Print statistics for a feature across all speakers.
+
+        Arguments:
+            feature_column (str): name of column containing feature to compute statistics for
+            df (pd.DataFrame): pandas dataframe. If None, then use self.dfs from constructor
+            speaker_column (str): name of column containing speaker names
+            value_as (str): raw, avg, prop
+            dropna (bool): drop rows with NaN values in feature_column
+
+        Returns:
+            None
+        """
         text = self.report_statistics(
             df=df,
             feature_column=feature_column,
@@ -125,6 +153,26 @@ class QuantitativeAnalyzer(analyzer.Analyzer):
             yrange: Tuple[float, float] = None,
             label_mapping: Dict[str, str] = None
         ):
+        """
+        Plot statistics for a feature across all speakers.
+
+        Arguments:
+            feature_column (str): name of column containing feature to compute statistics for
+            df (pd.DataFrame): pandas dataframe. If None, then use self.dfs from constructor
+            speaker_column (str): name of column containing speaker names
+            value_as (str): raw, avg, prop, all
+            dropna (bool): drop rows with NaN values in feature_column
+            title (str): title of plot
+            xlabel (str): x-axis label
+            ylabel (str): y-axis label
+            save_path (str): path to save plot
+            xrange (Tuple[float, float]): x-axis range
+            yrange (Tuple[float, float]): y-axis range
+            label_mapping (Dict[str, str]): mapping from speaker names to labels
+
+        Returns:
+            None
+        """
 
         assert value_as in ["raw", "avg", "prop", "all"], f"Invalid value_as {value_as}. Must be one of ['raw', 'avg', 'prop']."
         sns.set_theme(style="whitegrid")

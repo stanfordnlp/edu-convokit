@@ -27,6 +27,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.githubpages',
     'sphinx.ext.coverage',
+    'nbsphinx',
 ]
 
 intersphinx_mapping = {

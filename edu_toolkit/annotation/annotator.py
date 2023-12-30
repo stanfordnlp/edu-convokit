@@ -26,6 +26,9 @@ from edu_toolkit.constants import (
 
 
 class Annotator:
+    """
+        Annotator class for edu-toolkit. Contains methods for annotating data.
+    """
     def __init__(self):
         pass
 
@@ -68,18 +71,21 @@ class Annotator:
             time_start_column: str = None,
             time_end_column: str = None,
             output_column: str = "talktime_analysis",
-            ) -> Tuple[pd.DataFrame, pd.DataFrame]:
+            ) -> pd.DataFrame:
         """
         Analyze talk time of speakers in a dataframe. Return original df and new dataframe with talk time analysis.
 
         Arguments:
-            df: pandas dataframe
-            speaker_column: name of column containing speaker names
-            analysis_unit: unit to analyze talk time by. Options: words, sentences, timestamps
-            representation: representation of talk time. Options: frequency, proportion
-            text_column: name of column containing text to analyze. Required if analysis_unit is words or sentences.
-            time_start_column: name of column containing start time. Required if analysis_unit is timestamps. # assumed to be in seconds from start.
-            time_end_column: name of column containing end time. Required if analysis_unit is timestamps.
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze. Only required if analysis_unit is words or sentences.
+            analysis_unit (str): unit to analyze. Choose from "words", "sentences", "timestamps".
+            representation (str): representation of talk time. Choose from "frequency", "proportion".
+            time_start_column (str): name of column containing start time. Only required if analysis_unit is timestamps.
+            time_end_column (str): name of column containing end time. Only required if analysis_unit is timestamps.
+            output_column (str): name of column to store result.
+
+        Returns:
+            df (pd.DataFrame): dataframe with talk time analysis
         """ 
         assert analysis_unit in ["words", "sentences", "timestamps"], f"Analysis unit {analysis_unit} not supported."
         assert representation in ["frequency", "proportion"], f"Representation {representation} not supported."
@@ -109,7 +115,7 @@ class Annotator:
         model.eval()
         return tokenizer, model
 
-    def get_classification_predictions(
+    def _get_classification_predictions(
             self,
             df: pd.DataFrame,
             text_column: str,
@@ -178,12 +184,25 @@ class Annotator:
             speaker_column: str = None,
             speaker_value: Union[str, List[str]] = None,
     ) -> pd.DataFrame:
+        """
+        Get student reasoning predictions for a dataframe.
+
+        Arguments:
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze
+            output_column (str): name of column to store result
+            speaker_column (str): name of column containing speaker names. Only required if speaker_value is not None.
+            speaker_value (str or list): if speaker_column is not None, only get predictions for this speaker.
+        
+        Returns:
+            df (pd.DataFrame): dataframe with student reasoning predictions
+        """
 
         # Print out note that the predictions should only be run on student reasoning as that's what the model was trained on.
         logging.warning("""Note: This model was trained on student reasoning, so it should be used on student utterances.
     For more details on the model, see https://arxiv.org/pdf/2211.11772.pdf""")
 
-        return self.get_classification_predictions(
+        return self._get_classification_predictions(
             df=df,
             text_column=text_column,
             output_column=output_column,
@@ -202,10 +221,24 @@ class Annotator:
             speaker_column: str = None,
             speaker_value: str = None,
     ) -> pd.DataFrame:
+        """
+        Get focusing question predictions for a dataframe.
+
+        Arguments:
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze
+            output_column (str): name of column to store result
+            speaker_column (str): name of column containing speaker names. Only required if speaker_value is not None.
+            speaker_value (str or list): if speaker_column is not None, only get predictions for this speaker.
+
+        Returns:
+            df (pd.DataFrame): dataframe with focusing question predictions
+        """
+
         logging.warning("""Note: This model was trained on teacher focusing questions, so it should be used on teacher utterances.
     For more details on the model, see https://aclanthology.org/2022.bea-1.27.pdf""")
 
-        return self.get_classification_predictions(
+        return self._get_classification_predictions(
             df=df,
             text_column=text_column,
             output_column=output_column,
@@ -240,18 +273,20 @@ class Annotator:
     ) -> pd.DataFrame:
         """
         Get uptake predictions for a dataframe.
-
-        Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to get predictions for
-            output_column: name of column to store predictions
-            speaker_column: name of column that contains speaker names.
-            speaker1: name of speaker1 (first speaker in the conversation)
-            speaker2: name of speaker2 (second speaker in the conversation)
-            result_type: "raw" or "binary". If "binary", will return 1 if uptake score > threshold, 0 otherwise.
-
         Following the implementation here:
         https://huggingface.co/ddemszky/uptake-model/blob/main/handler.py
+
+        Arguments:
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze
+            output_column (str): name of column to store result
+            speaker_column (str): name of column containing speaker names.
+            speaker1 (str or list): speaker1 is the student
+            speaker2 (str or list): speaker2 is the teacher
+            result_type (str): raw or binary
+
+        Returns:
+            df (pd.DataFrame): dataframe with uptake predictions
         """
 
         logging.warning("""Note: This model was trained on teacher's uptake of student's utterances. So, speaker1 should be the student and speaker2 should be the teacher.
@@ -346,13 +381,17 @@ class Annotator:
             result_type: str = "total", # total, proportion
     ) -> pd.DataFrame:
         """
-        Return a dataframe with the math density of each row in df. 
+        Get math density for a dataframe. Following the implementation here: https://edworkingpapers.com/sites/default/files/ai23-855.pdf
 
         Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to analyze
-            output_column: name of column to store result
-            count_type: total or unique
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze
+            output_column (str): name of column to store result
+            count_type (str): total or unique
+            result_type (str): total or proportion
+
+        Returns:
+            df (pd.DataFrame): dataframe with math density analysis
         """
         assert text_column in df.columns, f"Text column {text_column} not found in dataframe."
         # assert count_type in ["total", "unique"], f"Count type {count_type} not supported. Choose from 'total' or 'unique'."

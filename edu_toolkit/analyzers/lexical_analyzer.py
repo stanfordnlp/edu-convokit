@@ -28,6 +28,21 @@ class LexicalAnalyzer(analyzer.Analyzer):
             run_ngrams: bool = False,
             n: int = 0
     ) -> str: 
+        """
+        Print word frequency for a dataframe.
+
+        Arguments:
+            df (pd.DataFrame): pandas dataframe
+            text_column (str): name of column containing text to analyze
+            topk (int): number of top words to return
+            speaker_column (str): name of column containing speaker names. If specified, it will report word frequency for each speaker.
+            run_text_formatting (bool): whether to run standard text formatting
+            run_ngrams (bool): whether to run ngrams
+            n (int): n for ngrams
+
+        Returns:
+            str: word frequency
+        """
 
         text = self.report_word_frequency(
             df=df,
@@ -51,13 +66,19 @@ class LexicalAnalyzer(analyzer.Analyzer):
             n: int = 0
     ) -> str: 
         """
-        Report word frequency for a dataframe.
+        Reports word frequency for a dataframe as a string.
 
         Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to analyze
-            topk: number of top words to return
-            speaker_column: name of column containing speaker names. If specified, it will report word frequency for each speaker.
+            df (pd.DataFrame): pandas dataframe
+            text_column (str): name of column containing text to analyze
+            topk (int): number of top words to return
+            speaker_column (str): name of column containing speaker names. If specified, it will report word frequency for each speaker.
+            run_text_formatting (bool): whether to run standard text formatting
+            run_ngrams (bool): whether to run ngrams
+            n (int): n for ngrams
+
+        Returns:
+            str: word frequency
         """
         if df is None: 
             df = self.get_df().copy()
@@ -234,10 +255,19 @@ class LexicalAnalyzer(analyzer.Analyzer):
         For more information on log-odds, see: https://en.wikipedia.org/wiki/Odds_ratio
 
         Arguments:
-            df1: pandas dataframe
-            df2: pandas dataframe
-            text_column1: name of column containing text to analyze in df1
-            text_column2: name of column containing text to analyze in df2
+            df1 (pd.DataFrame): pandas dataframe
+            df2 (pd.DataFrame): pandas dataframe
+            text_column1 (str): name of column containing text to analyze in df1
+            text_column2 (str): name of column containing text to analyze in df2
+            topk (int): number of top words to return
+            zscore (bool): whether to z-score the log-odds
+            logodds_factor (float): factor to multiply standard deviation by to determine top words
+            run_text_formatting (bool): whether to run standard text formatting
+            run_ngrams (bool): whether to run ngrams
+            n (int): n for ngrams
+
+        Returns:
+            Tuple[List[Tuple[str, float]], List[Tuple[str, float]]]: topk log-odds for each df: ([(word, log-odds), ...], [(word, log-odds), ...])
         """
         assert text_column1 in df1.columns, f"Text column {text_column1} not found in dataframe."
         assert text_column2 in df2.columns, f"Text column {text_column2} not found in dataframe."
@@ -294,7 +324,7 @@ class LexicalAnalyzer(analyzer.Analyzer):
             self,
             df1: pd.DataFrame,
             df2: pd.DataFrame,
-            text_column1: str, # This should be a list of strings. If it's a single string, it will be split into a list of strings.
+            text_column1: str,
             text_column2: str,
             topk: int = 5,
             zscore: bool = True,
@@ -303,6 +333,25 @@ class LexicalAnalyzer(analyzer.Analyzer):
             run_ngrams: bool = False,
             n: int = 0,
     ) -> str:
+        """
+        Return formatted topk log-odds for each df: ([(word, log-odds), ...], [(word, log-odds), ...])
+
+        Arguments:
+            df1 (pd.DataFrame): pandas dataframe
+            df2 (pd.DataFrame): pandas dataframe
+            text_column1 (str): name of column containing text to analyze in df1
+            text_column2 (str): name of column containing text to analyze in df2
+            topk (int): number of top words to return
+            zscore (bool): whether to z-score the log-odds
+            logodds_factor (float): factor to multiply standard deviation by to determine top words
+            run_text_formatting (bool): whether to run standard text formatting
+            run_ngrams (bool): whether to run ngrams
+            n (int): n for ngrams
+
+        Returns:
+            str: formatted topk log-odds for each df: ([(word, log-odds), ...], [(word, log-odds), ...])
+        """
+
         log_odds1, log_odds2 = self._get_logodds(
             df1=df1,
             df2=df2,
@@ -323,7 +372,7 @@ class LexicalAnalyzer(analyzer.Analyzer):
             self,
             df1: pd.DataFrame,
             df2: pd.DataFrame,
-            text_column1: str, # This should be a list of strings. If it's a single string, it will be split into a list of strings.
+            text_column1: str, 
             text_column2: str,
             topk: int = 5,
             zscore: bool = True,
@@ -336,10 +385,16 @@ class LexicalAnalyzer(analyzer.Analyzer):
         Print topk log-odds for each df: ([(word, log-odds), ...], [(word, log-odds), ...])
 
         Arguments:
-            df1: pandas dataframe
-            df2: pandas dataframe
-            text_column1: name of column containing text to analyze in df1
-            text_column2: name of column containing text to analyze in df2
+            df1 (pd.DataFrame): pandas dataframe
+            df2 (pd.DataFrame): pandas dataframe
+            text_column1 (str): name of column containing text to analyze in df1
+            text_column2 (str): name of column containing text to analyze in df2
+            topk (int): number of top words to return
+            zscore (bool): whether to z-score the log-odds
+            logodds_factor (float): factor to multiply standard deviation by to determine top words
+            run_text_formatting (bool): whether to run standard text formatting
+            run_ngrams (bool): whether to run ngrams
+            n (int): n for ngrams
         """
 
         text = self.report_log_odds(
@@ -361,7 +416,7 @@ class LexicalAnalyzer(analyzer.Analyzer):
             self,
             df1: pd.DataFrame,
             df2: pd.DataFrame,
-            text_column1: str, # This should be a list of strings. If it's a single string, it will be split into a list of strings.
+            text_column1: str,
             text_column2: str,
             group1_name: str = "Group 1",
             group2_name: str = "Group 2",
@@ -373,6 +428,25 @@ class LexicalAnalyzer(analyzer.Analyzer):
             run_ngrams: bool = False,
             n: int = 0,
     ) -> None:
+        """
+        Plot topk log-odds for each df: ([(word, log-odds), ...], [(word, log-odds), ...])
+
+        Arguments:
+            df1 (pd.DataFrame): pandas dataframe
+            df2 (pd.DataFrame): pandas dataframe
+            text_column1 (str): name of column containing text to analyze in df1
+            text_column2 (str): name of column containing text to analyze in df2
+            group1_name (str): name of group 1
+            group2_name (str): name of group 2
+            topk (int): number of top words to return
+            save_path (str): path to save plot
+            zscore (bool): whether to z-score the log-odds
+            logodds_factor (float): factor to multiply standard deviation by to determine top words
+            run_text_formatting (bool): whether to run standard text formatting
+            run_ngrams (bool): whether to run ngrams
+            n (int): n for ngrams
+        """
+
         sns.set_theme(style="whitegrid")
         sns.set_context("paper", font_scale=1.5, rc={"lines.linewidth": 2.5})
         plt.rcParams["font.family"] = "serif"

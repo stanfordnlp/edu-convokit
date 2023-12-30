@@ -23,9 +23,10 @@ class Analyzer:
         Note: All of these filenames must be valid analysis files (i.e. .csv, .xlsx, or .json).
 
         Arguments:
-            data_dir: directory containing data files
-            filenames: list of filenames to load
-            max_transcripts: maximum number of transcripts to load
+            data_dir (str): directory containing data files
+            filenames (Union[List[str], str]): list of filenames to load
+            dfs (Union[List[pd.DataFrame], pd.DataFrame]): list of dataframes to load
+            max_transcripts (int): maximum number of transcripts to load
         """
         self.data_dir = data_dir
         self.filenames = filenames

@@ -45,14 +45,17 @@ class TextPreprocessor:
             target_text_column: str = None,
             ) -> pd.DataFrame:
         """
-        Anonymize a dataframe with known names. Return a new dataframe with anonymized text.
+        Anonymize a dataframe with known names. 
 
         Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to anonymize
-            names: list of names to anonymize
-            replacement_names: list of replacement names
-            target_text_column: name of column to store anonymized text. If None, will overwrite text_column.
+            df (pd.DataFrame): pandas dataframe
+            text_column (str): name of column containing text to anonymize
+            names (Union[str, List[str]]): names to anonymize
+            replacement_names (Union[str, List[str]]): replacement names
+            target_text_column (str): name of column to store anonymized text. If None, will overwrite text_column.
+
+        Returns:
+            pd.DataFrame: dataframe with anonymized text
         """
 
         assert text_column in df.columns, f"Text column {text_column} not found in dataframe."
@@ -87,12 +90,17 @@ class TextPreprocessor:
             return_names: bool = False,
             ) -> pd.DataFrame:
         """
-        Anonymize a dataframe with unknown names. Return a new dataframe with anonymized text.
+        Anonymize a dataframe with unknown names.
 
         Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to anonymize
-            target_text_column: name of column to store anonymized text. If None, will overwrite text_column.
+            df (pd.DataFrame): pandas dataframe
+            text_column (str): name of column containing text to anonymize
+            target_text_column (str): name of column to store anonymized text. If None, will overwrite text_column.
+            return_names (bool): if True, return names and replacement_names
+
+        Returns:
+            pd.DataFrame: dataframe with anonymized text
+            Optional[Tuple[List[str], List[str]]]: names and replacement_names
         """
         nlp = spacy.load("en_core_web_sm")
 
@@ -136,10 +144,13 @@ class TextPreprocessor:
         Create new dataframe where the utterances from same speaker are grouped together.
 
         Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to anonymize
-            speaker_column: name of column containing speaker names
-            target_text_column: name of column to store merged text. If None, will overwrite text_column.
+            df (pd.DataFrame): pandas dataframe
+            text_column (str): name of column containing text to merge utterances
+            speaker_column (str): name of column containing speaker names
+            target_text_column (str): name of column to store merged text
+
+        Returns:
+            pd.DataFrame: dataframe with merged text
         """
         assert text_column in df.columns, f"Text column {text_column} not found in dataframe."
         assert speaker_column in df.columns, f"Speaker column {speaker_column} not found in dataframe."
@@ -187,10 +198,13 @@ class TextPreprocessor:
         Return a string with the speaker and text formatted according to the format string.
 
         Arguments:
-            df: pandas dataframe
-            text_column: name of column containing text to anonymize
-            speaker_column: name of column containing speaker names
-            format: format string
+            df (pd.DataFrame): pandas dataframe
+            text_column (str): name of column containing text
+            speaker_column (str): name of column containing speaker names
+            format (str): format string
+
+        Returns:
+            str: formatted string
         """
         assert text_column in df.columns, f"Text column {text_column} not found in dataframe."
         assert speaker_column in df.columns, f"Speaker column {speaker_column} not found in dataframe."

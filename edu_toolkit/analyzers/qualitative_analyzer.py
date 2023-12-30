@@ -30,13 +30,17 @@ class QualitativeAnalyzer(analyzer.Analyzer):
         ), ...]
 
         Arguments:
-            df: pandas dataframe
-            speaker_column: name of column containing speaker names
-            text_column: name of column containing text to get predictions for
-            feature_column: name of column containing feature to get examples for
-            feature_value: if not None, only get examples for this feature value
-            show_k_previous_lines: show k previous lines
-            show_k_next_lines: show k next lines
+            speaker_column (str): name of column containing speaker names
+            text_column (str): name of column containing text to get predictions for
+            feature_column (str): name of column containing feature to get examples for
+            df (pd.DataFrame): pandas dataframe. If None, then use self.dfs from constructor
+            feature_value (Union[str, List[str]]): if not None, only get examples for this feature value
+            show_k_previous_lines (int): show k previous lines
+            show_k_next_lines (int): show k next lines
+            dropna (bool): drop rows with NaN values in feature_column
+
+        Returns:
+            None
         """        
         examples = self._get_examples(
             df=df,
@@ -76,13 +80,17 @@ class QualitativeAnalyzer(analyzer.Analyzer):
         ), ...]
 
         Arguments:
-            df: pandas dataframe
-            speaker_column: name of column containing speaker names
-            text_column: name of column containing text to get predictions for
-            feature_column: name of column containing feature to get examples for
-            feature_value: if not None, only get examples for this feature value
-            show_k_previous_lines: show k previous lines
-            show_k_next_lines: show k next lines
+            speaker_column (str): name of column containing speaker names
+            text_column (str): name of column containing text to get predictions for
+            feature_column (str): name of column containing feature to get examples for
+            df (pd.DataFrame): pandas dataframe. If None, then use self.dfs from constructor
+            feature_value (Union[float, List[float]]): if not None, only get examples for this feature value
+            show_k_previous_lines (int): show k previous lines
+            show_k_next_lines (int): show k next lines
+            dropna (bool): drop rows with NaN values in feature_column
+
+        Returns:
+            str: formatted examples
         """        
         examples = self._get_examples(
             df=df,
@@ -122,12 +130,17 @@ class QualitativeAnalyzer(analyzer.Analyzer):
         ), ...]
 
         Arguments:
-            speaker_column: name of column containing speaker names
-            text_column: name of column containing text to get predictions for
-            feature_column: name of column containing feature to get examples for
-            feature_value: if not None, only get examples for this feature value
-            show_k_previous_lines: show k previous lines
-            show_k_next_lines: show k next lines
+            speaker_column (str): name of column containing speaker names
+            text_column (str): name of column containing text to get predictions for
+            feature_column (str): name of column containing feature to get examples for
+            df (pd.DataFrame): pandas dataframe. If None, then use self.dfs from constructor
+            feature_value (Union[float, List[float]]): if not None, only get examples for this feature value
+            show_k_previous_lines (int): show k previous lines
+            show_k_next_lines (int): show k next lines
+            dropna (bool): drop rows with NaN values in feature_column
+
+        Returns:
+            List[Tuple[List[Tuple[str, str]], Tuple[str, str], List[Tuple[str, str]], float]]: list of examples
         """
 
         if df is None:
