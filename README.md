@@ -1,7 +1,7 @@
 
-# 🛠️ edu-toolkit: An Open-Source Framework for Education Language Data
+# ![image_logo](assets/logo.png) edu-convokit: An Open-Source Framework for Education Conversation Data
 
-The **edu-toolkit** is an open-source framework designed to facilitate the study of language data in educational settings. 
+The **edu-toolkit** is an open-source framework designed to facilitate the study of conversation language data in educational settings.
 It provides a practical and efficient pipeline for essential tasks such as text pre-processing, annotation, and analysis, tailored to meet the needs of researchers and developers.
 This toolkit aims to enhance the accessibility and reproducibility of educational language data analysis, as well as advance both natural language processing (NLP) and education research.
 By simplifying these key operations, the edu-toolkit supports the efficient exploration and interpretation of text data in education.
@@ -27,6 +27,8 @@ pip install git+https://github.com/rosewang2008/edu-toolkit.git
 ```
 
 ## Overview of the `edu-toolkit` Pipeline
+
+![image](assets/full_logo.png)
 
 The **edu-toolkit** pipeline consists of three key modules: `preprocess`, `annotate`, and `analyze`.
 The pipeline is designed to be modular, so you can use any combination of these modules to suit your needs.
