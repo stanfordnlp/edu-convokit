@@ -1,0 +1,13 @@
+Consider the following classroom transcript.
+
+Transcript:
+{conversation}
+
+Please provide up to 5 bad examples (eg. missed opportunities or poor execution) of the teacher's behavior management. Behavior management encompasses the teacher's use of effective methods to encourage desirable behavior and prevent and re-direct misbehavior.
+
+Format your answer as:
+Bad examples
+1. Line number: <specify line number>, Segment: "<copied from transcript>", Reason: <specify why this is a bad example>
+2. ...
+
+Bad examples:

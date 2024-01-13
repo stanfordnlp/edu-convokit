@@ -1,0 +1,13 @@
+Consider the following classroom transcript.
+
+Transcript:
+{conversation}
+
+The transcript contains many short student responses. Please provide 5 suggestions for the teacher on how the teacher could elicit more student reasoning in the classroom. Student reasoning is counted broadly as students asking questions, engaging in mathematical discourse with their teacher or peers, and providing explanations such as justifying their answers.
+
+Format your answer as:
+Advice to the teacher:
+1. Segment: "<copied from transcript>", Suggestion: <specify advice to the teacher>
+2. ...
+
+Advice to the teacher:

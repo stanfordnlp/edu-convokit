@@ -1,0 +1,8 @@
+Consider the following transcript of a conversation between a teacher and a student.
+
+Transcript:
+{conversation}
+
+Please summarize the conversation in a few sentences.
+
+Summary:
