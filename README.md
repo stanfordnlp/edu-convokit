@@ -1,6 +1,6 @@
 
-<!-- # <img style="float: left;" src="assets/logo.png" height="100" /> edu-convokit: An Open-Source Framework for Education Conversation Data -->
-<h1><img style="float: left;" src="assets/logo.png" height="100" /> edu-convokit: An Open-Source Framework for Education Conversation Data </h1>
+![image](assets/full_logo.png)
+<h1><img src="assets/logo.png" height="30" /> edu-convokit: An Open-Source Framework for Education Conversation Data </h1>
 
 The **edu-convokit** is an open-source framework designed to facilitate the study of conversation language data in educational settings.
 It provides a practical and efficient pipeline for essential tasks such as text pre-processing, annotation, and analysis, tailored to meet the needs of researchers and developers.
@@ -33,7 +33,6 @@ pip install git+https://github.com/rosewang2008/edu-toolkit.git
   <img src="assets/overview.png" width="600"/>
 </p>
 
-![image](assets/full_logo.png)
 
 The **edu-toolkit** pipeline consists of three key modules: `preprocess`, `annotate`, and `analyze`.
 The pipeline is designed to be modular, so you can use any combination of these modules to suit your needs.
