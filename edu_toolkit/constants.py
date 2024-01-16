@@ -1,5 +1,6 @@
 VALID_FILE_EXTENSIONS = [".json", ".csv", ".xlsx"]
-
+CONVERSATION_PROMPTS_DIR = "prompts/conversation"
+UTTERANCE_PROMPTS_DIR = "prompts/utterance"
 RESULTS_DIR = "results"
 
 OUTPUT_TALKTIME_WORDS = "talktime_words"
@@ -8,6 +9,21 @@ OUTPUT_MATH_DENSITY = "math_density"
 OUTPUT_UPTAKE = "uptake"
 OUTPUT_STUDENT_REASONING = "student_reasoning"
 OUTPUT_FOCUSING_QUESTIONS = "focusing_questions"
+
+# OPENAI MODEL CONTEXT LENGTH
+# Copied from https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo
+OPENAI_MODEL_2_CONTEXT_LENGTH = {
+    "gpt-4": 8_192,
+    "gpt-4-32k": 32_768,
+    "gpt-4-0613": 8_192,
+    "gpt-4-32k-0613": 32_768,
+    "gpt-3.5-turbo": 4_096,
+    "gpt-3.5-turbo-16k": 16_385,
+    "gpt-3.5-turbo-instruct": 4_096,
+    "gpt-3.5-turbo-0613": 4_096,
+    "gpt-3.5-turbo-16k-0613": 16_385,
+    "gpt-3.5-turbo-0301": 4_096,
+}
 
 # DATASET SPECIFIC
 AMBER_DATADIR = "data/amber"

@@ -8,6 +8,18 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 from edu_toolkit.constants import VALID_FILE_EXTENSIONS
 import numpy as np
+import pkg_resources
+
+
+def load_text_file(filepath):
+    """
+    Loads a text file and returns the text as a string.
+    """
+    try: 
+        content = pkg_resources.resource_string(__name__, filepath)
+        return content.decode("utf-8")
+    except FileNotFoundError:
+        raise FileNotFoundError(f"File {filepath} not found.")
 
 def split_dataframe(df, num_bins): # output list of dfs
     """

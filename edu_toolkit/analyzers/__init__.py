@@ -13,3 +13,7 @@ from .quantitative_analyzer import (
 from .temporal_analyzer import (
     TemporalAnalyzer
 )
+
+from .gpt_conversation_analyzer import (
+    GPTConversationAnalyzer
+)
