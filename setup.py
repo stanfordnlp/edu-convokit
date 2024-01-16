@@ -19,15 +19,15 @@ with open('README.md') as f:
     readme = f.read()
 
 setuptools.setup(
-    name="edu-toolkit",
+    name="edu-convokit",
     packages=setuptools.find_packages(exclude=["tests"]),
     version=version,
     license="MIT",
-    description="edu-toolkit: An Open-Source Framework for Education Language Data",
+    description="edu-convokit: An Open-Source Framework for Education Language Data",
     long_description=readme,
     author="Rose E. Wang",
     author_email="rewang@cs.stanford.edu",
-    url="https://github.com/rosewang2008/edu-toolkit",
+    url="https://github.com/rosewang2008/edu-convokit",
     install_requires=[
         "tqdm",
         "numpy",
