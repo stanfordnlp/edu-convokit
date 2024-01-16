@@ -29,7 +29,7 @@ from edu_convokit.constants import (
 
 class Annotator:
     """
-        Annotator class for edu-toolkit. Contains methods for annotating data.
+        Annotator class for edu-convokit. Contains methods for annotating data.
     """
     def __init__(self):
         pass
