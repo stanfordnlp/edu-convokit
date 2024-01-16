@@ -10,7 +10,7 @@ This toolkit aims to enhance the accessibility and reproducibility of educationa
 By simplifying these key operations, the Edu-ConvoKit supports the efficient exploration and interpretation of text data in education.
 
 ## 📖 Table of Contents
-[**Installation**](#installation) | [**Tutorials**](#tutorials) | [**Example Usage**](#example-usage) | [**Documentation**](https://edu-convokit.readthedocs.io/en/latest/) | [**Citation**](#citation) | [**Contact**](#contact)
+[**Installation**](#installation) | [**Tutorials**](#tutorials) | [**Example Usage**](#example-usage) | [**Documentation**](https://edu-convokit.readthedocs.io/en/latest/) | [**Papers with Edu-ConvoKit**](papers.md) | [**Citation**](#citation) | [**Contact**](#contact)
 
 ## Installation
 
