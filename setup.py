@@ -60,5 +60,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
         "Typing :: Typed",
     ],
+    package_data={"edu_toolkit": ["prompts/conversation/*.txt", "prompts/utterance/*.txt"]},
     python_requires="~=3.7",
 )
