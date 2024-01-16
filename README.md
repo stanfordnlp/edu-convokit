@@ -60,6 +60,10 @@ Contents:
 - [Annotation](#annotation)
 - [Analysis](#analysis)
   - [Qualitative Analysis](#-qualitative-analysis)
+  - [Quantitative Analysis](#-quantitative-analysis)
+  - [Lexical Analysis](#-lexical-analysis)
+  - [Temporal Analysis](#-temporal-analysis)
+  - [GPT Analysis](#-gpt-analysis)
 
 
 ### Pre-Processing
