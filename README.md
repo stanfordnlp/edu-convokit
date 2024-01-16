@@ -724,7 +724,11 @@ Please find [here](papers.md) a list of papers that have used the `edu-convokit`
 If you use the `edu-convokit` in your research, please cite the following paper:
 
 ```
-Coming soon...
+@article{wang2024educonvokit,
+  title={Edu-ConvoKit: An Open-Source Framework for Education Conversation Data},
+  author={Wang, Rose E and Demszky, Dorottya},
+  year={2024}
+}
 ```
 
 If you would like to be added to the list of papers that have used the `edu-convokit`, please make a pull request or contact Rose E. Wang at rewang@cs.stanford.edu.
