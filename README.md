@@ -24,11 +24,6 @@ pip install edu-convokit
 
 ## Overview of the `edu-convokit` Pipeline
 
-<p align="center">
-  <img src="assets/overview.png" width="600"/>
-</p>
-
-
 The **Edu-ConvoKit** pipeline consists of three key modules: `preprocess`, `annotate`, and `analyze`.
 The pipeline is designed to be modular, so you can use any combination of these modules to suit your needs.
 This pipeline has also been used by prior work in the field of education, so you can easily reproduce their results. 
