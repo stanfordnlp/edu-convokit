@@ -23,7 +23,7 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=["tests"]),
     version=version,
     license="MIT",
-    description="edu-convokit: An Open-Source Framework for Education Language Data",
+    description="edu-convokit: An Open-Source Framework for Education Conversation Data",
     long_description=readme,
     author="Rose E. Wang",
     author_email="rewang@cs.stanford.edu",
