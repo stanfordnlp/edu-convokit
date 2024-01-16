@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/full_logo.png" width="500"/>
 </p>
 
-<h1><img src="assets/logo.png" height="30" /> Edu-ConvoKit: An Open-Source Framework for Education Conversation Data </h1>
+<h1><img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/logo.png" height="30" /> Edu-ConvoKit: An Open-Source Framework for Education Conversation Data </h1>
 
 
 The **Edu-ConvoKit** is an open-source framework designed to facilitate the study of conversation language data in educational settings.
@@ -30,7 +30,7 @@ The pipeline is designed to be modular, so you can use any combination of these 
 This pipeline has also been used by prior work in the field of education, so you can easily reproduce their results. 
 
 <p align="center">
-  <img src="assets/main_figure.png"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/main_figure.png"/>
 </p>
 
 ## Tutorials
@@ -92,7 +92,7 @@ Here's an example of using `preprocess` to anonymize the dataset with known name
 ```
 
 <p align="center">
-  <img src="assets/not_anonymized.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/not_anonymized.png" width="500"/>
 </p>
 
 💡 Note: We see that the names occur in the speaker and text column. 
@@ -132,7 +132,7 @@ We can use the `TextPreprocessor` to anonymize the data in both columns.
 ```
 
 <p align="center">
-  <img src="assets/sentence_anonymized.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/sentence_anonymized.png" width="500"/>
 </p>
 
 💡 Note: Nice, we can see that the text has been anonymized (e.g., line 31)! Now let's anonymize the names in the speaker column.
@@ -151,7 +151,7 @@ df.iloc[25:35]
 ```
 
 <p align="center">
-  <img src="assets/anonymized.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/anonymized.png" width="500"/>
 </p>
 
 🎉 Great, now we have anonymized the speaker names as well! Some other great things are that: 
@@ -173,7 +173,7 @@ df.iloc[25:35]
 ```
 
 <p align="center">
-  <img src="assets/merged.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/merged.png" width="500"/>
 </p>
 
 ### Annotation
@@ -206,7 +206,7 @@ df.head()
 ```
 
 <p align="center">
-  <img src="assets/talktime.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/talktime.png" width="500"/>
 </p>
 
 🎉 We can see with a single function call, we’ve added our first annotation – talktime – to our data!
@@ -245,7 +245,7 @@ Let's do the same for student reasoning and teacher conversational uptake.
 ```
 
 <p align="center">
-  <img src="assets/annotations.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/annotations.png" width="500"/>
 </p>
 
 With these annotations, we can now do some analysis on our data. We can save the annotated data to a file for later use.
@@ -428,7 +428,7 @@ Let’s say we want to understand the talk time percentage split between the stu
 ```
 
 <p align="center">
-  <img src="assets/talktime_quantitative.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/talktime_quantitative.png" width="500"/>
 </p>
 
 The other statistics are similar to the example above for talk time. For conciseness, we will omit them here; but the only thing you need to do is change the feature_column argument to the feature you want to analyze.
@@ -591,7 +591,7 @@ analyzer.plot_log_odds(
 ```
 
 <p align="center">
-  <img src="assets/logodds.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/logodds.png" width="500"/>
 </p>
 
 #### 📈 Temporal Analysis
@@ -623,7 +623,7 @@ Label mapping: {'T': 'A', '[STUDENT_0]': 'B', '[STUDENT_1]': 'C', '[STUDENT_2]':
 ```
 
 <p align="center">
-  <img src="assets/talktime_temporal.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/talktime_temporal.png" width="500"/>
 </p>
 
 🎉 Plotting the temporal data was straightforward!
