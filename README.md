@@ -14,7 +14,7 @@ By simplifying these key operations, the Edu-ConvoKit supports the efficient exp
 
 ## Installation
 
-You can directly install the **edu-convokit** from GitHub:
+You can directly install the `edu-convokit` from GitHub:
 
 ```bash
 
@@ -34,11 +34,11 @@ This pipeline has also been used by prior work in the field of education, so you
 
 ## Tutorials
 
-We have provided a series of tutorials to help you get started with the **edu-convokit**.
+We have provided a series of tutorials to help you get started with the `edu-convokit`.
 
 ### Basics of `edu-convokit`
 
-There are three key modules of the **edu-convokit** pipeline: `preprocess`, `annotate`, and `analyze`.
+There are three key modules of the `edu-convokit` pipeline: `preprocess`, `annotate`, and `analyze`.
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][textcolab] [Tutorial: Text Pre-processing][textcolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][annotationcolab] [Tutorial: Annotation][annotationcolab]
@@ -47,24 +47,24 @@ There are three key modules of the **edu-convokit** pipeline: `preprocess`, `ann
 
 ### Datasets with `edu-convokit`
 
-We've applied the **edu-convokit** to a variety of datasets. Here are some examples:
+We've applied the `edu-convokit` to a variety of datasets. Here are some examples:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][nctecolab] [Tutorial: NCTE Dataset][nctecolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][ambercolab] [Tutorial: Amber Dataset][ambercolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][talkmovescolab] [Tutorial: Talk Moves Dataset][talkmovescolab]
 
-## Papers that have used the **edu-convokit**
+## Papers that have used the `edu-convokit`
 
-Please find [here](papers.md) a list of papers that have used the **edu-convokit**.
+Please find [here](papers.md) a list of papers that have used the `edu-convokit`.
 
 ## Citation
 
-If you use the **edu-convokit** in your research, please cite the following paper:
+If you use the `edu-convokit` in your research, please cite the following paper:
 
 ```
 Coming soon...
 ```
 
-If you would like to be added to the list of papers that have used the **edu-convokit**, please make a pull request or contact Rose E. Wang at rewang@cs.stanford.edu.
+If you would like to be added to the list of papers that have used the `edu-convokit`, please make a pull request or contact Rose E. Wang at rewang@cs.stanford.edu.
 
 [textcolab]: https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK
 [annotationcolab]: https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw 

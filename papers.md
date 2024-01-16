@@ -1,7 +1,7 @@
-# Papers that have used **edu-convokit**
+# Edu-ConvoKit Papers
 
-Please find below a list of papers that have used **edu-convokit** or features that are part of **edu-convokit**.
-If you have used **edu-convokit** in your research and would like to be included to this list, please submit a pull request to add your paper to this list or contact Rose E. Wang at rewang@cs.stanford.edu.
+Please find below a list of papers that have used `edu-convokit` or features that are part of `edu-convokit`.
+If you have used `edu-convokit` in your research and would like to be included to this list, please submit a pull request to add your paper to this list or contact Rose E. Wang at rewang@cs.stanford.edu.
 
 - [Step-by-Step Remediation of Students' Mathematical Mistakes](https://arxiv.org/pdf/2310.10648.pdf). Rose E. Wang, Qingyang Zhang, Carly Robinson, Susanna Loeb, Dorottya (Dora) Demszky. 2023.
 - [Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction](https://arxiv.org/pdf/2306.03090.pdf). Rose E. Wang, Dorottya (Dora) Demszky. In the Proceedings of Innovative Use of NLP for Building Educational Applications (2023).
