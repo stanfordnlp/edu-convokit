@@ -46,6 +46,7 @@ setuptools.setup(
         "seaborn",
         "pandas",
         "clean-text",
+        "tiktoken"
     ],
     extras_require=extras_require,
     tests_require=["pytest"],
