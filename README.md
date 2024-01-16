@@ -52,6 +52,101 @@ We've applied the `edu-convokit` to a variety of datasets. Here are some example
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][ambercolab] [Tutorial: Amber Dataset][ambercolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][talkmovescolab] [Tutorial: Talk Moves Dataset][talkmovescolab]
 
+
+## Example Usage
+
+### Pre-Processing
+
+The `preprocess` module provides a set of tools for cleaning and formatting raw text data. Text pre-processing is a critical step in handling education language data. 
+- It ensures the data is clean (education data is notoriously messy). 
+- It ensures the data is standardized, ready for annotation and analysis. 
+- It ensures that the students and educators are anonymized; this is important to protect the privacy of individuals involved and allow for safe secondary data analysis.
+
+Here's an example of using `preprocess` to anonymize the dataset with known names:
+
+```python 
+
+>> from edu_toolkit.preprocessors import TextPreprocessor
+# For helping us flexibly load data
+>> from edu_toolkit import utils
+
+# First get the data
+>> !wget "https://raw.githubusercontent.com/rosewang2008/edu-toolkit/master/data/talkmoves/Boats and Fish 2_Grade 4.xlsx"
+>> data_fname = "Boats and Fish 2_Grade 4.xlsx"
+>> df = utils.load_data(data_fname) # Handles loading data from different file types including: .csv, .xlsx, .json
+
+# Show some lines that contain names in the speaker and text columns.
+>> df.iloc[25:35]
+```
+
+<p align="center">
+  <img src="assets/not_anonymized.png" width="300"/>
+</p>
+
+💡 Note: We see that the names occur in the speaker and text column. 
+- e.g., names like David and Meredith appear in the speaker and text column. 
+- The teacher is always shortened to “T” in the speaker column.
+
+We can use the `TextPreprocessor` to anonymize the data in both columns.
+
+```python
+
+# Creating variables for the columns we want to use
+>> TEXT_COLUMN = "Sentence"
+>> SPEAKER_COLUMN = "Speaker"
+
+# Show the names of the speakers. In your use case, you might load this from a file or database.
+>> print(df[SPEAKER_COLUMN].unique())
+['T' 'David' 'Meredith' 'Beth' 'Meredith and David' 'T 2']
+
+# Create list of names and replacement names. We will make the replacement names unique so that we can easily find them later.
+>> known_names = ["David", "Meredith", "Beth"]
+>> known_replacement_names = [f"[STUDENT_{i}]" for i in range(len(known_names))]
+>> print(known_replacement_names)
+['[STUDENT_0]', '[STUDENT_1]', '[STUDENT_2]']
+
+# Now let's anonymize the names in the text!
+>> processor = TextPreprocessor()
+>> df = processor.anonymize_known_names(
+    df=df,
+    text_column=TEXT_COLUMN,
+    names=known_names,
+    replacement_names=known_replacement_names,
+    # We will directly replace the names in the text column.
+    # If you want to keep the original text, you can set `target_text_column` to a new column name.
+    target_text_column=TEXT_COLUMN
+)
+>> df.iloc[25:35]
+```
+
+<p align="center">
+  <img src="assets/sentence_anonymized.png" width="300"/>
+</p>
+
+💡 Note: Nice, we can see that the text has been anonymized (e.g., line 31)! Now let's anonymize the names in the speaker column.
+
+```python
+
+df = processor.anonymize_known_names(
+    df=df,
+    text_column=SPEAKER_COLUMN,
+    names=known_names,
+    replacement_names=known_replacement_names,
+    target_text_column=SPEAKER_COLUMN
+)
+
+df.iloc[25:35]
+```
+
+<p align="center">
+  <img src="assets/anonymized.png" width="300"/>
+</p>
+
+🎉 Great, now we have anonymized the speaker names as well! Some other great things are that: 
+- We have a record of the original names and the anonymized names. So if we want to go back to the original names, we can do that. 
+- The anonymized names are consistent: So [STUDENT_0] in the SPEAKER_COLUMN will refer to the same [STUDENT_0] in the TEXT_COLUMN.
+
+
 ## Papers that have used the `edu-convokit`
 
 Please find [here](papers.md) a list of papers that have used the `edu-convokit`.
