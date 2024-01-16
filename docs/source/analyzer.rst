@@ -32,3 +32,10 @@ Temporal Analyzer
 .. autoclass:: edu_convokit.analyzers.TemporalAnalyzer
    :special-members: __init__
    :members:
+
+GPT Conversation Analyzer
+-------------------------
+
+.. autoclass:: edu_convokit.analyzers.GPTConversationAnalyzer
+   :special-members: __init__
+   :members:

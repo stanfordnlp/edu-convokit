@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information
 
-project = 'edu-toolkit'
+project = 'edu-convokit'
 copyright = '2023, Rose E. Wang'
 author = 'Rose E. Wang'
 

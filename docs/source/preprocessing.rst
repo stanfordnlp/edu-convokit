@@ -11,3 +11,10 @@ Text Pre-Processing
 .. autoclass:: edu_convokit.preprocessors.TextPreprocessor
    :special-members: __init__
    :members:
+
+Token Pre-Processing
+--------------------
+
+.. autoclass:: edu_convokit.preprocessors.TokenPreprocessor
+   :special-members: __init__
+   :members:

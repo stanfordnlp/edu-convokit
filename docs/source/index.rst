@@ -1,32 +1,28 @@
-Welcome to edu-toolkit's documentation!
+Welcome to edu-convokit's documentation!
 =======================================
 
-The **edu-toolkit** is an open-source framework designed to facilitate the study of language data in educational settings. 
+.. image:: full_logo.png
+   :width: 1000
+   :align: center
+
+The **edu-convokit** is an open-source framework designed to facilitate the study of language data in educational settings. 
 It provides a practical and efficient pipeline for essential tasks such as text pre-processing, annotation, and analysis, tailored to meet the needs of researchers and developers.
 This toolkit aims to enhance the accessibility and reproducibility of educational language data analysis, as well as advance both natural language processing (NLP) and education research.
-By simplifying these key operations, the edu-toolkit supports the efficient exploration and interpretation of text data in education.
+By simplifying these key operations, the edu-convokit supports the efficient exploration and interpretation of text data in education.
 
 Installation
 ------------
 
-
-.. PyPi new user registration is down... so we can't upload the package to PyPi - yet!
-.. The edu-toolkit is available on PyPI and can be installed via pip:
-
-.. .. code-block:: bash
-
-..    pip install edu-toolkit
-
-You can install the latest version of the edu-toolkit from the GitHub repository:
+You can install the latest version of the edu-convokit from the GitHub repository:
 
 .. code-block:: bash
 
-   !pip install git+https://github.com/rosewang2008/edu-toolkit.git
+   !pip install edu-convokit
 
 Colab Notebooks 
 ----------------
 
-**Basics of edu-toolkit**
+**Basics of edu-convokit**
 
 .. raw:: html
 
@@ -37,14 +33,14 @@ Colab Notebooks
    </ul>
 
 
-**Datasets with edu-toolkit**
+**Datasets with edu-convokit**
 
 .. raw:: html
 
    <ul>
-      <li><a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9">Tutorial on the Amber dataset with edu-toolkit</a></li>
-      <li><a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd">Tutorial on the TalkMoves dataset with edu-toolkit</a></li>
-      <li><a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg">Tutorial on the NCTE dataset with edu-toolkit</a></li>
+      <li><a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg">Tutorial on the NCTE dataset with edu-convokit</a></li>
+      <li><a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9">Tutorial on the Amber dataset with edu-convokit</a></li>
+      <li><a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd">Tutorial on the TalkMoves dataset with edu-convokit</a></li>
    </ul>
 
 
@@ -61,7 +57,7 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorials: Basics of edu-toolkit:
+   :caption: Tutorials: Basics of edu-convokit:
 
    tutorial_text_preprocessing
    tutorial_annotation
@@ -69,7 +65,7 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorials: Datasets with edu-toolkit:
+   :caption: Tutorials: Datasets with edu-convokit:
 
    tutorial_amber
    tutorial_talkmoves
@@ -78,7 +74,7 @@ Contents
 Citation
 --------
 
-If you use the edu-toolkit in your research, please cite the following paper:
+If you use the edu-convokit in your research, please cite the following paper:
 
 .. code-block:: latex
 
@@ -87,4 +83,9 @@ If you use the edu-toolkit in your research, please cite the following paper:
 Contributing
 ------------
 
-We welcome contributions to the edu-toolkit! Feel free to make a pull request or submit an issue on GitHub: https://github.com/rosewang2008/edu-toolkit.
+We welcome contributions to the edu-convokit! Feel free to make a pull request or submit an issue on GitHub: https://github.com/rosewang2008/edu-convokit.
+
+Contact
+-------
+
+If you have any questions, please contact Rose E. Wang at rewang@cs.stanford.edu.
