@@ -19,11 +19,11 @@ with open('README.md') as f:
     readme = f.read()
 
 setuptools.setup(
-    name="edu-convokit",
+    name="edu_convokit",
     packages=setuptools.find_packages(exclude=["tests"]),
     version=version,
     license="MIT",
-    description="edu-convokit: An Open-Source Framework for Education Language Data",
+    description="edu-convokit: An Open-Source Framework for Education Conversation Data",
     long_description=readme,
     author="Rose E. Wang",
     author_email="rewang@cs.stanford.edu",
