@@ -1,4 +1,4 @@
-from edu_toolkit import utils
+from edu_convokit import utils
 from typing import List, Dict, Tuple, Union
 import pandas as pd
 import os

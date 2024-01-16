@@ -1,8 +1,8 @@
 
 ![image](assets/full_logo.png)
-<h1><img src="assets/logo.png" height="30" /> edu-convokit: An Open-Source Framework for Education Conversation Data </h1>
+<h1><img src="assets/logo.png" height="30" /> Edu-ConvoKit: An Open-Source Framework for Education Conversation Data </h1>
 
-The **edu-convokit** is an open-source framework designed to facilitate the study of conversation language data in educational settings.
+The **Edu-ConvoKit** is an open-source framework designed to facilitate the study of conversation language data in educational settings.
 It provides a practical and efficient pipeline for essential tasks such as text pre-processing, annotation, and analysis, tailored to meet the needs of researchers and developers.
 This toolkit aims to enhance the accessibility and reproducibility of educational language data analysis, as well as advance both natural language processing (NLP) and education research.
 By simplifying these key operations, the edu-toolkit supports the efficient exploration and interpretation of text data in education.

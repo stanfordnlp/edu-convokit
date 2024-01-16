@@ -1,12 +1,12 @@
 import unittest
 from unittest import TestCase
-from edu_toolkit import utils
+from edu_convokit import utils
 import pandas as pd
 import re
 
 
-from edu_toolkit.preprocessors.text_preprocessor import TextPreprocessor
-from edu_toolkit.annotation.annotator import Annotator
+from edu_convokit.preprocessors.text_preprocessor import TextPreprocessor
+from edu_convokit.annotation.annotator import Annotator
 
 text_column = "text"
 speaker_column = "speaker"

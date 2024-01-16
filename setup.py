@@ -4,7 +4,7 @@ import re
 import setuptools
 
 here = os.path.realpath(os.path.dirname(__file__))
-with open(os.path.join(here, "edu_toolkit", "__init__.py")) as f:
+with open(os.path.join(here, "edu_convokit", "__init__.py")) as f:
     meta_match = re.search(r"^__version__ = ['\"]([^'\"]*)['\"]", f.read(), re.M)
     if meta_match:
         version = meta_match.group(1)
@@ -60,6 +60,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
         "Typing :: Typed",
     ],
-    package_data={"edu_toolkit": ["prompts/conversation/*.txt", "prompts/utterance/*.txt"]},
+    package_data={"edu_convokit": ["prompts/conversation/*.txt", "prompts/utterance/*.txt"]},
     python_requires="~=3.7",
 )

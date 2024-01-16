@@ -1,8 +1,8 @@
 import unittest
 from unittest import TestCase
-from edu_toolkit import utils
+from edu_convokit import utils
 
-from edu_toolkit.analyzers import GPTConversationAnalyzer
+from edu_convokit.analyzers import GPTConversationAnalyzer
 
 class TestGPTConversationAnalyzer(TestCase):
 

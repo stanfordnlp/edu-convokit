@@ -1,5 +1,5 @@
 import unittest
-from edu_toolkit import utils
+from edu_convokit import utils
 
 class TestUtilsPreprocess(unittest.TestCase):
     def test_convert_time_hh_mm_ss_to_seconds_zero(self):

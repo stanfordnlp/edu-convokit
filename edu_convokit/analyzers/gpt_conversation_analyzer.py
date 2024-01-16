@@ -8,10 +8,10 @@ import tqdm
 import itertools
 import logging
 import os
-from edu_toolkit import utils
-from edu_toolkit.analyzers import analyzer
-from edu_toolkit.preprocessors.token_preprocessor import TokenPreprocessor
-from edu_toolkit.constants import (
+from edu_convokit import utils
+from edu_convokit.analyzers import analyzer
+from edu_convokit.preprocessors.token_preprocessor import TokenPreprocessor
+from edu_convokit.constants import (
     CONVERSATION_PROMPTS_DIR,
     OPENAI_MODEL_2_CONTEXT_LENGTH
 )

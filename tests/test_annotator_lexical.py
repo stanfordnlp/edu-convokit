@@ -1,10 +1,10 @@
 import unittest
 from unittest import TestCase
-from edu_toolkit import utils
+from edu_convokit import utils
 import pandas as pd
 import re
 
-from edu_toolkit.annotation.annotator import Annotator
+from edu_convokit.annotation.annotator import Annotator
 
 class TestLexicalAnalysis(TestCase):
 

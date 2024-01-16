@@ -1,6 +1,6 @@
 
 
-from edu_toolkit.analyzers import analyzer
+from edu_convokit.analyzers import analyzer
 from typing import List, Dict, Tuple, Union
 import pandas as pd
 

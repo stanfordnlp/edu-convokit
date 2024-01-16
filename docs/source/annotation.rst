@@ -7,6 +7,6 @@ Our annotation module includes both traditional and recent neural methods for an
 Annotator
 ----------
 
-.. autoclass:: edu_toolkit.annotation.Annotator
+.. autoclass:: edu_convokit.annotation.Annotator
    :special-members: __init__
    :members:

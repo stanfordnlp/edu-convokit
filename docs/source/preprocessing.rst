@@ -8,6 +8,6 @@ However in the future, we hope to additionally support audio and video pre-proce
 Text Pre-Processing
 -------------------
 
-.. autoclass:: edu_toolkit.preprocessors.TextPreprocessor
+.. autoclass:: edu_convokit.preprocessors.TextPreprocessor
    :special-members: __init__
    :members:

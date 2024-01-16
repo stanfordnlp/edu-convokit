@@ -2,7 +2,7 @@ import unittest
 from unittest import TestCase
 import pandas as pd
 import math
-from edu_toolkit.annotation.annotator import Annotator
+from edu_convokit.annotation.annotator import Annotator
 
 
 class TestNeuralDiscourseAnalysis(TestCase):

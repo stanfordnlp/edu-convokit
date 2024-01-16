@@ -1,6 +1,6 @@
 import unittest
 from unittest import TestCase
-from edu_toolkit.preprocessors.text_preprocessor import TextPreprocessor
+from edu_convokit.preprocessors.text_preprocessor import TextPreprocessor
 import pandas as pd
 import re
 

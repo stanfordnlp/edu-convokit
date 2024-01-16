@@ -1,6 +1,6 @@
 import unittest
 from unittest import TestCase
-from edu_toolkit.preprocessors.token_preprocessor import TokenPreprocessor
+from edu_convokit.preprocessors.token_preprocessor import TokenPreprocessor
 import pandas as pd
 import re
 

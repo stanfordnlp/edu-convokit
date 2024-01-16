@@ -4,7 +4,7 @@ from collections import defaultdict
 import math
 from gensim.models import Phrases
 from gensim.models.phrases import Phraser 
-from edu_toolkit import utils
+from edu_convokit import utils
 import tqdm
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -13,7 +13,7 @@ import nltk
 import itertools
 import re
 import logging
-from edu_toolkit.analyzers import analyzer
+from edu_convokit.analyzers import analyzer
 
 
 class LexicalAnalyzer(analyzer.Analyzer):

@@ -4,12 +4,12 @@ import spacy
 import logging
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from edu_toolkit import uptake_utils
+from edu_convokit import uptake_utils
 from scipy.special import softmax
 import logging
 import re
 
-from edu_toolkit.constants import (
+from edu_convokit.constants import (
     STUDENT_REASONING_HF_MODEL_NAME,
     STUDENT_REASONING_MIN_NUM_WORDS,
     STUDENT_REASONING_MAX_INPUT_LENGTH,
@@ -366,7 +366,7 @@ class Annotator:
         logging.warning("""Note: This model was trained on teacher's uptake of student's utterances. So, speaker1 should be the student and speaker2 should be the teacher.
     For more details on the model, see https://arxiv.org/pdf/2106.03873.pdf""")
 
-        logging.warning("""Note: It's recommended that you merge utterances from the same speaker before running this model. You can do that with edu_toolkit.text_preprocessing.merge_utterances_from_same_speaker.""")
+        logging.warning("""Note: It's recommended that you merge utterances from the same speaker before running this model. You can do that with edu_convokit.text_preprocessing.merge_utterances_from_same_speaker.""")
 
         assert text_column in df.columns, f"Text column {text_column} not found in dataframe."
         assert speaker_column in df.columns, f"Speaker column {speaker_column} not found in dataframe."

@@ -8,27 +8,27 @@ Our analyzers are designed to support the multi-faceted ways of analyzing langua
 Qualitative Analyzer
 --------------------
 
-.. autoclass:: edu_toolkit.analyzers.QualitativeAnalyzer
+.. autoclass:: edu_convokit.analyzers.QualitativeAnalyzer
    :special-members: __init__
    :members:
 
 Quantitative Analyzer
 ---------------------
 
-.. autoclass:: edu_toolkit.analyzers.QuantitativeAnalyzer
+.. autoclass:: edu_convokit.analyzers.QuantitativeAnalyzer
    :special-members: __init__
    :members:
 
 Lexical Analyzer
 ----------------
 
-.. autoclass:: edu_toolkit.analyzers.LexicalAnalyzer
+.. autoclass:: edu_convokit.analyzers.LexicalAnalyzer
    :special-members: __init__
    :members:
 
 Temporal Analyzer
 -----------------
 
-.. autoclass:: edu_toolkit.analyzers.TemporalAnalyzer
+.. autoclass:: edu_convokit.analyzers.TemporalAnalyzer
    :special-members: __init__
    :members:
