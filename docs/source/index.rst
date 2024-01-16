@@ -27,9 +27,9 @@ Colab Notebooks
 .. raw:: html
 
    <ul>
-      <li><a href="https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK">Tutorial on Text Pre-Processing</a></li>
-      <li><a href="https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw">Tutorial on Annotation</a></li>
-      <li><a href="https://colab.research.google.com/drive/1xfrq5Ka3FZH7t9l87u4sa_oMlmMvuTfe"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1xfrq5Ka3FZH7t9l87u4sa_oMlmMvuTfe">Tutorial on Analysis</a></li>
+      <li><a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_text_preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_text_preprocessing.ipynb">Tutorial on Text Pre-Processing</a></li>
+      <li><a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_annotation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_annotation.ipynb">Tutorial on Annotation</a></li>
+      <li><a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_analyzers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_analyzers.ipynb">Tutorial on Analysis</a></li>
    </ul>
 
 
@@ -38,9 +38,9 @@ Colab Notebooks
 .. raw:: html
 
    <ul>
-      <li><a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg">Tutorial on the NCTE dataset with edu-convokit</a></li>
-      <li><a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9">Tutorial on the Amber dataset with edu-convokit</a></li>
-      <li><a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd">Tutorial on the TalkMoves dataset with edu-convokit</a></li>
+      <li><a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_ncte.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_ncte.ipynb">Tutorial on the NCTE dataset with edu-convokit</a></li>
+      <li><a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_amber.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_amber.ipynb">Tutorial on the Amber dataset with edu-convokit</a></li>
+      <li><a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_talkmoves.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_talkmoves.ipynb">Tutorial on the TalkMoves dataset with edu-convokit</a></li>
    </ul>
 
 

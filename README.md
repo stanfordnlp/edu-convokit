@@ -729,12 +729,12 @@ Coming soon...
 
 If you would like to be added to the list of papers that have used the `edu-convokit`, please make a pull request or contact Rose E. Wang at rewang@cs.stanford.edu.
 
-[textcolab]: https://colab.research.google.com/drive/1a-EwYwkNYHSNcNThNTXe6DNpsis0bpQK
-[annotationcolab]: https://colab.research.google.com/drive/1rBwEctFtmQowZHxralH2OGT5uV0zRIQw 
-[analyzecolab]: https://colab.research.google.com/drive/1xfrq5Ka3FZH7t9l87u4sa_oMlmMvuTfe 
-[ambercolab]: https://colab.research.google.com/drive/1Q3anUPcemMils4cz2gwEwDdKCjEdm6T9 
-[talkmovescolab]: https://colab.research.google.com/drive/1qt_S3GjxIwXk6ONztbYAHeX8WHy1uxDd 
-[nctecolab]: https://colab.research.google.com/drive/1k3fn6uY4QRMtPUZN6hpMd6o-0g7fYotg 
+[textcolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_text_preprocessing.ipynb
+[annotationcolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_annotation.ipynb
+[analyzecolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_analyzers.ipynb
+[ambercolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_amber.ipynb
+[talkmovescolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_talkmoves.ipynb
+[nctecolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_ncte.ipynb
 
 
 ## Contact
