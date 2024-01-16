@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="assets/full_logo.png" width="600"/>
+  <img src="https://github.com/rosewang2008/edu-convokit/raw/master/assets/annotations.png" width="600"/>
 </p>
 
 <h1><img src="assets/logo.png" height="30" /> Edu-ConvoKit: An Open-Source Framework for Education Conversation Data </h1>
+
 
 The **Edu-ConvoKit** is an open-source framework designed to facilitate the study of conversation language data in educational settings.
 It provides a practical and efficient pipeline for essential tasks such as text pre-processing, annotation, and analysis, tailored to meet the needs of researchers and developers.
@@ -14,7 +15,7 @@ By simplifying these key operations, the Edu-ConvoKit supports the efficient exp
 
 ## Installation
 
-You can directly install the `edu-convokit` from GitHub:
+You can install `edu-convokit` with pip:
 
 ```bash
 
