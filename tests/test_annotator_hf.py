@@ -92,6 +92,56 @@ class TestNeuralDiscourseAnalysis(TestCase):
         self.assertTrue(math.isnan(df["predictions"][3]))
         self.assertTrue(math.isnan(df["predictions"][4]))
         self.assertEqual(df["predictions"][5], 0)
+    
+
+    def test_teacher_talk_moves(self):
+        # Talk moves examples coming from coding manual: https://github.com/SumnerLab/TalkMoves/blob/main/Coding%20Manual.pdf
+        ann = Annotator()
+        df = pd.DataFrame({
+            "text": [
+                "Testing", # No talk move detected
+                "Can you read the problem out loud?", #  Keeping everyone together
+                "How do you feel about what they said?", # Getting students to relate to another student's idea
+                "What is the answer to number 2?", # Pressing for accuracy
+                "So instead of one flat edge, it had two.", # Revoicing
+                "It moves to a different position.", # Restating
+                "Can you explain why?", # Pressing for reasoning
+            ]
+        })
+
+        df = ann.get_teacher_talk_moves(
+            df=df, 
+            text_column="text", 
+            output_column="predictions", 
+        )
+        self.assertTrue(len(df), 7)
+        # self.assertEqual(df["predictions"][0], 0)
+        # self.assertEqual(df["predictions"][1], 1)
+        # self.assertEqual(df["predictions"][2], 2)
+        # self.assertEqual(df["predictions"][3], 5)
+        # self.assertEqual(df["predictions"][4], 4)
+        # self.assertEqual(df["predictions"][5], 3)
+        # self.assertEqual(df["predictions"][5], 6)
+
+    def test_student_talk_moves(self):
+        # Talk moves examples coming from coding manual: https://github.com/SumnerLab/TalkMoves/blob/main/Coding%20Manual.pdf
+        ann = Annotator()
+        df = pd.DataFrame({
+            "text": [
+                "Testing", # No talk move detected
+                "He drew the y-intercept.", # Relating to another student
+                "Why did you multiply?", # Asking for more information
+                "12x plus 5", # Making a claim
+                "I divided 6 by 2 and got 3.", # Providing evidence or reasoning
+            ]
+        })
+
+        df = ann.get_student_talk_moves(
+            df=df, 
+            text_column="text", 
+            output_column="predictions", 
+        )
+        self.assertEqual(len(df), 5)
 
 
 if __name__ == "__main__":

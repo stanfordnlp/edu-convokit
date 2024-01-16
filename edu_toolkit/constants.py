@@ -328,3 +328,33 @@ MATH_WORDS = [
     "variability",
     "variable",
 ]
+
+# Talk Moves - Coding Manual: https://github.com/SumnerLab/TalkMoves/blob/main/Coding%20Manual.pdf
+# Teacher Talk Moves 
+# Model: https://huggingface.co/YaHi/teacher_electra_small
+# Paper: https://github.com/SumnerLab/TalkMoves
+TEACHER_TALK_MOVES_HF_MODEL_NAME = "YaHi/teacher_electra_small"
+TEACHER_TALK_MOVES_LABEL_2_NL = {
+    0: "No Talk Move Detected",
+    1: "Keeping Everyone Together",
+    2: "Getting Students to Related to Another Student's Idea",
+    3: "Restating",
+    # Note, in the original coding manual, revoicing and pressing for accuracy are flipped (5 and 4); 
+    # However, upon inspection of their dataset, it appears that revoicing should be 4 and pressing for accuracy should be 5.
+    # Therefore, we have used the following mapping:
+    4: "Revoicing",
+    5: "Pressing for Accuracy",
+    6: "Pressing for Reasoning",
+}
+
+# Student Talk Moves
+# Model: https://huggingface.co/YaHi/student_electra_small
+# Paper: https://github.com/SumnerLab/TalkMoves
+STUDENT_TALK_MOVES_HF_MODEL_NAME = "YaHi/student_electra_small"
+STUDENT_TALK_MOVES_LABEL_2_NL = {
+    0: "No Talk Move Detected",
+    1: "Relating to Another Student",
+    2: "Asking for More Information",
+    3: "Making a Claim",
+    4: "Providing Evidence or Reasoning"
+}

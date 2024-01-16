@@ -22,6 +22,8 @@ from edu_toolkit.constants import (
     UPTAKE_MAX_INPUT_LENGTH,
     MATH_PREFIXES,
     MATH_WORDS,
+    TEACHER_TALK_MOVES_HF_MODEL_NAME,
+    STUDENT_TALK_MOVES_HF_MODEL_NAME
 )
 
 
@@ -212,6 +214,78 @@ class Annotator:
             speaker_column=speaker_column,
             speaker_value=speaker_value
         )
+    
+    def get_teacher_talk_moves(
+            self, 
+            df: pd.DataFrame,
+            text_column: str,
+            output_column: str,
+            speaker_column: str = None,
+            speaker_value: Union[str, List[str]] = None,
+    ) -> pd.DataFrame:
+        """
+        Get teacher talk move predictions for a dataframe.
+
+        Arguments:
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze
+            output_column (str): name of column to store result
+            speaker_column (str): name of column containing speaker names. Only required if speaker_value is not None.
+            speaker_value (str or list): if speaker_column is not None, only get predictions for this speaker.
+
+        Returns:
+            df (pd.DataFrame): dataframe with teacher talk move predictions
+        """
+
+        logging.warning("""Note: This model was trained on teacher talk moves, so it should be used on teacher utterances.
+    For more details on the model, see https://github.com/SumnerLab/TalkMoves/tree/main""")
+
+        return self._get_classification_predictions(
+            df=df,
+            text_column=text_column,
+            output_column=output_column,
+            model_name=TEACHER_TALK_MOVES_HF_MODEL_NAME,
+            min_num_words=0,
+            max_num_words=None,
+            speaker_column=speaker_column,
+            speaker_value=speaker_value
+        )
+        
+    def get_student_talk_moves(
+            self, 
+            df: pd.DataFrame,
+            text_column: str,
+            output_column: str,
+            speaker_column: str = None,
+            speaker_value: Union[str, List[str]] = None,
+    ) -> pd.DataFrame:
+        """
+        Get student talk move predictions for a dataframe.
+
+        Arguments:
+            df (pd.DataFrame): dataframe to analyze
+            text_column (str): name of column containing text to analyze
+            output_column (str): name of column to store result
+            speaker_column (str): name of column containing speaker names. Only required if speaker_value is not None.
+            speaker_value (str or list): if speaker_column is not None, only get predictions for this speaker.
+
+        Returns:
+            df (pd.DataFrame): dataframe with teacher talk move predictions
+        """
+
+        logging.warning("""Note: This model was trained on student talk moves, so it should be used on student utterances.
+    For more details on the model, see https://github.com/SumnerLab/TalkMoves/tree/main""")
+
+        return self._get_classification_predictions(
+            df=df,
+            text_column=text_column,
+            output_column=output_column,
+            model_name=STUDENT_TALK_MOVES_HF_MODEL_NAME,
+            min_num_words=0,
+            max_num_words=None,
+            speaker_column=speaker_column,
+            speaker_value=speaker_value
+        )
 
     def get_focusing_questions(
             self,
@@ -219,7 +293,7 @@ class Annotator:
             text_column: str,
             output_column: str,
             speaker_column: str = None,
-            speaker_value: str = None,
+            speaker_value: Union[str, List[str]] = None,
     ) -> pd.DataFrame:
         """
         Get focusing question predictions for a dataframe.
