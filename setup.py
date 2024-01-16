@@ -24,7 +24,7 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=["tests"]),
     version=version,
     license="MIT",
-    description="edu-convokit: An Open-Source Framework for Education Conversation Data",
+    description="Edu-ConvoKit: An Open-Source Framework for Education Conversation Data",
     long_description=readme,
     long_description_content_type="text/markdown",
     author="Rose E. Wang",
