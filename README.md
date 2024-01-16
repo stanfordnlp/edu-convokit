@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/full_logo.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/rosewang2008/edu-convokit/main/assets/full_logo.png" width="500"/>
 </p>
 
 <h1><img src="assets/logo.png" height="30" /> Edu-ConvoKit: An Open-Source Framework for Education Conversation Data </h1>
