@@ -19,7 +19,7 @@ with open('README.md') as f:
     readme = f.read()
 
 setuptools.setup(
-    name="edu-convokit",
+    name="edu_convokit",
     packages=setuptools.find_packages(exclude=["tests"]),
     version=version,
     license="MIT",
