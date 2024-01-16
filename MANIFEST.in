@@ -1,0 +1,5 @@
+graft edu_convokit
+include pyproject.toml
+include setup.py
+include LICENSE
+global-exclude *.py[cod] __pycache__ *.so *.dylib

@@ -13,6 +13,7 @@ with open(os.path.join(here, "edu_convokit", "__init__.py")) as f:
 
 extras_require = {
     "latex": ("bibtexparser",),
+    "tests": ("pytest",),
 }
 
 with open('README.md') as f:
@@ -25,9 +26,15 @@ setuptools.setup(
     license="MIT",
     description="edu-convokit: An Open-Source Framework for Education Conversation Data",
     long_description=readme,
+    long_description_content_type="text/markdown",
     author="Rose E. Wang",
     author_email="rewang@cs.stanford.edu",
     url="https://github.com/rosewang2008/edu-convokit",
+    project_urls={
+        "Homepage": "https://rosewang2008.github.io/edu-convokit/",
+        "Documentation": "https://edu-convokit.readthedocs.io/en/latest/",
+        "Source": "https://github.com/rosewang2008/edu-convokit/",
+    },
     install_requires=[
         "tqdm",
         "numpy",
@@ -59,7 +66,10 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Typing :: Typed",
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
+        "Topic :: Utilities",
     ],
     package_data={"edu_convokit": ["prompts/conversation/*.txt", "prompts/utterance/*.txt"]},
-    python_requires="~=3.7",
+    include_package_data=True,
+    python_requires=">=3.10,<3.12",
 )
