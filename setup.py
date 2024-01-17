@@ -54,7 +54,7 @@ setuptools.setup(
         "pandas",
         "clean-text",
         "tiktoken",
-        "openai",
+        "openai==0.28",
         "tenacity",
         "python-dotenv",
     ],
