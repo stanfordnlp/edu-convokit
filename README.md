@@ -719,6 +719,10 @@ There are many other prompts that you can perform a GPT analysis on. For more in
 
 Please find [here](papers.md) a list of papers that have used the `edu-convokit`.
 
+## Future Features
+
+- Add GPT feature annotation
+
 ## Citation
 
 If you use the `edu-convokit` in your research, please cite the following paper:

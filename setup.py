@@ -53,7 +53,10 @@ setuptools.setup(
         "seaborn",
         "pandas",
         "clean-text",
-        "tiktoken"
+        "tiktoken",
+        "openai",
+        "tenacity",
+        "python-dotenv",
     ],
     extras_require=extras_require,
     tests_require=["pytest"],
