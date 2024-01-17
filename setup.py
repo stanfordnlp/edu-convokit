@@ -74,5 +74,5 @@ setuptools.setup(
     ],
     package_data={"edu_convokit": ["prompts/conversation/*.txt", "prompts/utterance/*.txt"]},
     include_package_data=True,
-    python_requires=">=3.10,<3.12",
+    python_requires="~=3.11",
 )
