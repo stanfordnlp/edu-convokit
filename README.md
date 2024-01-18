@@ -722,6 +722,9 @@ Please find [here](papers.md) a list of papers that have used the `edu-convokit`
 ## Future Features
 
 - Add GPT feature annotation
+- Flexible ways for users to load their own prompts without having it in the edu-convokit repo
+- Connecting annotations/analysis to outcomes e.g., with regression methods 
+- Support transcription / diarization.
 
 ## Citation
 
