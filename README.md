@@ -11,7 +11,7 @@ This toolkit aims to enhance the accessibility and reproducibility of educationa
 By simplifying these key operations, the Edu-ConvoKit supports the efficient exploration and interpretation of text data in education.
 
 ## 📖 Table of Contents
-[**Installation**](#installation) | [**Tutorials**](#tutorials) | [**Example Usage**](#example-usage) | [**Documentation**](https://edu-convokit.readthedocs.io/en/latest/) | [**Papers with Edu-ConvoKit**](papers.md) | [**Citation**](#citation) | [**Contact**](#contact)
+[**Installation**](#installation) | [**Tutorials**](#tutorials) | [**Example Usage**](#example-usage) | [**Documentation**](https://edu-convokit.readthedocs.io/en/latest/) | [**Papers with Edu-ConvoKit**](papers.md) | [**Citation**](#citation) | [**Future Extensions**](#future-features) | [**Contributing**]() | [**Contact**](#contact)
 
 ## Installation
 
@@ -23,7 +23,7 @@ pip install edu-convokit
 
 ```
 
-## Overview of the `edu-convokit` Pipeline
+## Overview of the `Edu-ConvoKit` Pipeline
 
 The **Edu-ConvoKit** pipeline consists of three key modules: `preprocess`, `annotate`, and `analyze`.
 The pipeline is designed to be modular, so you can use any combination of these modules to suit your needs.
@@ -35,20 +35,32 @@ This pipeline has also been used by prior work in the field of education, so you
 
 ## Tutorials
 
-We have provided a series of tutorials to help you get started with the `edu-convokit`.
+We have provided a series of tutorials to help you get started with the `Edu-ConvoKit`.
 
-### Basics of `edu-convokit`
+### Demo Video
 
-There are three key modules of the `edu-convokit` pipeline: `preprocess`, `annotate`, and `analyze`.
+Here is a 2-minute demo of what `Edu-ConvoKit` can do.
+
+
+<p>
+  <a href="https://youtu.be/zdcI839vAko?si=yOOgiBAR3wIdE5IV">
+    <img src="assets/video.png" width="200"/>
+  </a>
+</p>
+
+
+### Basics of `Edu-ConvoKit`
+
+There are three key modules of the `Edu-ConvoKit` pipeline: `preprocess`, `annotate`, and `analyze`.
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][textcolab] [Tutorial: Text Pre-processing][textcolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][annotationcolab] [Tutorial: Annotation][annotationcolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][analyzecolab] [Tutorial: Analysis][analyzecolab]
 ...
 
-### Datasets with `edu-convokit`
+### Datasets with `Edu-ConvoKit`
 
-We've applied the `edu-convokit` to a variety of datasets. Here are some examples:
+We've applied the `Edu-ConvoKit` to a variety of datasets. Here are some examples:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][nctecolab] [Tutorial: NCTE Dataset][nctecolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][ambercolab] [Tutorial: Amber Dataset][ambercolab]
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][talkmovescolab] [Tutorial: Talk Moves Dataset][talkmovescolab]
@@ -184,7 +196,7 @@ Annotation is useful because:
 - It quantifies the language used by your students and educators, which can help you understand the language. 
 - It measures the interaction between the student and the educator, which can help you understand the interaction.
 
-edu-convokit is designed to support these purposes with the `annotator` module. 
+Edu-ConvoKit is designed to support these purposes with the `annotator` module. 
 Here's an example of using `annotator` to annotate the dataset for talktime, student reasoning, and teacher conversational uptake.
 We're going to use the same dataframe from the previous example; so `df` will be the dataframe with anonymized names and merged utterances.
 
@@ -257,7 +269,7 @@ With these annotations, we can now do some analysis on our data. We can save the
 
 ### Analysis
 
-Analyzing your data with `edu-convokit` can help you understand the language used by your students and educators.
+Analyzing your data with `Edu-ConvoKit` can help you understand the language used by your students and educators.
 Analysis on education data can happen in many ways. 
 - 🔍 It can happen qualitatively where you look at the data; for example, we annotated the data for student_reasoning and you might be interested in looking at the specific instances of student reasoning. 
 - 📊 It can also happen quantitatively where you look at the data in aggregate; for example, you might be interested in the average amount of time the student and educator talk. 
@@ -715,20 +727,20 @@ The teacher asked the students to determine which is larger, one half or two thi
 
 There are many other prompts that you can perform a GPT analysis on. For more information, please see our prompts database [here](https://github.com/rosewang2008/edu-convokit/tree/main/edu_convokit/prompts/).
 
-## Papers that have used the `edu-convokit`
+## Papers that have used the `Edu-ConvoKit`
 
-Please find [here](papers.md) a list of papers that have used the `edu-convokit`.
+Please find [here](papers.md) a list of papers that have used the `Edu-ConvoKit`.
 
-## Future Features
+## Future Extensions
 
 - Add GPT feature annotation
-- Flexible ways for users to load their own prompts without having it in the edu-convokit repo
+- Flexible ways for users to load their own prompts without having it in the Edu-ConvoKit repo
 - Connecting annotations/analysis to outcomes e.g., with regression methods 
 - Support transcription / diarization.
 
 ## Citation
 
-If you use the `edu-convokit` in your research, please cite the following paper:
+If you use the `Edu-ConvoKit` in your research, please cite the following paper:
 
 ```
 @article{wang2024educonvokit,
@@ -738,7 +750,7 @@ If you use the `edu-convokit` in your research, please cite the following paper:
 }
 ```
 
-If you would like to be added to the list of papers that have used the `edu-convokit`, please make a pull request or contact Rose E. Wang at rewang@cs.stanford.edu.
+If you would like to be added to the list of papers that have used the `Edu-ConvoKit`, please make a pull request or contact Rose E. Wang at rewang@cs.stanford.edu.
 
 [textcolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_text_preprocessing.ipynb
 [annotationcolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_annotation.ipynb
@@ -747,6 +759,11 @@ If you would like to be added to the list of papers that have used the `edu-conv
 [talkmovescolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_talkmoves.ipynb
 [nctecolab]: https://colab.research.google.com/github/rosewang2008/edu-convokit/blob/main/tutorials/tutorial_ncte.ipynb
 
+## Contributing
+
+We welcome contributions to the `Edu-ConvoKit`! 
+Please familiarize yourself with our [documentation](https://edu-convokit.readthedocs.io/en/latest/) and [tutorials](#tutorials) before contributing. 
+Once you are familiar with the library, feel free to make a pull request.
 
 ## Contact
 
