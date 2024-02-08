@@ -10,6 +10,8 @@ It provides a practical and efficient pipeline for essential tasks such as text 
 This toolkit aims to enhance the accessibility and reproducibility of educational language data analysis, as well as advance both natural language processing (NLP) and education research.
 By simplifying these key operations, the Edu-ConvoKit supports the efficient exploration and interpretation of text data in education.
 
+Our publication on Edu-ConvoKit can be found here: https://arxiv.org/pdf/2402.05111.pdf
+
 ## 📖 Table of Contents
 [**Installation**](#installation) | [**Tutorials**](#tutorials) | [**Example Usage**](#example-usage) | [**Documentation**](https://edu-convokit.readthedocs.io/en/latest/) | [**Papers with Edu-ConvoKit**](papers.md) | [**Citation**](#citation) | [**Future Extensions**](#future-features) | [**Contributing**]() | [**Contact**](#contact)
 
@@ -743,10 +745,13 @@ Please find [here](papers.md) a list of papers that have used the `Edu-ConvoKit`
 If you use the `Edu-ConvoKit` in your research, please cite the following paper:
 
 ```
-@article{wang2024educonvokit,
-  title={Edu-ConvoKit: An Open-Source Framework for Education Conversation Data},
-  author={Wang, Rose E and Demszky, Dorottya},
-  year={2024}
+@misc{wang2024educonvokit,
+      title={Edu-ConvoKit: An Open-Source Library for Education Conversation Data}, 
+      author={Rose E. Wang and Dorottya Demszky},
+      year={2024},
+      eprint={2402.05111},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
