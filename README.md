@@ -93,12 +93,12 @@ Here's an example of using `preprocess` to anonymize the dataset with known name
 
 ```python 
 
->> from edu_toolkit.preprocessors import TextPreprocessor
+>> from edu_convokit.preprocessors import TextPreprocessor
 # For helping us flexibly load data
->> from edu_toolkit import utils
+>> from edu_convokit import utils
 
 # First get the data
->> !wget "https://raw.githubusercontent.com/rosewang2008/edu-toolkit/master/data/talkmoves/Boats and Fish 2_Grade 4.xlsx"
+>> !wget "https://raw.githubusercontent.com/rosewang2008/edu-convokit/master/data/talkmoves/Boats and Fish 2_Grade 4.xlsx"
 >> data_fname = "Boats and Fish 2_Grade 4.xlsx"
 >> df = utils.load_data(data_fname) # Handles loading data from different file types including: .csv, .xlsx, .json
 
