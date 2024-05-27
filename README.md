@@ -736,6 +736,8 @@ Please find [here](papers.md) a list of papers that have used the `Edu-ConvoKit`
 
 ## Future Extensions
 
+- Print entire transcript with formatting option
+- Enable saving of examples as csv
 - Add GPT feature annotation
 - Flexible ways for users to load their own prompts without having it in the Edu-ConvoKit repo
 - Connecting annotations/analysis to outcomes e.g., with regression methods 
