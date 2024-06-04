@@ -748,13 +748,11 @@ Please find [here](papers.md) a list of papers that have used the `Edu-ConvoKit`
 If you use the `Edu-ConvoKit` in your research, please cite the following paper:
 
 ```
-@misc{wang2024educonvokit,
+@inproceedings{wang2024educonvokit,
       title={Edu-ConvoKit: An Open-Source Library for Education Conversation Data}, 
       author={Rose E. Wang and Dorottya Demszky},
-      year={2024},
-      eprint={2402.05111},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      booktitle={Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistic: System Demonstrations},
+      year={2024}
 }
 ```
 
