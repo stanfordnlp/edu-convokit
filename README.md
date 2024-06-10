@@ -737,6 +737,7 @@ Please find [here](papers.md) a list of papers that have used the `Edu-ConvoKit`
 ## Future Extensions
 
 - Print entire transcript with formatting option
+- Print text examples of top-k log odd words
 - Enable saving of examples as csv
 - Add GPT feature annotation
 - Flexible ways for users to load their own prompts without having it in the Edu-ConvoKit repo
