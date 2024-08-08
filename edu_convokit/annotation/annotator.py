@@ -324,7 +324,7 @@ class Annotator:
         )
 
     def _get_uptake_prediction(self, model, device, instance):
-        instance["attention_mask"] = [[1] * len(instance["input_ids"])]
+        instance["attention_mask"] = [1] * len(instance["input_ids"])
         for key in ["input_ids", "token_type_ids", "attention_mask"]:
             instance[key] = torch.tensor(instance[key]).unsqueeze(0)  # Batch size = 1
             instance[key] = instance[key].to(device)
