@@ -23,9 +23,9 @@ from edu_convokit.constants import (
     MATH_PREFIXES,
     MATH_WORDS,
     TEACHER_TALK_MOVES_HF_MODEL_NAME,
-    STUDENT_TALK_MOVES_HF_MODEL_NAME
+    STUDENT_TALK_MOVES_HF_MODEL_NAME,
+    TEACHER_LAUNCH_FEATURES_2_NL
 )
-
 
 class Annotator:
     """
@@ -250,6 +250,39 @@ class Annotator:
             speaker_column=speaker_column,
             speaker_value=speaker_value
         )
+    
+    def get_teacher_launch_features(
+            self,
+            df: pd.DataFrame,
+            text_column: str,
+            output_columns: List[str] = None,   
+            model_names: List[str] = None,
+            min_num_words: int = 0,
+            max_num_words: int = None,
+            speaker_column: str = None,
+            speaker_value: Union[str, List[str]] = None,
+    ) -> pd.DataFrame:
+        
+        if output_columns is not None and len(output_columns) != len(model_names):
+            raise ValueError("Output columns and model names must have the same length.")
+        
+        if output_columns is None and model_names is None:
+            # keys are the model names and values are the output columns
+            model_names = TEACHER_LAUNCH_FEATURES_2_NL.keys()
+            output_columns = TEACHER_LAUNCH_FEATURES_2_NL.values()
+
+        for model_name, output_column in zip(model_names, output_columns):
+            df = self._get_classification_predictions(
+                df=df,
+                text_column=text_column,
+                output_column=output_column,
+                model_name=model_name,
+                min_num_words=min_num_words,
+                max_num_words=max_num_words,
+                speaker_column=speaker_column,
+                speaker_value=speaker_value
+            )
+        return df
         
     def get_student_talk_moves(
             self, 
