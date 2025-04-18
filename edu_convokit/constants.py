@@ -374,3 +374,27 @@ STUDENT_TALK_MOVES_LABEL_2_NL = {
     3: "Making a Claim",
     4: "Providing Evidence or Reasoning"
 }
+
+# Teacher launch features 
+# Models: below
+# https://huggingface.co/stanford-nlpxed/confusion
+# https://huggingface.co/stanford-nlpxed/na_0.00001_0.9
+# https://huggingface.co/stanford-nlpxed/prior_knowledge
+# https://huggingface.co/stanford-nlpxed/norms
+# https://huggingface.co/stanford-nlpxed/feelings
+# https://huggingface.co/stanford-nlpxed/own_ideas
+# https://huggingface.co/stanford-nlpxed/solution
+# https://huggingface.co/stanford-nlpxed/elicits_background
+# https://huggingface.co/stanford-nlpxed/multimodal_materials
+# Paper: TBD, features adapted from https://www.jstor.org/stable/10.5951/jresematheduc.44.4.0646
+TEACHER_LAUNCH_FEATURES_2_NL = {
+    "stanford-nlpxed/confusion": "Confusion",
+    "stanford-nlpxed/prior_knowledge": "Prior Knowledge",
+    "stanford-nlpxed/norms": "Norms",
+    "stanford-nlpxed/feelings": "Feelings",
+    "stanford-nlpxed/own_ideas": "Own Ideas",
+    "stanford-nlpxed/solution": "Solution",
+    "stanford-nlpxed/elicits_background": "Elicits Background Knowledge",
+    "stanford-nlpxed/multimodal_materials": "Multimodal Materials",
+    "stanford-nlpxed/na_0.00001_0.9": "NA",
+}
